@@ -109,6 +109,9 @@
 		<child name="Test1" key="{2B3BC1FE-9F93-4041-825A-5DDEA0A16787}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="Test1.tcKDTest" />
 		</child>
+		<child name="CMTLogin_Test1" key="{FB9AB292-08F9-49E7-A8B9-813CA6873ED5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CMTLogin_Test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

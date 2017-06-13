@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{7DE5BDC4-36E6-47E1-94F8-E98F86A57EE4}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="42851.8026967593" objectName="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.panelBody.panelMain.panelMain.imageVideoPlayBtnPng" objectLeft="466" objectTop="531" objectRight="691" objectBottom="768" clickPointX="593" clickPointY="644" imageFileName="tcvi188379953120320.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="16" kind="0" dateTime="42851.8038657407" objectName="Aliases.browser.BrowserWindow" objectLeft="-11" objectTop="-11" objectRight="1931" objectBottom="1031" clickPointX="1875" clickPointY="20" imageFileName="tcvi18848140653680.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
