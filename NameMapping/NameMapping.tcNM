@@ -2402,7 +2402,25 @@
 																			</Child>
 																		</Children>
 																	</Child>
+																	<Child Name="linkSightWordsGr1" Key="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1775295304" Left="945" Top="314" Right="1027" Bottom="333" />
+																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
 																</Children>
+															</Child>
+															<Child Name="textnodeStudents21" Key="{D3F3E2C3-ACEF-47C7-8ECD-1A35F682275E}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="438825227" Left="1218" Top="309" Right="1293" Bottom="322" />
+																<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="TextNode" Type="5" />
+																	</Property>
+																</Properties>
 															</Child>
 														</Children>
 													</Child>
@@ -2664,6 +2682,29 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="cell2" Key="{67BC5D90-B3F0-4F90-9906-0C6B2D33229A}" ParallelWalk="True">
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Cell" Type="5" />
+															</Property>
+															<Property Name="RowIndex">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+															<Property Name="ColumnIndex">
+																<Value PropertyType="0" Value="3" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelSubjectTabSelected" Key="{711D4DF3-0B2B-40F8-99ED-B79E1B268D08}" ExtendedFind="True" ParallelWalk="True">
+																<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
 												</Children>
 											</Child>
 											<Child Name="textnodeSearch" Key="{6780AADE-69D1-4549-AE6D-4D9FB5DDC011}" ExtendedFind="True" ParallelWalk="True">
@@ -2868,6 +2909,17 @@
 																	</Property>
 																	<Property Name="ObjectIdentifier">
 																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="panelContactUs" Key="{95039411-57C5-4B65-9424-AA985ECB73AB}" ExtendedFind="True" ParallelWalk="True">
+																<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="3" Type="0" />
 																	</Property>
 																</Properties>
 															</Child>
@@ -4512,6 +4564,46 @@
 														<Children>
 															<Child Name="vgIcon" Key="{9AEE8FE0-D304-49C3-B3B7-A6D842D85970}" ParallelWalk="True">
 																<Image FileName="1354346482" Left="1311" Top="847" Right="1471" Bottom="912" />
+																<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="SVG" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="panelGeneratebut" Key="{9BE5B539-7302-425B-B377-B211F95D4D3C}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="generateBut" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="vgIcon" Key="{AA47E07E-85D1-450B-9FB5-152DED06A4EB}" ParallelWalk="True">
+																<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="SVG" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="panelPrintflashbut" Key="{A9F2E551-C6BC-4F88-B819-01F1084CA915}" ExtendedFind="True" ParallelWalk="True">
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="printFlashBut" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="vgIcon" Key="{7C0FC9B6-3C14-499F-8CEE-E778311CFF2C}" ParallelWalk="True">
 																<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
 																<Properties>
 																	<Property Name="ObjectType">
@@ -7513,7 +7605,9 @@
 									</Child>
 									<Child Name="panelModalInnerControl" Owner="{D0B43E10-A3A8-4F60-92A0-14BABB094774}" />
 								</Child>
+								<Child Name="linkSightWordsGr1" Owner="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" />
 							</Child>
+							<Child Name="textnodeStudents21" Owner="{D3F3E2C3-ACEF-47C7-8ECD-1A35F682275E}" />
 						</Child>
 						<Child Name="tableTblProfileTabform2" Owner="{35AD6C81-C106-4FBD-9ABC-A108F7279E34}">
 							<Child Name="textboxAddeditteacherformLastnam" Owner="{14532612-B9D6-4FF0-9920-C366677D2496}" />
@@ -7538,6 +7632,9 @@
 						<Child Name="buttonTest" Owner="{2A6109A0-86BB-4379-8B50-BA88487F6678}" />
 						<Child Name="cellNt" Owner="{C4A23C84-5DCD-4C38-AFE6-A12D6BBB825A}" />
 						<Child Name="buttonClose" Owner="{93B4D05A-6425-4DAC-BE74-D92562F24C27}" />
+						<Child Name="cell2" Owner="{67BC5D90-B3F0-4F90-9906-0C6B2D33229A}">
+							<Child Name="panelSubjectTabSelected" Owner="{711D4DF3-0B2B-40F8-99ED-B79E1B268D08}" />
+						</Child>
 					</Child>
 					<Child Name="textnodeSearch" Owner="{6780AADE-69D1-4549-AE6D-4D9FB5DDC011}" />
 					<Child Name="buttonClose" Owner="{6B61FAA0-F311-4296-A4B5-844379D5490C}" />
@@ -7562,6 +7659,7 @@
 						<Child Name="panel" Owner="{F40C7CA0-2940-4161-AE60-C26626B4FDFB}">
 							<Child Name="panelLogout" Owner="{362ED04A-72C5-44B6-8988-16248036A8C7}" />
 							<Child Name="panelHelp" Owner="{F846FAD6-9940-4922-BABC-13D4C3AC1E4B}" />
+							<Child Name="panelContactUs" Owner="{95039411-57C5-4B65-9424-AA985ECB73AB}" />
 						</Child>
 						<Child Name="panel2" Owner="{EE617DFB-4149-4EBE-80A6-63CC7ADABA3D}">
 							<Child Name="panelHome" Owner="{B935BFE8-30FA-4F24-AFE9-11BFDA84710A}" />
@@ -7750,6 +7848,12 @@
 						</Child>
 						<Child Name="panelPrintdisplaybut" Owner="{E6ED3DF0-FEA3-4E08-95A9-4A96F08CA6F5}">
 							<Child Name="vgIcon" Owner="{9AEE8FE0-D304-49C3-B3B7-A6D842D85970}" />
+						</Child>
+						<Child Name="panelGeneratebut" Owner="{9BE5B539-7302-425B-B377-B211F95D4D3C}">
+							<Child Name="vgIcon" Owner="{AA47E07E-85D1-450B-9FB5-152DED06A4EB}" />
+						</Child>
+						<Child Name="panelPrintflashbut" Owner="{A9F2E551-C6BC-4F88-B819-01F1084CA915}">
+							<Child Name="vgIcon" Owner="{7C0FC9B6-3C14-499F-8CEE-E778311CFF2C}" />
 						</Child>
 					</Child>
 				</Child>

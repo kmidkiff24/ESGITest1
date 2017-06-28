@@ -88,9 +88,6 @@
 		<child name="EditProfile_Test1" key="{59264C7A-7BF2-487F-8068-5F8F4688C092}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="EditProfile_Test1.tcKDTest" />
 		</child>
-		<child name="NumberofStudents_Test1" key="{E8CFBA87-8AC3-43D5-AD67-F5A0A814480F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="NumberofStudents_Test1.tcKDTest" />
-		</child>
 		<child name="ActivationCode_Test1" key="{9097CA7F-B122-4147-B665-827B4AE8F288}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="ActivationCode_Test1.tcKDTest" />
 		</child>
@@ -111,6 +108,9 @@
 		</child>
 		<child name="CMTLogin_Test1" key="{FB9AB292-08F9-49E7-A8B9-813CA6873ED5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CMTLogin_Test1.tcKDTest" />
+		</child>
+		<child name="NumberofStudents2_Test1" key="{33CB2E85-2421-443E-9FD8-C38035317999}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="NumberofStudents2_Test1.tcKDTest" />
 		</child>
 	</children>
 	<folders />
