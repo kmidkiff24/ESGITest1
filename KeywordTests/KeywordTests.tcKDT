@@ -112,6 +112,15 @@
 		<child name="NumberofStudents2_Test1" key="{33CB2E85-2421-443E-9FD8-C38035317999}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="NumberofStudents2_Test1.tcKDTest" />
 		</child>
+		<child name="GotoESGIfromCMT_Test1" key="{94CFAE74-737B-48B0-9BFD-E5242F047E75}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="GotoESGIfromCMT_Test1.tcKDTest" />
+		</child>
+		<child name="CMTSpecialCharacters_Test1" key="{57967195-08C9-4245-8FF5-5C28CB655181}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CMTSpecialCharacters_Test1.tcKDTest" />
+		</child>
+		<child name="CMTLargeNumber_Test1" key="{943DA2E8-CC72-4D90-865E-B9E64D9CEAA4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CMTLargeNumber_Test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
