@@ -121,6 +121,33 @@
 		<child name="CMTLargeNumber_Test1" key="{943DA2E8-CC72-4D90-865E-B9E64D9CEAA4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CMTLargeNumber_Test1.tcKDTest" />
 		</child>
+		<child name="AddSchool_Test1" key="{4EBA00AF-943D-49F6-B024-D7AA08A899A4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AddSchool_Test1.tcKDTest" />
+		</child>
+		<child name="StudentListChange_Test1" key="{F2D823A8-98A0-4DD7-9BF8-D77AE59A8ADC}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="StudentListChange_Test1.tcKDTest" />
+		</child>
+		<child name="ModifyTestQuestion_Test1" key="{E56AAB75-6FEF-4C1A-94BA-286A5DD6DBF4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ModifyTestQuestion_Test1.tcKDTest" />
+		</child>
+		<child name="ChangeAlotmentonActivationCode_Test1" key="{097BCAD6-CCCC-4798-91BE-CBCB0FA696E1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ChangeAlotmentonActivationCode_Test1.tcKDTest" />
+		</child>
+		<child name="SA_UsernameSearch_ChgExp_Test1" key="{F2E812F4-3D06-42D9-A67A-4ECC670F45BB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SA_UsernameSearch_ChgExp_Test1.tcKDTest" />
+		</child>
+		<child name="SA_UsernameSearch_ChgMxStd_Test1" key="{F81C521E-05B0-47B5-9327-2F17FAD37F33}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SA_UsernameSearch_ChgMxStd_Test1.tcKDTest" />
+		</child>
+		<child name="SA_AddDistrict_Test1" key="{310AD271-EF4E-4BC7-8E6A-A93094522CF0}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SA_AddDistrict_Test1.tcKDTest" />
+		</child>
+		<child name="SA_AddTeacher_Test1" key="{AA0B690E-CDCD-4C27-80E5-024196C22702}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SA_AddTeacher_Test1.tcKDTest" />
+		</child>
+		<child name="Test2" key="{1280563C-4904-47C0-81D0-734A7378FCF2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Test2.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

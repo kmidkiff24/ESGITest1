@@ -30,7 +30,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -47,7 +47,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.textboxUsername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.textboxUsername;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -55,7 +55,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="kerriesa" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.textboxUsername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.textboxUsername;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -63,7 +63,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.textboxUsername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.textboxUsername;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -71,7 +71,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Zoey1424" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -79,7 +79,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Enter]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -96,7 +96,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi5.panelLptopmenudiv.table.table.cellTabmenu2.panelHome;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.SASystemManagementArea.panelLptopmenudiv.table.table.cellTabmenu2.HomeTopMenu;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -337,7 +337,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="757" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="36" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.formAddeditclassform;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.AddtoClassForm;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -351,7 +351,7 @@
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait" InvokeKind="-1" Initialized="True">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -360,7 +360,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="46" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="13" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.panelLoginFormContainer.panelRow.labelUsername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.panelLoginFormContainer.panelRow.labelUsername;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -369,7 +369,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="37" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="11" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.textboxUsername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.textboxUsername;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -377,7 +377,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="automationteacher2" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.textboxUsername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.textboxUsername;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -385,7 +385,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.textboxUsername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.textboxUsername;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -393,7 +393,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="automation" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -401,7 +401,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Enter]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -410,7 +410,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="43" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="15" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.formAddeditclassform.buttonBackToPieCharts;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.AddtoClassForm.buttonBackToPieCharts;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -462,12 +462,12 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="1917" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="17" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.EdgeWindow;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait" InvokeKind="-1" Initialized="True">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1;" />
 				</Data>
 			</Operation>
 		</Children>

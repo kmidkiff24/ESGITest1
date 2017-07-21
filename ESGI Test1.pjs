@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{D0319EE4-6371-4ABD-AA11-4F3BF604F977}">
+	<children>
+		<child name="ESGI Test1" key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="ESGI Test1.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{CC4764DC-2E61-43FF-B57A-364A5A503E14}">
+		<children>
+			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{296C9EB3-4A1A-4FF7-B2AA-679ED0C07AAC}">
+		<data Version="3" />
+	</variables>
+	<analysis key="{86C12CAC-2948-4586-B023-3FFB722A1FC7}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+	<extender key="{1A3FC97E-9A66-4716-B166-35D10B4146E0}" />
+</Root>

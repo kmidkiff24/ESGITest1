@@ -4,6 +4,14 @@
 		<Data>
 			<Extenders>
 				<NodeBitmaps>
+					<Bitmap Name="Aliases.browser.FreeTrialRegistration" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.FreeTrialRegistration.panelMain" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.HomePage_Test1" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.HomePage_Test1.header" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.HomePage_Test1.header.panelNavbarCollapseNavMainCollap" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.HomePage_Test1.header.panelNavbarCollapseNavMainCollap.panelContainer" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
 					<Bitmap Name="Aliases.browser.pageEsgi4" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
 					<Bitmap Name="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
 					<Bitmap Name="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
@@ -34,7 +42,7 @@
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
 				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.imageEsgiHlogo" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.HomePage_Test1.header.imageEsgiHlogo" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="idStr" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
 						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="esgi-hlogo" />
@@ -56,7 +64,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelNavbarCollapseNavMainCollap.panelContainer.navNavMainMegaMenu.linkFreeTrial;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelNavbarCollapseNavMainCollap.panelContainer.navNavMainMegaMenu.linkFreeTrial;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -64,13 +72,13 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration;" />
 				</Data>
 			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
 				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.labelUserName" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.labelUserName" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
 						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="User Name" />
@@ -92,7 +100,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.textboxFirstName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.textboxFirstName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -100,7 +108,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Kerrie" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.textboxFirstName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.textboxFirstName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -108,7 +116,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.textboxFirstName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.textboxFirstName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -116,7 +124,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="![ReleaseLast]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup.panelColMd8.textboxLastName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup.panelColMd8.textboxLastName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -124,7 +132,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="M" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup.panelColMd8.textboxLastName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup.panelColMd8.textboxLastName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -132,7 +140,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup.panelColMd8.textboxLastName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup.panelColMd8.textboxLastName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -140,7 +148,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="gh" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup2.panelColMd8.textboxReferredBy;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup2.panelColMd8.textboxReferredBy;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -148,7 +156,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup2.panelColMd8.textboxReferredBy;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup2.panelColMd8.textboxReferredBy;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -156,7 +164,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="439857w" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup3.panelColMd8.textboxAddress1;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup3.panelColMd8.textboxAddress1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -164,7 +172,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup3.panelColMd8.textboxAddress1;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup3.panelColMd8.textboxAddress1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -172,7 +180,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup4.panelColMd8.textboxAddress2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup4.panelColMd8.textboxAddress2;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -180,7 +188,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.selectCountry;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.selectCountry;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -188,7 +196,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="California" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.selectStateRegion;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.selectStateRegion;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -196,7 +204,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Colorado" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.selectStateRegion;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.selectStateRegion;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -204,7 +212,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.selectStateRegion;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.selectStateRegion;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -212,7 +220,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Centennial" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup5.panelColMd8.textboxCity;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup5.panelColMd8.textboxCity;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -220,7 +228,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup5.panelColMd8.textboxCity;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup5.panelColMd8.textboxCity;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -228,7 +236,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="48364" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup6.panelColMd8.textboxZip;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup6.panelColMd8.textboxZip;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -236,7 +244,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup6.panelColMd8.textboxZip;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup6.panelColMd8.textboxZip;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -244,7 +252,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="test@esgisoftware.com" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup7.panelColMd8.textboxEmail;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup7.panelColMd8.textboxEmail;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -252,7 +260,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup7.panelColMd8.textboxEmail;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup7.panelColMd8.textboxEmail;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -260,7 +268,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="test@esgisoftware.com" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup8.panelColMd8.textboxConfirmEmail;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup8.panelColMd8.textboxConfirmEmail;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -268,7 +276,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup8.panelColMd8.textboxConfirmEmail;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelColMd6.panelFormGroup8.panelColMd8.textboxConfirmEmail;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -276,7 +284,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="automation8" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup.panelColMd7.textboxUserName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup.panelColMd7.textboxUserName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -284,7 +292,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup.panelColMd7.textboxUserName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup.panelColMd7.textboxUserName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -292,7 +300,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Zoey1424" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup2.panelColMd7.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup2.panelColMd7.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -300,7 +308,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup2.panelColMd7.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup2.panelColMd7.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -308,7 +316,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Zoey1424" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup3.panelColMd7.passwordboxCity;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.panelCredentialsBox.panelFormGroup3.panelColMd7.passwordboxCity;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -316,12 +324,12 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="True" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.checkboxIAcceptTheAgreement;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelAccountInfoPanel.panelRow.checkboxIAcceptTheAgreement;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.buttonNext;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.buttonNext;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -338,13 +346,13 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelFormGroup2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelFormGroup2;" />
 				</Data>
 			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
 				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelSchoolInfoPanel.panelFormGroup.labelDistrict" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelSchoolInfoPanel.panelFormGroup.labelDistrict" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
 						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="District" />
@@ -357,7 +365,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="CHERRY CREEK SCHOOL DISTRICT NO. 5 IN THE COUNTY OF ARAPAH" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.selectDistrict;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.selectDistrict;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -366,7 +374,7 @@
 						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="737" />
 						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="25" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.footer;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.footer;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -374,12 +382,12 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="CHERRY HILLS VILLAGE ELEMENTARY SCHOOL" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.selectSchool;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.selectSchool;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.formFormHorizontal.fieldset.panelFormGroup.panelColMd12.buttonFinish;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.formFormHorizontal.fieldset.panelFormGroup.panelColMd12.buttonFinish;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -404,7 +412,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.EdgeWindow;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -420,7 +428,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -428,7 +436,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="automation8" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.textboxUsername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.textboxUsername;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -445,7 +453,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -453,12 +461,12 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Zoey1424" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.header.panelLoginForm.panelLoginFormContainer.panelRow.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.panelBody.buttonLogin;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.HomePage_Test1.panelBody.buttonLogin;" />
 				</Data>
 			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
@@ -477,7 +485,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindowChrome;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -494,7 +502,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.EdgeWindow;" />
 				</Data>
 			</Operation>
 		</Children>
