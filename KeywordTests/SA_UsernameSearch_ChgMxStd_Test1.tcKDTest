@@ -53,7 +53,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="22" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="12" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.panelInnerframe.panelLpcenter.textboxSrusername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.ESGIInnerFrame.EditGroupPanel.SASearchUsernameTextbox;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -61,7 +61,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="kerrie1" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.panelInnerframe.panelLpcenter.textboxSrusername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.ESGIInnerFrame.EditGroupPanel.SASearchUsernameTextbox;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -69,7 +69,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Enter]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.panelInnerframe.panelLpcenter.textboxSrusername;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.ESGIInnerFrame.EditGroupPanel.SASearchUsernameTextbox;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -77,12 +77,12 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="[Enter]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.cellSortable.buttonGo;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.cellSortable.buttonGo;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.cell5.buttonProfile;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.EditTeacher_ExpDateBox.SAEditUserProfile;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -93,7 +93,7 @@
 						<Parameter Name="Param3" DefVarType="0" VarType="3" ValueType="1" ValueValue="-23" />
 						<Parameter Name="Param4" DefVarType="0" VarType="3" ValueType="1" ValueValue="210" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -102,7 +102,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="39" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="7" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.tableTblProfileTabform2.textboxAddeditteacherformStudent;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.CreateTeacherForm.CreateTeacherMaxStudents;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -110,7 +110,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="45" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.tableTblProfileTabform2.textboxAddeditteacherformStudent;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.CreateTeacherForm.CreateTeacherMaxStudents;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -119,7 +119,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="1255" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="542" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -128,12 +128,12 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="1255" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="542" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.buttonSubmit;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.CreateTeacher_SubmitButton;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -156,7 +156,7 @@
 						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="188" />
 						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="3" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.tableTblProfileTabform2.table;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.CreateTeacherForm.CreateTeacherLoginInfoBox;" />
 				</Data>
 			</Operation>
 		</Children>

@@ -84,7 +84,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.panelFadeContainer.linkSubjectName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.ESGILandingPagePanel.linkSubjectName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -101,7 +101,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.panelFadeContainer.linkSubjectName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.ESGILandingPagePanel.linkSubjectName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -110,7 +110,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="32" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="12" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.tableTblProfileTabform2.panelLpstudentslistboxesgleftite;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.CreateTeacherForm.EditGroupStudents;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -120,7 +120,7 @@
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="8" />
 						<Parameter Name="Param3" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="skCtrl" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.tableTblProfileTabform2.panelLpstudentslistboxesgleftite2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.CreateTeacherForm.EditGroupStudents2;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -130,7 +130,7 @@
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="5" />
 						<Parameter Name="Param3" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="skCtrl" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.AddtoClassForm.CreateStudentForm.tableWithoutlines.StudentNamesinEditGroup;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.CreateClass.CreateStudentForm.CreateStudentTable.StudentNamesinEditGroup;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -140,7 +140,7 @@
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="15" />
 						<Parameter Name="Param3" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="skCtrl" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.tableTblProfileTabform2.panelLpstudentslistboxesgleftite3;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.CreateTeacherForm.EditGroupStudents3;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -150,7 +150,7 @@
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="5" />
 						<Parameter Name="Param3" DefVarType="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="skCtrl" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.modalPleaseConfirmYourTimeZone.table.tableTblProfileTabform2.panelLpstudentslistboxesgleftite4;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.table.CreateTeacherForm.EditGroupStudents4;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -159,7 +159,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="6" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="4" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.AddtoClassForm.CreateStudentForm.tableWithoutlines.EditGroupStudents;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.CreateClass.CreateStudentForm.CreateStudentTable.EditGroupStudentsMoveButtons;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -168,12 +168,12 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="6" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="4" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.AddtoClassForm.CreateStudentForm.tableWithoutlines.EditGroupStudents;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.CreateClass.CreateStudentForm.CreateStudentTable.EditGroupStudentsMoveButtons;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton" InvokeKind="-1" Initialized="True">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.AddtoClassForm.CreateGroupButtonSave;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.CreateClass.CreateGroupButtonSave;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -182,13 +182,13 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="936" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="553" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
 				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgi4.panelFadeContainer.textnodeLostPassword" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.ESGILandingPage_Test1.ESGILandingPagePanel.textnodeLostPassword" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
 						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="James Arthur" />
@@ -202,7 +202,7 @@
 						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="58" />
 						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="15" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi4.panelNavigation.panelTopMenu.panel.panelLogout;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.panelNavigation.panelTopMenu.panel.panelLogout;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
