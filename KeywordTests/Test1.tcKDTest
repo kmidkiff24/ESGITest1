@@ -75,7 +75,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.textboxFirstName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.textboxFirstName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -83,7 +83,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="K" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.textboxFirstName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.textboxFirstName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -91,7 +91,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.textboxFirstName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.textboxFirstName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -99,7 +99,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="M" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.LastNameTextbox.LastNameTextbox.textboxLastName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.LastNameTextbox.LastNameTextbox.textboxLastName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -107,7 +107,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.LastNameTextbox.LastNameTextbox.textboxLastName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.LastNameTextbox.LastNameTextbox.textboxLastName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -115,7 +115,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="sgh" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ReferredByTextbox.ReferredByTextbox.textboxReferredBy;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ReferredByTextbox.ReferredByTextbox.textboxReferredBy;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -123,7 +123,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ReferredByTextbox.ReferredByTextbox.textboxReferredBy;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ReferredByTextbox.ReferredByTextbox.textboxReferredBy;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -131,7 +131,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="iuhfg" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.Address1TextBox.Address1TextBox.textboxAddress1;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.Address1TextBox.Address1TextBox.textboxAddress1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -139,7 +139,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.Address1TextBox.Address1TextBox.textboxAddress1;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.Address1TextBox.Address1TextBox.textboxAddress1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -147,7 +147,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.Address2Textbox.Address2Textbox.textboxAddress2;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.Address2Textbox.Address2Textbox.textboxAddress2;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -155,7 +155,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.CountryDropdown;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.CountryDropdown;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -163,7 +163,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Tennessee" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.StateRegionDropdown;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.StateRegionDropdown;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -171,7 +171,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.StateRegionDropdown;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.StateRegionDropdown;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -179,7 +179,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="iwesguh" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.CityTextbox.CityTextbox.textboxCity;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.CityTextbox.CityTextbox.textboxCity;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -187,7 +187,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.CityTextbox.CityTextbox.textboxCity;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.CityTextbox.CityTextbox.textboxCity;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -195,7 +195,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="3427598" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ZipcodeTextbox.ZipcodeTextbox.textboxZip;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ZipcodeTextbox.ZipcodeTextbox.textboxZip;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -203,7 +203,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ZipcodeTextbox.ZipcodeTextbox.textboxZip;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ZipcodeTextbox.ZipcodeTextbox.textboxZip;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -211,7 +211,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="test@esgisoftware.com" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.EmailTextBox.EmailTextBox.textboxEmail;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.EmailTextBox.EmailTextBox.textboxEmail;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -219,7 +219,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.EmailTextBox.EmailTextBox.textboxEmail;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.EmailTextBox.EmailTextBox.textboxEmail;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -227,7 +227,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="test@esgisoftware.com" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ConfirmEmailTextbox.ConfirmEmailTextbox.textboxConfirmEmail;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ConfirmEmailTextbox.ConfirmEmailTextbox.textboxConfirmEmail;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -235,7 +235,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ConfirmEmailTextbox.ConfirmEmailTextbox.textboxConfirmEmail;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1LeftColumn.ConfirmEmailTextbox.ConfirmEmailTextbox.textboxConfirmEmail;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -243,7 +243,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="automation11" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.UsernameTextbox.UsernameTextbox.textboxUserName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.UsernameTextbox.UsernameTextbox.textboxUserName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -251,7 +251,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.UsernameTextbox.UsernameTextbox.textboxUserName;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.UsernameTextbox.UsernameTextbox.textboxUserName;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -259,7 +259,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="![ReleaseLast]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.PasswordTextbox.PasswordTextbox.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.PasswordTextbox.PasswordTextbox.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -267,7 +267,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="automation" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.PasswordTextbox.PasswordTextbox.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.PasswordTextbox.PasswordTextbox.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -275,7 +275,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.PasswordTextbox.PasswordTextbox.passwordboxPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.PasswordTextbox.PasswordTextbox.passwordboxPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -283,7 +283,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="automation" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.ConfirmPasswordTextbox.ConfirmPasswordTextbox.passwordboxConfirmPassword;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.Step1RightColumnCredentials.ConfirmPasswordTextbox.ConfirmPasswordTextbox.passwordboxConfirmPassword;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -291,12 +291,12 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Checked" DefVarType="11" VarType="11" ValueType="7" ValueValue="True" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.checkboxIAcceptTheAgreement;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistationInnerPanel.RegistationInnerPanel.checkboxIAcceptTheAgreement;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.buttonNext;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.buttonNext;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -304,7 +304,7 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="BRADLEY COUNTY" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.selectDistrict;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.selectDistrict;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -321,12 +321,12 @@
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
 						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="BLACK FOX ELEMENTARY SCHOOL" />
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.selectSchool;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.selectSchool;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.panelMain.RegistrationPanel.RegistrationBox.RegistrationStep1Buttons.RegistrationStep1ButtonsPanel.RegistrationStep2FinishButton;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.FreeTrialRegistration.FreeTrialRegistrationMainPanel.RegistrationPanel.RegistrationBox.RegistrationStep1Buttons.RegistrationStep1ButtonsPanel.RegistrationStep2FinishButton;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -381,7 +381,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.panelNavigation.panelTopMenu.panel.panelLogout;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.panelNavigation.panelTopMenu.MenuFirstRow.LogoutLink;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
