@@ -148,6 +148,15 @@
 		<child name="Test2" key="{1280563C-4904-47C0-81D0-734A7378FCF2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="Test2.tcKDTest" />
 		</child>
+		<child name="ModifySchool_Test1" key="{A71FDB48-A79B-4B8C-87D8-4F44B16CF9D1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ModifySchool_Test1.tcKDTest" />
+		</child>
+		<child name="DeleteSchool_Test1" key="{74F8FFDD-BA1C-4D1E-9BE2-B253E31BFDCB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="DeleteSchool_Test1.tcKDTest" />
+		</child>
+		<child name="CreateATest_Test1" key="{40341B40-D4C5-4D0F-BC9B-0BB6A7A5DD4E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CreateATest_Test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
