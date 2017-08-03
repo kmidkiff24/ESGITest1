@@ -6904,6 +6904,18 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="passwordboxPassword" Key="{080BCBB8-D382-4BDC-BAB8-81CAF3C4404A}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1792036131" Left="1299" Top="101" Right="1405" Bottom="117" />
+																<TypeInfo Item0="{01C38DFC-2C4F-48BB-AB68-C50A02A57BFE}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="PasswordBox" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="password" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 													<Child Name="LoginFormtextboxUsername_prod" Key="{4647A391-61D7-46C0-934E-C172939582E5}" ExtendedFind="True" ParallelWalk="True">
@@ -7270,6 +7282,147 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageClassManagementTool" Key="{5DF9F71D-A4ED-4968-A7A5-EEB938508B4C}" ParallelWalk="True">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://cmttest1.classmt.com/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkStudentInfo6" Key="{7E6328C0-6510-4BA2-8D70-8B59B37617FD}" ExtendedFind="True" ParallelWalk="True">
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Student Info (6)" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="panelRightbottomcontainer" Key="{9EF7CA19-6B78-4189-B45B-3EA00F657916}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="20272401" Left="-964" Top="276" Right="1621" Bottom="1015" />
+										<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="rightBottomContainer" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelRecordsrow" Key="{F4D42E3F-4E9B-4E9E-8CF1-20E4EFD584F2}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-95857429" Left="1437" Top="276" Right="1583" Bottom="1014" />
+												<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="16" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelRecordcell" Key="{2E7DD348-A414-4379-B74A-CD68E3D6B6EE}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="855480985" Left="1437" Top="276" Right="1582" Bottom="302" />
+														<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="textbox" Key="{ACCC48AD-2219-4062-8B93-621E980F878B}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="855480985" Left="1437" Top="277" Right="1582" Bottom="303" />
+																<TypeInfo Item0="{01C38DFC-2C4F-48BB-AB68-C50A02A57BFE}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="linkProfile16" Key="{7EF3C8A9-611A-4AD2-824C-82350FB81357}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1628788387" Left="20" Top="119" Right="138" Bottom="161" />
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Profile (16)" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="panelNumber" Key="{D994B070-5B71-4DF1-99D7-017BBF735D6D}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="title">
+												<Value PropertyType="0" Value="Number" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelBreakWords" Key="{202C6565-7E1E-4ABE-8067-E74746E574ED}" ExtendedFind="True" ParallelWalk="True">
+												<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelState" Key="{6A69C72C-B223-4F4F-A840-F5B4160F93CF}" ExtendedFind="True" ParallelWalk="True">
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="title">
+												<Value PropertyType="0" Value="State" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelBreakWords" Key="{6DFCA84E-7F08-49CB-A97A-82AFCFE29044}" ExtendedFind="True" ParallelWalk="True">
+												<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="linkProfile17" Key="{AB9C8E76-B9F5-4A92-9DA9-CD89713986B5}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-2012238008" Left="22" Top="121" Right="136" Bottom="159" />
+										<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="href">
+												<Value PropertyType="0" Value="https://cmttest1.classmt.com/#" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Profile (17)" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -7555,6 +7708,7 @@
 							<Child Name="LoginFormContainer_Prod" Owner="{9616C1CA-91C6-4CDD-8A07-F4C4EC40AD57}">
 								<Child Name="LoginFormRow_Prod" Owner="{AF6CFEA7-DB9D-43C3-B725-F0975D937378}">
 									<Child Name="buttonLogin" Owner="{F422B797-469B-44DA-98F9-F566CE57C94E}" />
+									<Child Name="passwordboxPassword" Owner="{080BCBB8-D382-4BDC-BAB8-81CAF3C4404A}" />
 								</Child>
 							</Child>
 						</Child>
@@ -8161,6 +8315,24 @@
 				<Child Name="panelDynobject12" Owner="{E2A26FF2-F786-47BE-8CEA-D11A22DD180E}">
 					<Child Name="imageElimg0" Owner="{5C1FAF68-4F30-4EB4-90E2-BE5A69E85820}" />
 				</Child>
+			</Child>
+			<Child Name="pageClassManagementTool" Owner="{5DF9F71D-A4ED-4968-A7A5-EEB938508B4C}">
+				<Child Name="linkStudentInfo6" Owner="{7E6328C0-6510-4BA2-8D70-8B59B37617FD}" />
+				<Child Name="panelRightbottomcontainer" Owner="{9EF7CA19-6B78-4189-B45B-3EA00F657916}">
+					<Child Name="panelRecordsrow" Owner="{F4D42E3F-4E9B-4E9E-8CF1-20E4EFD584F2}">
+						<Child Name="panelRecordcell" Owner="{2E7DD348-A414-4379-B74A-CD68E3D6B6EE}">
+							<Child Name="textbox" Owner="{ACCC48AD-2219-4062-8B93-621E980F878B}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="linkProfile16" Owner="{7EF3C8A9-611A-4AD2-824C-82350FB81357}" />
+				<Child Name="panelNumber" Owner="{D994B070-5B71-4DF1-99D7-017BBF735D6D}">
+					<Child Name="panelBreakWords" Owner="{202C6565-7E1E-4ABE-8067-E74746E574ED}" />
+				</Child>
+				<Child Name="panelState" Owner="{6A69C72C-B223-4F4F-A840-F5B4160F93CF}">
+					<Child Name="panelBreakWords" Owner="{6DFCA84E-7F08-49CB-A97A-82AFCFE29044}" />
+				</Child>
+				<Child Name="linkProfile17" Owner="{AB9C8E76-B9F5-4A92-9DA9-CD89713986B5}" />
 			</Child>
 		</Child>
 		<Child Name="explorer" Owner="{5E5E8360-847C-4268-BC74-6AC46788740E}" />
