@@ -4,11 +4,19 @@
 		<child name="ESGI Test1" key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ESGI Test1.mds" />
 		</child>
+		<child name="ESGI Test1_Logins" key="{A2C1DBFF-D684-460B-98A7-47ACEFBB7F18}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="ESGI Test1_Logins\ESGI Test1_Logins.mds" />
+		</child>
+		<child name="CMTTest1" key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="CMTTest1_\CMTTest1.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{CC4764DC-2E61-43FF-B57A-364A5A503E14}">
 		<children>
 			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{A2C1DBFF-D684-460B-98A7-47ACEFBB7F18}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{296C9EB3-4A1A-4FF7-B2AA-679ED0C07AAC}">
