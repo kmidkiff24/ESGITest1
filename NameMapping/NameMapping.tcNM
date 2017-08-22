@@ -4019,6 +4019,20 @@
 														<Value PropertyType="0" Value="2" Type="0" />
 													</Property>
 												</Properties>
+												<Children>
+													<Child Name="panelTestResultsBox" Key="{B255BC9F-22BD-4463-BBCA-A6C546C15E85}" ParallelWalk="True">
+														<Image FileName="-274165811" Left="752" Top="784" Right="991" Bottom="958" />
+														<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
 											</Child>
 											<Child Name="TestExplorerbuttonCloseWithoutSaving" Key="{723F4DB9-578F-4288-85AF-C71245E31034}" ExtendedFind="True" ParallelWalk="True">
 												<Image FileName="-1506302877" Left="975" Top="294" Right="1121" Bottom="324" />
@@ -8578,7 +8592,9 @@
 													</Child>
 												</Child>
 											</Child>
-											<Child Name="AddDistrict_PencilIcon" Owner="{3D7E350F-5428-4247-A872-584FCBE6EED1}" />
+											<Child Name="AddDistrict_PencilIcon" Owner="{3D7E350F-5428-4247-A872-584FCBE6EED1}">
+												<Child Name="panelTestResultsBox" Owner="{B255BC9F-22BD-4463-BBCA-A6C546C15E85}" />
+											</Child>
 											<Child Name="TestExplorerbuttonCloseWithoutSaving" Owner="{723F4DB9-578F-4288-85AF-C71245E31034}" />
 										</Child>
 									</Child>

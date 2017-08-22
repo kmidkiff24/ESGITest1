@@ -60,15 +60,15 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="RunTest" key="{50C46B18-F862-4C04-B411-5F3BBF41B824}" group="False" enabled="True" testMoniker="KDT\{F4405E8E-7A3B-41C3-8257-AAA30925C3BD}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="RunTest" key="{50C46B18-F862-4C04-B411-5F3BBF41B824}" group="False" enabled="False" testMoniker="KDT\{F4405E8E-7A3B-41C3-8257-AAA30925C3BD}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ModifyStudent" key="{BF449E74-E436-4027-B5DF-A7D2B0568468}" group="False" enabled="True" testMoniker="KDT\{08C00944-FCAD-49AA-A1E1-A3180A7D9BCD}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ModifyStudent" key="{BF449E74-E436-4027-B5DF-A7D2B0568468}" group="False" enabled="False" testMoniker="KDT\{08C00944-FCAD-49AA-A1E1-A3180A7D9BCD}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="DeleteStudent" key="{A47797E7-3C0B-4587-B2D8-96B817BE7FE4}" group="False" enabled="True" testMoniker="KDT\{564052D0-90AE-4608-8AD5-00AC74CA107F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="DeleteStudent" key="{A47797E7-3C0B-4587-B2D8-96B817BE7FE4}" group="False" enabled="False" testMoniker="KDT\{564052D0-90AE-4608-8AD5-00AC74CA107F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -96,15 +96,15 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="DACreatedUser" key="{A100FEA3-5695-4440-B817-CF999DF1CAA4}" group="False" enabled="True" testMoniker="KDT\{E71574BD-013B-4696-91A4-F92977203089}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="DACreatedUser" key="{A100FEA3-5695-4440-B817-CF999DF1CAA4}" group="False" enabled="False" testMoniker="KDT\{E71574BD-013B-4696-91A4-F92977203089}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="SACreatedUser" key="{873026DF-26DE-4914-9AED-5223383EDB18}" group="False" enabled="True" testMoniker="KDT\{62C3671A-80E8-4C4F-BF30-00EC3ABFA2FB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="SACreatedUser" key="{873026DF-26DE-4914-9AED-5223383EDB18}" group="False" enabled="False" testMoniker="KDT\{62C3671A-80E8-4C4F-BF30-00EC3ABFA2FB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem1" key="{CDCB8324-9727-4A26-9BCC-588EC88AD850}" group="False" enabled="True" testMoniker="KDT\{310AD271-EF4E-4BC7-8E6A-A93094522CF0}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem1" key="{CDCB8324-9727-4A26-9BCC-588EC88AD850}" group="False" enabled="False" testMoniker="KDT\{310AD271-EF4E-4BC7-8E6A-A93094522CF0}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -112,31 +112,27 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem3" key="{35399E6C-7358-4D74-95C4-D9DADFEF9A19}" group="False" enabled="True" testMoniker="KDT\{DC9625D8-8832-45E0-B81F-F3EDC53CD41F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem3" key="{35399E6C-7358-4D74-95C4-D9DADFEF9A19}" group="False" enabled="False" testMoniker="KDT\{DC9625D8-8832-45E0-B81F-F3EDC53CD41F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem4" key="{D4530FB5-D451-4D9C-BF3A-DF469A496A7C}" group="False" enabled="True" testMoniker="KDT\{67D1BBE7-A121-4121-8167-6B44ED7EF178}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem4" key="{D4530FB5-D451-4D9C-BF3A-DF469A496A7C}" group="False" enabled="False" testMoniker="KDT\{67D1BBE7-A121-4121-8167-6B44ED7EF178}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem5" key="{7834A65D-2BFA-4442-B466-ECDE8B2BDE11}" group="False" enabled="True" testMoniker="KDT\{5B41889A-8DE8-4FC4-9874-A7CC5FE53552}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem5" key="{7834A65D-2BFA-4442-B466-ECDE8B2BDE11}" group="False" enabled="False" testMoniker="KDT\{5B41889A-8DE8-4FC4-9874-A7CC5FE53552}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem6" key="{5148D730-25D1-4756-873C-6430C564862B}" group="False" enabled="True" testMoniker="KDT\{09ED7C9E-86F1-452F-AC83-BC09CD6F83EB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem6" key="{5148D730-25D1-4756-873C-6430C564862B}" group="False" enabled="False" testMoniker="KDT\{09ED7C9E-86F1-452F-AC83-BC09CD6F83EB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem7" key="{E05415C5-3848-4150-8F94-A060F5D54107}" group="False" enabled="True" testMoniker="KDT\{9878E018-3348-4247-9B16-D10F1497F978}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem7" key="{E05415C5-3848-4150-8F94-A060F5D54107}" group="False" enabled="False" testMoniker="KDT\{9878E018-3348-4247-9B16-D10F1497F978}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem8" key="{5A2EBAE8-0E82-4A46-AFD8-F818422161F2}" group="False" enabled="True" testMoniker="KDT\{3CBDA921-F917-4FC2-9945-B8A47B6F38AE}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem9" key="{C6E6279E-6FC9-4D18-92FC-B2D64FD07DD7}" group="False" enabled="True" testMoniker="KDT\{92D90426-7DA4-4C0F-A5E9-A316A58A3BC4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem8" key="{5A2EBAE8-0E82-4A46-AFD8-F818422161F2}" group="False" enabled="False" testMoniker="KDT\{3CBDA921-F917-4FC2-9945-B8A47B6F38AE}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -144,7 +140,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem11" key="{1412DA98-0D29-47ED-89E8-317002112AF9}" group="False" enabled="True" testMoniker="KDT\{68112113-26DC-4B83-9A75-C519AE724191}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem11" key="{1412DA98-0D29-47ED-89E8-317002112AF9}" group="False" enabled="False" testMoniker="KDT\{68112113-26DC-4B83-9A75-C519AE724191}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -152,7 +148,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem13" key="{7313B8BD-5A15-4759-8DA5-8E3DB2924EBE}" group="False" enabled="True" testMoniker="KDT\{9097CA7F-B122-4147-B665-827B4AE8F288}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem13" key="{7313B8BD-5A15-4759-8DA5-8E3DB2924EBE}" group="False" enabled="False" testMoniker="KDT\{9097CA7F-B122-4147-B665-827B4AE8F288}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -160,7 +156,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem15" key="{51CA4849-9082-4F01-AD7A-A022CD220C62}" group="False" enabled="True" testMoniker="KDT\{1BE9B9F7-D261-4854-ACB9-F290EF6ABEA2}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem15" key="{51CA4849-9082-4F01-AD7A-A022CD220C62}" group="False" enabled="False" testMoniker="KDT\{1BE9B9F7-D261-4854-ACB9-F290EF6ABEA2}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -172,7 +168,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem18" key="{1584E2BE-03F6-451C-9F57-9F8A6AF35478}" group="False" enabled="True" testMoniker="KDT\{57967195-08C9-4245-8FF5-5C28CB655181}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem18" key="{1584E2BE-03F6-451C-9F57-9F8A6AF35478}" group="False" enabled="False" testMoniker="KDT\{57967195-08C9-4245-8FF5-5C28CB655181}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -180,15 +176,15 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem20" key="{7E20AEF2-C99D-4AF7-BCCB-D765AB93A687}" group="False" enabled="True" testMoniker="KDT\{943DA2E8-CC72-4D90-865E-B9E64D9CEAA4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem20" key="{7E20AEF2-C99D-4AF7-BCCB-D765AB93A687}" group="False" enabled="False" testMoniker="KDT\{943DA2E8-CC72-4D90-865E-B9E64D9CEAA4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem21" key="{2BB8E842-717D-43FA-897B-2B790488AC82}" group="False" enabled="True" testMoniker="KDT\{F2D823A8-98A0-4DD7-9BF8-D77AE59A8ADC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem21" key="{2BB8E842-717D-43FA-897B-2B790488AC82}" group="False" enabled="False" testMoniker="KDT\{F2D823A8-98A0-4DD7-9BF8-D77AE59A8ADC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem22" key="{DE853826-6D99-4121-BF79-65D9056570D0}" group="False" enabled="True" testMoniker="KDT\{4EBA00AF-943D-49F6-B024-D7AA08A899A4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem22" key="{DE853826-6D99-4121-BF79-65D9056570D0}" group="False" enabled="False" testMoniker="KDT\{4EBA00AF-943D-49F6-B024-D7AA08A899A4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -196,7 +192,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem24" key="{D1CD1FF5-E52C-467C-BB9A-2EEB840BA16A}" group="False" enabled="True" testMoniker="KDT\{F2E812F4-3D06-42D9-A67A-4ECC670F45BB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem24" key="{D1CD1FF5-E52C-467C-BB9A-2EEB840BA16A}" group="False" enabled="False" testMoniker="KDT\{F2E812F4-3D06-42D9-A67A-4ECC670F45BB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -205,6 +201,38 @@
 				<children />
 			</testItem>
 			<testItem name="ProjectTestItem26" key="{B47AFA70-51F1-4A30-B408-D59EA6C38FF8}" group="False" enabled="True" testMoniker="KDT\{AA0B690E-CDCD-4C27-80E5-024196C22702}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem27" key="{EFA4E02F-6113-4743-85A4-DF083FD722C5}" group="False" enabled="False" testMoniker="KDT\{96B945B7-8ECF-492F-99A4-44BD97492F41}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem28" key="{9E52BC46-2702-42CF-AEB5-4FB7E05CB4D2}" group="False" enabled="False" testMoniker="KDT\{71E19E14-A41F-41CE-B867-EEE5739B0761}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem29" key="{9987F154-02F9-4B2A-9593-1319CBC4C1A6}" group="False" enabled="True" testMoniker="KDT\{40341B40-D4C5-4D0F-BC9B-0BB6A7A5DD4E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem31" key="{F452D55A-B19A-422B-9D50-7F0946319E41}" group="False" enabled="False" testMoniker="KDT\{A71FDB48-A79B-4B8C-87D8-4F44B16CF9D1}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem30" key="{03AB46B2-FB43-4474-9885-7024DD74F9C5}" group="False" enabled="False" testMoniker="KDT\{74F8FFDD-BA1C-4D1E-9BE2-B253E31BFDCB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem9" key="{DA1C16D4-82B6-4400-8C4D-420D9880D4DB}" group="False" enabled="True" testMoniker="KDT\{F1370B8F-84F7-4D36-BA85-A87B57653329}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem32" key="{ABEA7BC8-92D9-42E7-A888-2F75CE7C5F15}" group="False" enabled="True" testMoniker="KDT\{2E5790A7-BF8F-4A05-AA13-38669A07928B}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem33" key="{4CBEE344-6658-4A90-8949-8645BDE27899}" group="False" enabled="True" testMoniker="KDT\{B7216F84-2BC8-45A1-A5CD-DB8C2243A2A5}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -253,7 +281,7 @@
 		<setting name="{A4D0B1B0-14DA-4AFA-8AFC-E82D0400E7E9}" type="1" value="True" />
 		<setting name="{542B9FA0-35EA-4C4D-BF0B-661005CB94E9}" type="2" value="60000" />
 		<setting name="CountProcessesOfAllUsers" type="1" value="True" />
-		<setting name="{949057FA-CBDC-4A23-BB7F-9A25DCAE8729}" type="6" rowIndex="1" colIndex="0">
+		<setting name="{949057FA-CBDC-4A23-BB7F-9A25DCAE8729}" type="6" rowIndex="0" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
 			</columns>
@@ -505,7 +533,7 @@
 		<setting name="{E5242A20-9B70-4540-AEFD-7012791D3284}" type="1" value="True" />
 		<setting name="{D80391D4-892F-4CEC-865E-B7FACB3FAC84}" type="2" value="10" />
 		<setting name="MouseMovementDelay" type="2" value="0" />
-		<setting name="{A383BA1A-68CF-40AE-9FCD-B3E554E9ADD7}" type="6" rowIndex="1" colIndex="0">
+		<setting name="{A383BA1A-68CF-40AE-9FCD-B3E554E9ADD7}" type="6" rowIndex="0" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
 			</columns>

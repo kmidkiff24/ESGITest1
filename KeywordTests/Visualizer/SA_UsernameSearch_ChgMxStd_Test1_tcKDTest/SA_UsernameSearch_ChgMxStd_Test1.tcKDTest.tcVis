@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
-	<data key="{F81C521E-05B0-47B5-9327-2F17FAD37F33}">
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="42962.7347916667" objectName="Aliases.browser.SASystemManagementArea.textboxSrusername" objectLeft="1009" objectTop="471" objectRight="1384" objectBottom="514" clickPointX="1919" clickPointY="-1" imageFileName="tcvi35220021887802.png" storageFileName="" needUpdate="False" rectColor="255" />
-		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="8" kind="0" dateTime="42962.7347916667" objectName="Aliases.browser.SASystemManagementArea.buttonGo" objectLeft="953" objectTop="359" objectRight="1018" objectBottom="403" clickPointX="1919" clickPointY="-1" imageFileName="tcvi35220035987803.png" storageFileName="" needUpdate="False" rectColor="255" />
-	</data>
+	<data key="{F81C521E-05B0-47B5-9327-2F17FAD37F33}" />
 </Root>

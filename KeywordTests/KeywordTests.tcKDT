@@ -157,6 +157,24 @@
 		<child name="CreateATest_Test1" key="{40341B40-D4C5-4D0F-BC9B-0BB6A7A5DD4E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CreateATest_Test1.tcKDTest" />
 		</child>
+		<child name="SACreateSchA_Test1" key="{96B945B7-8ECF-492F-99A4-44BD97492F41}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SACreateSchA_Test1.tcKDTest" />
+		</child>
+		<child name="SACreateDA_Test1" key="{71E19E14-A41F-41CE-B867-EEE5739B0761}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SACreateDA_Test1.tcKDTest" />
+		</child>
+		<child name="AddGreySubjectTab" key="{7BEEB9E6-5700-47E0-A571-01899942890F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AddGreySubjectTab.tcKDTest" />
+		</child>
+		<child name="NewCMTHomePageImage" key="{B7216F84-2BC8-45A1-A5CD-DB8C2243A2A5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="NewCMTHomePageImage.tcKDTest" />
+		</child>
+		<child name="CMTSaveandAddAnother" key="{2E5790A7-BF8F-4A05-AA13-38669A07928B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CMTSaveandAddAnother.tcKDTest" />
+		</child>
+		<child name="PieChartLocations" key="{F1370B8F-84F7-4D36-BA85-A87B57653329}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PieChartLocations.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
