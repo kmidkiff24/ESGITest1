@@ -4,15 +4,6 @@
 		<child name="NewAccount_FreeTrial_Test1" key="{DA5C2886-A812-4642-B4FD-04C90262BD55}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="NewAccount_FreeTrial_Test1.tcKDTest" />
 		</child>
-		<child name="TeacherLogin_Test1" key="{D129AF51-E222-4703-BCCE-F2AC8371FCF8}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="TeacherLogin_Test1.tcKDTest" />
-		</child>
-		<child name="SALogin_Test1" key="{269324BE-1DF1-4342-85FB-E7F1D5AE3545}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="SALogin_Test1.tcKDTest" />
-		</child>
-		<child name="AdminLogin_Test1" key="{74BBD075-9556-48D0-B3D1-35C9A94A5B97}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AdminLogin_Test1.tcKDTest" />
-		</child>
 		<child name="AddClass_Test1" key="{F2380DD2-D164-44D7-9AC2-AC4EA3F23620}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AddClass_Test1.tcKDTest" />
 		</child>
@@ -105,9 +96,6 @@
 		</child>
 		<child name="Test1" key="{2B3BC1FE-9F93-4041-825A-5DDEA0A16787}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="Test1.tcKDTest" />
-		</child>
-		<child name="CMTLogin_Test1" key="{FB9AB292-08F9-49E7-A8B9-813CA6873ED5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="CMTLogin_Test1.tcKDTest" />
 		</child>
 		<child name="NumberofStudents2_Test1" key="{33CB2E85-2421-443E-9FD8-C38035317999}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="NumberofStudents2_Test1.tcKDTest" />
