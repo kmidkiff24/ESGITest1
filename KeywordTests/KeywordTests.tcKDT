@@ -103,12 +103,6 @@
 		<child name="GotoESGIfromCMT_Test1" key="{94CFAE74-737B-48B0-9BFD-E5242F047E75}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="GotoESGIfromCMT_Test1.tcKDTest" />
 		</child>
-		<child name="CMTSpecialCharacters_Test1" key="{57967195-08C9-4245-8FF5-5C28CB655181}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="CMTSpecialCharacters_Test1.tcKDTest" />
-		</child>
-		<child name="CMTLargeNumber_Test1" key="{943DA2E8-CC72-4D90-865E-B9E64D9CEAA4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="CMTLargeNumber_Test1.tcKDTest" />
-		</child>
 		<child name="AddSchool_Test1" key="{4EBA00AF-943D-49F6-B024-D7AA08A899A4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AddSchool_Test1.tcKDTest" />
 		</child>
@@ -133,9 +127,6 @@
 		<child name="SA_AddTeacher_Test1" key="{AA0B690E-CDCD-4C27-80E5-024196C22702}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="SA_AddTeacher_Test1.tcKDTest" />
 		</child>
-		<child name="Test2" key="{1280563C-4904-47C0-81D0-734A7378FCF2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="Test2.tcKDTest" />
-		</child>
 		<child name="ModifySchool_Test1" key="{A71FDB48-A79B-4B8C-87D8-4F44B16CF9D1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="ModifySchool_Test1.tcKDTest" />
 		</child>
@@ -153,12 +144,6 @@
 		</child>
 		<child name="AddGreySubjectTab" key="{7BEEB9E6-5700-47E0-A571-01899942890F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AddGreySubjectTab.tcKDTest" />
-		</child>
-		<child name="NewCMTHomePageImage" key="{B7216F84-2BC8-45A1-A5CD-DB8C2243A2A5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="NewCMTHomePageImage.tcKDTest" />
-		</child>
-		<child name="CMTSaveandAddAnother" key="{2E5790A7-BF8F-4A05-AA13-38669A07928B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="CMTSaveandAddAnother.tcKDTest" />
 		</child>
 		<child name="PieChartLocations" key="{F1370B8F-84F7-4D36-BA85-A87B57653329}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="PieChartLocations.tcKDTest" />

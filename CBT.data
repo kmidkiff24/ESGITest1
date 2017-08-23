@@ -2,20 +2,7 @@
 <Root Version="1">
 	<Providers>
 		<A609CA20xCE0Bx4080x93FCx121361DAEEF9 version="1">
-			<groups>
-				<Group0 Caption="Group1" Key="E4FDB132xDB2Bx4431xBB61xF4F376816AB9" Enabled="True">
-					<Hosts>
-						<Host0 Device="Windows 10" Browser="Firefox 49" Resolution="1920x1080" DeviceApi="Win10" BrowserApi="FF49" ResolutionApi="1920x1080" />
-						<Host1 Device="Windows 10" Browser="Internet Explorer 11" Resolution="1920x1080" DeviceApi="Win10" BrowserApi="IE11" ResolutionApi="1920x1080" Enabled="False" />
-					</Hosts>
-					<Tests>
-						<Test0 Name="AdminLogin_Test1" Project="ESGI Test1" TestName="KeywordTests|AdminLogin_Test1" Enabled="False" Key="525BE495x5EC4x4DC3x80E9x5CCE66017DBD" />
-						<Test1 Name="SALogin_Test1" Project="ESGI Test1" TestName="KeywordTests|SALogin_Test1" Enabled="False" Key="8B0419D5x68ABx4E45xBA51x9E19010EEF48" />
-						<Test2 Name="TeacherLogin_Test1" Project="ESGI Test1" TestName="KeywordTests|TeacherLogin_Test1" Key="A936342Cx0587x47F6xB891xDBA2A1AD2EEC" />
-					</Tests>
-					<TestItems />
-				</Group0>
-			</groups>
+			<groups />
 		</A609CA20xCE0Bx4080x93FCx121361DAEEF9>
 	</Providers>
 </Root>

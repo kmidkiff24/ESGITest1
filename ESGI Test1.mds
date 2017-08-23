@@ -44,23 +44,11 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="TeacherLogin" key="{917F8A49-5502-46FC-96DF-6BE41AC12F28}" group="False" enabled="True" testMoniker="KDT\{D129AF51-E222-4703-BCCE-F2AC8371FCF8}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="SALogin" key="{A9A4CDF5-4F61-418E-9965-F7D0861BC45C}" group="False" enabled="True" testMoniker="KDT\{269324BE-1DF1-4342-85FB-E7F1D5AE3545}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="AdminLogin" key="{1DBD2B58-3424-492A-AD4A-EB18ADD9B383}" group="False" enabled="True" testMoniker="KDT\{74BBD075-9556-48D0-B3D1-35C9A94A5B97}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
 			<testItem name="AddStudent" key="{8E2F8618-1D17-4808-B85B-AACBE1E0B59D}" group="False" enabled="True" testMoniker="KDT\{C2CA232D-DE2A-445A-AD87-1E9382D5183E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="RunTest" key="{50C46B18-F862-4C04-B411-5F3BBF41B824}" group="False" enabled="False" testMoniker="KDT\{F4405E8E-7A3B-41C3-8257-AAA30925C3BD}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="RunTest" key="{50C46B18-F862-4C04-B411-5F3BBF41B824}" group="False" enabled="True" testMoniker="KDT\{F4405E8E-7A3B-41C3-8257-AAA30925C3BD}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -160,23 +148,11 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem16" key="{239C241E-40F7-4B2F-B3D6-4064F27D360B}" group="False" enabled="True" testMoniker="KDT\{FB9AB292-08F9-49E7-A8B9-813CA6873ED5}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
 			<testItem name="ProjectTestItem17" key="{C87702CA-BFEA-4382-AC9B-839BEA656F34}" group="False" enabled="True" testMoniker="KDT\{33CB2E85-2421-443E-9FD8-C38035317999}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem18" key="{1584E2BE-03F6-451C-9F57-9F8A6AF35478}" group="False" enabled="False" testMoniker="KDT\{57967195-08C9-4245-8FF5-5C28CB655181}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
 			<testItem name="ProjectTestItem19" key="{0B922F93-B738-4A55-ADBF-F05B792CB1F7}" group="False" enabled="True" testMoniker="KDT\{94CFAE74-737B-48B0-9BFD-E5242F047E75}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem20" key="{7E20AEF2-C99D-4AF7-BCCB-D765AB93A687}" group="False" enabled="False" testMoniker="KDT\{943DA2E8-CC72-4D90-865E-B9E64D9CEAA4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -225,14 +201,6 @@
 				<children />
 			</testItem>
 			<testItem name="ProjectTestItem9" key="{DA1C16D4-82B6-4400-8C4D-420D9880D4DB}" group="False" enabled="True" testMoniker="KDT\{F1370B8F-84F7-4D36-BA85-A87B57653329}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem32" key="{ABEA7BC8-92D9-42E7-A888-2F75CE7C5F15}" group="False" enabled="True" testMoniker="KDT\{2E5790A7-BF8F-4A05-AA13-38669A07928B}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem33" key="{4CBEE344-6658-4A90-8949-8645BDE27899}" group="False" enabled="True" testMoniker="KDT\{B7216F84-2BC8-45A1-A5CD-DB8C2243A2A5}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
