@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="ClassTotalsReport_Test1" key="{734CC577-A3F5-40A5-BCDC-D9F053759439}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ClassTotalsReport_Test1.tcKDTest" />
+		</child>
+		<child name="NTClassTotalsReport_Test1" key="{0C261296-5C64-4659-9CEC-A684DE1FE9A5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="NTClassTotalsReport_Test1.tcKDTest" />
+		</child>
+		<child name="PieChartReport_Test1" key="{9CEB4C53-5E1C-47C3-B695-CD29B88E50B2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PieChartReport_Test1.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

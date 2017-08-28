@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="AddGroup_Test1" key="{837CCE0E-B1D9-497C-872F-EF801C7C0C77}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AddGroup_Test1.tcKDTest" />
+		</child>
+		<child name="EditGroupName_Test1" key="{2135040B-438C-42C6-9B97-014F09F33391}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="EditGroupName_Test1.tcKDTest" />
+		</child>
+		<child name="DeleteGroup_Test1" key="{D4FFC78D-14EB-4F3E-8C7E-C3B9712BD122}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="DeleteGroup_Test1.tcKDTest" />
+		</child>
+		<child name="ModifyStudentsinGroup" key="{39606D29-CB6B-4A8A-8D86-2AA53BCDD08C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ModifyStudentsinGroup.tcKDTest" />
+		</child>
+		<child name="StudentListChange_Test1" key="{712E53EA-976E-4782-ADF3-3BD35C4E7F8E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="StudentListChange_Test1.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

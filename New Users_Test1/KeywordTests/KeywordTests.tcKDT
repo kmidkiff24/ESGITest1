@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="NewAccount_FreeTrial_Test1" key="{8AA3201F-45BC-4982-AF68-C7C8BA43F492}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="NewAccount_FreeTrial_Test1.tcKDTest" />
+		</child>
+		<child name="NewAccount_CC_Test1" key="{C1AB4CF5-B280-40CE-9502-D1EFFCA462DF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="NewAccount_CC_Test1.tcKDTest" />
+		</child>
+		<child name="DACreatesUser_Test1" key="{F3DECAB0-8E81-48C9-9038-AA372367AB2B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="DACreatesUser_Test1.tcKDTest" />
+		</child>
+		<child name="RegisterDifferent_NumberofMonths_Test1" key="{C59A52DE-227E-4655-BDF5-7AF3D4D09F09}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RegisterDifferent_NumberofMonths_Test1.tcKDTest" />
+		</child>
+		<child name="ActivationCode_Test1" key="{FC32E4C8-464C-4505-BA60-822DE4E27BC4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ActivationCode_Test1.tcKDTest" />
+		</child>
+		<child name="NewAccount_FreeTrial_Chrome_Test1" key="{4B561C80-991A-4F39-88E0-900ED13575E4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="NewAccount_FreeTrial_Chrome_Test1.tcKDTest" />
+		</child>
+		<child name="ChangeAlotmentonActivationCode_Test1" key="{D0484A23-AEFF-4510-8930-5D7F19B245A9}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ChangeAlotmentonActivationCode_Test1.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

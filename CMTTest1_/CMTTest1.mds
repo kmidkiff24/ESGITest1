@@ -32,19 +32,19 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{E86559B4-02A8-4653-A0B0-838DB6BDBE46}">
 		<children>
-			<testItem name="ProjectTestItem18" key="{1584E2BE-03F6-451C-9F57-9F8A6AF35478}" group="False" enabled="False" testMoniker="KDT\{6D1A619A-5F05-42C6-8852-F8C6DBA8EF50}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem18" key="{1584E2BE-03F6-451C-9F57-9F8A6AF35478}" group="False" enabled="True" testMoniker="KDT\{6D1A619A-5F05-42C6-8852-F8C6DBA8EF50}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem20" key="{7E20AEF2-C99D-4AF7-BCCB-D765AB93A687}" group="False" enabled="False" testMoniker="KDT\{F499A48D-CA95-4D6A-B406-72F46C95F46D}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem20" key="{7E20AEF2-C99D-4AF7-BCCB-D765AB93A687}" group="False" enabled="True" testMoniker="KDT\{F499A48D-CA95-4D6A-B406-72F46C95F46D}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem32" key="{ABEA7BC8-92D9-42E7-A888-2F75CE7C5F15}" group="False" enabled="False" testMoniker="KDT\{2EB237DC-1E83-4E27-A800-3C9AF28FDE8F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem32" key="{ABEA7BC8-92D9-42E7-A888-2F75CE7C5F15}" group="False" enabled="True" testMoniker="KDT\{2EB237DC-1E83-4E27-A800-3C9AF28FDE8F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem33" key="{4CBEE344-6658-4A90-8949-8645BDE27899}" group="False" enabled="False" testMoniker="KDT\{8171304A-F357-4AD3-9312-9CBB51D0C1A7}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem33" key="{4CBEE344-6658-4A90-8949-8645BDE27899}" group="False" enabled="True" testMoniker="KDT\{8171304A-F357-4AD3-9312-9CBB51D0C1A7}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
