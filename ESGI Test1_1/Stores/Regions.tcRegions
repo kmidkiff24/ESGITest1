@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="12.0">
+	<children>
+		<child name="textnodeStudents21" key="{52B44E6E-B01D-4685-B5F9-671FC06EDB1C}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeStudents21" ID="{52B44E6E-B01D-4685-B5F9-671FC06EDB1C}" FileName="Regions\textnodeStudents21.png" Update="False" />
+		</child>
+		<child name="panelTestResultsBox" key="{7666D1D5-F45D-42C6-8622-622BED91321F}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelTestResultsBox" ID="{7666D1D5-F45D-42C6-8622-622BED91321F}" FileName="Regions\panelTestResultsBox.png" Update="False" />
+		</child>
+		<child name="panelTestResultsBox1" key="{327A3640-A289-41DF-9C9D-BBE7BE8179C0}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelTestResultsBox1" ID="{327A3640-A289-41DF-9C9D-BBE7BE8179C0}" FileName="Regions\panelTestResultsBox1.png" Update="False" />
+		</child>
+	</children>
+	<folders />
+</Root>

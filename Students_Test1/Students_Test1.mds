@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="12.0">
 	<children>
 		<child name="Stores" key="{EE9FEC52-1F61-4A07-81A1-CC336A0A465B}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores">
@@ -13,9 +13,6 @@
 		<child name="KeywordTests" key="{5CA271DE-D2F2-4795-AB52-E782BA620CB2}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing">
 			<data path="KeywordTests\KeywordTests.tcKDT" />
 		</child>
-		<child name="Script" key="{DE5BF076-564E-4DAC-81D6-8C9F5F8AF874}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script">
-			<data path="Script\Script.tcScript" />
-		</child>
 	</children>
 	<folders>
 		<folder caption="Test1" description="A logical folder that is used to organize project items and elements." moniker="">
@@ -23,19 +20,10 @@
 				<ref key="{5CA271DE-D2F2-4795-AB52-E782BA620CB2}" />
 			</references>
 		</folder>
-		<folder caption="Advanced" description="A logical folder that is used to organize project items and elements." moniker="{69583268-92F3-49FA-B573-C831F5ABC27B}">
-			<references>
-				<ref key="{DE5BF076-564E-4DAC-81D6-8C9F5F8AF874}" />
-			</references>
-		</folder>
 	</folders>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{73785DB8-67FC-4972-BB72-D2C459A6C628}">
 		<children>
-			<testItem name="HomepageVideo" key="{11EE0629-0BDE-4215-9C17-E9AB0EA77B62}" group="False" enabled="True" testMoniker="KDT\{12EBB6FA-1658-4994-9414-D68BEE028613}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
 			<testItem name="AddStudent" key="{8E2F8618-1D17-4808-B85B-AACBE1E0B59D}" group="False" enabled="True" testMoniker="KDT\{E9AA968B-D010-49C2-8904-27A8495B5CDC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
@@ -45,42 +33,6 @@
 				<children />
 			</testItem>
 			<testItem name="DeleteStudent" key="{A47797E7-3C0B-4587-B2D8-96B817BE7FE4}" group="False" enabled="False" testMoniker="KDT\{9B4C53AE-F0E2-43CA-A8BA-F046CA20F242}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="PieChart" key="{49DBC65C-426A-4600-BC2C-286EAB38CCED}" group="False" enabled="True" testMoniker="KDT\{5FA221D1-0B97-4A51-B00E-ED17393E6AD7}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="AddClass" key="{2C6CE9F4-752F-49EE-8091-765AFDAD8B9B}" group="False" enabled="True" testMoniker="KDT\{00C636BA-C8AA-4B96-8A07-81B8A38B5051}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ParentConferencer" key="{DEF44184-8C32-424C-988C-90AE767271BB}" group="False" enabled="True" testMoniker="KDT\{5199FEAB-0039-4088-931F-065CD740254B}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="StudentExplorer" key="{33D79DB3-A7AB-4994-BAEA-B5142444850A}" group="False" enabled="True" testMoniker="KDT\{3D084B7A-9A5D-4F19-9791-4D7DD8F1E878}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="TestExplorer" key="{643D9558-02C9-4D79-A905-64843636267E}" group="False" enabled="True" testMoniker="KDT\{8F66F096-AD2B-4AFD-BCE4-2F42C191D350}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem12" key="{2A4A8CB7-C6C6-40D3-AEC4-D3A12E11B69E}" group="False" enabled="True" testMoniker="KDT\{8B69E8E9-EF4E-4A19-B5A0-25D6B979062C}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem17" key="{C87702CA-BFEA-4382-AC9B-839BEA656F34}" group="False" enabled="True" testMoniker="KDT\{A4681B92-6000-45B9-AD62-B01AF6E152F4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem19" key="{0B922F93-B738-4A55-ADBF-F05B792CB1F7}" group="False" enabled="True" testMoniker="KDT\{55E8DF53-10FA-4A9F-BB8A-4F1B9C061E26}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem9" key="{DA1C16D4-82B6-4400-8C4D-420D9880D4DB}" group="False" enabled="True" testMoniker="KDT\{7E710159-C4CC-4EE5-998C-1D42F79044B3}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>

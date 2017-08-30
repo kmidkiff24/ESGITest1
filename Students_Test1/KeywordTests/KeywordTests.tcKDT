@@ -1,9 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="AddClass_Test1" key="{00C636BA-C8AA-4B96-8A07-81B8A38B5051}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AddClass_Test1.tcKDTest" />
-		</child>
 		<child name="AddStudent_Test1" key="{E9AA968B-D010-49C2-8904-27A8495B5CDC}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AddStudent_Test1.tcKDTest" />
 		</child>
@@ -12,39 +9,6 @@
 		</child>
 		<child name="DeleteStudent_Test1" key="{9B4C53AE-F0E2-43CA-A8BA-F046CA20F242}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="DeleteStudent_Test1.tcKDTest" />
-		</child>
-		<child name="TestExplorer_Test1" key="{8F66F096-AD2B-4AFD-BCE4-2F42C191D350}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="TestExplorer_Test1.tcKDTest" />
-		</child>
-		<child name="ParentConferencer_Test1" key="{5199FEAB-0039-4088-931F-065CD740254B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="ParentConferencer_Test1.tcKDTest" />
-		</child>
-		<child name="StudentExplorer_Test1" key="{3D084B7A-9A5D-4F19-9791-4D7DD8F1E878}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="StudentExplorer_Test1.tcKDTest" />
-		</child>
-		<child name="HomescreenVideo_Test1" key="{12EBB6FA-1658-4994-9414-D68BEE028613}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="HomescreenVideo_Test1.tcKDTest" />
-		</child>
-		<child name="PieChart_Test1" key="{5FA221D1-0B97-4A51-B00E-ED17393E6AD7}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="PieChart_Test1.tcKDTest" />
-		</child>
-		<child name="CreateNewSubject_test1" key="{4E2C510C-0AF6-46E2-98E4-26C402449FE4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="CreateNewSubject_test1.tcKDTest" />
-		</child>
-		<child name="EditProfile_Test1" key="{8B69E8E9-EF4E-4A19-B5A0-25D6B979062C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="EditProfile_Test1.tcKDTest" />
-		</child>
-		<child name="NumberofStudents2_Test1" key="{A4681B92-6000-45B9-AD62-B01AF6E152F4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="NumberofStudents2_Test1.tcKDTest" />
-		</child>
-		<child name="GotoESGIfromCMT_Test1" key="{55E8DF53-10FA-4A9F-BB8A-4F1B9C061E26}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="GotoESGIfromCMT_Test1.tcKDTest" />
-		</child>
-		<child name="AddGreySubjectTab" key="{6399238C-BF9E-4071-A149-9AE6022E236B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AddGreySubjectTab.tcKDTest" />
-		</child>
-		<child name="PieChartLocations" key="{7E710159-C4CC-4EE5-998C-1D42F79044B3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="PieChartLocations.tcKDTest" />
 		</child>
 	</children>
 	<folders />
