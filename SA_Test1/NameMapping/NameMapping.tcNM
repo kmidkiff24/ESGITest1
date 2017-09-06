@@ -4474,6 +4474,45 @@
 														<Value PropertyType="0" Value="text" Type="5" />
 													</Property>
 												</Properties>
+												<Children>
+													<Child Name="textboxAddeditteacherformUserexp" Key="{21725933-857C-4B82-8B4C-58ADFEC6E343}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1889317544" Left="632" Top="740" Right="753" Bottom="773" />
+														<TypeInfo Item0="{01C38DFC-2C4F-48BB-AB68-C50A02A57BFE}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Textbox" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="AddEditTeacherForm.UserExpirationDate" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="tableTblContaier" Key="{0F9989C6-E380-46A3-977C-08CF5C784EDB}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-808917332" Left="513" Top="-263" Right="1113" Bottom="881" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Table" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="cell" Key="{8A2DEDAC-96E5-4590-921C-210B900B2175}" ParallelWalk="True">
+																<Image FileName="-808917332" Left="513" Top="626" Right="1113" Bottom="671" />
+																<TypeInfo Item0="{3B9F1AC4-6521-42F2-A3CA-24B4D61107B6}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Cell" Type="5" />
+																	</Property>
+																	<Property Name="RowIndex">
+																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																	<Property Name="ColumnIndex">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
 											</Child>
 										</Children>
 									</Child>
@@ -8306,6 +8345,18 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageEsgiMozillaFirefox" Key="{4FF00428-3677-426A-8722-9CA7DA09121C}" ParallelWalk="True">
+								<Image FileName="-1187585941" Left="9" Top="38" Right="1911" Bottom="1020" />
+								<TypeInfo Item0="{976D057D-AB42-47D2-8BFF-12C1141B6C12}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="chrome://browser/content/browser.xul" Type="5" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 					<Child Name="explorer" Key="{C7285146-275B-4FB3-9FCC-88A48D34846A}" ParallelWalk="True">
@@ -8955,7 +9006,12 @@
 				<Child Name="formAddeditteacherform" Owner="{ED8B385E-2CFA-4DF7-AA53-24A4A7E47257}">
 					<Child Name="textboxAddeditteacherformStudent" Owner="{0E889C31-A840-4ECE-A4A2-FA9290C9A22E}" />
 					<Child Name="submitbuttonSubmit" Owner="{18DFA020-88DB-431A-AAE0-2BE5C9BA8C8F}" />
-					<Child Name="panelText" Owner="{02632CA4-E48A-4967-BB5A-9FC64DCDECE4}" />
+					<Child Name="panelText" Owner="{02632CA4-E48A-4967-BB5A-9FC64DCDECE4}">
+						<Child Name="textboxAddeditteacherformUserexp" Owner="{21725933-857C-4B82-8B4C-58ADFEC6E343}" />
+						<Child Name="tableTblContaier" Owner="{0F9989C6-E380-46A3-977C-08CF5C784EDB}">
+							<Child Name="cell" Owner="{8A2DEDAC-96E5-4590-921C-210B900B2175}" />
+						</Child>
+					</Child>
 				</Child>
 			</Child>
 			<Child Name="AdminLandingPage" Owner="{E8CC5794-C4BC-4B29-80A7-60BB3C732E8B}">
@@ -9390,6 +9446,7 @@
 					</Child>
 				</Child>
 			</Child>
+			<Child Name="pageEsgiMozillaFirefox" Owner="{4FF00428-3677-426A-8722-9CA7DA09121C}" />
 		</Child>
 		<Child Name="explorer" Owner="{5E5E8360-847C-4268-BC74-6AC46788740E}" />
 		<Child Name="explorer2" Owner="{C7285146-275B-4FB3-9FCC-88A48D34846A}">
