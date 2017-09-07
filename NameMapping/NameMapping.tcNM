@@ -7812,13 +7812,10 @@
 									</Child>
 								</Children>
 							</Child>
-							<Child Name="pageClassManagementTool" Key="{5DF9F71D-A4ED-4968-A7A5-EEB938508B4C}" ParallelWalk="True">
+							<Child Name="pageClassManagementTool" Key="{5DF9F71D-A4ED-4968-A7A5-EEB938508B4C}" ParallelWalk="True" MultiVersion="True">
 								<Properties>
 									<Property Name="ObjectType">
 										<Value PropertyType="0" Value="Page" Type="5" />
-									</Property>
-									<Property Name="URL">
-										<Value PropertyType="0" Value="https://cmttest1.classmt.com/" Type="5" />
 									</Property>
 								</Properties>
 								<Children>
@@ -8021,10 +8018,10 @@
 												<Value PropertyType="0" Value="Link" Type="5" />
 											</Property>
 											<Property Name="href">
-												<Value PropertyType="0" Value="https://cmttest1.classmt.com/#" Type="5" />
+												<Value PropertyType="0" Value="https://cmttest1um.classmt.com/#" Type="5" />
 											</Property>
 											<Property Name="contentText">
-												<Value PropertyType="0" Value="45005300470049000A0047006F00" Type="7" />
+												<Value PropertyType="0" Value="" Type="5" />
 											</Property>
 										</Properties>
 									</Child>
@@ -8229,6 +8226,83 @@
 																		<Value PropertyType="0" Value="TextNode" Type="5" />
 																	</Property>
 																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelHome" Key="{E6DBED7A-158D-40D8-ABAC-F7BB374946E5}" ParallelWalk="True">
+										<Image FileName="-164480096" Left="11" Top="76" Right="1888" Bottom="1019" />
+										<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelClearfixHeader" Key="{CFC947F7-6616-4FDE-8168-07F504D2FD9E}" ParallelWalk="True">
+												<Image FileName="1989536111" Left="26" Top="76" Right="1873" Bottom="143" />
+												<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelNavigation" Key="{9A231EE4-E453-466F-99E1-827E4A66EBE3}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1989536111" Left="1324" Top="86" Right="1873" Bottom="141" />
+														<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="2" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelEsgi" Key="{D97E7B1F-44A1-4BD6-9E62-46226E9A8E02}" ParallelWalk="True">
+																<Image FileName="1989536111" Left="1739" Top="82" Right="1820" Bottom="136" />
+																<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="linkActive" Key="{48CA49B0-1D6E-4C18-B767-AF9BDF9C3A39}" ParallelWalk="True">
+																<Image FileName="-164480096" Left="1720" Top="86" Right="1873" Bottom="141" />
+																<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Link" Type="5" />
+																	</Property>
+																	<Property Name="contentText">
+																		<Value PropertyType="0" Value="45005300470049000A0047006F00" Type="7" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelEsgi" Key="{C3C95F45-8B5E-4041-8158-4F84B4D02823}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-1882618951" Left="1737" Top="80" Right="1822" Bottom="138" />
+																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
 															</Child>
 														</Children>
 													</Child>
@@ -9377,6 +9451,16 @@
 					<Child Name="panelLeftPanel" Owner="{204FADB2-C3EF-4BDC-8B18-DA53B9D6194F}">
 						<Child Name="panelStudentcellFake" Owner="{DE45358A-A522-4086-B540-FC45A62C4C3E}">
 							<Child Name="textnodeAddStudent" Owner="{C43D27C6-F137-411C-BCEE-9990E6E624FA}" />
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="panelHome" Owner="{E6DBED7A-158D-40D8-ABAC-F7BB374946E5}">
+					<Child Name="panelClearfixHeader" Owner="{CFC947F7-6616-4FDE-8168-07F504D2FD9E}">
+						<Child Name="panelNavigation" Owner="{9A231EE4-E453-466F-99E1-827E4A66EBE3}">
+							<Child Name="panelEsgi" Owner="{D97E7B1F-44A1-4BD6-9E62-46226E9A8E02}" />
+							<Child Name="linkActive" Owner="{48CA49B0-1D6E-4C18-B767-AF9BDF9C3A39}">
+								<Child Name="panelEsgi" Owner="{C3C95F45-8B5E-4041-8158-4F84B4D02823}" />
+							</Child>
 						</Child>
 					</Child>
 				</Child>

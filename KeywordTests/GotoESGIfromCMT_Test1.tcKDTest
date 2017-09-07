@@ -22,25 +22,16 @@
 			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
 				<Data Description="Launches the specified browser and opens the specified URL in it." BrowserName="firefox">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="https://test1.esgisoftware.com/cmt" />
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="https://cmttest1um.classmt.com/" />
 						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
 					</Parameters>
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Moves the mouse pointer over the &apos;%n&apos; control." Action="HoverMouse">
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="86" />
-						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="16" />
-					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.ESGIHomepage_Prod_Header.LoginForm_Prod.LoginFormtextboxUsername_prod;" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="57" />
-						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="5" />
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="19" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="11" />
 						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
 							<Values IsEnum="True">
 								<Value Type="1" Value="0" Text="skNoShift" />
@@ -78,23 +69,15 @@
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Performs a single click on the specified button." Action="ClickButton">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.modalPleaseConfirmYourTimeZone.ESGIHomepage_Prod_Header.LoginForm_Prod.LoginFormContainer_Prod.LoginFormRow_Prod.buttonLogin;" />
-				</Data>
-			</Operation>
-			<Operation Type="{6A1B4CEE-4FB8-46E2-BFBD-403C84342301}">
-				<Data Description="Delays the test execution for the specified time period.">
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="ms" DefVarType="3" VarType="3" ValueType="1" ValueValue="500" />
-						<Parameter Name="Str" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
-					</Parameters>
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="25" />
-						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="33" />
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="27" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="27" />
 						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
 							<Values IsEnum="True">
 								<Value Type="1" Value="0" Text="skNoShift" />
@@ -104,7 +87,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageClassManagementTool.linkActive;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageClassManagementTool.panelHome.panelClearfixHeader.panelNavigation.linkActive;" />
 				</Data>
 			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
@@ -119,10 +102,32 @@
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="47" />
+						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="15" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.ESGIInnerFrame.EditGroupPanel.StudentsNumberIconBox.SchoolProfile_NameBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close" InvokeKind="-1" Initialized="True">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPageTemp3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindowChrome;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="80" />
-						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="10" />
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="1871" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="18" />
 						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
 							<Values IsEnum="True">
 								<Value Type="1" Value="0" Text="skNoShift" />
@@ -132,15 +137,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPage_Test1.panelNavigation.panelTopMenu.MenuFirstRow.LogoutLink;" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Closes the &apos;%n&apos; window." Action="Close">
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
-					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.ESGILandingPageTemp3;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.EdgeWindow;" />
 				</Data>
 			</Operation>
 		</Children>
