@@ -24,7 +24,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{31596B3E-6E56-40E5-A16C-682986426E0D}">
 		<children>
-			<testItem name="RunTest" key="{50C46B18-F862-4C04-B411-5F3BBF41B824}" group="False" enabled="True" testMoniker="KDT\{600D6179-577B-434E-9CD9-7457DCC97724}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="RunTest" key="{50C46B18-F862-4C04-B411-5F3BBF41B824}" group="False" enabled="False" testMoniker="KDT\{600D6179-577B-434E-9CD9-7457DCC97724}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -40,7 +40,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem11" key="{1412DA98-0D29-47ED-89E8-317002112AF9}" group="False" enabled="True" testMoniker="KDT\{DD214645-755A-4005-92D8-2F37F6CD4267}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem11" key="{1412DA98-0D29-47ED-89E8-317002112AF9}" group="False" enabled="False" testMoniker="KDT\{DD214645-755A-4005-92D8-2F37F6CD4267}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
