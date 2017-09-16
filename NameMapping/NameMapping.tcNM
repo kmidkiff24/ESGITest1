@@ -426,6 +426,18 @@
 																									</Property>
 																								</Properties>
 																							</Child>
+																							<Child Name="imageVideoButtonPng" Key="{144C1072-7355-4F28-8E92-3DC6041348DB}" ExtendedFind="True" ParallelWalk="True">
+																								<Image FileName="1269594717" Left="544" Top="417" Right="565" Bottom="464" />
+																								<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Image" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="video_button_png" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
 																						</Children>
 																					</Child>
 																				</Children>
@@ -8502,6 +8514,7 @@
 										<Child Name="panelVideoBlock" Owner="{FC9FF4D6-4761-4792-B558-D8F1681ACFA0}">
 											<Child Name="panelWhyEsgi" Owner="{ADED8214-3E18-45AE-9CBC-7BF99FB79AA1}" />
 											<Child Name="imageVideoBgImage2Png" Owner="{79D5412F-C2A9-40C3-9A5B-63418D4A2B7E}" />
+											<Child Name="imageVideoButtonPng" Owner="{144C1072-7355-4F28-8E92-3DC6041348DB}" />
 										</Child>
 									</Child>
 								</Child>
