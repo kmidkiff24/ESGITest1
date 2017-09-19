@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="2" key="{E42D3991-8B40-4D57-8513-85B11FE7D30B}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
-	<config nodeName="Events" tlbHistory="" />
+	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
 	<testData />
 	<data />
 	<children>

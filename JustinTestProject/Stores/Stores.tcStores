@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" version="12.0">
-	<children />
+	<children>
+		<child name="Regions" key="{A7CFD6D5-3073-4303-A6CF-05E137E992E0}" type="Regions" typeId="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" pluginName="Stores">
+			<data path="Regions.tcRegions" />
+		</child>
+	</children>
 	<folders />
 </Root>
