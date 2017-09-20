@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
-	<children />
+	<children>
+		<child name="Login_Test1" key="{3B25914D-F6DC-4D79-9635-7B82E65AAD5B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Login_Test1.tcKDTest" />
+		</child>
+		<child name="Login_Kerrie" key="{C4D0A51A-7AE3-4CBD-ADE1-79437CD4F0E8}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Login_Kerrie.tcKDTest" />
+		</child>
+	</children>
 	<folders />
 </Root>
