@@ -56,6 +56,10 @@
 				<testParameters />
 				<children />
 			</testItem>
+			<testItem name="HomepageCMTVideo" key="{96C118ED-D4CD-4403-9F87-DE714A214934}" group="False" enabled="True" testMoniker="KDT\{9910F308-7CE8-4353-AAFF-417F62059EA2}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
 		</children>
 	</testItems>
 	<variables key="{BB3C661B-C2EC-4D4D-B1AB-91B970D13CBA}">

@@ -598,6 +598,17 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="videoCmtIntroVideo1Html5Api" Key="{EEA15E98-5233-48FA-B719-11CBA65D1233}" ExtendedFind="True" ParallelWalk="True">
+																<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Video" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="cmt_intro_video_1_html5_api" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -8316,6 +8327,28 @@
 																	</Child>
 																</Children>
 															</Child>
+															<Child Name="panelCmtIntroVideoLink" Key="{C0086D44-99EC-4E08-AB75-7B4B55B68A29}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="507763530" Left="1235" Top="675" Right="1263" Bottom="724" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="cmt-intro-video-link" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="imageCmtVideoButtonPng" Key="{22CF188B-9CA1-4882-BD5F-9658AF565FD2}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="507763530" Left="1236" Top="675" Right="1261" Bottom="722" />
+																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Image" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -8539,6 +8572,7 @@
 								</Child>
 							</Child>
 							<Child Name="panelVjsPlayControlVjsControlVjs" Owner="{80E8937F-E7B9-4384-B8AA-7C1DC8423477}" />
+							<Child Name="videoCmtIntroVideo1Html5Api" Owner="{EEA15E98-5233-48FA-B719-11CBA65D1233}" />
 						</Child>
 					</Child>
 				</Child>
@@ -9473,6 +9507,9 @@
 							<Child Name="panelEsgi" Owner="{D97E7B1F-44A1-4BD6-9E62-46226E9A8E02}" />
 							<Child Name="linkActive" Owner="{48CA49B0-1D6E-4C18-B767-AF9BDF9C3A39}">
 								<Child Name="panelEsgi" Owner="{C3C95F45-8B5E-4041-8158-4F84B4D02823}" />
+							</Child>
+							<Child Name="panelCmtIntroVideoLink" Owner="{C0086D44-99EC-4E08-AB75-7B4B55B68A29}">
+								<Child Name="imageCmtVideoButtonPng" Owner="{22CF188B-9CA1-4882-BD5F-9658AF565FD2}" />
 							</Child>
 						</Child>
 					</Child>
