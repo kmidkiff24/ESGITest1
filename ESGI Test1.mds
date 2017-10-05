@@ -32,27 +32,27 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{D4E1207F-AB77-4554-B90F-4E220390B1AA}">
 		<children>
-			<testItem name="ProjectTestItem1" key="{F20E38D0-4111-414F-8D06-B577837CBAF7}" group="False" enabled="True" testMoniker="KDT\{A22E5DBF-6324-409C-BDB3-BF20FAF3D623}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="HomescreenVideo" key="{F20E38D0-4111-414F-8D06-B577837CBAF7}" group="False" enabled="True" testMoniker="KDT\{A22E5DBF-6324-409C-BDB3-BF20FAF3D623}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem2" key="{1F5513A1-2F04-4C52-B4EF-F5FAD3A66652}" group="False" enabled="True" testMoniker="KDT\{DC97D1F8-CD1F-4DE3-A8E3-A4464166121B}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="TestExplorer" key="{1F5513A1-2F04-4C52-B4EF-F5FAD3A66652}" group="False" enabled="True" testMoniker="KDT\{DC97D1F8-CD1F-4DE3-A8E3-A4464166121B}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem3" key="{097B589A-6245-4121-9FD9-099C62DEF9D0}" group="False" enabled="True" testMoniker="KDT\{E393E6E6-FD3D-4C69-921C-E65F816181BB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ParentConferencer" key="{097B589A-6245-4121-9FD9-099C62DEF9D0}" group="False" enabled="True" testMoniker="KDT\{E393E6E6-FD3D-4C69-921C-E65F816181BB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem4" key="{6F1E4379-E214-4F33-B475-8B2ABE3CF0DB}" group="False" enabled="True" testMoniker="KDT\{65CC2951-9666-4CDB-A3FA-C109FD3D0ECF}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="StudentExplorer" key="{6F1E4379-E214-4F33-B475-8B2ABE3CF0DB}" group="False" enabled="True" testMoniker="KDT\{65CC2951-9666-4CDB-A3FA-C109FD3D0ECF}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem5" key="{AE24F503-885A-4A8B-A20D-301F0CB1C372}" group="False" enabled="True" testMoniker="KDT\{33CB2E85-2421-443E-9FD8-C38035317999}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="NumberofStudents2" key="{AE24F503-885A-4A8B-A20D-301F0CB1C372}" group="False" enabled="True" testMoniker="KDT\{33CB2E85-2421-443E-9FD8-C38035317999}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem6" key="{25100A1A-1160-47CD-A81E-2D7DEB63623E}" group="False" enabled="True" testMoniker="KDT\{94CFAE74-737B-48B0-9BFD-E5242F047E75}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="GotoESGIfromCMT" key="{25100A1A-1160-47CD-A81E-2D7DEB63623E}" group="False" enabled="True" testMoniker="KDT\{94CFAE74-737B-48B0-9BFD-E5242F047E75}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -132,7 +132,7 @@
 		<setting name="{DF56DCEA-130B-4D36-8893-5FDC090AFB17}" type="1" value="False" />
 		<setting name="{829BC6CA-56D1-46A4-89B9-E15802964005}" type="1" value="False" />
 		<setting name="{85CD048A-29FF-4ABF-95A6-B915AEA2C10D}" type="1" value="False" />
-		<setting name="{2044DC7F-423E-4668-8114-68D23AE97AD6}" type="2" value="1000" />
+		<setting name="{2044DC7F-423E-4668-8114-68D23AE97AD6}" type="2" value="500" />
 		<setting name="Recording_TestedAppsOnly" type="1" value="False" />
 		<setting name="{FB1CAF99-7FA6-447C-B963-D862CA8BFF89}" type="2" value="3000" />
 		<setting name="{3B76535B-58AD-456C-837E-091A5C480F6C}" type="1" value="True" />
@@ -176,7 +176,7 @@
 		<setting name="{F7C29680-06BB-4F85-B0E3-C06AE2282A66}" type="1" value="True" />
 		<setting name="{0BD6AE2E-E5D9-4AD0-9BF3-2483D329B22A}" type="1" value="True" />
 		<setting name="{3FC2A7B4-F4AF-4807-8D37-C3EE096DD330}" type="2" value="1024" />
-		<setting name="{9EB8E8E6-D2F2-4A8A-ADFB-492E8C0EAFEF}" type="2" value="50" />
+		<setting name="{9EB8E8E6-D2F2-4A8A-ADFB-492E8C0EAFEF}" type="2" value="10000" />
 		<setting name="{1DB8307D-FA4B-43E7-8E11-9F8F41ABD7E9}" type="1" value="True" />
 		<setting name="{47A56F4F-F2D3-4697-BEC8-632B29D5A344}" type="6" rowIndex="11" colIndex="1">
 			<columns>

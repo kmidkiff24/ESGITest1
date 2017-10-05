@@ -43,8 +43,8 @@
 		<child name="Profiles_Test1" key="{F2F67E0C-565F-48A1-840E-594171C820A2}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Profiles_Test1\Profiles_Test1.mds" />
 		</child>
-		<child name="JustinTestProject" key="{D9282970-A13C-4B7E-B116-98CC3F2735F7}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="JustinTestProject\JustinTestProject.mds" />
+		<child name="Grading_Scales_Test1" key="{9AD4FE30-9278-4CF0-B500-21953045BDFA}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Grading_Scales_Test1\Grading_Scales_Test1.mds" />
 		</child>
 	</children>
 	<folders />
@@ -64,7 +64,7 @@
 			<testItem key="{BEBCC591-C04A-4312-B634-1263965C912A}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{F2F67E0C-565F-48A1-840E-594171C820A2}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{D9282970-A13C-4B7E-B116-98CC3F2735F7}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{9AD4FE30-9278-4CF0-B500-21953045BDFA}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{296C9EB3-4A1A-4FF7-B2AA-679ED0C07AAC}">
