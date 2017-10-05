@@ -4,6 +4,9 @@
 		<child name="EditProfile_Test1" key="{8751D77E-7980-4328-911C-80A9691E4C13}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="EditProfile_Test1.tcKDTest" />
 		</child>
+		<child name="ContactUSlink_Test1" key="{4F8D2739-1C91-4AE6-8525-BE4AF54EA3D4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ContactUSlink_Test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

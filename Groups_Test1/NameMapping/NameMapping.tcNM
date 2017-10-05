@@ -1936,6 +1936,32 @@
 																			</Property>
 																		</Properties>
 																	</Child>
+																	<Child Name="panelLpleft" Key="{2D583D40-251C-4B63-B248-D9CA30562667}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-279786241" Left="127" Top="149" Right="333" Bottom="625" />
+																		<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="idStr">
+																				<Value PropertyType="0" Value="lpLeft" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelMasterPage" Key="{ED16A6DD-9ADF-4943-87D4-74ACEB9D0B15}" ParallelWalk="True">
+																				<Image FileName="-279786241" Left="137" Top="159" Right="333" Bottom="605" />
+																				<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="0" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
 																</Children>
 															</Child>
 															<Child Name="PleaseConfirmYourTimeZoneDropdown" Key="{D0B43E10-A3A8-4F60-92A0-14BABB094774}" ExtendedFind="True" ParallelWalk="True">
@@ -2539,14 +2565,14 @@
 											</Property>
 										</Properties>
 									</Child>
-									<Child Name="ESGILandingPageLeftPanel" Key="{FCBB7F99-7608-49B4-9020-B7C4D4A43CD9}" ExtendedFind="True" ParallelWalk="True">
+									<Child Name="ESGILandingPageLeftPanel" Key="{FCBB7F99-7608-49B4-9020-B7C4D4A43CD9}" ParallelWalk="True">
 										<Image FileName="1412789042" Left="377" Top="219" Right="692" Bottom="1090" />
 										<Properties>
 											<Property Name="ObjectType">
 												<Value PropertyType="0" Value="Panel" Type="5" />
 											</Property>
-											<Property Name="idStr">
-												<Value PropertyType="0" Value="lpLeft" Type="5" />
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="1" Type="0" />
 											</Property>
 										</Properties>
 										<Children>
@@ -2613,9 +2639,6 @@
 																				<Properties>
 																					<Property Name="ObjectType">
 																						<Value PropertyType="0" Value="Link" Type="5" />
-																					</Property>
-																					<Property Name="href">
-																						<Value PropertyType="0" Value="javascript:Hierarchy_Med(&apos;Groups&apos;);void(0);" Type="5" />
 																					</Property>
 																				</Properties>
 																			</Child>
@@ -2735,6 +2758,18 @@
 																						</Properties>
 																					</Child>
 																				</Children>
+																			</Child>
+																			<Child Name="panelHierarchybox" Key="{31FFD30C-25E0-4D2A-B56E-34EB055CA4F6}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="-1611244671" Left="145" Top="348" Right="305" Bottom="366" />
+																				<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="3" Type="0" />
+																					</Property>
+																				</Properties>
 																			</Child>
 																		</Children>
 																	</Child>
@@ -8597,6 +8632,9 @@
 											</Child>
 											<Child Name="TestExplorerbuttonCloseWithoutSaving" Owner="{723F4DB9-578F-4288-85AF-C71245E31034}" />
 										</Child>
+										<Child Name="panelLpleft" Owner="{2D583D40-251C-4B63-B248-D9CA30562667}">
+											<Child Name="panelMasterPage" Owner="{ED16A6DD-9ADF-4943-87D4-74ACEB9D0B15}" />
+										</Child>
 									</Child>
 									<Child Name="PleaseConfirmYourTimeZoneDropdown" Owner="{D0B43E10-A3A8-4F60-92A0-14BABB094774}" />
 								</Child>
@@ -8805,6 +8843,7 @@
 										<Child Name="EditFirstGroup" Owner="{95E44CD8-27B1-4479-BBB5-40226FBC3B00}" />
 										<Child Name="EditFirstGroupDifferentClass" Owner="{F5761D45-12EA-4859-833E-9223319894E7}" />
 									</Child>
+									<Child Name="panelHierarchybox" Owner="{31FFD30C-25E0-4D2A-B56E-34EB055CA4F6}" />
 								</Child>
 							</Child>
 							<Child Name="EditGroupBox2" Owner="{B3B23E41-0CA3-4A32-8E15-45C4FD44578E}" />
