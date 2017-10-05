@@ -8256,7 +8256,7 @@
 											</Child>
 										</Children>
 									</Child>
-									<Child Name="panelHome" Key="{E6DBED7A-158D-40D8-ABAC-F7BB374946E5}" ParallelWalk="True">
+									<Child Name="panelHome" Key="{E6DBED7A-158D-40D8-ABAC-F7BB374946E5}" ParallelWalk="True" MultiVersion="True">
 										<Image FileName="-164480096" Left="11" Top="76" Right="1888" Bottom="1019" />
 										<TypeInfo Item0="{DB651EBE-6E45-42EC-A0B6-A703B5A8EC43}" />
 										<Properties>
@@ -8284,9 +8284,6 @@
 															<Property Name="ObjectType">
 																<Value PropertyType="0" Value="Panel" Type="5" />
 															</Property>
-															<Property Name="ObjectIdentifier">
-																<Value PropertyType="0" Value="2" Type="0" />
-															</Property>
 														</Properties>
 														<Children>
 															<Child Name="panelEsgi" Key="{D97E7B1F-44A1-4BD6-9E62-46226E9A8E02}" ParallelWalk="True">
@@ -8307,9 +8304,6 @@
 																<Properties>
 																	<Property Name="ObjectType">
 																		<Value PropertyType="0" Value="Link" Type="5" />
-																	</Property>
-																	<Property Name="contentText">
-																		<Value PropertyType="0" Value="45005300470049000A0047006F00" Type="7" />
 																	</Property>
 																</Properties>
 																<Children>
