@@ -13,6 +13,9 @@
 		<child name="CMTLogin_Test1" key="{9EB10AB6-6E25-4452-8892-AE7075FE75BE}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CMTLogin_Test1.tcKDTest" />
 		</child>
+		<child name="IEloginwithEnter_test1" key="{2F31D969-0EE5-4026-87F7-92231DB93818}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="IEloginwithEnter_test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
