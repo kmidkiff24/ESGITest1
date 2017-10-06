@@ -25,8 +25,8 @@
 		<child name="CreateATest_Test1" key="{46C9C48C-6CD5-4344-8507-D1B3E22581B5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CreateATest_Test1.tcKDTest" />
 		</child>
-		<child name="Test2" key="{1B93A0ED-CC9B-4C40-BCFE-287CCA77C57F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="Test2.tcKDTest" />
+		<child name="SchACopyTest_Test1" key="{1B93A0ED-CC9B-4C40-BCFE-287CCA77C57F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SchACopyTest_Test1.tcKDTest" />
 		</child>
 	</children>
 	<folders />

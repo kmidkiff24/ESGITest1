@@ -6116,6 +6116,32 @@
 																			</Property>
 																		</Properties>
 																	</Child>
+																	<Child Name="cellCenter" Key="{B71BF5F6-EEB5-4687-BA56-E12D0815B0C0}" ParallelWalk="True">
+																		<TypeInfo Item0="{3B9F1AC4-6521-42F2-A3CA-24B4D61107B6}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Cell" Type="5" />
+																			</Property>
+																			<Property Name="RowIndex">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																			<Property Name="ColumnIndex">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="linkSightWordsAugSept" Key="{2D929FEA-2F72-4184-9593-D0F62F2BCE5F}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1164540579" Left="465" Top="241" Right="644" Bottom="295" />
+																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value PropertyType="0" Value="Sight words Aug-Sept" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
 																</Children>
 															</Child>
 														</Children>
@@ -6949,6 +6975,18 @@
 																				</Children>
 																			</Child>
 																		</Children>
+																	</Child>
+																	<Child Name="buttonCopyTest" Key="{CEC64BF4-5538-4FE0-B6CF-043613C4FF97}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-1062723135" Left="384" Top="435" Right="509" Bottom="473" />
+																		<TypeInfo Item0="{A1AF1723-6988-42AC-90BA-35BC20B482F1}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Button" Type="5" />
+																			</Property>
+																			<Property Name="ObjectLabel">
+																				<Value PropertyType="0" Value="Copy Test" Type="5" />
+																			</Property>
+																		</Properties>
 																	</Child>
 																</Children>
 															</Child>
@@ -9603,6 +9641,7 @@
 									</Child>
 								</Child>
 							</Child>
+							<Child Name="buttonCopyTest" Owner="{CEC64BF4-5538-4FE0-B6CF-043613C4FF97}" />
 						</Child>
 					</Child>
 				</Child>
@@ -9641,6 +9680,8 @@
 							</Child>
 							<Child Name="tableTableTableBorderedTableHove" Owner="{8B19B8F4-5B71-41FC-8891-13D1E76A4490}">
 								<Child Name="cellSortable" Owner="{2024F4DD-10B7-4EC3-9980-F0541E9370CF}" />
+								<Child Name="cellCenter" Owner="{B71BF5F6-EEB5-4687-BA56-E12D0815B0C0}" />
+								<Child Name="linkSightWordsAugSept" Owner="{2D929FEA-2F72-4184-9593-D0F62F2BCE5F}" />
 							</Child>
 						</Child>
 					</Child>
