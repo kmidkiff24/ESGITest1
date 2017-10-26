@@ -28,19 +28,19 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem5" key="{7834A65D-2BFA-4442-B466-ECDE8B2BDE11}" group="False" enabled="False" testMoniker="KDT\{2135040B-438C-42C6-9B97-014F09F33391}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem5" key="{7834A65D-2BFA-4442-B466-ECDE8B2BDE11}" group="False" enabled="True" testMoniker="KDT\{2135040B-438C-42C6-9B97-014F09F33391}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem6" key="{5148D730-25D1-4756-873C-6430C564862B}" group="False" enabled="False" testMoniker="KDT\{D4FFC78D-14EB-4F3E-8C7E-C3B9712BD122}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem6" key="{5148D730-25D1-4756-873C-6430C564862B}" group="False" enabled="True" testMoniker="KDT\{D4FFC78D-14EB-4F3E-8C7E-C3B9712BD122}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem8" key="{5A2EBAE8-0E82-4A46-AFD8-F818422161F2}" group="False" enabled="False" testMoniker="KDT\{39606D29-CB6B-4A8A-8D86-2AA53BCDD08C}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem8" key="{5A2EBAE8-0E82-4A46-AFD8-F818422161F2}" group="False" enabled="True" testMoniker="KDT\{39606D29-CB6B-4A8A-8D86-2AA53BCDD08C}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem21" key="{2BB8E842-717D-43FA-897B-2B790488AC82}" group="False" enabled="False" testMoniker="KDT\{712E53EA-976E-4782-ADF3-3BD35C4E7F8E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem21" key="{2BB8E842-717D-43FA-897B-2B790488AC82}" group="False" enabled="True" testMoniker="KDT\{712E53EA-976E-4782-ADF3-3BD35C4E7F8E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -50,7 +50,7 @@
 		<data Version="3" />
 	</variables>
 	<settings key="{9D99D321-C68A-41C2-A370-DFCE92488934}">
-		<settingsVersion value="12.31" />
+		<settingsVersion value="12.40" />
 		<setting name="{42651A7C-4287-4C91-AE26-98CBD2EA9355}" type="1" value="False" />
 		<setting name="{A2568CC8-7E8E-42C5-A87D-B69684A1E616}" type="1" value="True" />
 		<setting name="{3EADAFE2-0CD4-4B1E-A2A9-B184E94FDCC7}" type="6" rowIndex="1" colIndex="0">
