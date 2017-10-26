@@ -7,6 +7,12 @@
 		<child name="AddGreySubjectTab" key="{583744ED-D138-4C38-851B-3ECE7B3F2B87}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AddGreySubjectTab.tcKDTest" />
 		</child>
+		<child name="HideSubjectTab_test1" key="{87DF08F3-CF07-47B4-88E4-8DC2CEA1DFD4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="HideSubjectTab_test1.tcKDTest" />
+		</child>
+		<child name="DeleteSubjectTab_test1" key="{858A6531-9D04-4AE4-9F17-8B605C635179}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="DeleteSubjectTab_test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

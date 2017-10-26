@@ -6155,6 +6155,31 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="panelDtcSubjectTabHoverContainer" Key="{641ABF94-3307-44C3-8C18-B408B6D94760}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1910548591" Left="1095" Top="299" Right="1241" Bottom="336" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="2" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="linkEditSubject" Key="{3990E9A4-226C-401D-9054-2A47D27D4707}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1910548591" Left="1213" Top="302" Right="1232" Bottom="330" />
+																<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Link" Type="5" />
+																	</Property>
+																	<Property Name="contentText">
+																		<Value PropertyType="0" Value="" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
 												</Children>
 											</Child>
 											<Child Name="buttonAddQuestion" Key="{1DFE024E-AB05-4CB0-B13D-6A670E68911A}" ExtendedFind="True" ParallelWalk="True">
@@ -6472,6 +6497,38 @@
 																							</Child>
 																						</Children>
 																					</Child>
+																					<Child Name="panelSubjectTabs" Key="{5EF38AD7-B21E-46E1-8DA1-F65D47C0E7A5}" ExtendedFind="True" ParallelWalk="True">
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="idStr">
+																								<Value PropertyType="0" Value="subject-tabs" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panelDtcSubjectTabHoverContainer" Key="{352330D6-5D1F-4824-96E0-545177355772}" ExtendedFind="True" ParallelWalk="True">
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Panel" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="3" Type="0" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="textnodePhonemicAwareness" Key="{A842737B-44FA-46B2-B508-9DEC0136958A}" ExtendedFind="True" ParallelWalk="True">
+																										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="TextNode" Type="5" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
 																				</Children>
 																			</Child>
 																		</Children>
@@ -6533,6 +6590,15 @@
 																		</Children>
 																	</Child>
 																</Children>
+															</Child>
+															<Child Name="linkHide" Key="{C9CCA109-928F-4447-91A7-A87A6E26E6E7}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-357292600" Left="1234" Top="341" Right="1432" Bottom="372" />
+																<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Link" Type="5" />
+																	</Property>
+																</Properties>
 															</Child>
 														</Children>
 													</Child>
@@ -6661,6 +6727,29 @@
 												</Properties>
 											</Child>
 										</Children>
+									</Child>
+									<Child Name="panelJpwoverlay" Key="{81AAD8CE-0543-451B-A22D-EEC89B2F3010}" ExtendedFind="True" ParallelWalk="True">
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="jpwOverlay" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="linkJpwclose" Key="{61D97843-2FA4-4F69-B3EF-EC6F39796770}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="2104918707" Left="1695" Top="199" Right="1859" Bottom="233" />
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="jpwClose" Type="5" />
+											</Property>
+										</Properties>
 									</Child>
 								</Children>
 							</Child>
@@ -9131,6 +9220,11 @@
 										<Child Name="buttonAddATest" Owner="{340902FB-80B1-4563-BDEC-9D02629D84EC}" />
 										<Child Name="buttonClose" Owner="{DC78DC9B-9DC5-4147-865B-7036D3A75E9F}" />
 									</Child>
+									<Child Name="panelSubjectTabs" Owner="{5EF38AD7-B21E-46E1-8DA1-F65D47C0E7A5}">
+										<Child Name="panelDtcSubjectTabHoverContainer" Owner="{352330D6-5D1F-4824-96E0-545177355772}">
+											<Child Name="textnodePhonemicAwareness" Owner="{A842737B-44FA-46B2-B508-9DEC0136958A}" />
+										</Child>
+									</Child>
 								</Child>
 							</Child>
 							<Child Name="panelFindTestPanel" Owner="{E15D567B-D109-455F-8921-E754A4DE2959}">
@@ -9143,6 +9237,7 @@
 								</Child>
 							</Child>
 						</Child>
+						<Child Name="linkHide" Owner="{C9CCA109-928F-4447-91A7-A87A6E26E6E7}" />
 					</Child>
 				</Child>
 				<Child Name="TestExplorerContainer" Owner="{FDC667C9-B7A0-49E1-A294-DFB6FC8B066D}">
@@ -9190,6 +9285,9 @@
 							</Child>
 						</Child>
 						<Child Name="selectFilterScopeField" Owner="{5EC4ABAD-31F7-47F1-AFB2-07BCDFC51C96}" />
+						<Child Name="panelDtcSubjectTabHoverContainer" Owner="{641ABF94-3307-44C3-8C18-B408B6D94760}">
+							<Child Name="linkEditSubject" Owner="{3990E9A4-226C-401D-9054-2A47D27D4707}" />
+						</Child>
 					</Child>
 					<Child Name="buttonAddQuestion" Owner="{1DFE024E-AB05-4CB0-B13D-6A670E68911A}" />
 					<Child Name="table" Owner="{EC7E0780-10CD-4B21-BEB6-0AD2798F582B}">
@@ -9201,6 +9299,8 @@
 					</Child>
 				</Child>
 				<Child Name="CreateTest" Owner="{95A842AA-0C9C-483C-8A68-E23032519271}" />
+				<Child Name="panelJpwoverlay" Owner="{81AAD8CE-0543-451B-A22D-EEC89B2F3010}" />
+				<Child Name="linkJpwclose" Owner="{61D97843-2FA4-4F69-B3EF-EC6F39796770}" />
 			</Child>
 			<Child Name="AddTestQuestion" Owner="{D031BE9B-EA81-4603-8EC6-41016960FDAF}">
 				<Child Name="AddQuestionBoxTitle" Owner="{10BB104D-0D96-4369-8D59-A28A47715686}">
