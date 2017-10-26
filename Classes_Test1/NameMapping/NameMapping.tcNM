@@ -2919,6 +2919,17 @@
 														<Value PropertyType="0" Value="TextNode" Type="5" />
 													</Property>
 												</Properties>
+												<Children>
+													<Child Name="textnode2" Key="{5FE9C55A-A09C-47CE-8367-5C3ACC964857}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1855980296" Left="584" Top="208" Right="602" Bottom="221" />
+														<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="TextNode" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
 											</Child>
 										</Children>
 									</Child>
@@ -8920,7 +8931,9 @@
 					</Child>
 					<Child Name="AddDistrictNameTextbox" Owner="{5229A10C-F03D-4D80-AA43-D041BF5F70A8}" />
 					<Child Name="select" Owner="{908D378E-428E-435B-B87D-AFFC521406B5}" />
-					<Child Name="StudentName" Owner="{F7B98831-90C4-45CC-BBCF-CA6761E6832A}" />
+					<Child Name="StudentName" Owner="{F7B98831-90C4-45CC-BBCF-CA6761E6832A}">
+						<Child Name="textnode2" Owner="{5FE9C55A-A09C-47CE-8367-5C3ACC964857}" />
+					</Child>
 				</Child>
 				<Child Name="TestExplorer_CloseOverlayButton" Owner="{B4AA1F6B-C549-4D07-9F78-8C3FBD9F4C3E}" />
 				<Child Name="tableSplash" Owner="{369C3AA2-8B59-45FF-83C4-8B7ED71C2A7F}">
