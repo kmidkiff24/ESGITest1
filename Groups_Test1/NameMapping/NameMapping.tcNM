@@ -3528,6 +3528,38 @@
 																<Value PropertyType="0" Value="0" Type="0" />
 															</Property>
 														</Properties>
+														<Children>
+															<Child Name="GroupExpandLink" Key="{050D9232-316E-418E-8E73-0FADFFE0AAE0}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1633359018" Left="695" Top="269" Right="711" Bottom="285" />
+																<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Link" Type="5" />
+																	</Property>
+																	<Property Name="outerHTML">
+																		<Value PropertyType="0" Value="*Groups*" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="linkEditSquare" Key="{DAC94E20-E595-44D9-AE41-D18D2F424672}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1585919585" Left="672" Top="382" Right="690" Bottom="395" />
+														<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+															<Property Name="href">
+																<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Groups&apos;,%201033465);void(0);" Type="5" />
+															</Property>
+															<Property Name="outerHTML">
+																<Value PropertyType="0" Value="*Groups*" Type="5" />
+															</Property>
+															<Property Name="contentText">
+																<Value PropertyType="0" Value="edit" Type="5" />
+															</Property>
+														</Properties>
 													</Child>
 												</Children>
 											</Child>
@@ -3948,12 +3980,18 @@
 											</Property>
 										</Properties>
 									</Child>
-									<Child Name="SightWordsTab" Key="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" ExtendedFind="True" ParallelWalk="True">
+									<Child Name="AddGroup" Key="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" ExtendedFind="True" ParallelWalk="True">
 										<Image FileName="1775295304" Left="945" Top="314" Right="1027" Bottom="333" />
 										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
 										<Properties>
 											<Property Name="ObjectType">
 												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Add" Type="5" />
+											</Property>
+											<Property Name="outerHTML">
+												<Value PropertyType="0" Value="*Groups*" Type="5" />
 											</Property>
 										</Properties>
 									</Child>
@@ -8630,7 +8668,7 @@
 									</Child>
 									<Child Name="PleaseConfirmYourTimeZoneDropdown" Owner="{D0B43E10-A3A8-4F60-92A0-14BABB094774}" />
 								</Child>
-								<Child Name="SightWordsTab" Owner="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" />
+								<Child Name="AddGroup" Owner="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" />
 							</Child>
 							<Child Name="StudentCounter" Owner="{D3F3E2C3-ACEF-47C7-8ECD-1A35F682275E}" />
 							<Child Name="panelCreateGroup" Owner="{401172F9-489F-4BBF-A5DF-E33EDBF3FF31}" />
@@ -8867,7 +8905,10 @@
 						<Child Name="StudentsNumberIconBox" Owner="{8E1A8D33-728B-445C-AE94-D20BE182C294}">
 							<Child Name="StudentsIcon" Owner="{4D402E28-1D11-4932-AA66-0E1D68652DFF}" />
 							<Child Name="SchoolProfile_NameBox" Owner="{1FFD583A-EBE4-4D04-995F-FC8A28CB084D}">
-								<Child Name="panelHierarchybox" Owner="{B306FBBB-1112-4E95-809D-84740CE95795}" />
+								<Child Name="panelHierarchybox" Owner="{B306FBBB-1112-4E95-809D-84740CE95795}">
+									<Child Name="GroupExpandLink" Owner="{050D9232-316E-418E-8E73-0FADFFE0AAE0}" />
+								</Child>
+								<Child Name="linkEditSquare" Owner="{DAC94E20-E595-44D9-AE41-D18D2F424672}" />
 							</Child>
 						</Child>
 						<Child Name="ClassTotalsReportButton2" Owner="{2B9A85D5-D200-49D9-864F-E392A2656B8C}">
