@@ -28,6 +28,10 @@
 				<testParameters />
 				<children />
 			</testItem>
+			<testItem name="DeleteClass" key="{1FA6E9F2-C03A-4BCE-A022-BCFD5645DE52}" group="False" enabled="True" testMoniker="KDT\{86F5795C-5A06-4553-BA7A-50D0E39C5950}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
 		</children>
 	</testItems>
 	<variables key="{BB3C661B-C2EC-4D4D-B1AB-91B970D13CBA}">
