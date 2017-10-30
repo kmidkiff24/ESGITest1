@@ -4428,6 +4428,58 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="cellDatatablelm2" Key="{570BD2E5-1FDC-49AB-8BFF-F8AAB4F2FC52}" ParallelWalk="True">
+												<Image FileName="-1617153232" Left="516" Top="539" Right="575" Bottom="592" />
+												<TypeInfo Item0="{37679E1E-6FCF-4D36-83FA-4B08BF2EB306}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Cell" Type="5" />
+													</Property>
+													<Property Name="RowIndex">
+														<Value PropertyType="0" Value="4" Type="0" />
+													</Property>
+													<Property Name="ColumnIndex">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="buttonProfile" Key="{65F9C914-F45E-47C7-AC52-3DB5E02C1491}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1712558992" Left="521" Top="542" Right="570" Bottom="565" />
+														<TypeInfo Item0="{BFAA30C9-6AEA-4CD0-964C-A0E16CB3E43C}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Button" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="cellDatatablelm3" Key="{0EAC5B94-F327-483A-AB91-B826F8FD8EC5}" ParallelWalk="True">
+												<Image FileName="860744458" Left="516" Top="612" Right="575" Bottom="665" />
+												<TypeInfo Item0="{37679E1E-6FCF-4D36-83FA-4B08BF2EB306}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Cell" Type="5" />
+													</Property>
+													<Property Name="RowIndex">
+														<Value PropertyType="0" Value="3" Type="0" />
+													</Property>
+													<Property Name="ColumnIndex">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="buttonProfile" Key="{6F5F1CDF-8849-4D8D-B8CB-67EC821C4AE1}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="631705358" Left="521" Top="615" Right="570" Bottom="638" />
+														<TypeInfo Item0="{BFAA30C9-6AEA-4CD0-964C-A0E16CB3E43C}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Button" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="formAddeditteacherform" Key="{ED8B385E-2CFA-4DF7-AA53-24A4A7E47257}" ExtendedFind="True" ParallelWalk="True">
@@ -9001,6 +9053,12 @@
 				<Child Name="tableLpsystemreportinternaltable" Owner="{0EDF1AD2-622B-4171-85CB-69C5B6A4592F}">
 					<Child Name="cellDatatablelm" Owner="{ED039B7E-E651-4ADC-933F-381176AF0BAD}">
 						<Child Name="buttonProfile" Owner="{4E1501A3-C556-4547-9DA8-EAEFAADA79EB}" />
+					</Child>
+					<Child Name="cellDatatablelm2" Owner="{570BD2E5-1FDC-49AB-8BFF-F8AAB4F2FC52}">
+						<Child Name="buttonProfile" Owner="{65F9C914-F45E-47C7-AC52-3DB5E02C1491}" />
+					</Child>
+					<Child Name="cellDatatablelm3" Owner="{0EAC5B94-F327-483A-AB91-B826F8FD8EC5}">
+						<Child Name="buttonProfile" Owner="{6F5F1CDF-8849-4D8D-B8CB-67EC821C4AE1}" />
 					</Child>
 				</Child>
 				<Child Name="formAddeditteacherform" Owner="{ED8B385E-2CFA-4DF7-AA53-24A4A7E47257}">

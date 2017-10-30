@@ -1882,6 +1882,21 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="cell4" Key="{DE3B4071-6BAE-4682-AE37-1CF91B2A81C5}" ParallelWalk="True">
+														<Image FileName="-1089365911" Left="760" Top="286" Right="1410" Bottom="562" />
+														<TypeInfo Item0="{3B9F1AC4-6521-42F2-A3CA-24B4D61107B6}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Cell" Type="5" />
+															</Property>
+															<Property Name="RowIndex">
+																<Value PropertyType="0" Value="2" Type="0" />
+															</Property>
+															<Property Name="ColumnIndex">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
 												</Children>
 											</Child>
 											<Child Name="TestExplorerSearchBox" Key="{6780AADE-69D1-4549-AE6D-4D9FB5DDC011}" ExtendedFind="True" ParallelWalk="True">
@@ -2919,6 +2934,17 @@
 														<Value PropertyType="0" Value="TextNode" Type="5" />
 													</Property>
 												</Properties>
+												<Children>
+													<Child Name="textnode2" Key="{5FE9C55A-A09C-47CE-8367-5C3ACC964857}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1855980296" Left="584" Top="208" Right="602" Bottom="221" />
+														<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="TextNode" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
 											</Child>
 										</Children>
 									</Child>
@@ -8306,6 +8332,40 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageEsgiOneOnOneAssessmentsMadeE2" Key="{B55A301F-35CB-4500-ABC8-21438CC6C658}" ParallelWalk="True">
+								<Image FileName="-1210502335" Left="7" Top="0" Right="1913" Bottom="1022" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="chrome://browser/content/browser.xul" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="tabbandTabstoolbar" Key="{7AEB1242-54B2-44C0-AD82-546B7600511D}" ParallelWalk="True">
+										<Image FileName="-407677411" Left="7" Top="20" Right="1913" Bottom="58" />
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="TabBand" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageHttpsTest1EsgisoftwareComEsg2" Key="{23149668-FD5C-41F1-91B6-7CB96D84CBEE}" ParallelWalk="True">
+								<Image FileName="1320373122" Left="9" Top="74" Right="1911" Bottom="1021" />
+								<TypeInfo Item0="{976D057D-AB42-47D2-8BFF-12C1141B6C12}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/esgi/public/login2.aspx" Type="5" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 					<Child Name="explorer" Key="{C7285146-275B-4FB3-9FCC-88A48D34846A}" ParallelWalk="True">
@@ -8660,6 +8720,7 @@
 						</Child>
 						<Child Name="submitbuttonSubmit" Owner="{7C2BA4F9-E1D5-4EEC-8A79-30F7BD9547BF}" />
 						<Child Name="buttonSubmit" Owner="{125EFDE9-E78B-40F8-821C-3811D75828B0}" />
+						<Child Name="cell4" Owner="{DE3B4071-6BAE-4682-AE37-1CF91B2A81C5}" />
 					</Child>
 					<Child Name="TestExplorerSearchBox" Owner="{6780AADE-69D1-4549-AE6D-4D9FB5DDC011}" />
 					<Child Name="RunTest_CloseButton" Owner="{6B61FAA0-F311-4296-A4B5-844379D5490C}" />
@@ -8920,7 +8981,9 @@
 					</Child>
 					<Child Name="AddDistrictNameTextbox" Owner="{5229A10C-F03D-4D80-AA43-D041BF5F70A8}" />
 					<Child Name="select" Owner="{908D378E-428E-435B-B87D-AFFC521406B5}" />
-					<Child Name="StudentName" Owner="{F7B98831-90C4-45CC-BBCF-CA6761E6832A}" />
+					<Child Name="StudentName" Owner="{F7B98831-90C4-45CC-BBCF-CA6761E6832A}">
+						<Child Name="textnode2" Owner="{5FE9C55A-A09C-47CE-8367-5C3ACC964857}" />
+					</Child>
 				</Child>
 				<Child Name="TestExplorer_CloseOverlayButton" Owner="{B4AA1F6B-C549-4D07-9F78-8C3FBD9F4C3E}" />
 				<Child Name="tableSplash" Owner="{369C3AA2-8B59-45FF-83C4-8B7ED71C2A7F}">
@@ -9390,6 +9453,10 @@
 					</Child>
 				</Child>
 			</Child>
+			<Child Name="pageEsgiOneOnOneAssessmentsMadeE2" Owner="{B55A301F-35CB-4500-ABC8-21438CC6C658}">
+				<Child Name="tabbandTabstoolbar" Owner="{7AEB1242-54B2-44C0-AD82-546B7600511D}" />
+			</Child>
+			<Child Name="pageHttpsTest1EsgisoftwareComEsg2" Owner="{23149668-FD5C-41F1-91B6-7CB96D84CBEE}" />
 		</Child>
 		<Child Name="explorer" Owner="{5E5E8360-847C-4268-BC74-6AC46788740E}" />
 		<Child Name="explorer2" Owner="{C7285146-275B-4FB3-9FCC-88A48D34846A}">
