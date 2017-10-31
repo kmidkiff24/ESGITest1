@@ -8389,6 +8389,97 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="textboxUserName" Key="{0C9D6967-3554-4ECB-BDCE-D4D258B281CF}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-612728131" Left="914" Top="603" Right="1310" Bottom="645" />
+												<TypeInfo Item0="{E5F4430D-B451-4E28-89CF-73EBFE88281F}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Textbox" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="user-name" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="textnodeRemindPassword" Key="{6AC39A8B-C607-442A-8D82-AF5E4888F1D3}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1716976012" Left="585" Top="403" Right="1335" Bottom="433" />
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="TextNode" Type="5" />
+											</Property>
+											<Property Name="tagName">
+												<Value PropertyType="0" Value="H3" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="modalRemindPassword" Key="{53A96EE7-DCE1-467C-9D5B-28E666350AB7}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1716976012" Left="7" Top="106" Right="1913" Bottom="1024" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="modal-form" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelSuccessfultextemailAlertAle" Key="{C32B5977-073D-4912-BF93-45DA1FC187F4}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1634136000" Left="610" Top="475" Right="1310" Bottom="722" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="textnodeSuccess" Key="{09B697EA-7195-4C98-916D-9663A6FB0E8B}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1634136000" Left="630" Top="495" Right="1290" Bottom="529" />
+														<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="TextNode" Type="5" />
+															</Property>
+															<Property Name="tagName">
+																<Value PropertyType="0" Value="H4" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="formFormHorizontal" Key="{C00C72F0-6D3C-4959-B86E-6736FD84D88F}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-612728131" Left="610" Top="495" Right="1310" Bottom="702" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Form" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="fieldset" Key="{22434B7D-6241-494E-B327-60D967CBEED9}" ParallelWalk="True">
+														<Image FileName="-612728131" Left="610" Top="495" Right="1310" Bottom="702" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Fieldset" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="buttonSubmit" Key="{D52DE4FF-C9DC-465E-885D-BE823EF82FE9}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1344227520" Left="1228" Top="664" Right="1310" Bottom="702" />
+																<TypeInfo Item0="{D23C6E09-B062-4635-B4AF-9DCD0578511A}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Button" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -9485,6 +9576,18 @@
 					<Child Name="panelMain" Owner="{A46DFF7C-AD26-471E-802A-49618DBE21BD}">
 						<Child Name="panelMain" Owner="{5D3879E5-8166-4899-9164-A4302E02C165}">
 							<Child Name="linkHttpsS3AmazonawsComEsgiUmbra" Owner="{C9107C4E-8E42-4479-A3E6-D6850683AC3C}" />
+						</Child>
+					</Child>
+					<Child Name="textboxUserName" Owner="{0C9D6967-3554-4ECB-BDCE-D4D258B281CF}" />
+				</Child>
+				<Child Name="textnodeRemindPassword" Owner="{6AC39A8B-C607-442A-8D82-AF5E4888F1D3}" />
+				<Child Name="modalRemindPassword" Owner="{53A96EE7-DCE1-467C-9D5B-28E666350AB7}">
+					<Child Name="panelSuccessfultextemailAlertAle" Owner="{C32B5977-073D-4912-BF93-45DA1FC187F4}">
+						<Child Name="textnodeSuccess" Owner="{09B697EA-7195-4C98-916D-9663A6FB0E8B}" />
+					</Child>
+					<Child Name="formFormHorizontal" Owner="{C00C72F0-6D3C-4959-B86E-6736FD84D88F}">
+						<Child Name="fieldset" Owner="{22434B7D-6241-494E-B327-60D967CBEED9}">
+							<Child Name="buttonSubmit" Owner="{D52DE4FF-C9DC-465E-885D-BE823EF82FE9}" />
 						</Child>
 					</Child>
 				</Child>

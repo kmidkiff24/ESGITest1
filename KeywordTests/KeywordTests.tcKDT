@@ -22,6 +22,9 @@
 		<child name="HomepageCMTVideo_Test1" key="{9910F308-7CE8-4353-AAFF-417F62059EA2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="HomepageCMTVideo_Test1.tcKDTest" />
 		</child>
+		<child name="ESGILogo_Test1" key="{4118A6C0-3731-4093-BE82-876BD1A2F705}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ESGILogo_Test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
