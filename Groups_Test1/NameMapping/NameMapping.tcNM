@@ -3543,21 +3543,30 @@
 															</Child>
 														</Children>
 													</Child>
-													<Child Name="linkEditSquare" Key="{DAC94E20-E595-44D9-AE41-D18D2F424672}" ExtendedFind="True" ParallelWalk="True">
+													<Child Name="linkEditSquare" Key="{DAC94E20-E595-44D9-AE41-D18D2F424672}" ParallelWalk="True">
 														<Image FileName="-1585919585" Left="672" Top="382" Right="690" Bottom="395" />
 														<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
 														<Properties>
 															<Property Name="ObjectType">
 																<Value PropertyType="0" Value="Link" Type="5" />
 															</Property>
-															<Property Name="href">
-																<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Groups&apos;,%201033465);void(0);" Type="5" />
-															</Property>
 															<Property Name="outerHTML">
 																<Value PropertyType="0" Value="*Groups*" Type="5" />
 															</Property>
 															<Property Name="contentText">
 																<Value PropertyType="0" Value="edit" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="linkEdit" Key="{1C335C8C-5AFF-4338-A069-C9AAA1982948}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-739411185" Left="672" Top="371" Right="690" Bottom="384" />
+														<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+															<Property Name="href">
+																<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Groups&apos;,%201033551);void(0);" Type="5" />
 															</Property>
 														</Properties>
 													</Child>
@@ -8909,6 +8918,7 @@
 									<Child Name="GroupExpandLink" Owner="{050D9232-316E-418E-8E73-0FADFFE0AAE0}" />
 								</Child>
 								<Child Name="linkEditSquare" Owner="{DAC94E20-E595-44D9-AE41-D18D2F424672}" />
+								<Child Name="linkEdit" Owner="{1C335C8C-5AFF-4338-A069-C9AAA1982948}" />
 							</Child>
 						</Child>
 						<Child Name="ClassTotalsReportButton2" Owner="{2B9A85D5-D200-49D9-864F-E392A2656B8C}">
