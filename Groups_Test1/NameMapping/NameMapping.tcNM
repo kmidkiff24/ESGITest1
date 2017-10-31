@@ -3570,6 +3570,30 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="linkEdit2" Key="{FAA004A7-3295-4D11-92D2-79B8A4590942}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-173308403" Left="680" Top="700" Right="703" Bottom="716" />
+														<TypeInfo Item0="{8B7ACC39-CDFD-455E-9D82-A2335DDBC3AB}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+															<Property Name="href">
+																<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Students&apos;, 4197070);void(0);" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="linkEdit3" Key="{21D32C64-92F7-4172-BD44-840AD31740E9}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-865958076" Left="682" Top="702" Right="701" Bottom="714" />
+														<TypeInfo Item0="{B370A030-CA98-49CB-9753-0CAEC63179FD}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+															<Property Name="href">
+																<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Students&apos;, 4197071);void(0);" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
 												</Children>
 											</Child>
 											<Child Name="FlashcardsButton" Key="{A9F2E551-C6BC-4F88-B819-01F1084CA915}" ExtendedFind="True" ParallelWalk="True">
@@ -8919,6 +8943,8 @@
 								</Child>
 								<Child Name="linkEditSquare" Owner="{DAC94E20-E595-44D9-AE41-D18D2F424672}" />
 								<Child Name="linkEdit" Owner="{1C335C8C-5AFF-4338-A069-C9AAA1982948}" />
+								<Child Name="linkEdit2" Owner="{FAA004A7-3295-4D11-92D2-79B8A4590942}" />
+								<Child Name="linkEdit3" Owner="{21D32C64-92F7-4172-BD44-840AD31740E9}" />
 							</Child>
 						</Child>
 						<Child Name="ClassTotalsReportButton2" Owner="{2B9A85D5-D200-49D9-864F-E392A2656B8C}">
@@ -14179,6 +14205,64 @@
 					</Child>
 					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
 						<ReturnValue Param0="11" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="2118193496" Key="{8B7ACC39-CDFD-455E-9D82-A2335DDBC3AB}">
+			<Data Properties="B2F9371FFA31BE4E8F7A742B482795FCUFFFFFFFFFFFFFFFFV4L8ZZY">
+				<FunctionDescriptions>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
 					</Child>
 				</FunctionDescriptions>
 			</Data>

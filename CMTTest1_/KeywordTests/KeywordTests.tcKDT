@@ -13,6 +13,12 @@
 		<child name="CMTSaveandAddAnother" key="{2EB237DC-1E83-4E27-A800-3C9AF28FDE8F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CMTSaveandAddAnother.tcKDTest" />
 		</child>
+		<child name="CMTNotesPage" key="{93EDA6C6-5BC9-47B8-8236-B28346ACEC50}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CMTNotesPage.tcKDTest" />
+		</child>
+		<child name="SaveandAddAnother_CMT_Test1" key="{BB76D993-E1C6-44D8-9B41-A35240457B33}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SaveandAddAnother_CMT_Test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

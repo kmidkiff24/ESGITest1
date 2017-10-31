@@ -8087,10 +8087,30 @@
 																				<Value PropertyType="0" Value="0" Type="0" />
 																			</Property>
 																		</Properties>
+																		<Children>
+																			<Child Name="button" Key="{68189BC7-2DDB-469B-9926-C703E46C8ED0}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="320147530" Left="1232" Top="347" Right="1248" Bottom="373" />
+																				<TypeInfo Item0="{B1C886B5-6ADE-4A1D-9219-C672836CE496}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Button" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
 																	</Child>
 																</Children>
 															</Child>
 														</Children>
+													</Child>
+													<Child Name="textnodeAbilityToTakeNotesOnAStu" Key="{0A923B3F-1345-4ADD-82D2-9487661C53EF}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1863488154" Left="24" Top="563" Right="1875" Bottom="613" />
+														<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="TextNode" Type="5" />
+															</Property>
+														</Properties>
 													</Child>
 												</Children>
 											</Child>
@@ -8232,9 +8252,68 @@
 															</Child>
 														</Children>
 													</Child>
+													<Child Name="panelLefttopcontainer" Key="{159F1BF2-2922-4216-AB5F-70E5568ADCBD}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1839374812" Left="24" Top="256" Right="300" Bottom="340" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="leftTopContainer" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelBadgeAddstudentbutton" Key="{351FE694-D3F1-4ADA-9751-8F58A3D4FE4A}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1839374812" Left="31" Top="309" Right="136" Bottom="332" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="textnodeAddStudent" Key="{A87ED6C8-0161-4F6C-BB9B-D21DEF495C1D}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1839374812" Left="40" Top="312" Right="127" Bottom="330" />
+																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="TextNode" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
 												</Children>
 											</Child>
 										</Children>
+									</Child>
+									<Child Name="link" Key="{CEDDD280-07E1-4530-8680-61A2C3E17FE8}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-265729569" Left="533" Top="74" Right="680" Bottom="144" />
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Notes" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="linkFamilyInfo6" Key="{68D5A758-DA07-4290-B2F8-B7A031DCA900}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1710717429" Left="924" Top="146" Right="1088" Bottom="198" />
+										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Family Info (6)" Type="5" />
+											</Property>
+										</Properties>
 									</Child>
 								</Children>
 							</Child>
@@ -9358,9 +9437,12 @@
 					<Child Name="cell" Owner="{D3DF14F5-63F6-468B-A5FF-89379F905224}">
 						<Child Name="panelModalDialog" Owner="{9CF13C70-6FC7-4E5B-90C2-B73BAE7F6E75}">
 							<Child Name="panelModalContent" Owner="{9B64FBB2-E826-405F-AF28-712E947C6717}">
-								<Child Name="panelModalHeader" Owner="{B0BFE635-81BB-4B21-AE49-ADC1A81DC147}" />
+								<Child Name="panelModalHeader" Owner="{B0BFE635-81BB-4B21-AE49-ADC1A81DC147}">
+									<Child Name="button" Owner="{68189BC7-2DDB-469B-9926-C703E46C8ED0}" />
+								</Child>
 							</Child>
 						</Child>
+						<Child Name="textnodeAbilityToTakeNotesOnAStu" Owner="{0A923B3F-1345-4ADD-82D2-9487661C53EF}" />
 					</Child>
 					<Child Name="form" Owner="{15C17546-5318-4846-9F3A-BA2DE92EE0DF}">
 						<Child Name="textboxFirstName" Owner="{D5B1F372-D221-4A80-B46C-A37F6D24E1AE}" />
@@ -9378,8 +9460,15 @@
 						<Child Name="panelStudentcellFake" Owner="{DE45358A-A522-4086-B540-FC45A62C4C3E}">
 							<Child Name="textnodeAddStudent" Owner="{C43D27C6-F137-411C-BCEE-9990E6E624FA}" />
 						</Child>
+						<Child Name="panelLefttopcontainer" Owner="{159F1BF2-2922-4216-AB5F-70E5568ADCBD}">
+							<Child Name="panelBadgeAddstudentbutton" Owner="{351FE694-D3F1-4ADA-9751-8F58A3D4FE4A}">
+								<Child Name="textnodeAddStudent" Owner="{A87ED6C8-0161-4F6C-BB9B-D21DEF495C1D}" />
+							</Child>
+						</Child>
 					</Child>
 				</Child>
+				<Child Name="link" Owner="{CEDDD280-07E1-4530-8680-61A2C3E17FE8}" />
+				<Child Name="linkFamilyInfo6" Owner="{68D5A758-DA07-4290-B2F8-B7A031DCA900}" />
 			</Child>
 			<Child Name="pageEsgiOneOnOneAssessmentsMadeE" Owner="{EA148F37-2FD6-46E4-B00E-7DE26E1920C9}">
 				<Child Name="panelBody" Owner="{64C1B464-AEEA-4BE2-8B4B-2C01CBCD937E}">
