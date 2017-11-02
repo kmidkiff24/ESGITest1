@@ -7,6 +7,9 @@
 		<child name="SALogin_New" key="{3A8A29D2-2C69-422C-AA85-558DDEABB2A8}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="SALogin_New.tcKDTest" />
 		</child>
+		<child name="AdminLogin_New" key="{DDA089C1-D40C-458B-B657-D15205A184EC}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AdminLogin_New.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
