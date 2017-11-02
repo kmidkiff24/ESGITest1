@@ -4,6 +4,9 @@
 		<child name="TeacherLogin_New" key="{5FA3ECD7-2E6F-4A2E-9975-93A3B63AD95E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="TeacherLogin_New.tcKDTest" />
 		</child>
+		<child name="SALogin_New" key="{3A8A29D2-2C69-422C-AA85-558DDEABB2A8}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SALogin_New.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

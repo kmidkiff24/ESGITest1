@@ -18,12 +18,6 @@
 							<Property Name="ObjectType">
 								<Value PropertyType="0" Value="Browser" Type="5" />
 							</Property>
-							<Property Name="ObjectIdentifier">
-								<Value PropertyType="0" Value="firefox" Type="5" />
-							</Property>
-							<Property Name="CommandLine">
-								<Value PropertyType="0" Value="&quot;C:\Program Files (x86)\Mozilla Firefox\firefox.exe&quot; " Type="5" />
-							</Property>
 						</Properties>
 						<Children>
 							<Child Name="Test1HomePage" Key="{D025B390-EB50-4C93-B48F-1BF4AE75F0D3}" ParallelWalk="True">
@@ -34,7 +28,7 @@
 										<Value PropertyType="0" Value="Page" Type="5" />
 									</Property>
 									<Property Name="URL">
-										<Value PropertyType="0" Value="https://test1.esgisoftware.com/." Type="5" />
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/" Type="5" />
 									</Property>
 								</Properties>
 								<Children>
@@ -358,6 +352,18 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="buttonNext" Key="{BD38BEAC-9DA7-401F-A536-84BD298CB231}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-646080761" Left="1251" Top="610" Right="1333" Bottom="641" />
+												<TypeInfo Item0="{5378AFD5-5DC3-4DDB-A601-5C3767F40926}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Button" Type="5" />
+													</Property>
+													<Property Name="ObjectLabel">
+														<Value PropertyType="0" Value="Next" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="panelGraderepbut" Key="{12831199-18CD-4476-BCEB-3D503D14FB3D}" ExtendedFind="True" ParallelWalk="True">
@@ -397,6 +403,41 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageEsgi2" Key="{7D465283-82E0-469F-8FBC-FEF3FE9D1292}" ParallelWalk="True">
+								<Image FileName="-1003578830" Left="9" Top="74" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/jssystem.aspx" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelLpheader" Key="{5A824791-6055-4B8F-A0B3-5D46D0145223}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1003578830" Left="500" Top="179" Right="1393" Bottom="249" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="lpHeader" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelSystemAdministratorSSystemM" Key="{E3D96D4B-D980-47FD-8C13-1BB2BF306AB3}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1003578830" Left="500" Top="204" Right="1393" Bottom="249" />
+												<TypeInfo Item0="{3174BDB7-94F7-4CED-BE40-ABB01D7D4D62}" />
+												<Properties>
+													<Property Name="contentText">
+														<Value PropertyType="0" Value="System Administrator&apos;s System Management Area" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -429,7 +470,7 @@
 			</Child>
 			<Child Name="BrowserWindow" Owner="{F5650731-7275-4824-BCAB-57CD61A2C531}" />
 			<Child Name="BrowserWindow2" Owner="{1020F675-9804-4614-92C1-607FF2BEA539}" />
-			<Child Name="pageEsgi" Owner="{33B27F44-F7B7-4DCD-B6A4-976AA91F0325}">
+			<Child Name="ESGILandingPage" Owner="{33B27F44-F7B7-4DCD-B6A4-976AA91F0325}">
 				<Child Name="panelLpcenterheaderlefttitles" Owner="{9E49E0A6-599E-40A7-AF8B-BC4B8D8818DA}">
 					<Child Name="panelMasterPage" Owner="{4C0423CF-8E6B-4F2A-B5E8-02A14254B6E0}">
 						<Child Name="panel" Owner="{51AF7117-FDCA-4D30-81AA-E512E24C48F7}">
@@ -443,11 +484,17 @@
 				<Child Name="linkEdit" Owner="{7C6F963A-CC52-4CBE-A359-DB67F7F1F7D4}" />
 				<Child Name="panelModalForm" Owner="{38506BBC-59CF-4127-9E1E-4F056BF38689}">
 					<Child Name="buttonRunReport" Owner="{B3808AB6-2074-4ED4-802B-EB3590192248}" />
+					<Child Name="buttonNext" Owner="{BD38BEAC-9DA7-401F-A536-84BD298CB231}" />
 				</Child>
 				<Child Name="panelGraderepbut" Owner="{12831199-18CD-4476-BCEB-3D503D14FB3D}">
 					<Child Name="vgIcon" Owner="{87E5A35C-BF12-4C09-A0FC-2AB0A0A07100}">
 						<Child Name="vgClassGradeReport" Owner="{908EACC4-0C9B-4EC7-BEEB-D921F2349DFF}" />
 					</Child>
+				</Child>
+			</Child>
+			<Child Name="ESGISALandingPage" Owner="{7D465283-82E0-469F-8FBC-FEF3FE9D1292}">
+				<Child Name="panelLpheader" Owner="{5A824791-6055-4B8F-A0B3-5D46D0145223}">
+					<Child Name="SATitle" Owner="{E3D96D4B-D980-47FD-8C13-1BB2BF306AB3}" />
 				</Child>
 			</Child>
 		</Child>
