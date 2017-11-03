@@ -49,6 +49,9 @@
 		<child name="Logins_Test1_Copy" key="{8CCD6F68-8C7B-4824-A072-45890990B095}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Logins_Test1_Copy\Logins_Test1_Copy.mds" />
 		</child>
+		<child name="NewSchool" key="{C2E20841-B67F-4E02-829E-21199F4794EE}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="NewSchool\NewSchool.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{CC4764DC-2E61-43FF-B57A-364A5A503E14}">
@@ -69,6 +72,7 @@
 			<testItem key="{F2F67E0C-565F-48A1-840E-594171C820A2}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{9AD4FE30-9278-4CF0-B500-21953045BDFA}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{8CCD6F68-8C7B-4824-A072-45890990B095}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{C2E20841-B67F-4E02-829E-21199F4794EE}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{296C9EB3-4A1A-4FF7-B2AA-679ED0C07AAC}">
