@@ -317,18 +317,6 @@
 											</Child>
 										</Children>
 									</Child>
-									<Child Name="linkEdit" Key="{7C6F963A-CC52-4CBE-A359-DB67F7F1F7D4}" ExtendedFind="True" ParallelWalk="True">
-										<Image FileName="-519663836" Left="670" Top="796" Right="692" Bottom="813" />
-										<TypeInfo Item0="{3174BDB7-94F7-4CED-BE40-ABB01D7D4D62}" />
-										<Properties>
-											<Property Name="ObjectType">
-												<Value PropertyType="0" Value="Link" Type="5" />
-											</Property>
-											<Property Name="href">
-												<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Students&apos;,%203591501);void(0);" Type="5" />
-											</Property>
-										</Properties>
-									</Child>
 									<Child Name="panelModalForm" Key="{38506BBC-59CF-4127-9E1E-4F056BF38689}" ExtendedFind="True" ParallelWalk="True">
 										<Image FileName="456242896" Left="9" Top="74" Right="1911" Bottom="1021" />
 										<Properties>
@@ -503,10 +491,6 @@
 						</Child>
 					</Child>
 				</Child>
-				<Child Name="formAddeditstudentform" Owner="{5442D84F-6003-453E-8157-ADA1B5E458CB}">
-					<Child Name="buttonRemoveThisStudentFromMyLis" Owner="{81AD922A-2F76-4999-B2BE-148058173B03}" />
-				</Child>
-				<Child Name="linkEdit" Owner="{7C6F963A-CC52-4CBE-A359-DB67F7F1F7D4}" />
 				<Child Name="panelModalForm" Owner="{38506BBC-59CF-4127-9E1E-4F056BF38689}">
 					<Child Name="buttonRunReport" Owner="{B3808AB6-2074-4ED4-802B-EB3590192248}" />
 					<Child Name="buttonNext" Owner="{BD38BEAC-9DA7-401F-A536-84BD298CB231}" />
