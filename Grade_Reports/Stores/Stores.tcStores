@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" version="12.0">
+	<children>
+		<child name="WebTesting" key="{E49230E3-2FB3-4914-8BEB-FF7C7BCFA4B4}" type="Web Testing" typeId="{B205BEB2-E15D-463E-8F95-9AF50A3E8F46}" pluginName="Web Checkpoints">
+			<data path="WebTesting\WebTesting.tcWtc" />
+		</child>
+		<child name="Regions" key="{961EBF2B-CEBA-4E74-8993-11BCF1B794DC}" type="Regions" typeId="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" pluginName="Stores">
+			<data path="Regions.tcRegions" />
+		</child>
+	</children>
+	<folders />
+</Root>

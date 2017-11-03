@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="RunReport_SwitchSubjects" key="{D46DE354-89CC-426C-AB53-DF7CE52248DA}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RunReport_SwitchSubjects.tcKDTest" />
+		</child>
+		<child name="RunReport_SwitchToCurrent" key="{9E91CC5B-E997-4E67-AD64-F8E4990E3C41}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="..\..\Grading_Scales_Test1\KeywordTests\RunReport_SwitchToCurrent.tcKDTest" />
+		</child>
+		<child name="RunReport_ViewScalesSettings_ViewOnly" key="{1BABBFEE-5252-4AE1-9CC5-77AA8EA5BC09}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RunReport_ViewScalesSettings_ViewOnly.tcKDTest" />
+		</child>
+		<child name="RunReport_ViewScalesSettings_EditScale" key="{19F18B06-2462-432E-A3E0-320102D78BF6}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RunReport_ViewScalesSettings_EditScale.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="12.0">
+	<children>
+		<child name="vgClassGradeReport" key="{B107B98F-2BE4-4702-A85E-CEFAECDDBE12}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="vgClassGradeReport" ID="{B107B98F-2BE4-4702-A85E-CEFAECDDBE12}" FileName="Regions\vgClassGradeReport.png" Update="False" />
+		</child>
+		<child name="textnodeSetupGradingScales" key="{F1E5EE0C-24AB-4D75-8FD0-05F7FA47DC75}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeSetupGradingScales" ID="{F1E5EE0C-24AB-4D75-8FD0-05F7FA47DC75}" FileName="Regions\textnodeSetupGradingScales.png" Update="False" />
+		</child>
+		<child name="vgIcon" key="{BE31D26A-8CCA-424B-B691-3E8BD9DC4006}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="vgIcon" ID="{BE31D26A-8CCA-424B-B691-3E8BD9DC4006}" FileName="Regions\vgIcon.png" Update="False" />
+		</child>
+		<child name="panelScaleBoxContainer" key="{0E707C42-EC4C-4A7A-AB55-34D0B9F04388}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelScaleBoxContainer" ID="{0E707C42-EC4C-4A7A-AB55-34D0B9F04388}" FileName="Regions\panelScaleBoxContainer.png" Update="False" />
+		</child>
+		<child name="textnodeGradeReportName" key="{2C109CCD-7858-45EE-864B-871BABF83F43}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeGradeReportName" ID="{2C109CCD-7858-45EE-864B-871BABF83F43}" FileName="Regions\textnodeGradeReportName.png" Update="False" />
+		</child>
+		<child name="textnodeGradeReportName1" key="{5634FE66-7ADB-445D-B5CA-EC49BA3B9D4B}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeGradeReportName1" ID="{5634FE66-7ADB-445D-B5CA-EC49BA3B9D4B}" FileName="Regions\textnodeGradeReportName1.png" Update="False" />
+		</child>
+		<child name="select" key="{A4C0F959-0705-435D-90BE-934338C92A91}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="select" ID="{A4C0F959-0705-435D-90BE-934338C92A91}" FileName="Regions\select.png" Update="False" />
+		</child>
+	</children>
+	<folders />
+</Root>
