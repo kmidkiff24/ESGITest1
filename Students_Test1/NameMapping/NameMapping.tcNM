@@ -3070,11 +3070,17 @@
 													</Property>
 												</Properties>
 											</Child>
-											<Child Name="linkSubjectName" Key="{51D99270-451E-4CDF-BD39-F5D6A1B55BB2}" ExtendedFind="True" ParallelWalk="True">
+											<Child Name="StudentNameBrettYoung" Key="{51D99270-451E-4CDF-BD39-F5D6A1B55BB2}" ExtendedFind="True" ParallelWalk="True">
 												<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
 												<Properties>
 													<Property Name="ObjectType">
 														<Value PropertyType="0" Value="Link" Type="5" />
+													</Property>
+													<Property Name="contentText">
+														<Value PropertyType="0" Value="Brett*" Type="5" />
+													</Property>
+													<Property Name="outerHTML">
+														<Value PropertyType="0" Value="*Students*" Type="5" />
 													</Property>
 												</Properties>
 											</Child>
@@ -3921,12 +3927,18 @@
 											</Property>
 										</Properties>
 									</Child>
-									<Child Name="SightWordsTab" Key="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" ExtendedFind="True" ParallelWalk="True">
+									<Child Name="EditStudentBrettYoung" Key="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" ExtendedFind="True" ParallelWalk="True">
 										<Image FileName="1775295304" Left="945" Top="314" Right="1027" Bottom="333" />
 										<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
 										<Properties>
 											<Property Name="ObjectType">
 												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Edit" Type="5" />
+											</Property>
+											<Property Name="outerHTML">
+												<Value PropertyType="0" Value="*Students*" Type="5" />
 											</Property>
 										</Properties>
 									</Child>
@@ -8600,7 +8612,7 @@
 									</Child>
 									<Child Name="PleaseConfirmYourTimeZoneDropdown" Owner="{D0B43E10-A3A8-4F60-92A0-14BABB094774}" />
 								</Child>
-								<Child Name="SightWordsTab" Owner="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" />
+								<Child Name="EditStudentBrettYoung" Owner="{9D8CF7CF-8057-4181-97FC-5E1EBCB65885}" />
 							</Child>
 							<Child Name="StudentCounter" Owner="{D3F3E2C3-ACEF-47C7-8ECD-1A35F682275E}" />
 							<Child Name="panelCreateGroup" Owner="{401172F9-489F-4BBF-A5DF-E33EDBF3FF31}" />
@@ -8861,7 +8873,7 @@
 					</Child>
 					<Child Name="LostPasswordLink" Owner="{56C16869-DA1A-41F8-B35C-CFA358DAFF11}" />
 					<Child Name="AddTeacherLink" Owner="{D372A323-0C25-4B83-8C52-84DC4E6FFEAA}" />
-					<Child Name="linkSubjectName" Owner="{51D99270-451E-4CDF-BD39-F5D6A1B55BB2}" />
+					<Child Name="StudentNameBrettYoung" Owner="{51D99270-451E-4CDF-BD39-F5D6A1B55BB2}" />
 					<Child Name="passwordboxPassword" Owner="{2C06EF6F-CF48-4BA0-A9EC-E374AA401D2C}" />
 					<Child Name="labelPassword" Owner="{75F38A5A-B243-4CCB-8C83-02D4DA57DD55}">
 						<Child Name="PieChartReportShowEachStudentCheckbox" Owner="{35022986-B162-405C-AB24-CB432594404A}" />
