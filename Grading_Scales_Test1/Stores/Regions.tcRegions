@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="12.0">
+	<children>
+		<child name="textnodeGradeReportName" key="{9BAE1E15-6736-41D5-9263-306E1958265C}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeGradeReportName" ID="{9BAE1E15-6736-41D5-9263-306E1958265C}" FileName="Regions\textnodeGradeReportName.png" Update="False" />
+		</child>
+		<child name="panelMrAutomationSClassSummary" key="{AC3A7100-3EB2-43F1-B95A-A1E14133F320}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelMrAutomationSClassSummary" ID="{AC3A7100-3EB2-43F1-B95A-A1E14133F320}" FileName="Regions\panelMrAutomationSClassSummary.png" Update="False" />
+		</child>
+		<child name="panelMainLogo" key="{94772EE0-FD56-4A6A-8D0A-CE4A61EED2B7}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelMainLogo" ID="{94772EE0-FD56-4A6A-8D0A-CE4A61EED2B7}" FileName="Regions\panelMainLogo.png" Update="False" />
+		</child>
+		<child name="textnodeGradeReportName1" key="{81CA3BC5-C854-4B31-9941-F3F34F386EF0}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeGradeReportName1" ID="{81CA3BC5-C854-4B31-9941-F3F34F386EF0}" FileName="Regions\textnodeGradeReportName1.png" Update="False" />
+		</child>
+		<child name="panelMrAutomationSClassSummary1" key="{6021264C-B932-4681-8A1A-0E6CCFDEA04D}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelMrAutomationSClassSummary1" ID="{6021264C-B932-4681-8A1A-0E6CCFDEA04D}" FileName="Regions\panelMrAutomationSClassSummary1.png" Update="False" />
+		</child>
+		<child name="textnodeGradeReportName2" key="{37621D93-EC0F-4180-BEFF-12A5FAF551CA}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeGradeReportName2" ID="{37621D93-EC0F-4180-BEFF-12A5FAF551CA}" FileName="Regions\textnodeGradeReportName2.png" Update="False" />
+		</child>
+		<child name="panelMrAutomationSClassSummary2" key="{900F8248-790F-4FAA-9F5B-B0168A867756}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelMrAutomationSClassSummary2" ID="{900F8248-790F-4FAA-9F5B-B0168A867756}" FileName="Regions\panelMrAutomationSClassSummary2.png" Update="False" />
+		</child>
+		<child name="textnodeGradeReportName3" key="{2D71BD04-B05D-4504-B354-7D73ABCBEC5F}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeGradeReportName3" ID="{2D71BD04-B05D-4504-B354-7D73ABCBEC5F}" FileName="Regions\textnodeGradeReportName3.png" Update="False" />
+		</child>
+		<child name="textnodeGradeReportName4" key="{B7149A05-7821-4997-B846-04DEA746349F}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeGradeReportName4" ID="{B7149A05-7821-4997-B846-04DEA746349F}" FileName="Regions\textnodeGradeReportName4.png" Update="False" />
+		</child>
+		<child name="textnodeGradeReportName5" key="{96F4FA77-C778-429D-9708-3ED745C4203F}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textnodeGradeReportName5" ID="{96F4FA77-C778-429D-9708-3ED745C4203F}" FileName="Regions\textnodeGradeReportName5.png" Update="False" />
+		</child>
+		<child name="panelBottom" key="{F4A4BA6E-CA06-4102-AFCD-C2A0698D19BF}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelBottom" ID="{F4A4BA6E-CA06-4102-AFCD-C2A0698D19BF}" FileName="Regions\panelBottom.png" Update="False" />
+		</child>
+		<child name="panel" key="{CF425990-22CA-4B94-9CF7-ABD9586631CB}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panel" ID="{CF425990-22CA-4B94-9CF7-ABD9586631CB}" FileName="Regions\panel.png" Update="False" />
+		</child>
+		<child name="panel1" key="{270D9FF8-DEB7-40A6-84F0-8B1B23A7EA4E}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panel1" ID="{270D9FF8-DEB7-40A6-84F0-8B1B23A7EA4E}" FileName="Regions\panel1.png" Update="False" />
+		</child>
+		<child name="panelGraderepbut" key="{34C37133-EB37-4A18-B99F-06BBDD377E92}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="panelGraderepbut" ID="{34C37133-EB37-4A18-B99F-06BBDD377E92}" FileName="Regions\panelGraderepbut.png" Update="False" />
+		</child>
+	</children>
+	<folders />
+</Root>

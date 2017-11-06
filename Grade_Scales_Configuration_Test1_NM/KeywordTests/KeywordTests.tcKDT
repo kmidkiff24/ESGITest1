@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="Grade_Scales_Button_ExistsClick_NM" key="{35798996-276F-4EFD-B7A4-B9D0E4770483}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Grade_Scales_Button_ExistsClick_NM.tcKDTest" />
+		</child>
+		<child name="Grade_Scales_Wizard_RunReport_Step3_NM" key="{25DCEB04-EF7F-40BE-9E8E-7DB74372B096}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Grade_Scales_Wizard_RunReport_Step3_NM.tcKDTest" />
+		</child>
+		<child name="Grade_Scales_RunReport_ConfigScreen_NM" key="{0F62571B-259F-4BD1-AFD8-9445EEC5022B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Grade_Scales_RunReport_ConfigScreen_NM.tcKDTest" />
+		</child>
+		<child name="Grade_Scales_SwitchSubjectTabs_RunReport_NM" key="{9FA7076F-DA60-4C78-BC9E-F74CA0A77130}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Grade_Scales_SwitchSubjectTabs_RunReport_NM.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

@@ -4,8 +4,14 @@
 		<child name="Grade_Scales_Button_Exists" key="{B4F2B5BF-2266-431E-8D5E-DB2672307D0A}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="Grade_Scales_Button_Exists.tcKDTest" />
 		</child>
-		<child name="Grade_Scales_Wizard_Completion" key="{A6DDE7B9-B239-4F28-8BA9-C2E2400ACA22}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="Grade_Scales_Wizard_Completion.tcKDTest" />
+		<child name="Grade_Scales_RunReport_Step3" key="{2039E28B-C6F6-4D70-824E-13E0C9C5E00B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Grade_Scales_RunReport_Step3.tcKDTest" />
+		</child>
+		<child name="Grade_Scales_RunReport_Config" key="{B9CF18B5-A17C-45ED-AE90-74BFE2543DCD}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Grade_Scales_RunReport_Config.tcKDTest" />
+		</child>
+		<child name="Grade_Scales_Edit_Grade_Scale" key="{E0273ED9-4055-4EB0-9C71-E76511DFBFB9}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Grade_Scales_Edit_Grade_Scale.tcKDTest" />
 		</child>
 	</children>
 	<folders />
