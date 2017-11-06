@@ -10,6 +10,15 @@
 		<child name="AdminLogin_New" key="{DDA089C1-D40C-458B-B657-D15205A184EC}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AdminLogin_New.tcKDTest" />
 		</child>
+		<child name="LoginwithClick_New" key="{18A33757-1F6B-445E-9006-E3013B00452F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="LoginwithClick_New.tcKDTest" />
+		</child>
+		<child name="LoginwithTab_New" key="{A4AB78CD-2DCE-4E5B-A8C0-5FF4172808D3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="LoginwithTab_New.tcKDTest" />
+		</child>
+		<child name="LoginwithEnter_New" key="{9FDECE34-EC70-41D2-8BEE-C6D552293672}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="LoginwithEnter_New.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
