@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="2" key="{FA54CDF5-E0D4-4A75-ACCF-193E71E271C8}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="2" key="{3F97666D-9F7E-4A98-AEEF-A2A68C48D4FC}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
 	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
 	<testData />
 	<data />
 	<children>
-		<child key="{DA3CBB61-3DA0-4853-9ED8-3F7ED4D2C63A}" type="Event control" typeId="{8A98BAC4-2A89-4883-AAE7-F07337DF59D1}">
-			<config nodeName="GeneralEvents" lastOpenedTLB="" generatedCLSID="{A47F20DA-AC8C-4122-B46D-8D919B41F4E0}" generatedTLBKey="{CED4CDC0-80D7-4C48-A298-799A6BF70291}" generatedEventsKey="{BB277BA0-E962-4120-B40C-D2B30F939E53}" generatedTLBDesc="TestComplete GeneralEvents Control - 11/6/2017 9:44:53 AM">
+		<child key="{5D2F7D74-8E5E-4596-AAA3-3C0209632BAD}" type="Event control" typeId="{8A98BAC4-2A89-4883-AAE7-F07337DF59D1}">
+			<config nodeName="GeneralEvents" lastOpenedTLB="" generatedCLSID="{950C5472-A60F-468E-8CC1-FE110B0017D9}" generatedTLBKey="{C5CDB4B5-6BF4-4F27-A244-340EC15F4023}" generatedEventsKey="{3EED3D56-CA98-4993-A934-8FFD7C21DEBE}" generatedTLBDesc="TestComplete GeneralEvents Control - 11/6/2017 12:12:55 PM">
 				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743820" infoControlName="General Events" infoEventName="OnTimeout" infoEventRealName="OnTimeout" infoDescription="Occurs when a timeout expires in a project or in a project suite." />
 				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743819" infoControlName="General Events" infoEventName="OnOverlappingWindow" infoEventRealName="OnOverlappingWindow" infoDescription="Occurs when an overlapping window appears." />
 				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743818" infoControlName="General Events" infoEventName="OnUnexpectedWindow" infoEventRealName="OnUnexpectedWindow" infoDescription="Occurs when an unexpected window appears." />
