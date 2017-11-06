@@ -46,11 +46,17 @@
 		<child name="Grade_Scales_Configuration_Test1_NM" key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Grade_Scales_Configuration_Test1_NM\Grade_Scales_Configuration_Test1_NM.mds" />
 		</child>
-		<child name="Logins_Test1_Copy" key="{8CCD6F68-8C7B-4824-A072-45890990B095}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Logins_Test1_Copy\Logins_Test1_Copy.mds" />
+		<child name="Logins_Test1_New" key="{8CCD6F68-8C7B-4824-A072-45890990B095}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Logins_Test1_Copy\Logins_Test1_New.mds" />
 		</child>
 		<child name="NewSchool" key="{C2E20841-B67F-4E02-829E-21199F4794EE}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="NewSchool\NewSchool.mds" />
+		</child>
+		<child name="Testing_New" key="{7A218640-550D-422A-BD05-333CC9661E50}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Testing_New\Testing_New.mds" />
+		</child>
+		<child name="Students_New" key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Students_New\Students_New.mds" />
 		</child>
 	</children>
 	<folders />
@@ -73,6 +79,8 @@
 			<testItem key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{8CCD6F68-8C7B-4824-A072-45890990B095}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{C2E20841-B67F-4E02-829E-21199F4794EE}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{7A218640-550D-422A-BD05-333CC9661E50}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{B1BD2F0F-546B-461F-92E7-C9FF0F742895}">

@@ -4,6 +4,9 @@
 		<child name="AddSchool" key="{EDC68294-ED78-48C5-9DFA-525D055B5907}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AddSchool.tcKDTest" />
 		</child>
+		<child name="DeleteSchool" key="{8648DB67-0378-4597-900E-18A55E03331A}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="DeleteSchool.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
