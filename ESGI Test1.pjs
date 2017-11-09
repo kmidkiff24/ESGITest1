@@ -61,8 +61,8 @@
 		<child name="Group_New" key="{028C5B60-846C-41CD-86FA-44DE0001D44C}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Group_New\Group_New.mds" />
 		</child>
-		<child name="ActivationCodes" key="{7611FD5A-252E-4B0D-BF27-3FF28C5BAE33}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="ActivationCodes\ActivationCodes.mds" />
+		<child name="ActivationCodes_New" key="{7611FD5A-252E-4B0D-BF27-3FF28C5BAE33}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="ActivationCodes\ActivationCodes_New.mds" />
 		</child>
 	</children>
 	<folders />
