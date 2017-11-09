@@ -23,7 +23,24 @@
 	</folders>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{3F5A3391-CB5A-4B71-97B8-53123ED8B14E}">
-		<children />
+		<children>
+			<testItem name="ProjectTestItem1" key="{EC68018E-AF65-4C8F-B87D-0C3AD338D08F}" group="False" enabled="True" testMoniker="KDT\{47ADA35F-F990-4D7A-8094-49D14069850F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem2" key="{BCFFFBE9-9B87-4192-8879-FB623E82371B}" group="False" enabled="True" testMoniker="KDT\{1E7D383E-2EE0-4D8B-B760-96F3F4D1FE68}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem3" key="{DC4D0D69-C577-4810-A804-23B3C9B73BC2}" group="False" enabled="True" testMoniker="KDT\{C3CA948A-572B-408F-A97A-793ECF60A9E1}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem4" key="{9DFE29D7-7199-467F-83FD-2C13F4B9FF64}" group="False" enabled="True" testMoniker="KDT\{1F6C95A7-260E-4F47-A00A-BB4D9AFC813B}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{022ECA8E-8DB6-40D1-A479-F9718CF73901}">
 		<data Version="3" />
