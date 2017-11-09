@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="NewUserFirstYearCode" key="{7CDEF41E-9A20-4AAA-B134-9717D0388156}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="NewUserFirstYearCode.tcKDTest" />
+		</child>
+		<child name="TrialUserApplyAC" key="{D33905AC-3995-488E-81FD-30374935CE13}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TrialUserApplyAC.tcKDTest" />
+		</child>
+		<child name="UserApplyAC" key="{529DA467-87C7-4FAA-8515-B895A37CD149}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="UserApplyAC.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

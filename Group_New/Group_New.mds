@@ -1,59 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="12.0">
 	<children>
-		<child name="Stores" key="{CE2A784D-37D3-4B3D-9C72-D5114334010D}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores">
-			<data path="Stores\Stores.tcStores" />
+		<child name="Events" key="{7C97586F-28BE-420D-A24C-2E652D033BB5}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" pluginName="">
+			<data path="Events\Events.tcAX" />
 		</child>
-		<child name="TestedApps" key="{F991E4F1-D549-44D6-8C6E-24E4CFEDF2F3}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="">
-			<data path="TestedApps\TestedApps.tcTAs" />
+		<child name="Script" key="{680872B7-44AA-4CE1-8687-90E1B96CA7BA}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script">
+			<data path="Script\Script.tcScript" />
 		</child>
-		<child name="NameMapping" key="{B66BD482-C06F-4123-997F-CCAC252F29D7}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping">
-			<data path="NameMapping\NameMapping.tcNM" />
-		</child>
-		<child name="KeywordTests" key="{CEED1F55-9327-4945-A9E9-061043A72059}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing">
+		<child name="KeywordTests" key="{ACA77783-C6FB-4686-8D75-060EACC41618}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing">
 			<data path="KeywordTests\KeywordTests.tcKDT" />
+		</child>
+		<child name="NameMapping" key="{7756B517-4D18-4EDF-AEED-7D382FD36A10}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping">
+			<data path="NameMapping\NameMapping.tcNM" />
 		</child>
 	</children>
 	<folders>
-		<folder caption="Test1" description="A logical folder that is used to organize project items and elements." moniker="">
+		<folder caption="Advanced" description="A logical folder that is used to organize project items and elements." moniker="{69583268-92F3-49FA-B573-C831F5ABC27B}">
 			<references>
-				<ref key="{CEED1F55-9327-4945-A9E9-061043A72059}" />
+				<ref key="{7C97586F-28BE-420D-A24C-2E652D033BB5}" />
+				<ref key="{680872B7-44AA-4CE1-8687-90E1B96CA7BA}" />
 			</references>
 		</folder>
 	</folders>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
-	<testItems key="{B433DC20-5CF3-4BA6-9106-D183E6642847}">
+	<testItems key="{36567AF7-0652-4362-A61F-2B0A3D57B2A5}">
 		<children>
-			<testItem name="AddGroup" key="{DD4594CD-D9E7-4969-B43F-57FB73437BA8}" group="False" enabled="True" testMoniker="KDT\{837CCE0E-B1D9-497C-872F-EF801C7C0C77}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem5" key="{7834A65D-2BFA-4442-B466-ECDE8B2BDE11}" group="False" enabled="False" testMoniker="KDT\{2135040B-438C-42C6-9B97-014F09F33391}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem6" key="{5148D730-25D1-4756-873C-6430C564862B}" group="False" enabled="True" testMoniker="KDT\{D4FFC78D-14EB-4F3E-8C7E-C3B9712BD122}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem8" key="{5A2EBAE8-0E82-4A46-AFD8-F818422161F2}" group="False" enabled="False" testMoniker="KDT\{39606D29-CB6B-4A8A-8D86-2AA53BCDD08C}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem21" key="{2BB8E842-717D-43FA-897B-2B790488AC82}" group="False" enabled="True" testMoniker="KDT\{712E53EA-976E-4782-ADF3-3BD35C4E7F8E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem1" key="{66C41AE5-B004-4867-B381-E4E51E4BBCA2}" group="False" enabled="False" testMoniker="" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem1" key="{A4A0D99D-3084-4669-9DB6-1B765DA68ED3}" group="False" enabled="True" testMoniker="KDT\{7DCB3049-8460-4E4A-B5C1-EC22224FC143}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
 		</children>
 	</testItems>
-	<variables key="{BB3C661B-C2EC-4D4D-B1AB-91B970D13CBA}">
+	<variables key="{4B38F4F7-760C-4C7A-BF04-6CE64C5DC5B9}">
 		<data Version="3" />
 	</variables>
-	<settings key="{9D99D321-C68A-41C2-A370-DFCE92488934}">
+	<settings key="{B2FF5856-3E99-4ECF-9BB6-6393F7D1A429}">
 		<settingsVersion value="12.40" />
 		<setting name="{42651A7C-4287-4C91-AE26-98CBD2EA9355}" type="1" value="False" />
 		<setting name="{A2568CC8-7E8E-42C5-A87D-B69684A1E616}" type="1" value="True" />
@@ -93,7 +74,7 @@
 		<setting name="{A4D0B1B0-14DA-4AFA-8AFC-E82D0400E7E9}" type="1" value="True" />
 		<setting name="{542B9FA0-35EA-4C4D-BF0B-661005CB94E9}" type="2" value="60000" />
 		<setting name="CountProcessesOfAllUsers" type="1" value="True" />
-		<setting name="{949057FA-CBDC-4A23-BB7F-9A25DCAE8729}" type="6" rowIndex="0" colIndex="0">
+		<setting name="{949057FA-CBDC-4A23-BB7F-9A25DCAE8729}" type="6" rowIndex="1" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
 			</columns>
@@ -124,7 +105,7 @@
 		<setting name="{DF56DCEA-130B-4D36-8893-5FDC090AFB17}" type="1" value="False" />
 		<setting name="{829BC6CA-56D1-46A4-89B9-E15802964005}" type="1" value="False" />
 		<setting name="{85CD048A-29FF-4ABF-95A6-B915AEA2C10D}" type="1" value="False" />
-		<setting name="{2044DC7F-423E-4668-8114-68D23AE97AD6}" type="2" value="1000" />
+		<setting name="{2044DC7F-423E-4668-8114-68D23AE97AD6}" type="2" value="50" />
 		<setting name="Recording_TestedAppsOnly" type="1" value="False" />
 		<setting name="{FB1CAF99-7FA6-447C-B963-D862CA8BFF89}" type="2" value="3000" />
 		<setting name="{3B76535B-58AD-456C-837E-091A5C480F6C}" type="1" value="True" />
@@ -240,7 +221,7 @@
 			</columns>
 			<data />
 		</setting>
-		<setting name="{A892B59C-EC27-4ABB-8305-4F885C9BC8CA}" type="6" rowIndex="0" colIndex="0">
+		<setting name="{A892B59C-EC27-4ABB-8305-4F885C9BC8CA}" type="6" rowIndex="1" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
 			</columns>
@@ -306,24 +287,15 @@
 		</setting>
 		<setting name="ApplicationHangingTimeout" type="2" value="30000" />
 		<setting name="{C371F52C-2F81-459B-8A40-380AAA4FB590}" type="1" value="True" />
-		<setting name="{EF65967B-5D67-41D0-9E90-1E07D7ECE759}" type="6" rowIndex="13" colIndex="0">
+		<setting name="{EF65967B-5D67-41D0-9E90-1E07D7ECE759}" type="6" rowIndex="4" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
 			</columns>
 			<data>
 				<row val0="NativeSlObject" />
 				<row val0="NativeWebObject" />
-				<row val0="NativeVBObject" />
-				<row val0="NativeDelphiObject" />
-				<row val0="NativeTextObject" />
-				<row val0="NativeJavaObject" />
 				<row val0="NativeChromeObject" />
-				<row val0="NativeClrObject" />
-				<row val0="NativeCPPObject" />
 				<row val0="NativeFirefoxObject" />
-				<row val0="NativeJavaFXObject" />
-				<row val0="NativeQtObject" />
-				<row val0="NativeUIAObject" />
 				<row val0="NativeMSAA" />
 			</data>
 		</setting>
@@ -345,7 +317,7 @@
 		<setting name="{E5242A20-9B70-4540-AEFD-7012791D3284}" type="1" value="True" />
 		<setting name="{D80391D4-892F-4CEC-865E-B7FACB3FAC84}" type="2" value="10" />
 		<setting name="MouseMovementDelay" type="2" value="0" />
-		<setting name="{A383BA1A-68CF-40AE-9FCD-B3E554E9ADD7}" type="6" rowIndex="0" colIndex="0">
+		<setting name="{A383BA1A-68CF-40AE-9FCD-B3E554E9ADD7}" type="6" rowIndex="1" colIndex="0">
 			<columns>
 				<column type="5" enabled="True" />
 			</columns>
@@ -358,7 +330,7 @@
 		<setting name="AgOpenApp_ExtendedSilverlightObjectTree" type="1" value="False" />
 		<setting name="StandaloneServerAdditionalOptions" type="5" value="" />
 		<setting name="{0787AA13-4C49-418A-A688-B23BE9F226F4}" type="1" value="False" />
-		<setting name="{DB42CEAB-BFC4-40DB-9F48-9197D35FB5E2}" type="6" rowIndex="30" colIndex="4">
+		<setting name="{DB42CEAB-BFC4-40DB-9F48-9197D35FB5E2}" type="6" rowIndex="30" colIndex="9">
 			<columns>
 				<column type="2" enabled="True" />
 				<column type="2" enabled="True" />
@@ -426,16 +398,16 @@
 			</data>
 		</setting>
 	</settings>
-	<analysis key="{1B65249E-1454-41E1-A826-79F240421D11}" />
+	<analysis key="{28CE43B7-84AF-42CA-89CB-C2A2A3D9092C}" />
 	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
 		<data />
 	</scc>
-	<issueTracking key="{A3D87E00-16F2-4DC2-9B35-79DCF5B406A9}">
+	<issueTracking key="{B2E22820-8C43-4DC5-B3FE-6EF6A6484635}">
 		<Templates>
 			<Template Id="{1EB17ADF-E4EB-404D-97DC-AD758A1E8C1D}" ConnectionId="{00000000-0000-0000-0000-000000000000}" Description="This template is used by TestComplete&apos;s Log subsystem to post test results to an issue-tracking system. You can also use it at your desire." Name="CreateWorkItem" IsSystem="True" ItemTypeName="" ProjectName="" IsEditing="False" ItemId="">
 				<Fields>
-					<Field ItemId="{DD238725-CF27-4A4A-8E97-47060FB4BF90}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Subject" />
-					<Field ItemId="{4997AD2E-AACF-4B62-B76C-3B674DD53139}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Description" />
+					<Field ItemId="{3FAFE160-7172-4A94-8523-2D2CC658637C}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Subject" />
+					<Field ItemId="{F97EB73A-249F-43DC-B3B1-DA53A26BAA75}" AliasIsRequired="True" DBFieldNameIsRequired="False" Value="" DBFieldName="" Alias="Description" />
 				</Fields>
 			</Template>
 		</Templates>
