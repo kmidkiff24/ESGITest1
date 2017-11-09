@@ -126,6 +126,78 @@
 																	</Child>
 																</Children>
 															</Child>
+															<Child Name="formRow" Key="{C5F8BF56-CB17-43E3-A9A3-EF713D888168}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="96528120" Left="1023" Top="122" Right="1645" Bottom="150" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Form" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelColMd5" Key="{53D04206-7904-4960-9D63-DCE316426478}" ParallelWalk="True">
+																		<Image FileName="96528120" Left="1023" Top="122" Right="1282" Bottom="150" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="textboxUsername" Key="{C212FA10-8E5A-45C6-9863-2921EB48BFEB}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="96528120" Left="1122" Top="122" Right="1260" Bottom="147" />
+																				<TypeInfo Item0="{A1FDA3A8-DF21-40ED-8D35-E8BF5C5EC523}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Textbox" Type="5" />
+																					</Property>
+																					<Property Name="idStr">
+																						<Value PropertyType="0" Value="user-name" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="panelColMd52" Key="{49E0823E-A9A5-49E4-BA4A-21AF228CA8DB}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="48161780" Left="1282" Top="122" Right="1541" Bottom="150" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="passwordboxPassword" Key="{8D6DFE19-A321-4218-A6DC-40D8F1B6AFED}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="48161780" Left="1381" Top="122" Right="1518" Bottom="147" />
+																				<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="PasswordBox" Type="5" />
+																					</Property>
+																					<Property Name="idStr">
+																						<Value PropertyType="0" Value="password" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="buttonLogin" Key="{3DB03859-1640-47DF-9606-FFBECDD4FDA2}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1908748281" Left="1541" Top="126" Right="1587" Bottom="149" />
+																		<TypeInfo Item0="{433AF4CA-481D-48FE-8214-CC9818F64DB7}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Button" Type="5" />
+																			</Property>
+																			<Property Name="idStr">
+																				<Value PropertyType="0" Value="loginButton" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -325,6 +397,55 @@
 																	</Child>
 																</Children>
 															</Child>
+															<Child Name="panelContainerquestion" Key="{47C6B8D5-C585-4168-9911-08B554453364}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-944370089" Left="762" Top="309" Right="1536" Bottom="848" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="containerQuestion" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="imageMediumPngTicks6360081587000" Key="{7F148348-25C0-4C7E-88BA-4E52800B74A1}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-450975176" Left="769" Top="475" Right="1011" Bottom="584" />
+																		<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Image" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="medium_png_ticks_636008158700000000" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="panelQuestionTag" Key="{86B0945B-1061-4C63-B19E-9EF6B88B44B7}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-944370089" Left="768" Top="443" Right="1009" Bottom="469" />
+																		<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="link" Key="{56C2B2ED-5A27-48AB-B58F-BFCFF8EADCAC}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1331655569" Left="985" Top="708" Right="1233" Bottom="738" />
+																<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Link" Type="5" />
+																	</Property>
+																	<Property Name="contentText">
+																		<Value PropertyType="0" Value="Edit" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -456,6 +577,105 @@
 															</Child>
 														</Children>
 													</Child>
+													<Child Name="panelColSm6HoverContainerPieChar" Key="{3B31DD39-7183-4978-8E46-B0C97E972A5A}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="740182858" Left="959" Top="502" Right="1241" Bottom="666" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="3" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelHoverOverlay" Key="{27783863-0565-436C-A041-42EA5EE9072F}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="740182858" Left="959" Top="502" Right="1241" Bottom="665" />
+																<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="panelColSm6HoverContainerPieChar2" Key="{43A6CB26-2832-4591-8F7F-90CECE9C80D0}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="2117649464" Left="959" Top="666" Right="1241" Bottom="830" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="5" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelHoverOverlay" Key="{ABE0B668-DB10-4AE9-85B9-E834450CB0A2}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="2117649464" Left="959" Top="666" Right="1241" Bottom="829" />
+																<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="linkEditTest" Key="{178DD0BD-A222-47C8-9AC1-4BFE6F0A6FCC}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1511880680" Left="965" Top="669" Right="984" Bottom="697" />
+																		<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="panelPieCharts" Key="{C0EF4F2D-D143-482E-B9C7-E4AADE6FD908}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="740182858" Left="678" Top="339" Right="1243" Bottom="859" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="pie-charts" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelColSm6HoverContainerPieChar" Key="{2E7A3232-A052-4FB6-B1E3-C212B0A4065B}" ParallelWalk="True">
+																<Image FileName="-857961384" Left="667" Top="502" Right="949" Bottom="666" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelHoverOverlay" Key="{BB7AD6FD-B84C-47B1-9266-87B21DEC1134}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-857961384" Left="9" Top="74" Right="9" Bottom="74" />
+																		<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="2" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
 												</Children>
 											</Child>
 										</Children>
@@ -498,6 +718,202 @@
 									</Property>
 								</Properties>
 							</Child>
+							<Child Name="pageTestExplorer" Key="{04E4A4AE-AB98-482A-B9C0-FDB09B2F4AF2}" ParallelWalk="True">
+								<Image FileName="1713504912" Left="9" Top="74" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/testexplorer.aspx*" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelMytests" Key="{0227472C-3EDC-4619-B34F-ADA62C19AF67}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1982460851" Left="30" Top="331" Right="238" Bottom="369" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="MyTests" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textnodeMyTests" Key="{3F8DA6EF-CBF9-4369-B7C7-74F63E5996CE}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1982460851" Left="47" Top="332" Right="146" Bottom="369" />
+												<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="TextNode" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="textnodeQcount" Key="{94FC86BF-69DC-4A44-8F02-77678FDFEDE2}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="415894580" Left="973" Top="183" Right="1073" Bottom="213" />
+										<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="TextNode" Type="5" />
+											</Property>
+											<Property Name="tagName">
+												<Value PropertyType="0" Value="SMALL" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="linkFilterMenuItem" Key="{5CD6D813-08F3-4D1E-BC00-B251A8ABC530}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="903080250" Left="9" Top="467" Right="259" Bottom="507" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="href">
+												<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/testexplorer.aspx#" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="By Content Area:" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textnodeByContentArea" Key="{74BD2E71-6B8C-4290-A9EA-293ED2904BA4}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="903080250" Left="67" Top="474" Right="243" Bottom="506" />
+												<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="TextNode" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="imageSmallPngTicks63628650875000" Key="{830F5057-FFD9-42E9-B8BE-452696B128F8}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1591461289" Left="309" Top="247" Right="409" Bottom="295" />
+										<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Image" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="small_png_ticks_636286508750000000" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="panelContainerquestion" Key="{BF4E5CC2-42C1-4DF0-A44A-14ECDEBD9F7A}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="768658331" Left="762" Top="314" Right="1536" Bottom="853" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="containerQuestion" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelToolsToolsLeft" Key="{47EC931C-38BB-4097-A6A1-D424C2ADC620}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="768658331" Left="769" Top="322" Right="799" Bottom="475" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="linkHelpToolTooltipInfo" Key="{E2DFD1AE-6B1C-49BE-9EAC-D52ECB397CA8}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="768658331" Left="769" Top="322" Right="799" Bottom="356" />
+														<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="linkHelpToolTooltipInfo2" Key="{BE275FBF-5091-47F4-BFE9-1F6C2A536180}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1553546205" Left="770" Top="356" Right="798" Bottom="389" />
+														<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="imageQuestioncardPngQuestionid64" Key="{1771BBCB-EAB2-46D6-9AA0-D8D2AAAC7471}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1258088362" Left="769" Top="322" Right="1011" Bottom="431" />
+												<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Image" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="questioncard_png_QuestionID_6494193_width_221_height_100_ticks_636458344230000000" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="buttonCopyTest" Key="{FB260768-0B04-4F7B-A989-F41D20C4F7E0}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-2129777449" Left="384" Top="435" Right="509" Bottom="473" />
+										<TypeInfo Item0="{433AF4CA-481D-48FE-8214-CC9818F64DB7}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Button" Type="5" />
+											</Property>
+											<Property Name="ObjectLabel">
+												<Value PropertyType="0" Value="Copy Test" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="linkGmUnit95KinderSnapshot" Key="{B540E9FF-A49E-4B69-B531-654B4C949F7E}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-124186149" Left="469" Top="241" Right="667" Bottom="295" />
+										<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="href">
+												<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/testexplorer.aspx#" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="GM Unit 9.5 Kinder Snapshot" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="modalPleaseEnterTheNewTestName" Key="{2698A33D-73A4-4109-B579-6634B24E5148}" ParallelWalk="True">
+										<Image FileName="-1413239721" Left="9" Top="74" Right="1911" Bottom="1021" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="modal-form" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow3" Key="{E1A6DBB2-302F-4EC0-B220-DC00715044F7}" ParallelWalk="True">
+								<Image FileName="1018455504" Left="0" Top="0" Right="968" Bottom="901" />
+								<TypeInfo Item0="{5DA6B492-EB69-439B-A20E-ACDBD15640F1}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="BrowserWindow" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="2" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -530,6 +946,15 @@
 									<Child Name="passwordboxPassword" Owner="{B8784C45-0A35-4C4C-8EB2-A4D12BF95740}" />
 								</Child>
 							</Child>
+							<Child Name="formRow" Owner="{C5F8BF56-CB17-43E3-A9A3-EF713D888168}">
+								<Child Name="panelColMd5" Owner="{53D04206-7904-4960-9D63-DCE316426478}">
+									<Child Name="textboxUsername" Owner="{C212FA10-8E5A-45C6-9863-2921EB48BFEB}" />
+								</Child>
+								<Child Name="panelColMd52" Owner="{49E0823E-A9A5-49E4-BA4A-21AF228CA8DB}">
+									<Child Name="passwordboxPassword" Owner="{8D6DFE19-A321-4218-A6DC-40D8F1B6AFED}" />
+								</Child>
+								<Child Name="buttonLogin" Owner="{3DB03859-1640-47DF-9606-FFBECDD4FDA2}" />
+							</Child>
 						</Child>
 					</Child>
 				</Child>
@@ -558,6 +983,11 @@
 									<Child Name="buttonSave" Owner="{9C7DD8E0-1189-4C7F-9D1B-CCBB82624E94}" />
 								</Child>
 							</Child>
+							<Child Name="panelContainerquestion" Owner="{47C6B8D5-C585-4168-9911-08B554453364}">
+								<Child Name="imageMediumPngTicks6360081587000" Owner="{7F148348-25C0-4C7E-88BA-4E52800B74A1}" />
+								<Child Name="panelQuestionTag" Owner="{86B0945B-1061-4C63-B19E-9EF6B88B44B7}" />
+							</Child>
+							<Child Name="link" Owner="{56C2B2ED-5A27-48AB-B58F-BFCFF8EADCAC}" />
 						</Child>
 					</Child>
 				</Child>
@@ -576,12 +1006,46 @@
 								</Child>
 							</Child>
 						</Child>
+						<Child Name="panelColSm6HoverContainerPieChar" Owner="{3B31DD39-7183-4978-8E46-B0C97E972A5A}">
+							<Child Name="panelHoverOverlay" Owner="{27783863-0565-436C-A041-42EA5EE9072F}" />
+						</Child>
+						<Child Name="panelColSm6HoverContainerPieChar2" Owner="{43A6CB26-2832-4591-8F7F-90CECE9C80D0}">
+							<Child Name="panelHoverOverlay" Owner="{ABE0B668-DB10-4AE9-85B9-E834450CB0A2}">
+								<Child Name="linkEditTest" Owner="{178DD0BD-A222-47C8-9AC1-4BFE6F0A6FCC}" />
+							</Child>
+						</Child>
+						<Child Name="panelPieCharts" Owner="{C0EF4F2D-D143-482E-B9C7-E4AADE6FD908}">
+							<Child Name="panelColSm6HoverContainerPieChar" Owner="{2E7A3232-A052-4FB6-B1E3-C212B0A4065B}">
+								<Child Name="panelHoverOverlay" Owner="{BB7AD6FD-B84C-47B1-9266-87B21DEC1134}" />
+							</Child>
+						</Child>
 					</Child>
 				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{1B7602E4-E938-4A07-91A1-215F39DFE0AB}" />
 			<Child Name="BrowserWindow2" Owner="{CE7EB3E0-90CF-495E-A162-41C0AABFDB93}" />
 			<Child Name="pageHttpsTest1EsgisoftwareComEsg" Owner="{8107CCCD-8BC5-4890-8820-0009312B074F}" />
+			<Child Name="pageTestExplorer" Owner="{04E4A4AE-AB98-482A-B9C0-FDB09B2F4AF2}">
+				<Child Name="panelMytests" Owner="{0227472C-3EDC-4619-B34F-ADA62C19AF67}">
+					<Child Name="textnodeMyTests" Owner="{3F8DA6EF-CBF9-4369-B7C7-74F63E5996CE}" />
+				</Child>
+				<Child Name="textnodeQcount" Owner="{94FC86BF-69DC-4A44-8F02-77678FDFEDE2}" />
+				<Child Name="linkFilterMenuItem" Owner="{5CD6D813-08F3-4D1E-BC00-B251A8ABC530}">
+					<Child Name="textnodeByContentArea" Owner="{74BD2E71-6B8C-4290-A9EA-293ED2904BA4}" />
+				</Child>
+				<Child Name="imageSmallPngTicks63628650875000" Owner="{830F5057-FFD9-42E9-B8BE-452696B128F8}" />
+				<Child Name="panelContainerquestion" Owner="{BF4E5CC2-42C1-4DF0-A44A-14ECDEBD9F7A}">
+					<Child Name="panelToolsToolsLeft" Owner="{47EC931C-38BB-4097-A6A1-D424C2ADC620}">
+						<Child Name="linkHelpToolTooltipInfo" Owner="{E2DFD1AE-6B1C-49BE-9EAC-D52ECB397CA8}" />
+						<Child Name="linkHelpToolTooltipInfo2" Owner="{BE275FBF-5091-47F4-BFE9-1F6C2A536180}" />
+					</Child>
+					<Child Name="imageQuestioncardPngQuestionid64" Owner="{1771BBCB-EAB2-46D6-9AA0-D8D2AAAC7471}" />
+				</Child>
+				<Child Name="buttonCopyTest" Owner="{FB260768-0B04-4F7B-A989-F41D20C4F7E0}" />
+				<Child Name="linkGmUnit95KinderSnapshot" Owner="{B540E9FF-A49E-4B69-B531-654B4C949F7E}" />
+				<Child Name="modalPleaseEnterTheNewTestName" Owner="{2698A33D-73A4-4109-B579-6634B24E5148}" />
+			</Child>
+			<Child Name="BrowserWindow3" Owner="{E1A6DBB2-302F-4EC0-B220-DC00715044F7}" />
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">
