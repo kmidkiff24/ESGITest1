@@ -52,7 +52,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="GotoESGIfromCMT" key="{25100A1A-1160-47CD-A81E-2D7DEB63623E}" group="False" enabled="True" testMoniker="KDT\{94CFAE74-737B-48B0-9BFD-E5242F047E75}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="GotoESGIfromCMT" key="{25100A1A-1160-47CD-A81E-2D7DEB63623E}" group="False" enabled="False" testMoniker="KDT\{94CFAE74-737B-48B0-9BFD-E5242F047E75}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>

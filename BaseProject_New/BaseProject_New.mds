@@ -37,6 +37,14 @@
 				<testParameters />
 				<children />
 			</testItem>
+			<testItem name="ProjectTestItem4" key="{D8DB0D02-97B9-4297-8648-37CBA1A9BF46}" group="False" enabled="True" testMoniker="KDT\{B9A79BD9-6D12-45DD-A7E5-8C5CB9C28476}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem5" key="{A5D9DE0A-1501-4C46-870F-0A156473AB6B}" group="False" enabled="True" testMoniker="KDT\{257D5053-3CF3-45FA-B04A-EE5108E3827B}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
 		</children>
 	</testItems>
 	<variables key="{F89EFA6B-47D2-49AA-8A43-C896DA047C9C}">

@@ -198,6 +198,54 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="panelLpcenterheaderlefttitles" Key="{5DE4BE77-0126-4323-A149-91C3444325BB}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1365867242" Left="750" Top="184" Right="1237" Bottom="293" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="lpCenterHeaderLeftTitles" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelMasterPage" Key="{C97F8775-3F05-4957-A82A-D02F43D4D947}" ParallelWalk="True">
+														<Image FileName="-1365867242" Left="750" Top="197" Right="1237" Bottom="280" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panel" Key="{A6497E99-6174-444C-93E5-32C8F00D64E0}" ParallelWalk="True">
+																<Image FileName="-1365867242" Left="750" Top="197" Right="1237" Bottom="280" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelMsMSClassSummary" Key="{6644DDA7-102A-4E8E-BDE7-8F4784FC1AD5}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-1365867242" Left="750" Top="197" Right="1237" Bottom="242" />
+																		<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -369,6 +417,180 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="CMTTest1HomePage" Key="{6A37B54C-2A01-4F7A-AF03-2EB08453DD78}" ParallelWalk="True">
+								<Image FileName="1503378642" Left="7" Top="106" Right="1913" Bottom="1023" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://cmttest1um.classmt.com/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="CMTHeader" Key="{02E7F14A-4DAF-42F3-87F4-A65B444EFAE7}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1503378642" Left="7" Top="106" Right="1892" Bottom="279" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Header" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="header" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="LoginRow" Key="{38E41D5C-A3D4-42DD-97ED-073A41EC1778}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1503378642" Left="1023" Top="122" Right="1645" Bottom="150" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Form" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="UsernameBox" Key="{56EC05F5-C596-42F6-9863-3B359DFCE2E7}" ParallelWalk="True">
+														<Image FileName="1503378642" Left="1023" Top="122" Right="1282" Bottom="150" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="textboxUsername" Key="{ECD17515-6FAE-4903-BA50-1AA554F62522}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1503378642" Left="1122" Top="123" Right="1260" Bottom="148" />
+																<TypeInfo Item0="{B3184938-BB39-4B42-8D8B-0DE9C6189C13}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="user-name" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="PasswordBox" Key="{26D4A880-6E51-478A-B4EA-AD3DBD22FA5C}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="2110033273" Left="1282" Top="122" Right="1541" Bottom="150" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="passwordboxPassword" Key="{8BB43C6B-1071-49A2-9F15-B910901E6450}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="2110033273" Left="1381" Top="123" Right="1518" Bottom="148" />
+																<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="PasswordBox" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="password" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="buttonLogin" Key="{DE0F91A8-A8E1-4A90-9328-62A0872DAC84}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1754051767" Left="1541" Top="125" Right="1586" Bottom="149" />
+														<TypeInfo Item0="{0AA232B5-6982-4417-BCD7-B02F4741F31A}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Button" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="loginButton" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="ClassManagementToolLandingPage" Key="{7809077E-AF1A-4720-BE52-F4E09F2C8E0A}" ParallelWalk="True">
+								<Image FileName="1497208945" Left="9" Top="74" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://cmttest1.classmt.com/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="CMTPanel" Key="{6ABED3C7-46D6-46E2-87CD-35EE9B732EC8}" ParallelWalk="True">
+										<Image FileName="2132588059" Left="9" Top="157" Right="1890" Bottom="1051" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="CMTHeader" Key="{F5004A4E-D62A-4929-929B-6108C3F24FB0}" ParallelWalk="True">
+												<Image FileName="2132588059" Left="24" Top="157" Right="1875" Bottom="228" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="CMTMenu" Key="{9EB126B8-F958-4C02-88DC-9B1C3B97E135}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="2132588059" Left="1322" Top="167" Right="1875" Bottom="226" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="2" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ESGIButton" Key="{F47A3C96-B335-49C7-B650-5690F40E8F98}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="2132588059" Left="1737" Top="163" Right="1822" Bottom="221" />
+																<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow3" Key="{55049253-6266-44B0-8A37-C48E78E3715F}" ParallelWalk="True">
+								<Image FileName="1213917241" Left="0" Top="0" Right="1920" Bottom="1030" />
+								<TypeInfo Item0="{6B601D63-3C18-49AE-AB47-08E42A2CAE5A}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="BrowserWindow" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="2" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -399,6 +621,13 @@
 				</Child>
 				<Child Name="TopCenterPanel" Owner="{ABA3935F-FCD0-497A-9DBF-C680C841DDD3}">
 					<Child Name="StudentCount" Owner="{6CB5C649-CF1E-4C4C-BABF-DFDC88E5D2BE}" />
+					<Child Name="panelLpcenterheaderlefttitles" Owner="{5DE4BE77-0126-4323-A149-91C3444325BB}">
+						<Child Name="panelMasterPage" Owner="{C97F8775-3F05-4957-A82A-D02F43D4D947}">
+							<Child Name="panel" Owner="{A6497E99-6174-444C-93E5-32C8F00D64E0}">
+								<Child Name="panelMsMSClassSummary" Owner="{6644DDA7-102A-4E8E-BDE7-8F4784FC1AD5}" />
+							</Child>
+						</Child>
+					</Child>
 				</Child>
 			</Child>
 			<Child Name="TestExplorer" Owner="{6595C54C-E9F8-4928-8103-AA1255ACDEDF}">
@@ -423,6 +652,29 @@
 					<Child Name="StudentExplorerAutomationTitle" Owner="{74206C29-6DDB-407D-AB05-808BC1F45FA3}" />
 				</Child>
 			</Child>
+			<Child Name="CMTTest1HomePage" Owner="{6A37B54C-2A01-4F7A-AF03-2EB08453DD78}">
+				<Child Name="CMTHeader" Owner="{02E7F14A-4DAF-42F3-87F4-A65B444EFAE7}">
+					<Child Name="LoginRow" Owner="{38E41D5C-A3D4-42DD-97ED-073A41EC1778}">
+						<Child Name="UsernameBox" Owner="{56EC05F5-C596-42F6-9863-3B359DFCE2E7}">
+							<Child Name="textboxUsername" Owner="{ECD17515-6FAE-4903-BA50-1AA554F62522}" />
+						</Child>
+						<Child Name="PasswordBox" Owner="{26D4A880-6E51-478A-B4EA-AD3DBD22FA5C}">
+							<Child Name="passwordboxPassword" Owner="{8BB43C6B-1071-49A2-9F15-B910901E6450}" />
+						</Child>
+						<Child Name="buttonLogin" Owner="{DE0F91A8-A8E1-4A90-9328-62A0872DAC84}" />
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="ClassManagementToolLandingPage" Owner="{7809077E-AF1A-4720-BE52-F4E09F2C8E0A}">
+				<Child Name="CMTPanel" Owner="{6ABED3C7-46D6-46E2-87CD-35EE9B732EC8}">
+					<Child Name="CMTHeader" Owner="{F5004A4E-D62A-4929-929B-6108C3F24FB0}">
+						<Child Name="CMTMenu" Owner="{9EB126B8-F958-4C02-88DC-9B1C3B97E135}">
+							<Child Name="ESGIButton" Owner="{F47A3C96-B335-49C7-B650-5690F40E8F98}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow3" Owner="{55049253-6266-44B0-8A37-C48E78E3715F}" />
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">
@@ -671,6 +923,76 @@
 					</Child>
 					<Child Name="ObjectGroupIndex" IsBasic="True" Data="ZI4L2L4ZOCZN">
 						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-933018160" Key="{0AA232B5-6982-4417-BCD7-B02F4741F31A}">
+			<Data Properties="1E4A1C4260FA8043A588D6829BE2E2AVFFFFFFFFFFFFFFFFV4LCZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ObjectLabel" Doc="Gets the label of the control." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
 					</Child>
 					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
 						<ReturnValue Param0="12" />

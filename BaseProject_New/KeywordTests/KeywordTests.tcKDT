@@ -13,6 +13,9 @@
 		<child name="NumberofStudents" key="{B9A79BD9-6D12-45DD-A7E5-8C5CB9C28476}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="NumberofStudents.tcKDTest" />
 		</child>
+		<child name="GotoESGIfromCMT" key="{257D5053-3CF3-45FA-B04A-EE5108E3827B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="GotoESGIfromCMT.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
