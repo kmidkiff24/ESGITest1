@@ -178,6 +178,28 @@
 											</Child>
 										</Children>
 									</Child>
+									<Child Name="TopCenterPanel" Key="{ABA3935F-FCD0-497A-9DBF-C680C841DDD3}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1495916773" Left="750" Top="184" Right="1400" Bottom="353" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="lpCenterTop" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="StudentCount" Key="{6CB5C649-CF1E-4C4C-BABF-DFDC88E5D2BE}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1495916773" Left="1269" Top="311" Right="1367" Bottom="332" />
+												<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="TextNode" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="TestExplorer" Key="{6595C54C-E9F8-4928-8103-AA1255ACDEDF}" ParallelWalk="True">
@@ -374,6 +396,9 @@
 						<Child Name="panelParentConferencer" Owner="{C28382F3-336C-48CC-BC31-19F76F61D72A}" />
 						<Child Name="panelStudentExplorer" Owner="{C68CC436-3DFD-47D8-8647-BB3F916DB98C}" />
 					</Child>
+				</Child>
+				<Child Name="TopCenterPanel" Owner="{ABA3935F-FCD0-497A-9DBF-C680C841DDD3}">
+					<Child Name="StudentCount" Owner="{6CB5C649-CF1E-4C4C-BABF-DFDC88E5D2BE}" />
 				</Child>
 			</Child>
 			<Child Name="TestExplorer" Owner="{6595C54C-E9F8-4928-8103-AA1255ACDEDF}">

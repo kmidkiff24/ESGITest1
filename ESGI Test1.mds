@@ -48,7 +48,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="NumberofStudents2" key="{AE24F503-885A-4A8B-A20D-301F0CB1C372}" group="False" enabled="True" testMoniker="KDT\{33CB2E85-2421-443E-9FD8-C38035317999}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="NumberofStudents2" key="{AE24F503-885A-4A8B-A20D-301F0CB1C372}" group="False" enabled="False" testMoniker="KDT\{33CB2E85-2421-443E-9FD8-C38035317999}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
