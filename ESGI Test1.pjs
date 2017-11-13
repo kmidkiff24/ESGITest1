@@ -64,6 +64,9 @@
 		<child name="ActivationCodes_New" key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ActivationCodes\ActivationCodes_New.mds" />
 		</child>
+		<child name="BaseProject_New" key="{7D2FEE71-E0D8-4658-AB50-653CBE9386AB}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="BaseProject_New\BaseProject_New.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{9D5A0B86-687A-40BE-A575-F85E64CE0E4D}">
@@ -89,6 +92,7 @@
 			<testItem key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{7D2FEE71-E0D8-4658-AB50-653CBE9386AB}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{20281421-E7DE-471B-9B13-73262B80700C}">
