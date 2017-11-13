@@ -4,6 +4,9 @@
 		<child name="TestExplorer" key="{51E0C9B0-34BA-44BF-A199-8F4A8E1B9C3B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="TestExplorer.tcKDTest" />
 		</child>
+		<child name="ParentConferencer" key="{D75AB490-655F-43C9-86C9-0565C58B2767}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ParentConferencer.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

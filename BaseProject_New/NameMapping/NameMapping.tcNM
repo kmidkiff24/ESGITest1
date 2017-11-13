@@ -150,6 +150,18 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="panelParentConferencer" Key="{C28382F3-336C-48CC-BC31-19F76F61D72A}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1883569436" Left="1275" Top="114" Right="1418" Bottom="140" />
+														<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="4" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
 												</Children>
 											</Child>
 										</Children>
@@ -230,6 +242,64 @@
 									</Property>
 								</Properties>
 							</Child>
+							<Child Name="pageEsgi" Key="{E043F1B9-042A-4604-9867-F5F5A4D4D428}" ParallelWalk="True">
+								<Image FileName="-1485280314" Left="9" Top="74" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/jsParentConferencer.aspx" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelLpcenter" Key="{5980B363-5A52-43A5-999C-EEA9CCB86A5E}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-869377630" Left="750" Top="179" Right="1425" Bottom="1130" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="lpCenter" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelMasterPage" Key="{EE8BCDBE-F2A8-45C1-91CD-03EC9B8ED578}" ParallelWalk="True">
+												<Image FileName="-869377630" Left="750" Top="204" Right="1400" Bottom="1118" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{E3403571-66E6-457E-BBC2-AE9307B9E104}" ParallelWalk="True">
+														<Image FileName="-869377630" Left="750" Top="204" Right="1400" Bottom="300" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelMsMSParentConferencer" Key="{171C8819-CA83-4BE9-9179-7C2DB053005C}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-869377630" Left="750" Top="204" Right="1400" Bottom="249" />
+																<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -254,6 +324,7 @@
 				<Child Name="TopMenu" Owner="{15A4D2CA-2659-44AE-9A72-802F365FE4DC}">
 					<Child Name="BottomMenu" Owner="{01A23A8A-0C1E-4262-BC79-2BE7A8D5AA5E}">
 						<Child Name="TestExplorerButton" Owner="{FBB3DBAC-72F1-43CC-9C29-EA45A775A1D5}" />
+						<Child Name="panelParentConferencer" Owner="{C28382F3-336C-48CC-BC31-19F76F61D72A}" />
 					</Child>
 				</Child>
 			</Child>
@@ -265,6 +336,15 @@
 			<Child Name="BrowserWindow" Owner="{AAFCEA8E-73C4-42DE-BDA1-134F4E6DFAEC}" />
 			<Child Name="BrowserWindow2" Owner="{6639B5CB-7469-48F4-A7D8-0FC8B81DE350}" />
 			<Child Name="pageHttpsTest1EsgisoftwareComEsg" Owner="{68CCE1B1-AFC2-4BEA-89CC-6EA69B109C30}" />
+			<Child Name="pageEsgi" Owner="{E043F1B9-042A-4604-9867-F5F5A4D4D428}">
+				<Child Name="panelLpcenter" Owner="{5980B363-5A52-43A5-999C-EEA9CCB86A5E}">
+					<Child Name="panelMasterPage" Owner="{EE8BCDBE-F2A8-45C1-91CD-03EC9B8ED578}">
+						<Child Name="panel" Owner="{E3403571-66E6-457E-BBC2-AE9307B9E104}">
+							<Child Name="panelMsMSParentConferencer" Owner="{171C8819-CA83-4BE9-9179-7C2DB053005C}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">

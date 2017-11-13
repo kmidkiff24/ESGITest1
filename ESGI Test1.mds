@@ -40,7 +40,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ParentConferencer" key="{097B589A-6245-4121-9FD9-099C62DEF9D0}" group="False" enabled="True" testMoniker="KDT\{E393E6E6-FD3D-4C69-921C-E65F816181BB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ParentConferencer" key="{097B589A-6245-4121-9FD9-099C62DEF9D0}" group="False" enabled="False" testMoniker="KDT\{E393E6E6-FD3D-4C69-921C-E65F816181BB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
