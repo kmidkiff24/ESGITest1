@@ -36,26 +36,6 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="TestExplorer" key="{1F5513A1-2F04-4C52-B4EF-F5FAD3A66652}" group="False" enabled="False" testMoniker="KDT\{DC97D1F8-CD1F-4DE3-A8E3-A4464166121B}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ParentConferencer" key="{097B589A-6245-4121-9FD9-099C62DEF9D0}" group="False" enabled="False" testMoniker="KDT\{E393E6E6-FD3D-4C69-921C-E65F816181BB}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="StudentExplorer" key="{6F1E4379-E214-4F33-B475-8B2ABE3CF0DB}" group="False" enabled="False" testMoniker="KDT\{65CC2951-9666-4CDB-A3FA-C109FD3D0ECF}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="NumberofStudents2" key="{AE24F503-885A-4A8B-A20D-301F0CB1C372}" group="False" enabled="False" testMoniker="KDT\{33CB2E85-2421-443E-9FD8-C38035317999}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="GotoESGIfromCMT" key="{25100A1A-1160-47CD-A81E-2D7DEB63623E}" group="False" enabled="False" testMoniker="KDT\{94CFAE74-737B-48B0-9BFD-E5242F047E75}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
 			<testItem name="HomepageCMTVideo" key="{96C118ED-D4CD-4403-9F87-DE714A214934}" group="False" enabled="True" testMoniker="KDT\{9910F308-7CE8-4353-AAFF-417F62059EA2}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />

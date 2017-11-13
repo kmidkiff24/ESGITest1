@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{D0319EE4-6371-4ABD-AA11-4F3BF604F977}">
 	<children>
-		<child name="ESGI Test1" key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="ESGI Test1.mds" />
+		<child name="HomepageVideos_Test1" key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="HomepageVideos_Test1.mds" />
 		</child>
 		<child name="Logins_Test1" key="{A2C1DBFF-D684-460B-98A7-47ACEFBB7F18}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ESGI Test1_Logins\Logins_Test1.mds" />
