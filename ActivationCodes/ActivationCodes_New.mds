@@ -25,7 +25,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{9014ACD2-D5AE-455F-8BA6-850CB8DDAC53}">
 		<children>
-			<testItem name="ProjectTestItem1" key="{73040191-6C0A-4EAF-90A7-78E80B773818}" group="False" enabled="True" testMoniker="KDT\{7CDEF41E-9A20-4AAA-B134-9717D0388156}" count="1" timeout="1" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem1" key="{73040191-6C0A-4EAF-90A7-78E80B773818}" group="False" enabled="False" testMoniker="KDT\{7CDEF41E-9A20-4AAA-B134-9717D0388156}" count="1" timeout="1" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -117,7 +117,7 @@
 		<setting name="Recording_TestedAppsOnly" type="1" value="False" />
 		<setting name="{FB1CAF99-7FA6-447C-B963-D862CA8BFF89}" type="2" value="3000" />
 		<setting name="{3B76535B-58AD-456C-837E-091A5C480F6C}" type="1" value="True" />
-		<setting name="{3AE91BBD-F37D-40E6-B49D-D2F1EF68E285}" type="1" value="True" />
+		<setting name="{3AE91BBD-F37D-40E6-B49D-D2F1EF68E285}" type="1" value="False" />
 		<setting name="{D852BFD9-D446-4748-906F-1FA580D41304}" type="6" rowIndex="0" colIndex="1">
 			<columns>
 				<column type="1" enabled="True" />

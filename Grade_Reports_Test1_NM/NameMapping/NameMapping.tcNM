@@ -781,6 +781,44 @@
 											</Child>
 										</Children>
 									</Child>
+									<Child Name="panelTopMenu" Key="{822E6DB2-B64F-437C-9EA5-47595CFED600}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1737299478" Left="735" Top="60" Right="1340" Bottom="118" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="top-menu" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{B2A2E7BD-8BD8-4077-ABD5-800BC06B349D}" ParallelWalk="True">
+												<Image FileName="-1737299478" Left="740" Top="65" Right="1335" Bottom="87" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelLogout" Key="{72651822-654E-4D44-B1DD-09627659BC1D}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1737299478" Left="860" Top="65" Right="975" Bottom="87" />
+														<TypeInfo Item0="{7F60CF0F-9BCF-4B34-BC74-A3A30E00B3A0}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageEsgi" Key="{434FE1FF-0B6E-44B4-836B-2B54F38A0C5B}" ParallelWalk="True">
@@ -823,44 +861,6 @@
 															</Property>
 															<Property Name="idStr">
 																<Value PropertyType="0" Value="class-grade-report" Type="5" />
-															</Property>
-														</Properties>
-													</Child>
-												</Children>
-											</Child>
-										</Children>
-									</Child>
-									<Child Name="panelTopMenu" Key="{822E6DB2-B64F-437C-9EA5-47595CFED600}" ExtendedFind="True" ParallelWalk="True">
-										<Image FileName="-1737299478" Left="735" Top="60" Right="1340" Bottom="118" />
-										<Properties>
-											<Property Name="ObjectType">
-												<Value PropertyType="0" Value="Panel" Type="5" />
-											</Property>
-											<Property Name="idStr">
-												<Value PropertyType="0" Value="top-menu" Type="5" />
-											</Property>
-										</Properties>
-										<Children>
-											<Child Name="panel" Key="{B2A2E7BD-8BD8-4077-ABD5-800BC06B349D}" ParallelWalk="True">
-												<Image FileName="-1737299478" Left="740" Top="65" Right="1335" Bottom="87" />
-												<Properties>
-													<Property Name="ObjectType">
-														<Value PropertyType="0" Value="Panel" Type="5" />
-													</Property>
-													<Property Name="ObjectIdentifier">
-														<Value PropertyType="0" Value="0" Type="0" />
-													</Property>
-												</Properties>
-												<Children>
-													<Child Name="panelLogout" Key="{72651822-654E-4D44-B1DD-09627659BC1D}" ExtendedFind="True" ParallelWalk="True">
-														<Image FileName="-1737299478" Left="860" Top="65" Right="975" Bottom="87" />
-														<TypeInfo Item0="{7F60CF0F-9BCF-4B34-BC74-A3A30E00B3A0}" />
-														<Properties>
-															<Property Name="ObjectType">
-																<Value PropertyType="0" Value="Panel" Type="5" />
-															</Property>
-															<Property Name="ObjectIdentifier">
-																<Value PropertyType="0" Value="1" Type="0" />
 															</Property>
 														</Properties>
 													</Child>

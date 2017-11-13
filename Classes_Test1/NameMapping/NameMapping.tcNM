@@ -234,18 +234,6 @@
 																	</Property>
 																</Properties>
 																<Children>
-																	<Child Name="passwordboxPassword" Key="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" ExtendedFind="True" ParallelWalk="True">
-																		<Image FileName="295797907" Left="1465" Top="123" Right="1630" Bottom="153" />
-																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
-																		<Properties>
-																			<Property Name="ObjectType">
-																				<Value PropertyType="0" Value="PasswordBox" Type="5" />
-																			</Property>
-																			<Property Name="idStr">
-																				<Value PropertyType="0" Value="password" Type="5" />
-																			</Property>
-																		</Properties>
-																	</Child>
 																	<Child Name="labelUsername" Key="{86513C32-9746-47B1-BF55-8C671F85D8BC}" ExtendedFind="True" ParallelWalk="True">
 																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
 																		<Properties>
@@ -260,6 +248,18 @@
 																</Children>
 															</Child>
 														</Children>
+													</Child>
+													<Child Name="passwordboxPassword" Key="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="295797907" Left="1465" Top="123" Right="1630" Bottom="153" />
+														<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="PasswordBox" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="password" Type="5" />
+															</Property>
+														</Properties>
 													</Child>
 												</Children>
 											</Child>
