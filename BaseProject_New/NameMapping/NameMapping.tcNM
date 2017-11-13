@@ -162,6 +162,18 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="panelStudentExplorer" Key="{C68CC436-3DFD-47D8-8647-BB3F916DB98C}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-251457951" Left="975" Top="114" Right="1118" Bottom="140" />
+														<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="2" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
 												</Children>
 											</Child>
 										</Children>
@@ -242,7 +254,7 @@
 									</Property>
 								</Properties>
 							</Child>
-							<Child Name="pageEsgi" Key="{E043F1B9-042A-4604-9867-F5F5A4D4D428}" ParallelWalk="True">
+							<Child Name="ParentConferencer" Key="{E043F1B9-042A-4604-9867-F5F5A4D4D428}" ParallelWalk="True">
 								<Image FileName="-1485280314" Left="9" Top="74" Right="1911" Bottom="1021" />
 								<Properties>
 									<Property Name="ObjectType">
@@ -253,7 +265,7 @@
 									</Property>
 								</Properties>
 								<Children>
-									<Child Name="panelLpcenter" Key="{5980B363-5A52-43A5-999C-EEA9CCB86A5E}" ExtendedFind="True" ParallelWalk="True">
+									<Child Name="ParentConferencerPanel" Key="{5980B363-5A52-43A5-999C-EEA9CCB86A5E}" ExtendedFind="True" ParallelWalk="True">
 										<Image FileName="-869377630" Left="750" Top="179" Right="1425" Bottom="1130" />
 										<Properties>
 											<Property Name="ObjectType">
@@ -264,7 +276,7 @@
 											</Property>
 										</Properties>
 										<Children>
-											<Child Name="panelMasterPage" Key="{EE8BCDBE-F2A8-45C1-91CD-03EC9B8ED578}" ParallelWalk="True">
+											<Child Name="ParentConferencerMain" Key="{EE8BCDBE-F2A8-45C1-91CD-03EC9B8ED578}" ParallelWalk="True">
 												<Image FileName="-869377630" Left="750" Top="204" Right="1400" Bottom="1118" />
 												<Properties>
 													<Property Name="ObjectType">
@@ -272,7 +284,7 @@
 													</Property>
 												</Properties>
 												<Children>
-													<Child Name="panel" Key="{E3403571-66E6-457E-BBC2-AE9307B9E104}" ParallelWalk="True">
+													<Child Name="ParentConferencerTitle" Key="{E3403571-66E6-457E-BBC2-AE9307B9E104}" ParallelWalk="True">
 														<Image FileName="-869377630" Left="750" Top="204" Right="1400" Bottom="300" />
 														<Properties>
 															<Property Name="ObjectType">
@@ -283,7 +295,7 @@
 															</Property>
 														</Properties>
 														<Children>
-															<Child Name="panelMsMSParentConferencer" Key="{171C8819-CA83-4BE9-9179-7C2DB053005C}" ExtendedFind="True" ParallelWalk="True">
+															<Child Name="ParentConferencerTitleAutomation" Key="{171C8819-CA83-4BE9-9179-7C2DB053005C}" ExtendedFind="True" ParallelWalk="True">
 																<Image FileName="-869377630" Left="750" Top="204" Right="1400" Bottom="249" />
 																<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
 																<Properties>
@@ -295,6 +307,41 @@
 														</Children>
 													</Child>
 												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="StudentExplorer" Key="{663158D7-81A9-411E-A46F-9A3BC8B96DE9}" ParallelWalk="True">
+								<Image FileName="1676267019" Left="9" Top="74" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/jsstudentsexplorer.aspx" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="StudentExplorerHeader" Key="{6007F6DB-838B-4D70-B67C-391037ACDC3D}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1996355613" Left="500" Top="172" Right="1393" Bottom="242" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="lpHeader" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="StudentExplorerAutomationTitle" Key="{74206C29-6DDB-407D-AB05-808BC1F45FA3}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1996355613" Left="500" Top="197" Right="1248" Bottom="242" />
+												<TypeInfo Item0="{1180C9ED-AD56-47BE-9076-BC287D8445F2}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+												</Properties>
 											</Child>
 										</Children>
 									</Child>
@@ -325,6 +372,7 @@
 					<Child Name="BottomMenu" Owner="{01A23A8A-0C1E-4262-BC79-2BE7A8D5AA5E}">
 						<Child Name="TestExplorerButton" Owner="{FBB3DBAC-72F1-43CC-9C29-EA45A775A1D5}" />
 						<Child Name="panelParentConferencer" Owner="{C28382F3-336C-48CC-BC31-19F76F61D72A}" />
+						<Child Name="panelStudentExplorer" Owner="{C68CC436-3DFD-47D8-8647-BB3F916DB98C}" />
 					</Child>
 				</Child>
 			</Child>
@@ -336,13 +384,18 @@
 			<Child Name="BrowserWindow" Owner="{AAFCEA8E-73C4-42DE-BDA1-134F4E6DFAEC}" />
 			<Child Name="BrowserWindow2" Owner="{6639B5CB-7469-48F4-A7D8-0FC8B81DE350}" />
 			<Child Name="pageHttpsTest1EsgisoftwareComEsg" Owner="{68CCE1B1-AFC2-4BEA-89CC-6EA69B109C30}" />
-			<Child Name="pageEsgi" Owner="{E043F1B9-042A-4604-9867-F5F5A4D4D428}">
-				<Child Name="panelLpcenter" Owner="{5980B363-5A52-43A5-999C-EEA9CCB86A5E}">
-					<Child Name="panelMasterPage" Owner="{EE8BCDBE-F2A8-45C1-91CD-03EC9B8ED578}">
-						<Child Name="panel" Owner="{E3403571-66E6-457E-BBC2-AE9307B9E104}">
-							<Child Name="panelMsMSParentConferencer" Owner="{171C8819-CA83-4BE9-9179-7C2DB053005C}" />
+			<Child Name="ParentConferencer" Owner="{E043F1B9-042A-4604-9867-F5F5A4D4D428}">
+				<Child Name="ParentConferencerPanel" Owner="{5980B363-5A52-43A5-999C-EEA9CCB86A5E}">
+					<Child Name="ParentConferencerMain" Owner="{EE8BCDBE-F2A8-45C1-91CD-03EC9B8ED578}">
+						<Child Name="ParentConferencerTitle" Owner="{E3403571-66E6-457E-BBC2-AE9307B9E104}">
+							<Child Name="ParentConferencerTitleAutomation" Owner="{171C8819-CA83-4BE9-9179-7C2DB053005C}" />
 						</Child>
 					</Child>
+				</Child>
+			</Child>
+			<Child Name="StudentExplorer" Owner="{663158D7-81A9-411E-A46F-9A3BC8B96DE9}">
+				<Child Name="StudentExplorerHeader" Owner="{6007F6DB-838B-4D70-B67C-391037ACDC3D}">
+					<Child Name="StudentExplorerAutomationTitle" Owner="{74206C29-6DDB-407D-AB05-808BC1F45FA3}" />
 				</Child>
 			</Child>
 		</Child>

@@ -44,7 +44,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="StudentExplorer" key="{6F1E4379-E214-4F33-B475-8B2ABE3CF0DB}" group="False" enabled="True" testMoniker="KDT\{65CC2951-9666-4CDB-A3FA-C109FD3D0ECF}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="StudentExplorer" key="{6F1E4379-E214-4F33-B475-8B2ABE3CF0DB}" group="False" enabled="False" testMoniker="KDT\{65CC2951-9666-4CDB-A3FA-C109FD3D0ECF}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>

@@ -7,6 +7,9 @@
 		<child name="ParentConferencer" key="{D75AB490-655F-43C9-86C9-0565C58B2767}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="ParentConferencer.tcKDTest" />
 		</child>
+		<child name="StudentExplorer" key="{9956A086-D9FA-48ED-A520-D1C053C5C3C3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="StudentExplorer.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
