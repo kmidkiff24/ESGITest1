@@ -77,25 +77,30 @@
 															</Property>
 														</Properties>
 														<Children>
-															<Child Name="panelRow" Key="{455276AC-76C1-4D01-BF15-8B03A817DF00}" ParallelWalk="True">
-																<Image FileName="370536694" Left="1023" Top="122" Right="1645" Bottom="150" />
+															<Child Name="formRow" Key="{2534DF0E-5F7A-4AAF-B203-07DDF50882E6}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1745319607" Left="1025" Top="124" Right="1643" Bottom="148" />
+																<TypeInfo Item0="{D6412FDD-FAC2-4589-BED7-57112EAD4317}" />
 																<Properties>
 																	<Property Name="ObjectType">
-																		<Value PropertyType="0" Value="Panel" Type="5" />
+																		<Value PropertyType="0" Value="Form" Type="5" />
 																	</Property>
-																	<Property Name="ObjectIdentifier">
-																		<Value PropertyType="0" Value="0" Type="0" />
+																	<Property Name="contentText">
+																		<Value PropertyType="0" Value="55007300650072006E0061006D0065000A00500061007300730077006F00720064000A004C006F00670069006E00" Type="7" />
 																	</Property>
 																</Properties>
 																<Children>
-																	<Child Name="panelColMd5" Key="{63BCFACD-D941-48F8-ADD0-AA601D931162}" ParallelWalk="True">
-																		<Image FileName="370536694" Left="1023" Top="122" Right="1282" Bottom="150" />
+																	<Child Name="panelColMd5" Key="{C3F14FBC-E035-4E84-A9B1-61E4C926BAE9}" ParallelWalk="True">
+																		<Image FileName="-88573795" Left="1025" Top="124" Right="1280" Bottom="148" />
+																		<TypeInfo Item0="{D6412FDD-FAC2-4589-BED7-57112EAD4317}" />
 																		<Properties>
 																			<Property Name="ObjectType">
 																				<Value PropertyType="0" Value="Panel" Type="5" />
 																			</Property>
 																			<Property Name="ObjectIdentifier">
 																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value PropertyType="0" Value="Username" Type="5" />
 																			</Property>
 																		</Properties>
 																		<Children>
@@ -138,19 +143,19 @@
 																			</Child>
 																		</Children>
 																	</Child>
-																	<Child Name="buttonLogin" Key="{F6C511C1-53F9-40A8-A384-469C036949EB}" ExtendedFind="True" ParallelWalk="True">
-																		<Image FileName="-397347856" Left="1541" Top="126" Right="1587" Bottom="149" />
-																		<TypeInfo Item0="{1FA5B4D5-936F-4E76-BCD4-EA661F8BBD82}" />
-																		<Properties>
-																			<Property Name="ObjectType">
-																				<Value PropertyType="0" Value="Button" Type="5" />
-																			</Property>
-																			<Property Name="idStr">
-																				<Value PropertyType="0" Value="loginButton" Type="5" />
-																			</Property>
-																		</Properties>
-																	</Child>
 																</Children>
+															</Child>
+															<Child Name="buttonLogin" Key="{F6C511C1-53F9-40A8-A384-469C036949EB}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-397347856" Left="1541" Top="126" Right="1587" Bottom="149" />
+																<TypeInfo Item0="{1FA5B4D5-936F-4E76-BCD4-EA661F8BBD82}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Button" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="loginButton" Type="5" />
+																	</Property>
+																</Properties>
 															</Child>
 														</Children>
 													</Child>
@@ -424,14 +429,12 @@
 				<Child Name="header" Owner="{97021B77-1CAF-4DA1-90D2-5EA89A2BB057}">
 					<Child Name="panelLoginForm" Owner="{5EC8AB8B-0D02-448B-BBF8-144E9B47238D}">
 						<Child Name="panelLoginFormContainer" Owner="{DBDF7DF4-67A2-4BC9-8B6E-CEC5E0B56EC7}">
-							<Child Name="panelRow" Owner="{455276AC-76C1-4D01-BF15-8B03A817DF00}">
-								<Child Name="panelColMd5" Owner="{63BCFACD-D941-48F8-ADD0-AA601D931162}">
-									<Child Name="textboxUsername" Owner="{D71AE968-578A-42B3-98DF-F6B189BC4E67}" />
-								</Child>
-								<Child Name="panelColMd52" Owner="{068EC550-BC95-4532-9A87-3B873E44AECF}">
-									<Child Name="passwordboxPassword" Owner="{788895C0-B20C-4DD1-BEF1-93605C8C503E}" />
-								</Child>
-								<Child Name="buttonLogin" Owner="{F6C511C1-53F9-40A8-A384-469C036949EB}" />
+							<Child Name="buttonLogin" Owner="{F6C511C1-53F9-40A8-A384-469C036949EB}" />
+							<Child Name="panelColMd52" Owner="{068EC550-BC95-4532-9A87-3B873E44AECF}">
+								<Child Name="passwordboxPassword" Owner="{788895C0-B20C-4DD1-BEF1-93605C8C503E}" />
+							</Child>
+							<Child Name="formRow" Owner="{2534DF0E-5F7A-4AAF-B203-07DDF50882E6}">
+								<Child Name="panelColMd5" Owner="{C3F14FBC-E035-4E84-A9B1-61E4C926BAE9}" />
 							</Child>
 						</Child>
 					</Child>
