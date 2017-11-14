@@ -192,7 +192,37 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="textboxAddeditstudentformStudent" Key="{F61EDE17-553B-48A8-B8A4-CBAA039B1376}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1724609740" Left="1187" Top="248" Right="1406" Bottom="285" />
+																<TypeInfo Item0="{F729FE14-AE20-49E0-B7D6-3B9813B679F0}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="AddEditStudentForm.StudentIDN" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
+													</Child>
+													<Child Name="textnodeStudentSuccessfullyModif" Key="{35C6D929-B043-4D40-AA68-E4DDF953BF46}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1661541181" Left="773" Top="260" Right="1398" Bottom="277" />
+														<TypeInfo Item0="{04D9C85A-634B-404E-A439-C9F6B6DF92AC}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="TextNode" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+													<Child Name="buttonBackToPieCharts" Key="{346FE314-3FA4-488F-8AF0-D8C564607816}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-493933712" Left="1012" Top="301" Right="1158" Bottom="338" />
+														<TypeInfo Item0="{621B2CE3-AD05-401D-A80E-E366387FE575}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Button" Type="5" />
+															</Property>
+														</Properties>
 													</Child>
 												</Children>
 											</Child>
@@ -208,6 +238,18 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="buttonSave" Key="{DF09CF41-A96E-4724-9339-9BB169D1DDE4}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="898269540" Left="900" Top="760" Right="959" Bottom="797" />
+												<TypeInfo Item0="{621B2CE3-AD05-401D-A80E-E366387FE575}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="SubmitButton" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="AddEditStudentForm.Submit" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="linkAdd" Key="{8B894527-7ABE-45F3-AD70-165448C4DEDF}" ExtendedFind="True" ParallelWalk="True">
@@ -219,6 +261,18 @@
 											</Property>
 											<Property Name="href">
 												<Value PropertyType="0" Value="javascript:Hierarchy_Create(&apos;Students&apos;);void(0);" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="linkEdit" Key="{6E3DF1C0-0FEC-4041-88F4-C92D25C009AF}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="404443599" Left="670" Top="679" Right="692" Bottom="696" />
+										<TypeInfo Item0="{04D9C85A-634B-404E-A439-C9F6B6DF92AC}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="href">
+												<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Students&apos;,%203591501);void(0);" Type="5" />
 											</Property>
 										</Properties>
 									</Child>
@@ -282,17 +336,22 @@
 			</Child>
 			<Child Name="ESGILandingPage" Owner="{D0D98685-A178-4AA0-AB6B-0358858F7118}">
 				<Child Name="Addeditstudentform" Owner="{376484B3-D397-4F25-A26F-F007356A7CFF}">
-					<Child Name="tableTabformtopline" Owner="{1C183E35-9294-4793-88BF-D9DA9121BDAD}">
+					<Child Name="ModifyStudentForm" Owner="{1C183E35-9294-4793-88BF-D9DA9121BDAD}">
 						<Child Name="textboxAddeditstudentformFirstna" Owner="{0F364CBF-99C3-45F2-B266-37B87CBD454E}" />
-						<Child Name="tableWithoutlines" Owner="{CDB926E3-7BE8-44CE-A87C-72648A8B66CC}">
+						<Child Name="ModifyStudentFormContainer" Owner="{CDB926E3-7BE8-44CE-A87C-72648A8B66CC}">
 							<Child Name="labelFemale" Owner="{36639861-A8B4-4518-A854-592ECD12564E}" />
 							<Child Name="radiobuttonMale" Owner="{AD676FB0-AEDD-4D30-B7F3-ADFBE6FE009E}" />
 							<Child Name="textboxAddeditstudentformLastnam" Owner="{36AEDE03-699A-4F70-B874-C9394364D172}" />
+							<Child Name="textboxAddeditstudentformStudent" Owner="{F61EDE17-553B-48A8-B8A4-CBAA039B1376}" />
 						</Child>
+						<Child Name="textnodeStudentSuccessfullyModif" Owner="{35C6D929-B043-4D40-AA68-E4DDF953BF46}" />
+						<Child Name="buttonBackToPieCharts" Owner="{346FE314-3FA4-488F-8AF0-D8C564607816}" />
 					</Child>
 					<Child Name="buttonCancel" Owner="{AC4B791C-C248-4597-BB14-5FD3479500DE}" />
+					<Child Name="buttonSave" Owner="{DF09CF41-A96E-4724-9339-9BB169D1DDE4}" />
 				</Child>
 				<Child Name="linkAdd" Owner="{8B894527-7ABE-45F3-AD70-165448C4DEDF}" />
+				<Child Name="linkEdit" Owner="{6E3DF1C0-0FEC-4041-88F4-C92D25C009AF}" />
 			</Child>
 			<Child Name="BrowserWindow" Owner="{33ADF90A-8B21-45CA-A298-0BDDAA753798}" />
 			<Child Name="BrowserWindow2" Owner="{5F0D44FC-8623-4EA7-8A2B-536FF2042C95}" />

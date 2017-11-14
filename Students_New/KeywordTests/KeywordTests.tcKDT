@@ -4,6 +4,9 @@
 		<child name="AutoSelectGender" key="{FB0E876D-294D-427E-96BB-5A44015AB6A5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AutoSelectGender.tcKDTest" />
 		</child>
+		<child name="ModifyStudent" key="{09B9E492-D304-4AD4-9785-938456C121A4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ModifyStudent.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
