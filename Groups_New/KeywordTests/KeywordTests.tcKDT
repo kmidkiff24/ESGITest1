@@ -7,6 +7,9 @@
 		<child name="DeleteGroup" key="{D52C3581-5B45-4B12-9B32-ACFB6B21595D}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="DeleteGroup.tcKDTest" />
 		</child>
+		<child name="EditGroupName" key="{B1BF34A4-0AEC-42B3-B1C1-77AABA01B787}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="EditGroupName.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

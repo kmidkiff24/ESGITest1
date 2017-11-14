@@ -218,7 +218,7 @@
 											</Property>
 										</Properties>
 									</Child>
-									<Child Name="linkJavascriptHierarchyMedGroups" Key="{07230809-65C6-4540-A1C0-44916A0BAD93}" ExtendedFind="True" ParallelWalk="True">
+									<Child Name="ExpandGroups" Key="{07230809-65C6-4540-A1C0-44916A0BAD93}" ExtendedFind="True" ParallelWalk="True">
 										<Image FileName="-330517" Left="693" Top="256" Right="713" Bottom="276" />
 										<TypeInfo Item0="{20014B6B-7BCE-4066-A0B9-F154770ED3AC}" />
 										<Properties>
@@ -230,7 +230,7 @@
 											</Property>
 										</Properties>
 									</Child>
-									<Child Name="panelModalForm" Key="{DCABC11A-5DBC-4A42-A661-6094ECFFE1F2}" ExtendedFind="True" ParallelWalk="True">
+									<Child Name="PopUpForm" Key="{DCABC11A-5DBC-4A42-A661-6094ECFFE1F2}" ExtendedFind="True" ParallelWalk="True">
 										<Image FileName="1267874548" Left="9" Top="74" Right="1911" Bottom="1021" />
 										<Properties>
 											<Property Name="ObjectType">
@@ -319,6 +319,49 @@
 																	</Child>
 																</Children>
 															</Child>
+															<Child Name="panelBoxgroups" Key="{4D2ED15F-5339-456C-9CF8-A8ED34BEF67D}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1171356723" Left="502" Top="301" Right="723" Bottom="364" />
+																<TypeInfo Item0="{FEC84846-E7A4-427A-A987-4FECF5CE68A1}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="BoxGroups" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="AMContainer" Key="{9689DB3C-0BEC-4A20-8043-D5960A166C1E}" ParallelWalk="True">
+																		<Image FileName="1471746558" Left="502" Top="323" Right="698" Bottom="342" />
+																		<TypeInfo Item0="{FEC84846-E7A4-427A-A987-4FECF5CE68A1}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value PropertyType="0" Value="41004D000A006500640069007400" Type="7" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="linkEdit" Key="{B0071E8B-FC61-4F3B-84F0-59156728BBCC}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="921023462" Left="670" Top="324" Right="692" Bottom="341" />
+																				<TypeInfo Item0="{20014B6B-7BCE-4066-A0B9-F154770ED3AC}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Link" Type="5" />
+																					</Property>
+																					<Property Name="href">
+																						<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Groups&apos;,%201028943);void(0);" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -396,8 +439,8 @@
 					<Child Name="buttonBackToPieCharts" Owner="{863CED29-6C6D-407B-94B3-00AA5081134E}" />
 				</Child>
 				<Child Name="AddGroupLink" Owner="{058393AE-36B6-4F2E-A655-2735F66B4176}" />
-				<Child Name="linkJavascriptHierarchyMedGroups" Owner="{07230809-65C6-4540-A1C0-44916A0BAD93}" />
-				<Child Name="panelModalForm" Owner="{DCABC11A-5DBC-4A42-A661-6094ECFFE1F2}">
+				<Child Name="ExpandGroups" Owner="{07230809-65C6-4540-A1C0-44916A0BAD93}" />
+				<Child Name="PopUpForm" Owner="{DCABC11A-5DBC-4A42-A661-6094ECFFE1F2}">
 					<Child Name="buttonOk" Owner="{704DDECA-A518-4F17-84B0-5A7E68FDDA4D}" />
 				</Child>
 				<Child Name="LeftPanelContainer" Owner="{CAB0B63B-7FE5-43A8-958F-DF1BADF3ED82}">
@@ -405,6 +448,10 @@
 						<Child Name="GroupsBox" Owner="{E61F068C-0579-4D2E-B406-D4FD1CCCA32A}">
 							<Child Name="SquareEditContainer" Owner="{090A14B8-345A-4D03-A4E6-A5A4BBE24670}">
 								<Child Name="linkEdit2" Owner="{11EBD7F9-EFC1-431D-8CB2-EBE530AEE604}" />
+							</Child>
+							<Child Name="linkEdit" Owner="{B0071E8B-FC61-4F3B-84F0-59156728BBCC}" />
+							<Child Name="panelBoxgroups" Owner="{4D2ED15F-5339-456C-9CF8-A8ED34BEF67D}">
+								<Child Name="AMContainer" Owner="{9689DB3C-0BEC-4A20-8043-D5960A166C1E}" />
 							</Child>
 						</Child>
 					</Child>
