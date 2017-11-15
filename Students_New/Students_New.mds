@@ -27,9 +27,18 @@
 		<children>
 			<testItem name="ProjectTestItem1" key="{8DE23C7C-73CB-444C-A836-DFE995E40B96}" group="False" enabled="True" testMoniker="KDT\{FB0E876D-294D-427E-96BB-5A44015AB6A5}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
-				<children />
+				<children>
+					<testItem name="ProjectTestItem3" key="{37635ADD-D302-4157-AB80-2B104E4C6978}" group="False" enabled="True" testMoniker="KDT\{B6B59B6F-D4A5-4ADF-90CB-FB8C5B705A9C}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
 			</testItem>
 			<testItem name="ProjectTestItem2" key="{C7627915-2E82-41AC-85A4-46A454EC1D60}" group="False" enabled="True" testMoniker="KDT\{09B9E492-D304-4AD4-9785-938456C121A4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem4" key="{38D41B42-BE43-4662-82EE-40A98CBD88CE}" group="False" enabled="True" testMoniker="KDT\{9C87EA20-787D-4974-B8DC-0AA8A28B9386}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>

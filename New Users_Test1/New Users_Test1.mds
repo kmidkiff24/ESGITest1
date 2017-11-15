@@ -24,11 +24,11 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{72FD3BB7-E5F4-4FBA-9F01-69A305DCCD6E}">
 		<children>
-			<testItem name="NewAccount_FreeTrial" key="{02439FE1-5EEE-4D45-8DDF-BDE5DE229CD4}" group="False" enabled="True" testMoniker="KDT\{8AA3201F-45BC-4982-AF68-C7C8BA43F492}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="NewAccount_FreeTrial" key="{02439FE1-5EEE-4D45-8DDF-BDE5DE229CD4}" group="False" enabled="False" testMoniker="KDT\{8AA3201F-45BC-4982-AF68-C7C8BA43F492}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="NewAccount_CC" key="{AC5DBD6A-534A-40CF-8C46-0E04F87F6A34}" group="False" enabled="True" testMoniker="KDT\{C1AB4CF5-B280-40CE-9502-D1EFFCA462DF}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="NewAccount_CC" key="{AC5DBD6A-534A-40CF-8C46-0E04F87F6A34}" group="False" enabled="False" testMoniker="KDT\{C1AB4CF5-B280-40CE-9502-D1EFFCA462DF}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -36,11 +36,11 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem10" key="{250F1C20-D443-466B-9E95-1E987541E2AE}" group="False" enabled="True" testMoniker="KDT\{C59A52DE-227E-4655-BDF5-7AF3D4D09F09}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem10" key="{250F1C20-D443-466B-9E95-1E987541E2AE}" group="False" enabled="False" testMoniker="KDT\{C59A52DE-227E-4655-BDF5-7AF3D4D09F09}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem13" key="{7313B8BD-5A15-4759-8DA5-8E3DB2924EBE}" group="False" enabled="True" testMoniker="KDT\{FC32E4C8-464C-4505-BA60-822DE4E27BC4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem13" key="{7313B8BD-5A15-4759-8DA5-8E3DB2924EBE}" group="False" enabled="False" testMoniker="KDT\{FC32E4C8-464C-4505-BA60-822DE4E27BC4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>

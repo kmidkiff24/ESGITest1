@@ -24,15 +24,15 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{E40BDFE6-3339-4325-BD6F-639BDBFA9DBC}">
 		<children>
-			<testItem name="TeacherLogin" key="{917F8A49-5502-46FC-96DF-6BE41AC12F28}" group="False" enabled="True" testMoniker="KDT\{52464377-35BC-4796-85AB-F185B7FBACBC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="TeacherLogin" key="{917F8A49-5502-46FC-96DF-6BE41AC12F28}" group="False" enabled="False" testMoniker="KDT\{52464377-35BC-4796-85AB-F185B7FBACBC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="SALogin" key="{A9A4CDF5-4F61-418E-9965-F7D0861BC45C}" group="False" enabled="True" testMoniker="KDT\{68758162-8FD8-4B6E-BA5C-B2462A6F8091}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="SALogin" key="{A9A4CDF5-4F61-418E-9965-F7D0861BC45C}" group="False" enabled="False" testMoniker="KDT\{68758162-8FD8-4B6E-BA5C-B2462A6F8091}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="AdminLogin" key="{1DBD2B58-3424-492A-AD4A-EB18ADD9B383}" group="False" enabled="True" testMoniker="KDT\{84FB9D5D-8A8D-44E9-BEB4-DE8AC860516E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="AdminLogin" key="{1DBD2B58-3424-492A-AD4A-EB18ADD9B383}" group="False" enabled="False" testMoniker="KDT\{84FB9D5D-8A8D-44E9-BEB4-DE8AC860516E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>

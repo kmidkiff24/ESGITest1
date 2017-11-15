@@ -24,7 +24,7 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{73785DB8-67FC-4972-BB72-D2C459A6C628}">
 		<children>
-			<testItem name="AddStudent" key="{8E2F8618-1D17-4808-B85B-AACBE1E0B59D}" group="False" enabled="True" testMoniker="KDT\{E9AA968B-D010-49C2-8904-27A8495B5CDC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="AddStudent" key="{8E2F8618-1D17-4808-B85B-AACBE1E0B59D}" group="False" enabled="False" testMoniker="KDT\{E9AA968B-D010-49C2-8904-27A8495B5CDC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -32,7 +32,7 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="DeleteStudent" key="{A47797E7-3C0B-4587-B2D8-96B817BE7FE4}" group="False" enabled="True" testMoniker="KDT\{9B4C53AE-F0E2-43CA-A8BA-F046CA20F242}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="DeleteStudent" key="{A47797E7-3C0B-4587-B2D8-96B817BE7FE4}" group="False" enabled="False" testMoniker="KDT\{9B4C53AE-F0E2-43CA-A8BA-F046CA20F242}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
