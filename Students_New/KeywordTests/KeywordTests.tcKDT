@@ -10,6 +10,9 @@
 		<child name="AddStudent" key="{B6B59B6F-D4A5-4ADF-90CB-FB8C5B705A9C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AddStudent.tcKDTest" />
 		</child>
+		<child name="DeleteStudent" key="{9C87EA20-787D-4974-B8DC-0AA8A28B9386}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="DeleteStudent.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
