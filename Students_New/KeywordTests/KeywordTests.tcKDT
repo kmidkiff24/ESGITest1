@@ -7,6 +7,9 @@
 		<child name="ModifyStudent" key="{09B9E492-D304-4AD4-9785-938456C121A4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="ModifyStudent.tcKDTest" />
 		</child>
+		<child name="AddStudent" key="{B6B59B6F-D4A5-4ADF-90CB-FB8C5B705A9C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AddStudent.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
