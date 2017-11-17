@@ -19,8 +19,8 @@
 		<child name="NewAccount_FreeTrial_Chrome_Test1" key="{4B561C80-991A-4F39-88E0-900ED13575E4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="NewAccount_FreeTrial_Chrome_Test1.tcKDTest" />
 		</child>
-		<child name="ChangeAlotmentonActivationCode_Test1" key="{D0484A23-AEFF-4510-8930-5D7F19B245A9}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="ChangeAlotmentonActivationCode_Test1.tcKDTest" />
+		<child name="ChangeAlotmentonActivationCode" key="{D0484A23-AEFF-4510-8930-5D7F19B245A9}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ChangeAlotmentonActivationCode.tcKDTest" />
 		</child>
 	</children>
 	<folders />

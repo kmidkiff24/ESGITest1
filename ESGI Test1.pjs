@@ -16,8 +16,8 @@
 		<child name="Testing_Test1" key="{57454F4D-AB2C-4FDA-816E-140218DB2EE5}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Testing_Test1\Testing_Test1.mds" />
 		</child>
-		<child name="New Users_Test1" key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="New Users_Test1\New Users_Test1.mds" />
+		<child name="New Users_Test1(Ignore)" key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="New Users_Test1\New Users_Test1(Ignore).mds" />
 		</child>
 		<child name="Schools_Test1" key="{A65E526E-B822-4828-8E2C-3171AE390A80}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Schools_Test1\Schools_Test1.mds" />
