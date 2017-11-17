@@ -4,8 +4,8 @@
 		<child name="HomepageVideos_Test1" key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="HomepageVideos_Test1.mds" />
 		</child>
-		<child name="CMTTest1" key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="CMTTest1_\CMTTest1.mds" />
+		<child name="CMTTest1(Ignore)" key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="CMTTest1_\CMTTest1(Ignore).mds" />
 		</child>
 		<child name="Reports_Test1" key="{0FA4AE7D-0859-444A-8408-4831FE9E72F8}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ESGI Test1 Reports\Reports_Test1.mds" />

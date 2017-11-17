@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="CMTLogin" key="{14A23078-97A9-450F-A919-6A5F33BBE3C7}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="CMTLogin.tcKDTest" />
+		<child name="CMT_CMTLogin" key="{14A23078-97A9-450F-A919-6A5F33BBE3C7}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CMT_CMTLogin.tcKDTest" />
 		</child>
 	</children>
 	<folders />
