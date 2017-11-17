@@ -4,6 +4,9 @@
 		<child name="SubjectNameMax" key="{3ED0879C-7AD7-4882-9E95-AA6FB792F0EA}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="SubjectNameMax.tcKDTest" />
 		</child>
+		<child name="EditTestNoLoadingPage" key="{1EC7344A-0C2C-4C99-BDF2-5BDA16174043}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="EditTestNoLoadingPage.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

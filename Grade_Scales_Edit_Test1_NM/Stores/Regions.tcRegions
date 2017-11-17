@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{DA6D7EF7-5B05-4735-AAF0-A85E47D47989}" version="12.0">
+	<children>
+		<child name="textboxEntryvalue" key="{8B437D48-AC4F-4BAE-9DBE-34E1A69ED81E}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="textboxEntryvalue" ID="{8B437D48-AC4F-4BAE-9DBE-34E1A69ED81E}" FileName="Regions\textboxEntryvalue.png" Update="False" />
+		</child>
+		<child name="cell" key="{6EF1E099-B4A4-40E0-A696-B07675D114A4}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="cell" ID="{6EF1E099-B4A4-40E0-A696-B07675D114A4}" FileName="Regions\cell.png" Update="False" />
+		</child>
+		<child name="cellE" key="{9C865376-CA09-4CE8-8BAC-68AB23221AFE}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="cellE" ID="{9C865376-CA09-4CE8-8BAC-68AB23221AFE}" FileName="Regions\cellE.png" Update="False" />
+		</child>
+		<child name="cellTestSort" key="{D2496F2E-15B5-4A64-BEA9-C6F0926B5CB0}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="cellTestSort" ID="{D2496F2E-15B5-4A64-BEA9-C6F0926B5CB0}" FileName="Regions\cellTestSort.png" Update="False" />
+		</child>
+		<child name="cellTestSort1" key="{B9E9B51C-5C06-4B69-BFF2-46F20632DFAB}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="cellTestSort1" ID="{B9E9B51C-5C06-4B69-BFF2-46F20632DFAB}" FileName="Regions\cellTestSort1.png" Update="False" />
+		</child>
+		<child name="cellTestSort2" key="{33040933-9B74-40EC-AA52-D18009F69992}" type="Region" typeId="{1FD256C1-604C-48A1-9990-9A9329139EC4}" pluginName="Stores">
+			<data signature="{1FD256C1-604C-48A1-9990-9A9329139EC4}" version="12.0" caption="cellTestSort2" ID="{33040933-9B74-40EC-AA52-D18009F69992}" FileName="Regions\cellTestSort2.png" Update="False" />
+		</child>
+	</children>
+	<folders />
+</Root>
