@@ -25,9 +25,6 @@
 		<child name="Groups_Test1" key="{611CBE5A-8EA0-4416-B520-63642CF3E760}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Groups_Test1\Groups_Test1.mds" />
 		</child>
-		<child name="Students_Test1" key="{923A721E-9DD2-4174-9E53-6E8191732C32}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Students_Test1\Students_Test1.mds" />
-		</child>
 		<child name="Subjects_Test1" key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ESGI Test1_1\Subjects_Test1.mds" />
 		</child>
@@ -86,7 +83,6 @@
 			<testItem key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{A65E526E-B822-4828-8E2C-3171AE390A80}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{611CBE5A-8EA0-4416-B520-63642CF3E760}" enabled="False" timeout="0" stopOnError="False" description="" />
-			<testItem key="{923A721E-9DD2-4174-9E53-6E8191732C32}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{BEBCC591-C04A-4312-B634-1263965C912A}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="False" timeout="0" stopOnError="False" description="" />
