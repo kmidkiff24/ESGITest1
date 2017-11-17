@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="TestExplorer" key="{51E0C9B0-34BA-44BF-A199-8F4A8E1B9C3B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="TestExplorer.tcKDTest" />
+		<child name="BP_TestExplorer_Available" key="{51E0C9B0-34BA-44BF-A199-8F4A8E1B9C3B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="BP_TestExplorer_Available.tcKDTest" />
 		</child>
-		<child name="ParentConferencer" key="{D75AB490-655F-43C9-86C9-0565C58B2767}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="ParentConferencer.tcKDTest" />
+		<child name="BP_ParentConferencer_Available" key="{D75AB490-655F-43C9-86C9-0565C58B2767}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="BP_ParentConferencer_Available.tcKDTest" />
 		</child>
-		<child name="StudentExplorer" key="{9956A086-D9FA-48ED-A520-D1C053C5C3C3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="StudentExplorer.tcKDTest" />
+		<child name="BP_StudentExplorer_Available" key="{9956A086-D9FA-48ED-A520-D1C053C5C3C3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="BP_StudentExplorer_Available.tcKDTest" />
 		</child>
-		<child name="NumberofStudents" key="{B9A79BD9-6D12-45DD-A7E5-8C5CB9C28476}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="NumberofStudents.tcKDTest" />
+		<child name="BP_NumberofStudentsonHomepage" key="{B9A79BD9-6D12-45DD-A7E5-8C5CB9C28476}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="BP_NumberofStudentsonHomepage.tcKDTest" />
 		</child>
-		<child name="GotoESGIfromCMT" key="{257D5053-3CF3-45FA-B04A-EE5108E3827B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="GotoESGIfromCMT.tcKDTest" />
+		<child name="BP_GotoESGIfromCMT" key="{257D5053-3CF3-45FA-B04A-EE5108E3827B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="BP_GotoESGIfromCMT.tcKDTest" />
 		</child>
 	</children>
 	<folders />

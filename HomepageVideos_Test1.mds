@@ -32,11 +32,11 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{D4E1207F-AB77-4554-B90F-4E220390B1AA}">
 		<children>
-			<testItem name="HomescreenVideo" key="{F20E38D0-4111-414F-8D06-B577837CBAF7}" group="False" enabled="True" testMoniker="KDT\{A22E5DBF-6324-409C-BDB3-BF20FAF3D623}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="HomepageCMTVideo" key="{96C118ED-D4CD-4403-9F87-DE714A214934}" group="False" enabled="True" testMoniker="KDT\{9910F308-7CE8-4353-AAFF-417F62059EA2}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="HomepageCMTVideo" key="{96C118ED-D4CD-4403-9F87-DE714A214934}" group="False" enabled="True" testMoniker="KDT\{9910F308-7CE8-4353-AAFF-417F62059EA2}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="HomescreenVideo" key="{F20E38D0-4111-414F-8D06-B577837CBAF7}" group="False" enabled="True" testMoniker="KDT\{A22E5DBF-6324-409C-BDB3-BF20FAF3D623}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>

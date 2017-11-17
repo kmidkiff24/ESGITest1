@@ -350,9 +350,6 @@
 													<Property Name="ObjectType">
 														<Value PropertyType="0" Value="Link" Type="5" />
 													</Property>
-													<Property Name="href">
-														<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Students&apos;,%204233218);void(0);" Type="5" />
-													</Property>
 													<Property Name="contentText">
 														<Value PropertyType="0" Value="edit" Type="5" />
 													</Property>
