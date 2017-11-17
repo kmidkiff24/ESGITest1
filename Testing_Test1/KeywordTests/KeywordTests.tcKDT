@@ -1,32 +1,29 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="AddTestQuestion_Test1" key="{0C5AFC99-FE20-482A-B21A-847A69BB36E2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AddTestQuestion_Test1.tcKDTest" />
+		<child name="TS_AddTestQuestion" key="{0C5AFC99-FE20-482A-B21A-847A69BB36E2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_AddTestQuestion.tcKDTest" />
 		</child>
-		<child name="DeleteTestQuestion_Test1" key="{A08890AC-81EC-4EE2-B21F-275B3D886984}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="DeleteTestQuestion_Test1.tcKDTest" />
+		<child name="TS_DeleteTestQuestion" key="{A08890AC-81EC-4EE2-B21F-275B3D886984}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_DeleteTestQuestion.tcKDTest" />
 		</child>
-		<child name="RunTest_Test1" key="{600D6179-577B-434E-9CD9-7457DCC97724}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="RunTest_Test1.tcKDTest" />
+		<child name="TS_RunTest" key="{600D6179-577B-434E-9CD9-7457DCC97724}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_RunTest.tcKDTest" />
 		</child>
-		<child name="ModifyTestQuestion" key="{683D02A8-08EE-49FD-9713-1BBDC73D2446}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="ModifyTestQuestion.tcKDTest" />
+		<child name="TS_CloseTest" key="{DD214645-755A-4005-92D8-2F37F6CD4267}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_CloseTest.tcKDTest" />
 		</child>
-		<child name="CloseTest_Test1" key="{DD214645-755A-4005-92D8-2F37F6CD4267}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="CloseTest_Test1.tcKDTest" />
+		<child name="TS_AddTestQuestion_Chrome" key="{A5DC2230-7738-434E-9795-20C62A4FB4D1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_AddTestQuestion_Chrome.tcKDTest" />
 		</child>
-		<child name="AddTestQuestion_Chrome_Test1" key="{A5DC2230-7738-434E-9795-20C62A4FB4D1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AddTestQuestion_Chrome_Test1.tcKDTest" />
+		<child name="TS_ModifyTestQuestion" key="{88E64D54-4FC7-4D6A-8963-053CA239DB4F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_ModifyTestQuestion.tcKDTest" />
 		</child>
-		<child name="ModifyTestQuestion_Test1" key="{88E64D54-4FC7-4D6A-8963-053CA239DB4F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="ModifyTestQuestion_Test1.tcKDTest" />
+		<child name="TS_CreateATest" key="{46C9C48C-6CD5-4344-8507-D1B3E22581B5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_CreateATest.tcKDTest" />
 		</child>
-		<child name="CreateATest_Test1" key="{46C9C48C-6CD5-4344-8507-D1B3E22581B5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="CreateATest_Test1.tcKDTest" />
-		</child>
-		<child name="SchACopyTest_Test1" key="{1B93A0ED-CC9B-4C40-BCFE-287CCA77C57F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="SchACopyTest_Test1.tcKDTest" />
+		<child name="TS_SchACopyTest" key="{1B93A0ED-CC9B-4C40-BCFE-287CCA77C57F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_SchACopyTest.tcKDTest" />
 		</child>
 	</children>
 	<folders />

@@ -7463,6 +7463,20 @@
 												<Value PropertyType="0" Value="1" Type="0" />
 											</Property>
 										</Properties>
+										<Children>
+											<Child Name="passwordboxPassword" Key="{1BD6510F-D99A-47BB-99BB-2359C7A0588F}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="2018607411" Left="1383" Top="124" Right="1516" Bottom="145" />
+												<TypeInfo Item0="{01C38DFC-2C4F-48BB-AB68-C50A02A57BFE}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="PasswordBox" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="password" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
 									</Child>
 								</Children>
 							</Child>
@@ -8699,7 +8713,9 @@
 								</Child>
 							</Child>
 						</Child>
-						<Child Name="panelNavbarCollapseNavMainCollap" Owner="{1FEDFA98-0A8C-412E-B605-08194C4ED04B}" />
+						<Child Name="panelNavbarCollapseNavMainCollap" Owner="{1FEDFA98-0A8C-412E-B605-08194C4ED04B}">
+							<Child Name="passwordboxPassword" Owner="{1BD6510F-D99A-47BB-99BB-2359C7A0588F}" />
+						</Child>
 					</Child>
 					<Child Name="CMTSignoffLink" Owner="{8726F1A3-5283-48FC-A09E-7DFDF8C649E2}" />
 					<Child Name="CMTHelpLink" Owner="{D4EEDE85-7070-4231-8782-BFEB55C62C53}" />

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="PieChart_Test1" key="{51CE5713-2867-462D-9FCD-8F14537639AE}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="PieChart_Test1.tcKDTest" />
+		<child name="PC_PieChartGraphIsCorrect" key="{51CE5713-2867-462D-9FCD-8F14537639AE}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PC_PieChartGraphIsCorrect.tcKDTest" />
 		</child>
-		<child name="PieChartLocations" key="{B9D5387E-37EA-4797-8291-0817EFDEFA60}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="PieChartLocations.tcKDTest" />
+		<child name="PC_PieChartLocationsonSubjectScreen" key="{B9D5387E-37EA-4797-8291-0817EFDEFA60}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PC_PieChartLocationsonSubjectScreen.tcKDTest" />
 		</child>
 	</children>
 	<folders />

@@ -24,11 +24,11 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{8C008DAF-4B43-4405-BA8C-459D9AF1F60B}">
 		<children>
-			<testItem name="SACreatedUser" key="{873026DF-26DE-4914-9AED-5223383EDB18}" group="False" enabled="False" testMoniker="KDT\{2813A493-CB6E-4706-A60A-9859D6858017}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="SACreatedUser" key="{873026DF-26DE-4914-9AED-5223383EDB18}" group="False" enabled="True" testMoniker="KDT\{2813A493-CB6E-4706-A60A-9859D6858017}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem1" key="{CDCB8324-9727-4A26-9BCC-588EC88AD850}" group="False" enabled="False" testMoniker="KDT\{C84043F6-D4BD-4A7E-801A-FD6DAB61793D}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem1" key="{CDCB8324-9727-4A26-9BCC-588EC88AD850}" group="False" enabled="True" testMoniker="KDT\{C84043F6-D4BD-4A7E-801A-FD6DAB61793D}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>

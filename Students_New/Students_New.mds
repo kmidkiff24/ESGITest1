@@ -24,7 +24,25 @@
 	</folders>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{51322568-5CCE-443A-9F68-79EF651A3599}">
-		<children />
+		<children>
+			<testItem name="ProjectTestItem1" key="{8DE23C7C-73CB-444C-A836-DFE995E40B96}" group="False" enabled="True" testMoniker="KDT\{FB0E876D-294D-427E-96BB-5A44015AB6A5}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children>
+					<testItem name="ProjectTestItem3" key="{37635ADD-D302-4157-AB80-2B104E4C6978}" group="False" enabled="True" testMoniker="KDT\{B6B59B6F-D4A5-4ADF-90CB-FB8C5B705A9C}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
+			</testItem>
+			<testItem name="ProjectTestItem2" key="{C7627915-2E82-41AC-85A4-46A454EC1D60}" group="False" enabled="True" testMoniker="KDT\{09B9E492-D304-4AD4-9785-938456C121A4}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem4" key="{38D41B42-BE43-4662-82EE-40A98CBD88CE}" group="False" enabled="True" testMoniker="KDT\{9C87EA20-787D-4974-B8DC-0AA8A28B9386}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{BE630128-F047-4053-AFAA-553F5F4E4A44}">
 		<data Version="3" />
@@ -104,7 +122,7 @@
 		<setting name="Recording_TestedAppsOnly" type="1" value="False" />
 		<setting name="{FB1CAF99-7FA6-447C-B963-D862CA8BFF89}" type="2" value="3000" />
 		<setting name="{3B76535B-58AD-456C-837E-091A5C480F6C}" type="1" value="True" />
-		<setting name="{3AE91BBD-F37D-40E6-B49D-D2F1EF68E285}" type="1" value="True" />
+		<setting name="{3AE91BBD-F37D-40E6-B49D-D2F1EF68E285}" type="1" value="False" />
 		<setting name="{D852BFD9-D446-4748-906F-1FA580D41304}" type="6" rowIndex="0" colIndex="1">
 			<columns>
 				<column type="1" enabled="True" />

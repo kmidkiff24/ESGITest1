@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{D0319EE4-6371-4ABD-AA11-4F3BF604F977}">
 	<children>
-		<child name="ESGI Test1" key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="ESGI Test1.mds" />
+		<child name="HomepageVideos_Test1" key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="HomepageVideos_Test1.mds" />
 		</child>
-		<child name="Logins_Test1" key="{A2C1DBFF-D684-460B-98A7-47ACEFBB7F18}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="ESGI Test1_Logins\Logins_Test1.mds" />
-		</child>
-		<child name="CMTTest1" key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="CMTTest1_\CMTTest1.mds" />
+		<child name="CMTTest1(Ignore)" key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="CMTTest1_\CMTTest1(Ignore).mds" />
 		</child>
 		<child name="Reports_Test1" key="{0FA4AE7D-0859-444A-8408-4831FE9E72F8}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ESGI Test1 Reports\Reports_Test1.mds" />
@@ -19,17 +16,14 @@
 		<child name="Testing_Test1" key="{57454F4D-AB2C-4FDA-816E-140218DB2EE5}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Testing_Test1\Testing_Test1.mds" />
 		</child>
-		<child name="New Users_Test1" key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="New Users_Test1\New Users_Test1.mds" />
+		<child name="New Users_Test1(Ignore)" key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="New Users_Test1\New Users_Test1(Ignore).mds" />
 		</child>
 		<child name="Schools_Test1" key="{A65E526E-B822-4828-8E2C-3171AE390A80}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Schools_Test1\Schools_Test1.mds" />
 		</child>
 		<child name="Groups_Test1" key="{611CBE5A-8EA0-4416-B520-63642CF3E760}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Groups_Test1\Groups_Test1.mds" />
-		</child>
-		<child name="Students_Test1" key="{923A721E-9DD2-4174-9E53-6E8191732C32}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Students_Test1\Students_Test1.mds" />
 		</child>
 		<child name="Subjects_Test1" key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ESGI Test1_1\Subjects_Test1.mds" />
@@ -49,8 +43,8 @@
 		<child name="Logins_Test1_New" key="{8CCD6F68-8C7B-4824-A072-45890990B095}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Logins_Test1_Copy\Logins_Test1_New.mds" />
 		</child>
-		<child name="NewSchool" key="{C2E20841-B67F-4E02-829E-21199F4794EE}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="NewSchool\NewSchool.mds" />
+		<child name="School_New" key="{C2E20841-B67F-4E02-829E-21199F4794EE}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="NewSchool\School_New.mds" />
 		</child>
 		<child name="Testing_New" key="{7A218640-550D-422A-BD05-333CC9661E50}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Testing_New\Testing_New.mds" />
@@ -64,15 +58,11 @@
 		<child name="ActivationCodes_New" key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ActivationCodes\ActivationCodes_New.mds" />
 		</child>
-		<child name="Grade_Scales_Edit_Test1_NM" key="{A30B13DE-2132-4547-B97A-F9499AEBE33D}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Grade_Scales_Edit_Test1_NM\Grade_Scales_Edit_Test1_NM.mds" />
-		</child>
 	</children>
 	<folders />
-	<testItems key="{9D5A0B86-687A-40BE-A575-F85E64CE0E4D}">
+	<testItems key="{18AAB92D-9A4C-477C-BF0D-4B4ADEBC930E}">
 		<children>
 			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{A2C1DBFF-D684-460B-98A7-47ACEFBB7F18}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{0FA4AE7D-0859-444A-8408-4831FE9E72F8}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" enabled="True" timeout="0" stopOnError="True" description="" />
@@ -80,7 +70,6 @@
 			<testItem key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{A65E526E-B822-4828-8E2C-3171AE390A80}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{611CBE5A-8EA0-4416-B520-63642CF3E760}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{923A721E-9DD2-4174-9E53-6E8191732C32}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{BEBCC591-C04A-4312-B634-1263965C912A}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="True" timeout="0" stopOnError="True" description="" />
@@ -92,13 +81,12 @@
 			<testItem key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{A30B13DE-2132-4547-B97A-F9499AEBE33D}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
-	<variables key="{20281421-E7DE-471B-9B13-73262B80700C}">
+	<variables key="{2549BD5C-9B51-49DE-99EA-8E64770FFA55}">
 		<data Version="3" />
 	</variables>
-	<analysis key="{F3E93A46-D65A-4E14-85F3-359C4CFB1DEC}" />
+	<analysis key="{6F045B0B-8EDB-40B5-A1D5-4D77795C313D}" />
 	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
 		<data />
 	</scc>

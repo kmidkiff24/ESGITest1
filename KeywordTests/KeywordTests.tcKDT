@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="TestExplorer_Test1" key="{DC97D1F8-CD1F-4DE3-A8E3-A4464166121B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="TestExplorer_Test1.tcKDTest" />
+		<child name="HV_ESGIHomescreenVideo" key="{A22E5DBF-6324-409C-BDB3-BF20FAF3D623}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="HV_ESGIHomescreenVideo.tcKDTest" />
 		</child>
-		<child name="ParentConferencer_Test1" key="{E393E6E6-FD3D-4C69-921C-E65F816181BB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="ParentConferencer_Test1.tcKDTest" />
+		<child name="HV_CMTHomepageVideo" key="{9910F308-7CE8-4353-AAFF-417F62059EA2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="HV_CMTHomepageVideo.tcKDTest" />
 		</child>
-		<child name="StudentExplorer_Test1" key="{65CC2951-9666-4CDB-A3FA-C109FD3D0ECF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="StudentExplorer_Test1.tcKDTest" />
-		</child>
-		<child name="HomescreenVideo_Test1" key="{A22E5DBF-6324-409C-BDB3-BF20FAF3D623}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="HomescreenVideo_Test1.tcKDTest" />
-		</child>
-		<child name="NumberofStudents2_Test1" key="{33CB2E85-2421-443E-9FD8-C38035317999}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="NumberofStudents2_Test1.tcKDTest" />
-		</child>
-		<child name="GotoESGIfromCMT_Test1" key="{94CFAE74-737B-48B0-9BFD-E5242F047E75}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="GotoESGIfromCMT_Test1.tcKDTest" />
-		</child>
-		<child name="HomepageCMTVideo_Test1" key="{9910F308-7CE8-4353-AAFF-417F62059EA2}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="HomepageCMTVideo_Test1.tcKDTest" />
-		</child>
-		<child name="ESGILogo_Test1" key="{4118A6C0-3731-4093-BE82-876BD1A2F705}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="ESGILogo_Test1.tcKDTest" />
+		<child name="HV_ESGILogo" key="{4118A6C0-3731-4093-BE82-876BD1A2F705}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="HV_ESGILogo.tcKDTest" />
 		</child>
 	</children>
 	<folders />

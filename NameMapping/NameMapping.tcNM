@@ -224,7 +224,6 @@
 														</Properties>
 														<Children>
 															<Child Name="panelRow" Key="{56A76497-3E0B-470B-A82F-D925444A7991}" ParallelWalk="True">
-																<Image FileName="643117238" Left="1036" Top="122" Right="1781" Bottom="155" />
 																<Properties>
 																	<Property Name="ObjectType">
 																		<Value PropertyType="0" Value="Panel" Type="5" />
@@ -235,7 +234,6 @@
 																</Properties>
 																<Children>
 																	<Child Name="passwordboxPassword" Key="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" ExtendedFind="True" ParallelWalk="True">
-																		<Image FileName="295797907" Left="1465" Top="123" Right="1630" Bottom="153" />
 																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
 																		<Properties>
 																			<Property Name="ObjectType">
@@ -7486,6 +7484,20 @@
 												<Value PropertyType="0" Value="1" Type="0" />
 											</Property>
 										</Properties>
+										<Children>
+											<Child Name="passwordboxPassword" Key="{18653BDF-E2F8-402D-952B-579FACECE5E3}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="400124923" Left="1383" Top="124" Right="1516" Bottom="145" />
+												<TypeInfo Item0="{01C38DFC-2C4F-48BB-AB68-C50A02A57BFE}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="PasswordBox" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="password" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
 									</Child>
 								</Children>
 							</Child>
@@ -8519,11 +8531,10 @@
 					<Child Name="panelLoginForm" Owner="{37B6C814-818C-4C26-8159-AAB9125AF0BD}">
 						<Child Name="textboxUsername" Owner="{3BFB8BC8-4F8D-4BD3-9675-96C7DC551662}" />
 						<Child Name="panelLoginFormContainer" Owner="{D61F553E-62A2-4ADF-B3D8-4AEA8CCC0AF9}">
-							<Child Name="panelRow" Owner="{56A76497-3E0B-470B-A82F-D925444A7991}">
-								<Child Name="passwordboxPassword" Owner="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" />
-								<Child Name="labelUsername" Owner="{86513C32-9746-47B1-BF55-8C671F85D8BC}" />
-							</Child>
+							<Child Name="labelUsername" Owner="{86513C32-9746-47B1-BF55-8C671F85D8BC}" />
+							<Child Name="panelRow" Owner="{56A76497-3E0B-470B-A82F-D925444A7991}" />
 						</Child>
+						<Child Name="passwordboxPassword" Owner="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" />
 					</Child>
 					<Child Name="panelContainer" Owner="{D3830EF8-8979-4499-82CD-B338E780D80C}" />
 				</Child>
@@ -8788,7 +8799,9 @@
 								</Child>
 							</Child>
 						</Child>
-						<Child Name="panelNavbarCollapseNavMainCollap" Owner="{1FEDFA98-0A8C-412E-B605-08194C4ED04B}" />
+						<Child Name="panelNavbarCollapseNavMainCollap" Owner="{1FEDFA98-0A8C-412E-B605-08194C4ED04B}">
+							<Child Name="passwordboxPassword" Owner="{18653BDF-E2F8-402D-952B-579FACECE5E3}" />
+						</Child>
 					</Child>
 					<Child Name="CMTSignoffLink" Owner="{8726F1A3-5283-48FC-A09E-7DFDF8C649E2}" />
 					<Child Name="CMTHelpLink" Owner="{D4EEDE85-7070-4231-8782-BFEB55C62C53}" />

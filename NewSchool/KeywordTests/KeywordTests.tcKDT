@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="AddSchool" key="{EDC68294-ED78-48C5-9DFA-525D055B5907}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AddSchool.tcKDTest" />
+		<child name="SC_AddSchool" key="{EDC68294-ED78-48C5-9DFA-525D055B5907}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SC_AddSchool.tcKDTest" />
 		</child>
-		<child name="DeleteSchool" key="{8648DB67-0378-4597-900E-18A55E03331A}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="DeleteSchool.tcKDTest" />
+		<child name="SC_DeleteSchool" key="{8648DB67-0378-4597-900E-18A55E03331A}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SC_DeleteSchool.tcKDTest" />
 		</child>
 	</children>
 	<folders />

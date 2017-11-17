@@ -48,6 +48,10 @@
 				<testParameters />
 				<children />
 			</testItem>
+			<testItem name="ProjectTestItem1" key="{4BE89CB7-F2D1-446F-8E70-F7D30D832D3E}" group="False" enabled="True" testMoniker="KDT\{1B93A0ED-CC9B-4C40-BCFE-287CCA77C57F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
 		</children>
 	</testItems>
 	<variables key="{BB3C661B-C2EC-4D4D-B1AB-91B970D13CBA}">

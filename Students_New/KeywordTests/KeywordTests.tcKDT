@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="AutoSelectGender" key="{FB0E876D-294D-427E-96BB-5A44015AB6A5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AutoSelectGender.tcKDTest" />
+		<child name="ST_ESGIAutoSelectGenderwhenAddingStudent" key="{FB0E876D-294D-427E-96BB-5A44015AB6A5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ST_ESGIAutoSelectGenderwhenAddingStudent.tcKDTest" />
+		</child>
+		<child name="ST_ModifyStudent_AddID" key="{09B9E492-D304-4AD4-9785-938456C121A4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ST_ModifyStudent_AddID.tcKDTest" />
+		</child>
+		<child name="ST_AddStudent" key="{B6B59B6F-D4A5-4ADF-90CB-FB8C5B705A9C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ST_AddStudent.tcKDTest" />
+		</child>
+		<child name="ST_DeleteStudent" key="{9C87EA20-787D-4974-B8DC-0AA8A28B9386}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ST_DeleteStudent.tcKDTest" />
 		</child>
 	</children>
 	<folders />
