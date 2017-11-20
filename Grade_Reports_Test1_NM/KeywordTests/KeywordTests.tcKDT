@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="Grade_Reports_RunReport_ChangeSubject_NM" key="{C3CA948A-572B-408F-A97A-793ECF60A9E1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="Grade_Reports_RunReport_ChangeSubject_NM.tcKDTest" />
+		<child name="GR_RunReport_ChangeSubject_NM" key="{C3CA948A-572B-408F-A97A-793ECF60A9E1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="GR_RunReport_ChangeSubject_NM.tcKDTest" />
 		</child>
-		<child name="Grade_Reports_RunReport_ViewScalesSettings_NM" key="{47ADA35F-F990-4D7A-8094-49D14069850F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="Grade_Reports_RunReport_ViewScalesSettings_NM.tcKDTest" />
+		<child name="GR_RunReport_ViewScalesSettings_NM" key="{47ADA35F-F990-4D7A-8094-49D14069850F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="GR_RunReport_ViewScalesSettings_NM.tcKDTest" />
 		</child>
-		<child name="Grade_Reports_RunReport_ViewScalesSettings_Edit_NM" key="{1E7D383E-2EE0-4D8B-B760-96F3F4D1FE68}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="Grade_Reports_RunReport_ViewScalesSettings_Edit_NM.tcKDTest" />
+		<child name="GR_RunReport_ViewScalesSettings_Edit_NM" key="{1E7D383E-2EE0-4D8B-B760-96F3F4D1FE68}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="GR_RunReport_ViewScalesSettings_Edit_NM.tcKDTest" />
 		</child>
-		<child name="Grade_Reports_RunReport_AddNewScale_NM" key="{1F6C95A7-260E-4F47-A00A-BB4D9AFC813B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="Grade_Reports_RunReport_AddNewScale_NM.tcKDTest" />
+		<child name="GR_RunReport_AddNewScale_NM" key="{1F6C95A7-260E-4F47-A00A-BB4D9AFC813B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="GR_RunReport_AddNewScale_NM.tcKDTest" />
 		</child>
 	</children>
 	<folders />
