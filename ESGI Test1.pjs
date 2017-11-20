@@ -96,7 +96,7 @@
 			<testItem key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{169A09C0-FEB0-40A2-8430-A37995DA48C5}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{922F9CE1-2EFA-4B1B-9CEF-583EF82F9A2E}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{7570638B-8B5E-4B49-AF54-A3A244275A8F}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{7570638B-8B5E-4B49-AF54-A3A244275A8F}" enabled="True" timeout="0" stopOnError="False" description="" />
 		</children>
 	</testItems>
 	<variables key="{20281421-E7DE-471B-9B13-73262B80700C}">
