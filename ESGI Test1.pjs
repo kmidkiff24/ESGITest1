@@ -100,7 +100,7 @@
 			<testItem key="{982FD83D-F246-42E6-88BD-F6CDBDF73B0A}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{CB5C5B7B-1E7A-4F0C-A447-FE492B0BB57C}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{13968F39-FC42-47E1-9EB8-3C6D44B9420F}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{9909F130-108F-4009-ADFC-46F35BE3EF16}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{9909F130-108F-4009-ADFC-46F35BE3EF16}" enabled="True" timeout="0" stopOnError="False" description="" />
 		</children>
 	</testItems>
 	<variables key="{9C19B154-643C-43ED-B4CD-6EC6F03C379E}">
