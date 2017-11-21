@@ -80,25 +80,25 @@
 			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{0FA4AE7D-0859-444A-8408-4831FE9E72F8}" enabled="False" timeout="0" stopOnError="False" description="" />
-			<testItem key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{57454F4D-AB2C-4FDA-816E-140218DB2EE5}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{57454F4D-AB2C-4FDA-816E-140218DB2EE5}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" enabled="False" timeout="0" stopOnError="False" description="" />
-			<testItem key="{A65E526E-B822-4828-8E2C-3171AE390A80}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{611CBE5A-8EA0-4416-B520-63642CF3E760}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{BEBCC591-C04A-4312-B634-1263965C912A}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{F2F67E0C-565F-48A1-840E-594171C820A2}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{A65E526E-B822-4828-8E2C-3171AE390A80}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{611CBE5A-8EA0-4416-B520-63642CF3E760}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{BEBCC591-C04A-4312-B634-1263965C912A}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{F2F67E0C-565F-48A1-840E-594171C820A2}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{8CCD6F68-8C7B-4824-A072-45890990B095}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{C2E20841-B67F-4E02-829E-21199F4794EE}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{7A218640-550D-422A-BD05-333CC9661E50}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{7A218640-550D-422A-BD05-333CC9661E50}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" enabled="False" timeout="0" stopOnError="False" description="" />
+			<testItem key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{849A7E10-8930-4795-9B0A-784E849A9308}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{982FD83D-F246-42E6-88BD-F6CDBDF73B0A}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{CB5C5B7B-1E7A-4F0C-A447-FE492B0BB57C}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{CB5C5B7B-1E7A-4F0C-A447-FE492B0BB57C}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{13968F39-FC42-47E1-9EB8-3C6D44B9420F}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{9909F130-108F-4009-ADFC-46F35BE3EF16}" enabled="True" timeout="0" stopOnError="False" description="" />
 		</children>

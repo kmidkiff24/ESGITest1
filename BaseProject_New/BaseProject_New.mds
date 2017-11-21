@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="12.0">
 	<children>
-		<child name="Events" key="{D6E4D9AA-E089-4C08-BADD-9C11534493E5}" type="Events" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" pluginName="">
-			<data path="Events\Events.tcAX" />
-		</child>
-		<child name="Script" key="{5A30EEC0-2F02-440C-AAC7-19C579F49D6D}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script">
-			<data path="Script\Script.tcScript" />
-		</child>
 		<child name="KeywordTests" key="{C709F9F5-2866-4BB0-ACDF-5E9BC59F521D}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing">
 			<data path="KeywordTests\KeywordTests.tcKDT" />
 		</child>
@@ -14,14 +8,7 @@
 			<data path="NameMapping\NameMapping.tcNM" />
 		</child>
 	</children>
-	<folders>
-		<folder caption="Advanced" description="A logical folder that is used to organize project items and elements." moniker="{69583268-92F3-49FA-B573-C831F5ABC27B}">
-			<references>
-				<ref key="{D6E4D9AA-E089-4C08-BADD-9C11534493E5}" />
-				<ref key="{5A30EEC0-2F02-440C-AAC7-19C579F49D6D}" />
-			</references>
-		</folder>
-	</folders>
+	<folders />
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{D9ED71E9-21FC-4614-AFFA-B65A7AD03284}">
 		<children>
