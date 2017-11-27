@@ -32,14 +32,6 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{8F556B01-E63C-40F3-AF8B-6EE3D9374BA9}">
 		<children>
-			<testItem name="ProjectTestItem1" key="{31611D16-7B16-4EED-AD90-FD038AE33030}" group="False" enabled="True" testMoniker="KDT\{5FA3ECD7-2E6F-4A2E-9975-93A3B63AD95E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem2" key="{2B3A24A3-DD08-4972-ABF5-C7D391159F08}" group="False" enabled="True" testMoniker="KDT\{3A8A29D2-2C69-422C-AA85-558DDEABB2A8}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
 			<testItem name="ProjectTestItem3" key="{A922700E-4083-41D6-818E-1A73066BDA99}" group="False" enabled="True" testMoniker="KDT\{DDA089C1-D40C-458B-B657-D15205A184EC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
@@ -52,9 +44,18 @@
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem6" key="{805FA4E2-2423-4ADC-AEE2-F2D36A4559D1}" group="False" enabled="True" testMoniker="KDT\{9FDECE34-EC70-41D2-8BEE-C6D552293672}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem2" key="{2B3A24A3-DD08-4972-ABF5-C7D391159F08}" group="False" enabled="True" testMoniker="KDT\{3A8A29D2-2C69-422C-AA85-558DDEABB2A8}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
+			</testItem>
+			<testItem name="ProjectTestItem6" key="{805FA4E2-2423-4ADC-AEE2-F2D36A4559D1}" group="False" enabled="True" testMoniker="KDT\{9FDECE34-EC70-41D2-8BEE-C6D552293672}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children>
+					<testItem name="ProjectTestItem1" key="{31611D16-7B16-4EED-AD90-FD038AE33030}" group="False" enabled="True" testMoniker="KDT\{5FA3ECD7-2E6F-4A2E-9975-93A3B63AD95E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+						<testParameters />
+						<children />
+					</testItem>
+				</children>
 			</testItem>
 		</children>
 	</testItems>
