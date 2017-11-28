@@ -192,6 +192,21 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="cell0" Key="{0A6DE8A0-970E-457F-9B42-6A77240A6375}" ParallelWalk="True">
+												<Image FileName="-1862478195" Left="505" Top="351" Right="607" Bottom="384" />
+												<TypeInfo Item0="{62658BA5-F563-4193-8B93-535C040914B6}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Cell" Type="5" />
+													</Property>
+													<Property Name="RowIndex">
+														<Value PropertyType="0" Value="4" Type="0" />
+													</Property>
+													<Property Name="ColumnIndex">
+														<Value PropertyType="0" Value="2" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="buttonClose" Key="{02CEAC44-1A52-4C2A-A66E-7AF99D0CF837}" ExtendedFind="True" ParallelWalk="True">
@@ -205,6 +220,90 @@
 												<Value PropertyType="0" Value="close-report" Type="5" />
 											</Property>
 										</Properties>
+									</Child>
+									<Child Name="panelFadeContainer" Key="{BD2728BF-C590-4972-AB15-AFBCD0483678}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="33647842" Left="24" Top="89" Right="1896" Bottom="976" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="2" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelTotalReportContent" Key="{4165587F-A1B1-49C7-BC24-AD77A14971F1}" ParallelWalk="True">
+												<Image FileName="33647842" Left="24" Top="89" Right="1899" Bottom="976" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{AD3A3F16-D300-412A-B56F-AABAC0E4A989}" ParallelWalk="True">
+														<Image FileName="33647842" Left="24" Top="89" Right="1899" Bottom="168" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelTotalReportHeader" Key="{B5BA42BC-3D15-4C36-81D0-6645ECC8F3CB}" ParallelWalk="True">
+																<Image FileName="33647842" Left="24" Top="89" Right="1899" Bottom="168" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelLeftBlock" Key="{7758131C-99B5-4477-B0EE-FC65C8C7BE31}" ParallelWalk="True">
+																		<Image FileName="33647842" Left="24" Top="113" Right="829" Bottom="155" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panel" Key="{BCA2CA66-1BFD-4371-8404-BB538B2347E1}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="33647842" Left="331" Top="113" Right="622" Bottom="155" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="checkbox" Key="{A6F3CA2E-ACB4-44FD-9628-12DEE03E83D3}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="33647842" Left="356" Top="129" Right="372" Bottom="145" />
+																						<TypeInfo Item0="{DF1A96FB-8C5C-4A2F-952D-85E51F1F89EA}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Checkbox" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
 									</Child>
 								</Children>
 							</Child>
@@ -261,8 +360,22 @@
 				<Child Name="ClassTotalsReport" Owner="{66FDD06A-E393-48BC-B640-CD4B62C502CD}">
 					<Child Name="ClassTotalsReportTitle" Owner="{DC2E09EA-06E5-4165-9D86-614B2F46CA51}" />
 					<Child Name="StudentJames" Owner="{67058B5E-8E54-45BD-AB7C-5D2A654D339C}" />
+					<Child Name="cell0" Owner="{0A6DE8A0-970E-457F-9B42-6A77240A6375}" />
 				</Child>
 				<Child Name="buttonClose" Owner="{02CEAC44-1A52-4C2A-A66E-7AF99D0CF837}" />
+				<Child Name="panelFadeContainer" Owner="{BD2728BF-C590-4972-AB15-AFBCD0483678}">
+					<Child Name="panelTotalReportContent" Owner="{4165587F-A1B1-49C7-BC24-AD77A14971F1}">
+						<Child Name="panel" Owner="{AD3A3F16-D300-412A-B56F-AABAC0E4A989}">
+							<Child Name="panelTotalReportHeader" Owner="{B5BA42BC-3D15-4C36-81D0-6645ECC8F3CB}">
+								<Child Name="panelLeftBlock" Owner="{7758131C-99B5-4477-B0EE-FC65C8C7BE31}">
+									<Child Name="panel" Owner="{BCA2CA66-1BFD-4371-8404-BB538B2347E1}">
+										<Child Name="checkbox" Owner="{A6F3CA2E-ACB4-44FD-9628-12DEE03E83D3}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{4B65BD20-5AD1-45FD-86B0-01797C130084}" />
 			<Child Name="pageHttpsTest1EsgisoftwareComEsg" Owner="{5579FAC5-487D-499D-AB8C-C26DEA4B5AED}" />
@@ -651,6 +764,80 @@
 					</Child>
 					<Child Name="ObjectGroupIndex" IsBasic="True" Data="ZI4L2L4ZOCZN">
 						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-1150188446" Key="{DF1A96FB-8C5C-4A2F-952D-85E51F1F89EA}">
+			<Data Properties="F3452D6656D91145B41E67B37CD11349UFFFFFFFFFFFFFFFFV4LCZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickButton" Doc="Moves the mouse cursor to the check box and then sets the check box to State, which must be cbUnchecked, cbChecked or cbGrayed." IsBasic="True" Param0="State" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="State" Doc="Returns the current state of the check box, that is, cbUnchecked, cbChecked or cbGrayed." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="wState" Doc="Returns the current state of the check box, that is, cbUnchecked, cbChecked or cbGrayed." IsBasic="True" Data="ZI4L2L4ZO3Z04L">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
 					</Child>
 					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
 						<ReturnValue Param0="12" />
