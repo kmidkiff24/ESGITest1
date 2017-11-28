@@ -7,6 +7,9 @@
 		<child name="RE_NTClassTotalsReport" key="{853F4D67-DB0E-4B48-BB8B-8CC4A5E0EA03}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="RE_NTClassTotalsReport.tcKDTest" />
 		</child>
+		<child name="RE_PieChartReport" key="{2739FB78-220C-4524-9322-A96B9CED7112}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RE_PieChartReport.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
