@@ -138,6 +138,28 @@
 											</Child>
 										</Children>
 									</Child>
+									<Child Name="panelPrintdisplaybut" Key="{09D022F2-60C8-4D5C-A3F4-9216987B3101}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1428169091" Left="1247" Top="744" Right="1392" Bottom="812" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="printDisplayBut" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="vgIcon" Key="{2BAD830B-1155-4124-9CC4-00D047BCED5A}" ParallelWalk="True">
+												<Image FileName="1428169091" Left="1253" Top="750" Right="1386" Bottom="803" />
+												<TypeInfo Item0="{915367FF-A616-4EA4-9D81-A575BEFB49CA}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="SVG" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageClassTotalsReport" Key="{1846CB83-EEA8-4125-99D2-13BDE32958F8}" ParallelWalk="True">
@@ -192,6 +214,21 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="cell0" Key="{0A6DE8A0-970E-457F-9B42-6A77240A6375}" ParallelWalk="True">
+												<Image FileName="-1862478195" Left="505" Top="351" Right="607" Bottom="384" />
+												<TypeInfo Item0="{62658BA5-F563-4193-8B93-535C040914B6}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Cell" Type="5" />
+													</Property>
+													<Property Name="RowIndex">
+														<Value PropertyType="0" Value="4" Type="0" />
+													</Property>
+													<Property Name="ColumnIndex">
+														<Value PropertyType="0" Value="2" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="buttonClose" Key="{02CEAC44-1A52-4C2A-A66E-7AF99D0CF837}" ExtendedFind="True" ParallelWalk="True">
@@ -205,6 +242,90 @@
 												<Value PropertyType="0" Value="close-report" Type="5" />
 											</Property>
 										</Properties>
+									</Child>
+									<Child Name="panelFadeContainer" Key="{BD2728BF-C590-4972-AB15-AFBCD0483678}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="33647842" Left="24" Top="89" Right="1896" Bottom="976" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="2" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelTotalReportContent" Key="{4165587F-A1B1-49C7-BC24-AD77A14971F1}" ParallelWalk="True">
+												<Image FileName="33647842" Left="24" Top="89" Right="1899" Bottom="976" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{AD3A3F16-D300-412A-B56F-AABAC0E4A989}" ParallelWalk="True">
+														<Image FileName="33647842" Left="24" Top="89" Right="1899" Bottom="168" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelTotalReportHeader" Key="{B5BA42BC-3D15-4C36-81D0-6645ECC8F3CB}" ParallelWalk="True">
+																<Image FileName="33647842" Left="24" Top="89" Right="1899" Bottom="168" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelLeftBlock" Key="{7758131C-99B5-4477-B0EE-FC65C8C7BE31}" ParallelWalk="True">
+																		<Image FileName="33647842" Left="24" Top="113" Right="829" Bottom="155" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panel" Key="{BCA2CA66-1BFD-4371-8404-BB538B2347E1}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="33647842" Left="331" Top="113" Right="622" Bottom="155" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="checkbox" Key="{A6F3CA2E-ACB4-44FD-9628-12DEE03E83D3}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="33647842" Left="356" Top="129" Right="372" Bottom="145" />
+																						<TypeInfo Item0="{DF1A96FB-8C5C-4A2F-952D-85E51F1F89EA}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Checkbox" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
 									</Child>
 								</Children>
 							</Child>
@@ -232,6 +353,114 @@
 									</Property>
 								</Properties>
 							</Child>
+							<Child Name="PieChartReport" Key="{0DD9461F-1E3E-447A-892D-12494B4B2D44}" ParallelWalk="True">
+								<Image FileName="-1842949380" Left="9" Top="85" Right="884" Bottom="772" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/ReportFrameSet.aspx*" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ReportView" Key="{CCD0E492-F85A-4DAD-B412-7B1CEC65D221}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1842949380" Left="24" Top="192" Right="869" Bottom="703" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Frame" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="reportView" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="InnerPanel" Key="{320CB93D-E83A-4ED9-9011-35B9C4C31703}" ParallelWalk="True">
+												<Image FileName="-1842949380" Left="34" Top="202" Right="859" Bottom="688" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panel" Key="{5CDBE8B0-4C49-4D9C-8759-47BFE53643F5}" ParallelWalk="True">
+														<Image FileName="-1842949380" Left="34" Top="202" Right="859" Bottom="688" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="PieChartTitle" Key="{CEFEA627-7B22-4A15-AE59-9FB9AF7A3436}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1842949380" Left="34" Top="202" Right="859" Bottom="219" />
+																<TypeInfo Item0="{915367FF-A616-4EA4-9D81-A575BEFB49CA}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="TestResults" Key="{F4399FE2-1917-44DD-A17A-4C895334719A}" ParallelWalk="True">
+																<Image FileName="-1842949380" Left="215" Top="262" Right="678" Bottom="688" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelTestResultsMainTableRow" Key="{2E5B1130-6A38-410A-B1B2-BA668E499E18}" ParallelWalk="True">
+																		<Image FileName="-1842949380" Left="215" Top="262" Right="678" Bottom="404" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelTestResultsBox" Key="{2A29FA40-CC6F-47BD-82BE-C5A960371E83}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="-1842949380" Left="215" Top="262" Right="447" Bottom="404" />
+																				<TypeInfo Item0="{915367FF-A616-4EA4-9D81-A575BEFB49CA}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="0" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow2" Key="{1CF3288E-0065-4587-8FB6-F2790FD74485}" ParallelWalk="True">
+								<Image FileName="995078146" Left="0" Top="0" Right="893" Bottom="781" />
+								<TypeInfo Item0="{A07B270A-2AC2-4F5F-96C6-29F75732E523}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="BrowserWindow" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="2" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -256,16 +485,48 @@
 				<Child Name="ClassTotalsBox" Owner="{74805C70-41CF-4EB5-9ADE-54E716BEE1EE}">
 					<Child Name="ClassTotalsButton2" Owner="{C535A3BE-F192-42C0-B4A8-F1234C474718}" />
 				</Child>
+				<Child Name="panelPrintdisplaybut" Owner="{09D022F2-60C8-4D5C-A3F4-9216987B3101}">
+					<Child Name="vgIcon" Owner="{2BAD830B-1155-4124-9CC4-00D047BCED5A}" />
+				</Child>
 			</Child>
 			<Child Name="pageClassTotalsReport" Owner="{1846CB83-EEA8-4125-99D2-13BDE32958F8}">
 				<Child Name="ClassTotalsReport" Owner="{66FDD06A-E393-48BC-B640-CD4B62C502CD}">
 					<Child Name="ClassTotalsReportTitle" Owner="{DC2E09EA-06E5-4165-9D86-614B2F46CA51}" />
 					<Child Name="StudentJames" Owner="{67058B5E-8E54-45BD-AB7C-5D2A654D339C}" />
+					<Child Name="cell0" Owner="{0A6DE8A0-970E-457F-9B42-6A77240A6375}" />
 				</Child>
 				<Child Name="buttonClose" Owner="{02CEAC44-1A52-4C2A-A66E-7AF99D0CF837}" />
+				<Child Name="panelFadeContainer" Owner="{BD2728BF-C590-4972-AB15-AFBCD0483678}">
+					<Child Name="panelTotalReportContent" Owner="{4165587F-A1B1-49C7-BC24-AD77A14971F1}">
+						<Child Name="panel" Owner="{AD3A3F16-D300-412A-B56F-AABAC0E4A989}">
+							<Child Name="panelTotalReportHeader" Owner="{B5BA42BC-3D15-4C36-81D0-6645ECC8F3CB}">
+								<Child Name="panelLeftBlock" Owner="{7758131C-99B5-4477-B0EE-FC65C8C7BE31}">
+									<Child Name="panel" Owner="{BCA2CA66-1BFD-4371-8404-BB538B2347E1}">
+										<Child Name="checkbox" Owner="{A6F3CA2E-ACB4-44FD-9628-12DEE03E83D3}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{4B65BD20-5AD1-45FD-86B0-01797C130084}" />
 			<Child Name="pageHttpsTest1EsgisoftwareComEsg" Owner="{5579FAC5-487D-499D-AB8C-C26DEA4B5AED}" />
+			<Child Name="PieChartReport" Owner="{0DD9461F-1E3E-447A-892D-12494B4B2D44}">
+				<Child Name="ReportView" Owner="{CCD0E492-F85A-4DAD-B412-7B1CEC65D221}">
+					<Child Name="InnerPanel" Owner="{320CB93D-E83A-4ED9-9011-35B9C4C31703}">
+						<Child Name="panel" Owner="{5CDBE8B0-4C49-4D9C-8759-47BFE53643F5}">
+							<Child Name="PieChartTitle" Owner="{CEFEA627-7B22-4A15-AE59-9FB9AF7A3436}" />
+							<Child Name="TestResults" Owner="{F4399FE2-1917-44DD-A17A-4C895334719A}">
+								<Child Name="panelTestResultsMainTableRow" Owner="{2E5B1130-6A38-410A-B1B2-BA668E499E18}">
+									<Child Name="panelTestResultsBox" Owner="{2A29FA40-CC6F-47BD-82BE-C5A960371E83}" />
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="BrowserWindow2" Owner="{1CF3288E-0065-4587-8FB6-F2790FD74485}" />
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">
@@ -651,6 +912,80 @@
 					</Child>
 					<Child Name="ObjectGroupIndex" IsBasic="True" Data="ZI4L2L4ZOCZN">
 						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-1150188446" Key="{DF1A96FB-8C5C-4A2F-952D-85E51F1F89EA}">
+			<Data Properties="F3452D6656D91145B41E67B37CD11349UFFFFFFFFFFFFFFFFV4LCZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickButton" Doc="Moves the mouse cursor to the check box and then sets the check box to State, which must be cbUnchecked, cbChecked or cbGrayed." IsBasic="True" Param0="State" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="State" Doc="Returns the current state of the check box, that is, cbUnchecked, cbChecked or cbGrayed." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="wState" Doc="Returns the current state of the check box, that is, cbUnchecked, cbChecked or cbGrayed." IsBasic="True" Data="ZI4L2L4ZO3Z04L">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
 					</Child>
 					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
 						<ReturnValue Param0="12" />

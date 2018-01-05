@@ -222,44 +222,17 @@
 																<Value PropertyType="0" Value="Panel" Type="5" />
 															</Property>
 														</Properties>
-														<Children>
-															<Child Name="panelRow" Key="{56A76497-3E0B-470B-A82F-D925444A7991}" ParallelWalk="True">
-																<Image FileName="643117238" Left="1036" Top="122" Right="1781" Bottom="155" />
-																<Properties>
-																	<Property Name="ObjectType">
-																		<Value PropertyType="0" Value="Panel" Type="5" />
-																	</Property>
-																	<Property Name="ObjectIdentifier">
-																		<Value PropertyType="0" Value="0" Type="0" />
-																	</Property>
-																</Properties>
-																<Children>
-																	<Child Name="passwordboxPassword" Key="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" ExtendedFind="True" ParallelWalk="True">
-																		<Image FileName="295797907" Left="1465" Top="123" Right="1630" Bottom="153" />
-																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
-																		<Properties>
-																			<Property Name="ObjectType">
-																				<Value PropertyType="0" Value="PasswordBox" Type="5" />
-																			</Property>
-																			<Property Name="idStr">
-																				<Value PropertyType="0" Value="password" Type="5" />
-																			</Property>
-																		</Properties>
-																	</Child>
-																	<Child Name="labelUsername" Key="{86513C32-9746-47B1-BF55-8C671F85D8BC}" ExtendedFind="True" ParallelWalk="True">
-																		<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
-																		<Properties>
-																			<Property Name="ObjectType">
-																				<Value PropertyType="0" Value="Label" Type="5" />
-																			</Property>
-																			<Property Name="htmlFor">
-																				<Value PropertyType="0" Value="user-name" Type="5" />
-																			</Property>
-																		</Properties>
-																	</Child>
-																</Children>
-															</Child>
-														</Children>
+													</Child>
+													<Child Name="passwordboxPassword" Key="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" ExtendedFind="True" ParallelWalk="True">
+														<TypeInfo Item0="{EF1BBC34-0951-4CF1-89C2-CDB15667CE51}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="PasswordBox" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="password" Type="5" />
+															</Property>
+														</Properties>
 													</Child>
 												</Children>
 											</Child>
@@ -8419,12 +8392,8 @@
 					<Child Name="ESGILogo" Owner="{F95EE9E1-813A-43A1-8DD2-22E439FDE3D0}" />
 					<Child Name="panelLoginForm" Owner="{37B6C814-818C-4C26-8159-AAB9125AF0BD}">
 						<Child Name="textboxUsername" Owner="{3BFB8BC8-4F8D-4BD3-9675-96C7DC551662}" />
-						<Child Name="panelLoginFormContainer" Owner="{D61F553E-62A2-4ADF-B3D8-4AEA8CCC0AF9}">
-							<Child Name="panelRow" Owner="{56A76497-3E0B-470B-A82F-D925444A7991}">
-								<Child Name="passwordboxPassword" Owner="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" />
-								<Child Name="labelUsername" Owner="{86513C32-9746-47B1-BF55-8C671F85D8BC}" />
-							</Child>
-						</Child>
+						<Child Name="panelLoginFormContainer" Owner="{D61F553E-62A2-4ADF-B3D8-4AEA8CCC0AF9}" />
+						<Child Name="passwordboxPassword" Owner="{0D17EB43-4730-418E-BD72-620F8EC6B7C6}" />
 					</Child>
 					<Child Name="panelContainer" Owner="{D3830EF8-8979-4499-82CD-B338E780D80C}" />
 				</Child>

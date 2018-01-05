@@ -58,15 +58,27 @@
 		<child name="ActivationCodes_New" key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ActivationCodes\ActivationCodes_New.mds" />
 		</child>
-		<child name="TestProject1" key="{E44753D1-FFFC-46C0-A8AB-6E4C07C3CDEB}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="TestProject1\TestProject1.mds" />
-		</child>
-		<child name="BaseProject_New" key="{F6FE45AB-C1F6-4B3B-9011-C3819AA7218F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+		<child name="BaseProject_New" key="{E3650261-D870-4001-9BE6-9A2DB899F3AE}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="BaseProject_New\BaseProject_New.mds" />
+		</child>
+		<child name="CMTLogin-New" key="{78B57015-837E-48B1-9BA9-0BFE7EFFC36F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="CMTLogin-New\CMTLogin-New.mds" />
+		</child>
+		<child name="Grade_Scales_Edit_Test1_NM" key="{3240BDBE-518C-41CA-8271-651278862948}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Grade_Scales_Edit_Test1_NM\Grade_Scales_Edit_Test1_NM.mds" />
+		</child>
+		<child name="Groups_New" key="{1D683F34-3CCD-4C07-AAB2-0FD2340441A1}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Groups_New\Groups_New.mds" />
+		</child>
+		<child name="Logins_Test1_New_Admin" key="{FEDDB1FE-5FF9-4142-ADA2-E08E0C152376}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Logins_Test1_New_Admin\Logins_Test1_New_Admin.mds" />
+		</child>
+		<child name="Reports_New" key="{884B65EC-94B5-4DBA-8AEE-4BA39A021DDD}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Reports_New\Reports_New.mds" />
 		</child>
 	</children>
 	<folders />
-	<testItems key="{18AAB92D-9A4C-477C-BF0D-4B4ADEBC930E}">
+	<testItems key="{60288EEA-C062-467A-8853-8E2C388B5007}">
 		<children>
 			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="True" timeout="0" stopOnError="True" description="" />
@@ -87,14 +99,18 @@
 			<testItem key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{E44753D1-FFFC-46C0-A8AB-6E4C07C3CDEB}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{F6FE45AB-C1F6-4B3B-9011-C3819AA7218F}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{E3650261-D870-4001-9BE6-9A2DB899F3AE}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{78B57015-837E-48B1-9BA9-0BFE7EFFC36F}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{3240BDBE-518C-41CA-8271-651278862948}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{1D683F34-3CCD-4C07-AAB2-0FD2340441A1}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{FEDDB1FE-5FF9-4142-ADA2-E08E0C152376}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{884B65EC-94B5-4DBA-8AEE-4BA39A021DDD}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
-	<variables key="{2549BD5C-9B51-49DE-99EA-8E64770FFA55}">
+	<variables key="{8B7AD38B-D40F-487C-81E7-B35BA128B4CB}">
 		<data Version="3" />
 	</variables>
-	<analysis key="{6F045B0B-8EDB-40B5-A1D5-4D77795C313D}" />
+	<analysis key="{EFA9BEDE-A967-4785-ACED-9E6F46F7EA1D}" />
 	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
 		<data />
 	</scc>

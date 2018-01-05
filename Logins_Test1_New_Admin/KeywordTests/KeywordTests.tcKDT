@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="LO_SALogin" key="{2C7AA613-7327-410C-8205-C86AD0D08D2E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="LO_SALogin.tcKDTest" />
+		</child>
+		<child name="LO_AdminLogin" key="{0FF0092B-F73B-4246-9300-2B9CF8DA7243}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="LO_AdminLogin.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

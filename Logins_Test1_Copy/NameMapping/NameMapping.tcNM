@@ -222,27 +222,17 @@
 													</Property>
 												</Properties>
 												<Children>
-													<Child Name="panel" Key="{51AF7117-FDCA-4D30-81AA-E512E24C48F7}" ParallelWalk="True">
-														<Image FileName="-590451914" Left="750" Top="197" Right="1237" Bottom="280" />
+													<Child Name="panelMsMSClassSummary" Key="{335E0A46-4CA9-481A-87D9-BE9757FC271C}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1933300947" Left="752" Top="210" Right="1235" Bottom="251" />
+														<TypeInfo Item0="{D6412FDD-FAC2-4589-BED7-57112EAD4317}" />
 														<Properties>
 															<Property Name="ObjectType">
 																<Value PropertyType="0" Value="Panel" Type="5" />
 															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
 														</Properties>
-														<Children>
-															<Child Name="panelMsMSClassSummary" Key="{0F213C43-E5B1-4D56-BCD6-4B295F8314FC}" ExtendedFind="True" ParallelWalk="True">
-																<Image FileName="-590451914" Left="750" Top="197" Right="1237" Bottom="242" />
-																<TypeInfo Item0="{3174BDB7-94F7-4CED-BE40-ABB01D7D4D62}" />
-																<Properties>
-																	<Property Name="ObjectType">
-																		<Value PropertyType="0" Value="Panel" Type="5" />
-																	</Property>
-																	<Property Name="ObjectIdentifier">
-																		<Value PropertyType="0" Value="0" Type="0" />
-																	</Property>
-																</Properties>
-															</Child>
-														</Children>
 													</Child>
 												</Children>
 											</Child>
@@ -335,6 +325,44 @@
 															</Property>
 															<Property Name="idStr">
 																<Value PropertyType="0" Value="class-grade-report" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelTopMenu" Key="{A6CBC14B-B196-40E1-BCE4-73C260B5D587}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="178056924" Left="668" Top="85" Right="1425" Bottom="157" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="top-menu" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{7A78BB0A-9B45-459C-A7F3-71782C0C9AC6}" ParallelWalk="True">
+												<Image FileName="178056924" Left="675" Top="91" Right="1418" Bottom="119" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelLogout" Key="{D3D2148E-D19E-4987-ACB1-78F1F95696EC}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="178056924" Left="825" Top="91" Right="968" Bottom="119" />
+														<TypeInfo Item0="{3174BDB7-94F7-4CED-BE40-ABB01D7D4D62}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
 															</Property>
 														</Properties>
 													</Child>
@@ -445,9 +473,7 @@
 			<Child Name="ESGILandingPage" Owner="{33B27F44-F7B7-4DCD-B6A4-976AA91F0325}">
 				<Child Name="panelLpcenterheaderlefttitles" Owner="{9E49E0A6-599E-40A7-AF8B-BC4B8D8818DA}">
 					<Child Name="panelMasterPage" Owner="{4C0423CF-8E6B-4F2A-B5E8-02A14254B6E0}">
-						<Child Name="panel" Owner="{51AF7117-FDCA-4D30-81AA-E512E24C48F7}">
-							<Child Name="panelMsMSClassSummary" Owner="{0F213C43-E5B1-4D56-BCD6-4B295F8314FC}" />
-						</Child>
+						<Child Name="panelMsMSClassSummary" Owner="{335E0A46-4CA9-481A-87D9-BE9757FC271C}" />
 					</Child>
 				</Child>
 				<Child Name="panelModalForm" Owner="{38506BBC-59CF-4127-9E1E-4F056BF38689}">
@@ -457,6 +483,11 @@
 				<Child Name="panelGraderepbut" Owner="{12831199-18CD-4476-BCEB-3D503D14FB3D}">
 					<Child Name="vgIcon" Owner="{87E5A35C-BF12-4C09-A0FC-2AB0A0A07100}">
 						<Child Name="vgClassGradeReport" Owner="{908EACC4-0C9B-4EC7-BEEB-D921F2349DFF}" />
+					</Child>
+				</Child>
+				<Child Name="panelTopMenu" Owner="{A6CBC14B-B196-40E1-BCE4-73C260B5D587}">
+					<Child Name="panel" Owner="{7A78BB0A-9B45-459C-A7F3-71782C0C9AC6}">
+						<Child Name="panelLogout" Owner="{D3D2148E-D19E-4987-ACB1-78F1F95696EC}" />
 					</Child>
 				</Child>
 			</Child>
