@@ -81,6 +81,7 @@
 	<testItems key="{18AAB92D-9A4C-477C-BF0D-4B4ADEBC930E}">
 		<children>
 			<testItem key="{8CCD6F68-8C7B-4824-A072-45890990B095}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{E840D50A-5837-45C5-8603-540D10968AA6}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{0FA4AE7D-0859-444A-8408-4831FE9E72F8}" enabled="False" timeout="0" stopOnError="False" description="" />
@@ -104,7 +105,6 @@
 			<testItem key="{CB5C5B7B-1E7A-4F0C-A447-FE492B0BB57C}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{13968F39-FC42-47E1-9EB8-3C6D44B9420F}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{9909F130-108F-4009-ADFC-46F35BE3EF16}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{E840D50A-5837-45C5-8603-540D10968AA6}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{9C19B154-643C-43ED-B4CD-6EC6F03C379E}">

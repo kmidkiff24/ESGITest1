@@ -332,6 +332,44 @@
 											</Child>
 										</Children>
 									</Child>
+									<Child Name="panelTopMenu" Key="{A6CBC14B-B196-40E1-BCE4-73C260B5D587}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="178056924" Left="668" Top="85" Right="1425" Bottom="157" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="top-menu" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panel" Key="{7A78BB0A-9B45-459C-A7F3-71782C0C9AC6}" ParallelWalk="True">
+												<Image FileName="178056924" Left="675" Top="91" Right="1418" Bottom="119" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelLogout" Key="{D3D2148E-D19E-4987-ACB1-78F1F95696EC}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="178056924" Left="825" Top="91" Right="968" Bottom="119" />
+														<TypeInfo Item0="{3174BDB7-94F7-4CED-BE40-ABB01D7D4D62}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageEsgi2" Key="{7D465283-82E0-469F-8FBC-FEF3FE9D1292}" ParallelWalk="True">
@@ -445,6 +483,11 @@
 				<Child Name="panelGraderepbut" Owner="{12831199-18CD-4476-BCEB-3D503D14FB3D}">
 					<Child Name="vgIcon" Owner="{87E5A35C-BF12-4C09-A0FC-2AB0A0A07100}">
 						<Child Name="vgClassGradeReport" Owner="{908EACC4-0C9B-4EC7-BEEB-D921F2349DFF}" />
+					</Child>
+				</Child>
+				<Child Name="panelTopMenu" Owner="{A6CBC14B-B196-40E1-BCE4-73C260B5D587}">
+					<Child Name="panel" Owner="{7A78BB0A-9B45-459C-A7F3-71782C0C9AC6}">
+						<Child Name="panelLogout" Owner="{D3D2148E-D19E-4987-ACB1-78F1F95696EC}" />
 					</Child>
 				</Child>
 			</Child>
