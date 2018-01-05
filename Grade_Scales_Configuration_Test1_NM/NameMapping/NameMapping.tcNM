@@ -821,8 +821,288 @@
 												<Value PropertyType="0" Value="0" Type="0" />
 											</Property>
 										</Properties>
+										<Children>
+											<Child Name="panelBodyWrapperOn" Key="{27EC3592-1BC9-4117-9D56-5BAAF892B8C8}" ParallelWalk="True">
+												<Image FileName="1560711033" Left="584" Top="188" Right="1320" Bottom="1326" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelSectionsList" Key="{5B669A15-58B2-4EFD-9DDB-80C4D4553A92}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1560711033" Left="584" Top="372" Right="1320" Bottom="1326" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="section" Key="{0194322A-0C0C-4B5B-9891-B32E38E6264D}" ParallelWalk="True">
+																<Image FileName="1560711033" Left="584" Top="734" Right="1320" Bottom="1326" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Section" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="linkHttpsCommunitySmartbearComT5" Key="{BD1219D6-FDFD-4B52-B5B4-C6A20E233395}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1560711033" Left="1096" Top="762" Right="1320" Bottom="1028" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="https://community.smartbear.com/t5/TestComplete-General-Discussions/Firefox-Is-Running-In-MultiProcess-Mode-TestComplete-May-Work/m-p/154698/highlight/true#M28514" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelCard" Key="{9379E774-505B-4389-BB4C-2112F6E11647}" ParallelWalk="True">
+																				<Image FileName="1560711033" Left="1096" Top="762" Right="1320" Bottom="1028" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panelCardPreviewImageOuter" Key="{1687F3F7-6766-4619-A435-D27AB90E7AED}" ParallelWalk="True">
+																						<Image FileName="1560711033" Left="1096" Top="762" Right="1320" Bottom="884" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="0" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panelCardPreviewImage" Key="{889EF8E9-B491-4A3D-843E-60256A96AFA9}" ExtendedFind="True" ParallelWalk="True">
+																								<Image FileName="1560711033" Left="1096" Top="762" Right="1320" Bottom="884" />
+																								<TypeInfo Item0="{CAFB3E28-CDE3-4198-BA38-83FA451D464D}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Panel" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="section2" Key="{2FBCB5AD-20E6-4279-82DE-28237C0C8196}" ParallelWalk="True">
+																<Image FileName="53893743" Left="584" Top="372" Right="1320" Bottom="694" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Section" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="linkHttpsWwwTheatlanticComBusine" Key="{2881DBE1-4378-49F3-ACBB-C0AA04628F69}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="53893743" Left="840" Top="400" Right="1064" Bottom="666" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="https://www.theatlantic.com/business/archive/2017/12/ethics-inheritance-nussbaum-levmore/547934/" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelCard" Key="{2A71A75C-AC86-498E-8E1C-073EDE123ADD}" ParallelWalk="True">
+																				<Image FileName="53893743" Left="840" Top="400" Right="1064" Bottom="666" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panelCardPreviewImageOuter" Key="{BC60A22A-724F-40A6-BCAD-20CD327F27DC}" ParallelWalk="True">
+																						<Image FileName="53893743" Left="840" Top="400" Right="1064" Bottom="522" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="0" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panelCardPreviewImageLoaded" Key="{9B8ACC79-6628-4A4E-814C-5B903C809E5A}" ExtendedFind="True" ParallelWalk="True">
+																								<Image FileName="53893743" Left="840" Top="400" Right="1064" Bottom="522" />
+																								<TypeInfo Item0="{CAFB3E28-CDE3-4198-BA38-83FA451D464D}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Panel" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
 									</Child>
 								</Children>
+							</Child>
+							<Child Name="pageMsnComHotmailOutlookSkypeBin" Key="{D8709FDF-2331-48F6-97E7-FC047D8D1447}" ParallelWalk="True">
+								<Image FileName="-1380402087" Left="0" Top="78" Right="1920" Bottom="1040" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="http://www.msn.com/*" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="headerHeaderCommon" Key="{A6C21223-82B0-45DB-BBC2-2913408A7F8D}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-884738194" Left="316" Top="78" Right="1588" Bottom="156" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Header" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="header-common" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="sectionHeaderSearch" Key="{4408E17C-B13C-46E4-8975-50A393C54455}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-884738194" Left="518" Top="108" Right="1386" Bottom="152" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Section" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="header-search" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="formSrchfrm" Key="{F18A5E10-146B-47CA-9DB9-8A4D86ABED6A}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-884738194" Left="518" Top="108" Right="1386" Bottom="152" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Form" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="srchfrm" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="searchboxQ" Key="{1CAF2F44-707B-4CFE-8930-DC570560E629}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-884738194" Left="530" Top="109" Right="1375" Bottom="151" />
+																<TypeInfo Item0="{324A560C-EE76-4A36-9227-1C48879E43ED}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="SearchBox" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="q" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="explorer" Key="{8FADF902-2F46-4BD3-9376-4D04B23BA7E4}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="explorer" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{251BD298-A669-4AA4-83DA-C9F43F748818}" ParallelWalk="True">
+								<Image FileName="-1929576060" Left="0" Top="0" Right="1920" Bottom="40" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value PropertyType="0" Value="Shell_TrayWnd" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ReBarWindow32" Key="{049C485B-22F0-41E5-8FC4-490EDF62465A}" ParallelWalk="True">
+										<Image FileName="-1929576060" Left="438" Top="0" Right="1707" Bottom="40" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="ReBarWindow32" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="MSTaskSwWClass" Key="{8E8B8436-340F-4B0B-B449-5E7230F16B1B}" ParallelWalk="True">
+												<Image FileName="-1929576060" Left="440" Top="0" Right="1707" Bottom="40" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value PropertyType="0" Value="MSTaskSwWClass" Type="5" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value PropertyType="0" Value="Running applications" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MSTaskListWClass" Key="{C9FA5FAF-79B2-4525-A166-8F9CF9160FC5}" ParallelWalk="True">
+														<Image FileName="-1929576060" Left="440" Top="0" Right="1707" Bottom="40" />
+														<TypeInfo Item0="{7FCDED4B-8ADF-4B3E-9505-4E45F369FBF6}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value PropertyType="0" Value="MSTaskListWClass" Type="5" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value PropertyType="0" Value="Running applications" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="firefox" Key="{2CF09F12-B1BF-45E3-BBBE-2553EA3BC08B}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="firefox" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndMozillaWindowClass" Key="{B245064F-484D-4215-B0D2-19448795877C}" ParallelWalk="True">
+								<Image FileName="572329271" Left="0" Top="0" Right="1920" Bottom="1036" />
+								<TypeInfo Item0="{B6CB80D4-37E3-41BC-94A5-59CE4B5DA4FE}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value PropertyType="0" Value="MozillaWindowClass" Type="5" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value PropertyType="0" Value="ESGI - One-on-one Assessments Made Easy - Mozilla Firefox" Type="5" />
+									</Property>
+								</Properties>
 							</Child>
 						</Children>
 					</Child>
@@ -931,8 +1211,52 @@
 			</Child>
 			<Child Name="BrowserWindow3" Owner="{3E1438C9-E66A-443A-9108-84545E30E9EA}" />
 			<Child Name="pageMozillaFirefoxStartPage" Owner="{C895B49B-4400-4318-90D6-FB130D0C2C49}">
-				<Child Name="panelSpacer" Owner="{E0BE9065-F2B0-4462-8D7A-674E76B94438}" />
+				<Child Name="panelSpacer" Owner="{E0BE9065-F2B0-4462-8D7A-674E76B94438}">
+					<Child Name="panelBodyWrapperOn" Owner="{27EC3592-1BC9-4117-9D56-5BAAF892B8C8}">
+						<Child Name="panelSectionsList" Owner="{5B669A15-58B2-4EFD-9DDB-80C4D4553A92}">
+							<Child Name="section" Owner="{0194322A-0C0C-4B5B-9891-B32E38E6264D}">
+								<Child Name="linkHttpsCommunitySmartbearComT5" Owner="{BD1219D6-FDFD-4B52-B5B4-C6A20E233395}">
+									<Child Name="panelCard" Owner="{9379E774-505B-4389-BB4C-2112F6E11647}">
+										<Child Name="panelCardPreviewImageOuter" Owner="{1687F3F7-6766-4619-A435-D27AB90E7AED}">
+											<Child Name="panelCardPreviewImage" Owner="{889EF8E9-B491-4A3D-843E-60256A96AFA9}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+							<Child Name="section2" Owner="{2FBCB5AD-20E6-4279-82DE-28237C0C8196}">
+								<Child Name="linkHttpsWwwTheatlanticComBusine" Owner="{2881DBE1-4378-49F3-ACBB-C0AA04628F69}">
+									<Child Name="panelCard" Owner="{2A71A75C-AC86-498E-8E1C-073EDE123ADD}">
+										<Child Name="panelCardPreviewImageOuter" Owner="{BC60A22A-724F-40A6-BCAD-20CD327F27DC}">
+											<Child Name="panelCardPreviewImageLoaded" Owner="{9B8ACC79-6628-4A4E-814C-5B903C809E5A}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
 			</Child>
+			<Child Name="pageMsnComHotmailOutlookSkypeBin" Owner="{D8709FDF-2331-48F6-97E7-FC047D8D1447}">
+				<Child Name="headerHeaderCommon" Owner="{A6C21223-82B0-45DB-BBC2-2913408A7F8D}">
+					<Child Name="sectionHeaderSearch" Owner="{4408E17C-B13C-46E4-8975-50A393C54455}">
+						<Child Name="formSrchfrm" Owner="{F18A5E10-146B-47CA-9DB9-8A4D86ABED6A}">
+							<Child Name="searchboxQ" Owner="{1CAF2F44-707B-4CFE-8930-DC570560E629}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{8FADF902-2F46-4BD3-9376-4D04B23BA7E4}">
+			<Child Name="wndShell_TrayWnd" Owner="{251BD298-A669-4AA4-83DA-C9F43F748818}">
+				<Child Name="ReBarWindow32" Owner="{049C485B-22F0-41E5-8FC4-490EDF62465A}">
+					<Child Name="MSTaskSwWClass" Owner="{8E8B8436-340F-4B0B-B449-5E7230F16B1B}">
+						<Child Name="MSTaskListWClass" Owner="{C9FA5FAF-79B2-4525-A166-8F9CF9160FC5}" />
+					</Child>
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="firefox" Owner="{2CF09F12-B1BF-45E3-BBBE-2553EA3BC08B}">
+			<Child Name="wndMozillaWindowClass" Owner="{B245064F-484D-4215-B0D2-19448795877C}" />
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">
@@ -5438,6 +5762,212 @@
 					</Child>
 					<Child Name="wText" IsBasic="True" Data="ZI4L2L4S5U8Z04L">
 						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="268948303" Key="{7FCDED4B-8ADF-4B3E-9505-4E45F369FBF6}">
+			<Data Properties="3181A69718E8C143AC5711A1AD0734FBUFFFFFFFFFFFFFFFFV4L9ZZY">
+				<FunctionDescriptions>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WndCaption" Doc="Returns the window&apos;s caption." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="1055146884" Key="{B6CB80D4-37E3-41BC-94A5-59CE4B5DA4FE}">
+			<Data Properties="EF958A535DE65A46B822B49A3CC117C6UFFFFFFFFFFFFFFFFV4LBZZY">
+				<FunctionDescriptions>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Close" Doc="Closes the specified Window object." IsBasic="True" Param0="WaitTimeout" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="2000" Type="0" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Position" Doc="Sets the specified position and size for the specific Window object." IsBasic="True" Param0="Left" Param1="Top" Param2="Width" Param3="Height" Data="ZI4L1L4L4Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param3>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WndCaption" Doc="Returns the window&apos;s caption." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="2118193496" Key="{324A560C-EE76-4A36-9227-1C48879E43ED}">
+			<Data Properties="D0ED08A62EBBC14F8994CE82B55A47CCUFFFFFFFFFFFFFFFFV4L8ZZY">
+				<FunctionDescriptions>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
 					</Child>
 				</FunctionDescriptions>
 			</Data>
