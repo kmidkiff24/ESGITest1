@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="12.0">
-	<TestData Description="" Key="{D9BDBC0C-B719-426D-A2E3-10D8253C4E82}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+	<TestData Description="" Key="{8EA8DE51-6797-4668-A861-B5416C344DD1}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
 		<Data>
 			<Extenders>
 				<NodeBitmaps>

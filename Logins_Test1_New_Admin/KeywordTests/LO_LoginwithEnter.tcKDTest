@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="12.0">
-	<TestData Description="" Key="{D9BDBC0C-B719-426D-A2E3-10D8253C4E82}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+	<TestData Description="" Key="{5B013FC3-85C3-4436-A179-97E7752198A4}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
 		<Data>
 			<Extenders>
 				<NodeBitmaps>
@@ -29,8 +29,8 @@
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="53" />
-						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="16" />
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="34" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="5" />
 						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
 							<Values IsEnum="True">
 								<Value Type="1" Value="0" Text="skNoShift" />
@@ -46,7 +46,7 @@
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
 				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="kerriewebadmin" />
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="automation" />
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="NameMapping.Sys.FirefoxBrowser.Test1HomePage.header.panelLoginForm.panelLoginFormContainer.formRow.panelColMd5.textboxUsername;" />
 				</Data>
@@ -75,13 +75,18 @@
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="NameMapping.Sys.FirefoxBrowser.Test1HomePage.header.panelLoginForm.panelLoginFormContainer.formRow.panelColMd52.passwordboxPassword;" />
 				</Data>
 			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait" InvokeKind="-1">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.FirefoxBrowser.ESGILandingPage;" />
+				</Data>
+			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
 				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.FirefoxBrowser.AdminLandingPage.navbarSchoolYears" />
-						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="ObjectLabel" />
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.FirefoxBrowser.ESGILandingPage.panelLpcenterheaderlefttitles.panelMasterPage.panelMsMSClassSummary" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="School Years" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Ms. M&apos;s Class Summary" />
 						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
 					</Parameters>
 				</Data>
@@ -96,6 +101,6 @@
 			</Operation>
 		</Children>
 	</TestData>
-	<Variables Version="3" Key="{216269B5-CA8F-4658-B058-7FC3DF79CBD5}" />
-	<Parameters Key="{97870980-3B7B-4781-A3C5-A6242CEEA69A}" />
+	<Variables Version="3" Key="{31C314B0-70FA-4647-9DF6-98EF56AEBE28}" />
+	<Parameters Key="{7B9D5CE0-043E-4F95-858A-154966044377}" />
 </Root>

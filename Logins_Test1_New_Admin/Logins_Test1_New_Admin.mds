@@ -1,58 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" version="12.0">
 	<children>
-		<child name="Stores" key="{CF96C34F-6C2A-4A03-AFF0-37F28DB45438}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores">
+		<child name="Stores" key="{7DBE7C8F-A63C-4991-82E8-EB151C0FF319}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores">
 			<data path="Stores\Stores.tcStores" />
 		</child>
-		<child name="TestedApps" key="{4E6754F9-98BA-4C4B-B40B-A5067AA61F33}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="">
+		<child name="TestedApps" key="{EBF496AF-9FC0-4B9C-A7A6-6C6EC024B6D0}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="">
 			<data path="TestedApps\TestedApps.tcTAs" />
 		</child>
-		<child name="NameMapping" key="{BB6F19D6-ED65-4331-97B5-E664E3910837}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping">
+		<child name="NameMapping" key="{7FFD14C8-6760-4AD7-B83C-E52F15BFC4E7}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping">
 			<data path="NameMapping\NameMapping.tcNM" />
 		</child>
-		<child name="KeywordTests" key="{14E71C48-6857-42B4-BAF0-5CEFFCEDE523}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing">
+		<child name="KeywordTests" key="{9A26FF2D-BB26-4A0D-B0FD-BA5D9526AB1A}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing">
 			<data path="KeywordTests\KeywordTests.tcKDT" />
 		</child>
-		<child name="Script" key="{0B313957-EA73-4E05-B54A-A8FBA4428273}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script">
+		<child name="Script" key="{1FCF6BD9-C814-4796-A531-49D7CEADCC64}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script">
 			<data path="Script\Script.tcScript" />
 		</child>
 	</children>
 	<folders>
 		<folder caption="Test1" description="A logical folder that is used to organize project items and elements." moniker="">
 			<references>
-				<ref key="{14E71C48-6857-42B4-BAF0-5CEFFCEDE523}" />
+				<ref key="{9A26FF2D-BB26-4A0D-B0FD-BA5D9526AB1A}" />
 			</references>
 		</folder>
 		<folder caption="Advanced" description="A logical folder that is used to organize project items and elements." moniker="{69583268-92F3-49FA-B573-C831F5ABC27B}">
 			<references>
-				<ref key="{0B313957-EA73-4E05-B54A-A8FBA4428273}" />
+				<ref key="{1FCF6BD9-C814-4796-A531-49D7CEADCC64}" />
 			</references>
 		</folder>
 	</folders>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
-	<testItems key="{8F556B01-E63C-40F3-AF8B-6EE3D9374BA9}">
+	<testItems key="{AECB617C-9B6B-492E-9AA7-66E067149033}">
 		<children>
-			<testItem name="ProjectTestItem6" key="{805FA4E2-2423-4ADC-AEE2-F2D36A4559D1}" group="False" enabled="True" testMoniker="KDT\{9FDECE34-EC70-41D2-8BEE-C6D552293672}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem2" key="{FB64BFFE-E2F4-47CE-8F02-A685FD9D4AEE}" group="False" enabled="True" testMoniker="KDT\{2C7AA613-7327-410C-8205-C86AD0D08D2E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
-			<testItem name="ProjectTestItem4" key="{8D1CD91E-B638-4841-B4BD-9F0CB2B3E806}" group="False" enabled="True" testMoniker="KDT\{18A33757-1F6B-445E-9006-E3013B00452F}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem5" key="{4EC60E85-0AA1-4D87-83A8-C6E38B722634}" group="False" enabled="True" testMoniker="KDT\{A4AB78CD-2DCE-4E5B-A8C0-5FF4172808D3}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem1" key="{31611D16-7B16-4EED-AD90-FD038AE33030}" group="False" enabled="True" testMoniker="KDT\{5FA3ECD7-2E6F-4A2E-9975-93A3B63AD95E}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem2" key="{2B3A24A3-DD08-4972-ABF5-C7D391159F08}" group="False" enabled="False" testMoniker="KDT\{3A8A29D2-2C69-422C-AA85-558DDEABB2A8}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
-				<testParameters />
-				<children />
-			</testItem>
-			<testItem name="ProjectTestItem3" key="{A922700E-4083-41D6-818E-1A73066BDA99}" group="False" enabled="False" testMoniker="KDT\{DDA089C1-D40C-458B-B657-D15205A184EC}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
+			<testItem name="ProjectTestItem3" key="{20EE431A-2448-4CAD-8C5F-2AE1A4716ABC}" group="False" enabled="True" testMoniker="KDT\{0FF0092B-F73B-4246-9300-2B9CF8DA7243}" count="1" timeout="0" stopOnError="2" stopOnException="2" description="">
 				<testParameters />
 				<children />
 			</testItem>
@@ -434,11 +418,11 @@
 			</data>
 		</setting>
 	</settings>
-	<analysis key="{27DAF1BA-9301-4545-97B6-5581F6C24EB0}" />
+	<analysis key="{A6261ED4-5ABE-4411-993A-C3D117782A7F}" />
 	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
 		<data />
 	</scc>
-	<issueTracking key="{CDB2808C-933B-4CFC-8D2A-3FADB76EC39A}">
+	<issueTracking key="{1FE03D1D-9165-42D6-A80A-CE77ABF210A7}">
 		<Templates>
 			<Template Id="{1EB17ADF-E4EB-404D-97DC-AD758A1E8C1D}" ConnectionId="{00000000-0000-0000-0000-000000000000}" Description="This template is used by TestComplete&apos;s Log subsystem to post test results to an issue-tracking system. You can also use it at your desire." Name="CreateWorkItem" IsSystem="True" ItemTypeName="" ProjectName="" IsEditing="False" ItemId="">
 				<Fields>

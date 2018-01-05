@@ -73,6 +73,9 @@
 		<child name="Reports_New" key="{9909F130-108F-4009-ADFC-46F35BE3EF16}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Reports_New\Reports_New.mds" />
 		</child>
+		<child name="Logins_Test1_New_Admin" key="{E840D50A-5837-45C5-8603-540D10968AA6}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Logins_Test1_New_Admin\Logins_Test1_New_Admin.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{18AAB92D-9A4C-477C-BF0D-4B4ADEBC930E}">
@@ -101,6 +104,7 @@
 			<testItem key="{CB5C5B7B-1E7A-4F0C-A447-FE492B0BB57C}" enabled="False" timeout="0" stopOnError="False" description="" />
 			<testItem key="{13968F39-FC42-47E1-9EB8-3C6D44B9420F}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{9909F130-108F-4009-ADFC-46F35BE3EF16}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{E840D50A-5837-45C5-8603-540D10968AA6}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{9C19B154-643C-43ED-B4CD-6EC6F03C379E}">
