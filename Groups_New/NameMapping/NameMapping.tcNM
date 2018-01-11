@@ -381,6 +381,18 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="linkEdit" Key="{19CF89EA-6D55-4FA3-8787-51F4B381891E}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="233694333" Left="672" Top="337" Right="690" Bottom="350" />
+												<TypeInfo Item0="{71AE3124-E9A8-4B4A-8985-83506EC1FF5B}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Link" Type="5" />
+													</Property>
+													<Property Name="href">
+														<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Groups&apos;,%201028943);void(0);" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -471,6 +483,7 @@
 						</Child>
 					</Child>
 					<Child Name="linkEdit2" Owner="{CE183F59-44B6-4B5C-84AA-9AF29A5BBCDE}" />
+					<Child Name="linkEdit" Owner="{19CF89EA-6D55-4FA3-8787-51F4B381891E}" />
 				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{5E36ECBB-A8D9-42BA-A7B3-CB8B38B6F3B7}" />
