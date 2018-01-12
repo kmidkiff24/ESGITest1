@@ -265,6 +265,18 @@
 															</Child>
 														</Children>
 													</Child>
+													<Child Name="buttonLogin" Key="{0B49BC6F-1A8A-463D-AE02-1D96626E5530}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1583618611" Left="1541" Top="110" Right="1587" Bottom="133" />
+														<TypeInfo Item0="{39FA0E50-12B8-449D-B4CC-5E87014C0868}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Button" Type="5" />
+															</Property>
+															<Property Name="idStr">
+																<Value PropertyType="0" Value="loginButton" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
 												</Children>
 											</Child>
 										</Children>
@@ -504,6 +516,18 @@
 									</Property>
 								</Properties>
 							</Child>
+							<Child Name="pageHttpsTest1EsgisoftwareComEsg2" Key="{DDAC3500-FC22-438C-B280-A702D1D13927}" ParallelWalk="True">
+								<Image FileName="1622474151" Left="9" Top="85" Right="1911" Bottom="1021" />
+								<TypeInfo Item0="{C6893CBC-94DF-4600-AB33-776B19272753}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com//esgi/public/login2.aspx" Type="5" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -545,6 +569,7 @@
 						<Child Name="Password" Owner="{46DCC2BB-DEB2-4032-8479-3D7C46F2F75F}">
 							<Child Name="passwordboxPassword" Owner="{FC459436-B38F-4AC2-9E16-796ADC8F0BAC}" />
 						</Child>
+						<Child Name="buttonLogin" Owner="{0B49BC6F-1A8A-463D-AE02-1D96626E5530}" />
 					</Child>
 				</Child>
 			</Child>
@@ -576,6 +601,7 @@
 				</Child>
 			</Child>
 			<Child Name="BrowserWindow2" Owner="{C72C99BE-29C0-4CEF-B331-34088FFABC61}" />
+			<Child Name="pageHttpsTest1EsgisoftwareComEsg2" Owner="{DDAC3500-FC22-438C-B280-A702D1D13927}" />
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">
