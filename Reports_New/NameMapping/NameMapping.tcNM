@@ -229,6 +229,21 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="cell02" Key="{A7C3BA30-6DCB-4D3B-8BEB-1BC619C07484}" ParallelWalk="True">
+												<Image FileName="-837149869" Left="677" Top="363" Right="797" Bottom="392" />
+												<TypeInfo Item0="{BDD58581-F871-43F2-A4BA-9207AB3C7BAA}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Cell" Type="5" />
+													</Property>
+													<Property Name="RowIndex">
+														<Value PropertyType="0" Value="4" Type="0" />
+													</Property>
+													<Property Name="ColumnIndex">
+														<Value PropertyType="0" Value="4" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="buttonClose" Key="{02CEAC44-1A52-4C2A-A66E-7AF99D0CF837}" ExtendedFind="True" ParallelWalk="True">
@@ -513,6 +528,18 @@
 																							</Child>
 																						</Children>
 																					</Child>
+																					<Child Name="panelCvcWords" Key="{511122BF-6BD2-464A-A90F-1FF0792BBB4F}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="2078413760" Left="170" Top="221" Right="345" Bottom="240" />
+																						<TypeInfo Item0="{915367FF-A616-4EA4-9D81-A575BEFB49CA}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="0" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
 																				</Children>
 																			</Child>
 																		</Children>
@@ -572,6 +599,7 @@
 					<Child Name="ClassTotalsReportTitle" Owner="{DC2E09EA-06E5-4165-9D86-614B2F46CA51}" />
 					<Child Name="StudentJames" Owner="{67058B5E-8E54-45BD-AB7C-5D2A654D339C}" />
 					<Child Name="cell0" Owner="{0A6DE8A0-970E-457F-9B42-6A77240A6375}" />
+					<Child Name="cell02" Owner="{A7C3BA30-6DCB-4D3B-8BEB-1BC619C07484}" />
 				</Child>
 				<Child Name="buttonClose" Owner="{02CEAC44-1A52-4C2A-A66E-7AF99D0CF837}" />
 				<Child Name="panelFadeContainer" Owner="{BD2728BF-C590-4972-AB15-AFBCD0483678}">
@@ -608,6 +636,7 @@
 												<Child Name="panelTestResultStats" Owner="{9557EC2E-A80A-4A06-8A73-74BE70D08756}" />
 											</Child>
 										</Child>
+										<Child Name="panelCvcWords" Owner="{511122BF-6BD2-464A-A90F-1FF0792BBB4F}" />
 									</Child>
 								</Child>
 							</Child>

@@ -660,17 +660,102 @@
 													</Property>
 												</Properties>
 											</Child>
-											<Child Name="linkEdit" Key="{0D1F6EB4-BE7A-4DC1-902C-904EF4E6FCE9}" ExtendedFind="True" ParallelWalk="True">
-												<Image FileName="-847004556" Left="738" Top="438" Right="752" Bottom="449" />
-												<TypeInfo Item0="{94B3C8EF-7429-44E0-9E37-9B98981AF70C}" />
+											<Child Name="panelHierarchyBox" Key="{ECC529E0-61F9-4CB6-BD80-F35740C7DF8F}" ParallelWalk="True">
+												<Image FileName="-711171235" Left="489" Top="253" Right="723" Bottom="451" />
+												<TypeInfo Item0="{51C3666D-0938-4D7B-BFBC-EC742DF8D473}" />
 												<Properties>
 													<Property Name="ObjectType">
-														<Value PropertyType="0" Value="Link" Type="5" />
+														<Value PropertyType="0" Value="Panel" Type="5" />
 													</Property>
-													<Property Name="href">
-														<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Schools&apos;,%201074912);void(0);" Type="5" />
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
 													</Property>
 												</Properties>
+												<Children>
+													<Child Name="panelHierarchyBody" Key="{5D141508-9D39-4FAB-9A6F-0F82CCAF066B}" ParallelWalk="True">
+														<Image FileName="1302361983" Left="489" Top="292" Right="723" Bottom="440" />
+														<TypeInfo Item0="{51C3666D-0938-4D7B-BFBC-EC742DF8D473}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelHierarchybox" Key="{3830AD6B-8411-4EF4-A811-277D10820F3E}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1302361983" Left="502" Top="350" Right="698" Bottom="369" />
+																<TypeInfo Item0="{51C3666D-0938-4D7B-BFBC-EC742DF8D473}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="textnodeTest75" Key="{A871C875-C625-4A56-963B-BF1B3DB62293}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1302361983" Left="518" Top="355" Right="565" Bottom="368" />
+																		<TypeInfo Item0="{94B3C8EF-7429-44E0-9E37-9B98981AF70C}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="TextNode" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="panelBoxschools" Key="{B9FD9D69-1014-47C5-8597-B5DF41AB309C}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="545550739" Left="602" Top="418" Right="778" Bottom="468" />
+												<TypeInfo Item0="{51C3666D-0938-4D7B-BFBC-EC742DF8D473}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="BoxSchools" Type="5" />
+													</Property>
+													<Property Name="contentText">
+														<Value PropertyType="0" Value="41006C006C0020005300630068006F006F006C0073000A004100750074006F006D006100740069006F006E0020005300630068006F006F006C000A0065006400690074000A007400650073007400370035000A006500640069007400" Type="7" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="AutomationSchoolBox" Key="{129B7876-B4BA-4769-8F14-DF2200A0039E}" ParallelWalk="True">
+														<Image FileName="545550739" Left="602" Top="436" Right="758" Bottom="450" />
+														<TypeInfo Item0="{51C3666D-0938-4D7B-BFBC-EC742DF8D473}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+															<Property Name="contentText">
+																<Value PropertyType="0" Value="4100750074006F006D006100740069006F006E0020005300630068006F006F006C000A006500640069007400" Type="7" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="linkEdit4" Key="{FFEAC3C3-C494-49BB-B3BB-F2937F505DCD}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="545550739" Left="738" Top="438" Right="752" Bottom="449" />
+																<TypeInfo Item0="{94B3C8EF-7429-44E0-9E37-9B98981AF70C}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Link" Type="5" />
+																	</Property>
+																	<Property Name="contentText">
+																		<Value PropertyType="0" Value="edit" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
 											</Child>
 										</Children>
 									</Child>
@@ -933,7 +1018,18 @@
 						</Child>
 					</Child>
 					<Child Name="linkAdd" Owner="{6CAEE288-364B-4E4E-A555-DEE9CB0428F8}" />
-					<Child Name="linkEdit" Owner="{0D1F6EB4-BE7A-4DC1-902C-904EF4E6FCE9}" />
+					<Child Name="panelHierarchyBox" Owner="{ECC529E0-61F9-4CB6-BD80-F35740C7DF8F}">
+						<Child Name="panelHierarchyBody" Owner="{5D141508-9D39-4FAB-9A6F-0F82CCAF066B}">
+							<Child Name="panelHierarchybox" Owner="{3830AD6B-8411-4EF4-A811-277D10820F3E}">
+								<Child Name="textnodeTest75" Owner="{A871C875-C625-4A56-963B-BF1B3DB62293}" />
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="panelBoxschools" Owner="{B9FD9D69-1014-47C5-8597-B5DF41AB309C}">
+						<Child Name="AutomationSchoolBox" Owner="{129B7876-B4BA-4769-8F14-DF2200A0039E}">
+							<Child Name="linkEdit4" Owner="{FFEAC3C3-C494-49BB-B3BB-F2937F505DCD}" />
+						</Child>
+					</Child>
 				</Child>
 				<Child Name="SchoolDetails" Owner="{0A302F79-9142-4BDF-B86D-96F9AEDB6E63}">
 					<Child Name="SchoolDetailsContainer" Owner="{66E8DF9B-44AB-4ED0-ADB3-A4499DA771BE}">
