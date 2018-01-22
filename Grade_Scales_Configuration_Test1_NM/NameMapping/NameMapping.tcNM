@@ -843,6 +843,21 @@
 																											</Property>
 																										</Properties>
 																									</Child>
+																									<Child Name="cellNumberRecognition" Key="{96C4D7A5-C249-49F1-A079-DBD8CEE4E1DA}" ParallelWalk="True">
+																										<Image FileName="455480284" Left="384" Top="309" Right="547" Bottom="358" />
+																										<TypeInfo Item0="{23EBC7AE-567C-4E03-B8B7-CCF26405442E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Cell" Type="5" />
+																											</Property>
+																											<Property Name="RowIndex">
+																												<Value PropertyType="0" Value="1" Type="0" />
+																											</Property>
+																											<Property Name="ColumnIndex">
+																												<Value PropertyType="0" Value="0" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
 																								</Children>
 																							</Child>
 																						</Children>
@@ -1285,6 +1300,7 @@
 										<Child Name="panelRightTopPanel" Owner="{D4F8716C-E8B0-446C-A393-CEA9EFE70244}">
 											<Child Name="table" Owner="{D8D1AB96-0671-4E3F-AE48-02264766A9C4}">
 												<Child Name="cell" Owner="{06C3966C-7B0A-4330-BA41-644163AE8F4E}" />
+												<Child Name="cellNumberRecognition" Owner="{96C4D7A5-C249-49F1-A079-DBD8CEE4E1DA}" />
 											</Child>
 										</Child>
 									</Child>
