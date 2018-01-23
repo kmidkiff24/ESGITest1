@@ -254,6 +254,21 @@
 																					</Property>
 																				</Properties>
 																			</Child>
+																			<Child Name="cellNt2" Key="{A9F609A2-3085-46A0-A739-3BFEB3A8C36C}" ParallelWalk="True">
+																				<Image FileName="-942357151" Left="465" Top="448" Right="545" Bottom="493" />
+																				<TypeInfo Item0="{1BFD5AC2-AD7E-4C2C-83CD-78B401070950}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Cell" Type="5" />
+																					</Property>
+																					<Property Name="RowIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																					<Property Name="ColumnIndex">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
 																		</Children>
 																	</Child>
 																</Children>
@@ -1498,6 +1513,7 @@
 								<Child Name="table" Owner="{CBB7FB97-BF3A-43DD-808B-D1DD48E26B3A}">
 									<Child Name="cellP" Owner="{B68D086F-6A40-4CC3-AD56-60CF7968DF3A}" />
 									<Child Name="cellNt" Owner="{53FC94DD-1C55-40AC-8A98-305DCA890D7C}" />
+									<Child Name="cellNt2" Owner="{A9F609A2-3085-46A0-A739-3BFEB3A8C36C}" />
 								</Child>
 							</Child>
 						</Child>
