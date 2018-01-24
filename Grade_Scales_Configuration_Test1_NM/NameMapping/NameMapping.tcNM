@@ -779,6 +779,95 @@
 																	</Child>
 																</Children>
 															</Child>
+															<Child Name="panelGradeReportHolder" Key="{7F6169D3-2D6E-4652-8471-BB82BC68A5AB}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-308967532" Left="9" Top="271" Right="1911" Bottom="986" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="3" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelGradeReportBody" Key="{F5834D0B-A2D4-4924-A4A7-CD0C4D97DBE0}" ParallelWalk="True">
+																		<Image FileName="-308967532" Left="9" Top="271" Right="1911" Bottom="986" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelRightPanel" Key="{296EF592-D569-4280-8C66-BB709453B44A}" ParallelWalk="True">
+																				<Image FileName="-308967532" Left="384" Top="271" Right="1911" Bottom="986" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panelRightTopPanel" Key="{D4F8716C-E8B0-446C-A393-CEA9EFE70244}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="-308967532" Left="384" Top="271" Right="547" Bottom="399" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="0" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="table" Key="{D8D1AB96-0671-4E3F-AE48-02264766A9C4}" ExtendedFind="True" ParallelWalk="True">
+																								<Image FileName="-308967532" Left="384" Top="271" Right="547" Bottom="399" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Table" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="cell" Key="{06C3966C-7B0A-4330-BA41-644163AE8F4E}" ParallelWalk="True">
+																										<Image FileName="-308967532" Left="384" Top="271" Right="547" Bottom="309" />
+																										<TypeInfo Item0="{23EBC7AE-567C-4E03-B8B7-CCF26405442E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Cell" Type="5" />
+																											</Property>
+																											<Property Name="RowIndex">
+																												<Value PropertyType="0" Value="0" Type="0" />
+																											</Property>
+																											<Property Name="ColumnIndex">
+																												<Value PropertyType="0" Value="0" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																									<Child Name="cellNumberRecognition" Key="{96C4D7A5-C249-49F1-A079-DBD8CEE4E1DA}" ParallelWalk="True">
+																										<Image FileName="455480284" Left="384" Top="309" Right="547" Bottom="358" />
+																										<TypeInfo Item0="{23EBC7AE-567C-4E03-B8B7-CCF26405442E}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Cell" Type="5" />
+																											</Property>
+																											<Property Name="RowIndex">
+																												<Value PropertyType="0" Value="1" Type="0" />
+																											</Property>
+																											<Property Name="ColumnIndex">
+																												<Value PropertyType="0" Value="0" Type="0" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -1203,6 +1292,18 @@
 								</Child>
 								<Child Name="panelRow" Owner="{87FB3C71-2C06-4B46-92A9-7345D1DC09D8}">
 									<Child Name="textnodeGradeReportName" Owner="{3BE5301C-7D98-4781-8F0C-6301E996FDB6}" />
+								</Child>
+							</Child>
+							<Child Name="panelGradeReportHolder" Owner="{7F6169D3-2D6E-4652-8471-BB82BC68A5AB}">
+								<Child Name="panelGradeReportBody" Owner="{F5834D0B-A2D4-4924-A4A7-CD0C4D97DBE0}">
+									<Child Name="panelRightPanel" Owner="{296EF592-D569-4280-8C66-BB709453B44A}">
+										<Child Name="panelRightTopPanel" Owner="{D4F8716C-E8B0-446C-A393-CEA9EFE70244}">
+											<Child Name="table" Owner="{D8D1AB96-0671-4E3F-AE48-02264766A9C4}">
+												<Child Name="cell" Owner="{06C3966C-7B0A-4330-BA41-644163AE8F4E}" />
+												<Child Name="cellNumberRecognition" Owner="{96C4D7A5-C249-49F1-A079-DBD8CEE4E1DA}" />
+											</Child>
+										</Child>
+									</Child>
 								</Child>
 							</Child>
 						</Child>
@@ -5917,6 +6018,73 @@
 		<Child Hash="2118193496" Key="{324A560C-EE76-4A36-9227-1C48879E43ED}">
 			<Data Properties="D0ED08A62EBBC14F8994CE82B55A47CCUFFFFFFFFFFFFFFFFV4L8ZZY">
 				<FunctionDescriptions>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="1351131477" Key="{23EBC7AE-567C-4E03-B8B7-CCF26405442E}">
+			<Data Properties="D447AE16086AD348BGECB4AE4E7E4CCUFFFFFFFFFFFFFFFFV4LBZZY">
+				<FunctionDescriptions>
+					<Child Name="RowIndex" IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="ColumnIndex" IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
 					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
 						<ReturnValue Param0="11" />
 					</Child>

@@ -446,6 +446,30 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="buttonSave" Key="{E723D37A-D800-4577-A5A7-F113EAE241A7}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-828116815" Left="1152" Top="631" Right="1208" Bottom="664" />
+																<TypeInfo Item0="{459FAA94-1CDA-48C2-A77C-CB4FC12083C1}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Button" Type="5" />
+																	</Property>
+																	<Property Name="ObjectLabel">
+																		<Value PropertyType="0" Value="Save" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="buttonYes" Key="{2117A116-3BC6-4BFF-A9BC-E8749DFC1312}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-832400436" Left="1111" Top="352" Right="1182" Bottom="385" />
+																<TypeInfo Item0="{459FAA94-1CDA-48C2-A77C-CB4FC12083C1}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Button" Type="5" />
+																	</Property>
+																	<Property Name="ObjectLabel">
+																		<Value PropertyType="0" Value="Yes" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -988,6 +1012,8 @@
 								<Child Name="panelQuestionTag" Owner="{86B0945B-1061-4C63-B19E-9EF6B88B44B7}" />
 							</Child>
 							<Child Name="link" Owner="{56C2B2ED-5A27-48AB-B58F-BFCFF8EADCAC}" />
+							<Child Name="buttonSave" Owner="{E723D37A-D800-4577-A5A7-F113EAE241A7}" />
+							<Child Name="buttonYes" Owner="{2117A116-3BC6-4BFF-A9BC-E8749DFC1312}" />
 						</Child>
 					</Child>
 				</Child>

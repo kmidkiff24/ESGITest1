@@ -435,6 +435,18 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="buttonCancel" Key="{75EEE15B-310A-4632-AA95-40BA86D0358A}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1689594297" Left="1195" Top="381" Right="1274" Bottom="419" />
+												<TypeInfo Item0="{DBD5AD0C-0AC8-4C0C-A707-0E3F7ADC882B}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Button" Type="5" />
+													</Property>
+													<Property Name="ObjectLabel">
+														<Value PropertyType="0" Value="Cancel" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -591,6 +603,7 @@
 				<Child Name="buttonPurchase" Owner="{203BE16B-F150-4C4F-85B7-1F5096D71565}" />
 				<Child Name="panelModalForm" Owner="{31686F2E-B45B-4D01-B38A-CD9440DECBAE}">
 					<Child Name="buttonOk" Owner="{3F7A1340-5059-41C3-AA8C-02BD8BBEF8C2}" />
+					<Child Name="buttonCancel" Owner="{75EEE15B-310A-4632-AA95-40BA86D0358A}" />
 				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{00D0BBF1-6495-4BC7-95BF-BE04933894CA}" />
