@@ -446,29 +446,159 @@
 																	</Property>
 																</Properties>
 															</Child>
-															<Child Name="buttonSave" Key="{E723D37A-D800-4577-A5A7-F113EAE241A7}" ExtendedFind="True" ParallelWalk="True">
-																<Image FileName="-828116815" Left="1152" Top="631" Right="1208" Bottom="664" />
-																<TypeInfo Item0="{459FAA94-1CDA-48C2-A77C-CB4FC12083C1}" />
+															<Child Name="AddNewSubjectDialog" Key="{7386DE4E-5FAF-42B9-B318-702C3D560814}" ParallelWalk="True">
+																<Image FileName="-489381630" Left="681" Top="447" Right="1239" Bottom="654" />
+																<TypeInfo Item0="{3AE54FC6-E58D-4712-ADFF-D202E2472391}" />
 																<Properties>
 																	<Property Name="ObjectType">
-																		<Value PropertyType="0" Value="Button" Type="5" />
+																		<Value PropertyType="0" Value="Panel" Type="5" />
 																	</Property>
-																	<Property Name="ObjectLabel">
-																		<Value PropertyType="0" Value="Save" Type="5" />
+																	<Property Name="contentText">
+																		<Value PropertyType="0" Value="D7000A0050006C0065006100730065002C00200065006E00740065007200200074006800650020006E00650077002000740065007300740020006E0061006D0065003A000A004E0061006D0065003A000A0053006100760065000A0043006C006F0073006500" Type="7" />
 																	</Property>
 																</Properties>
+																<Children>
+																	<Child Name="AddNewsubjectDialogPanel" Key="{BBD818E1-097B-49E0-85CD-A6E3A74D7A49}" ParallelWalk="True">
+																		<Image FileName="1026999074" Left="681" Top="447" Right="1239" Bottom="654" />
+																		<TypeInfo Item0="{3AE54FC6-E58D-4712-ADFF-D202E2472391}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value PropertyType="0" Value="D7000A0050006C0065006100730065002C00200065006E00740065007200200074006800650020006E00650077002000740065007300740020006E0061006D0065003A000A004E0061006D0065003A000A0053006100760065000A0043006C006F0073006500" Type="7" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="buttonSave" Key="{E723D37A-D800-4577-A5A7-F113EAE241A7}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="-828116815" Left="1152" Top="631" Right="1208" Bottom="664" />
+																				<TypeInfo Item0="{459FAA94-1CDA-48C2-A77C-CB4FC12083C1}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Button" Type="5" />
+																					</Property>
+																					<Property Name="ObjectLabel">
+																						<Value PropertyType="0" Value="Save" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
 															</Child>
-															<Child Name="buttonYes" Key="{2117A116-3BC6-4BFF-A9BC-E8749DFC1312}" ExtendedFind="True" ParallelWalk="True">
-																<Image FileName="-832400436" Left="1111" Top="352" Right="1182" Bottom="385" />
-																<TypeInfo Item0="{459FAA94-1CDA-48C2-A77C-CB4FC12083C1}" />
+															<Child Name="NewTestViewNowDialogPanel" Key="{3CF36702-92EB-419F-BF72-FDB23BF61D29}" ParallelWalk="True">
+																<Image FileName="496092067" Left="689" Top="221" Right="1232" Bottom="325" />
+																<TypeInfo Item0="{3AE54FC6-E58D-4712-ADFF-D202E2472391}" />
 																<Properties>
 																	<Property Name="ObjectType">
-																		<Value PropertyType="0" Value="Button" Type="5" />
+																		<Value PropertyType="0" Value="Panel" Type="5" />
 																	</Property>
-																	<Property Name="ObjectLabel">
-																		<Value PropertyType="0" Value="Yes" Type="5" />
+																	<Property Name="contentText">
+																		<Value PropertyType="0" Value="59006F007500720020006E006500770020007400650073007400200068006100730020006200650065006E00200063007200650061007400650064002E00200057006F0075006C006400200079006F00750020006C0069006B006500200074006F002000760069006500770020007400680065002000640065007400610069006C00730020006E006F0077003F000A005900650073000A004E006F00" Type="7" />
 																	</Property>
 																</Properties>
+																<Children>
+																	<Child Name="NewTestViewNowDialog" Key="{FFBA9BBF-28DF-4B1D-91D3-39FADC96BD4E}" ParallelWalk="True">
+																		<Image FileName="496092067" Left="689" Top="221" Right="1232" Bottom="325" />
+																		<TypeInfo Item0="{3AE54FC6-E58D-4712-ADFF-D202E2472391}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="contentText">
+																				<Value PropertyType="0" Value="59006F007500720020006E006500770020007400650073007400200068006100730020006200650065006E00200063007200650061007400650064002E00200057006F0075006C006400200079006F00750020006C0069006B006500200074006F002000760069006500770020007400680065002000640065007400610069006C00730020006E006F0077003F000A005900650073000A004E006F00" Type="7" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="buttonYes" Key="{2117A116-3BC6-4BFF-A9BC-E8749DFC1312}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="-832400436" Left="1111" Top="352" Right="1182" Bottom="385" />
+																				<TypeInfo Item0="{459FAA94-1CDA-48C2-A77C-CB4FC12083C1}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Button" Type="5" />
+																					</Property>
+																					<Property Name="ObjectLabel">
+																						<Value PropertyType="0" Value="Yes" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="panelModalFormTd" Key="{019BF24D-C8EF-46C0-9926-D00B132D8BD3}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1593395957" Left="368" Top="165" Right="1552" Bottom="935" />
+																<TypeInfo Item0="{3AE54FC6-E58D-4712-ADFF-D202E2472391}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="modal-form-td" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelModalContent" Key="{F1BE32F4-B5B7-4813-A879-AFD9573E50E0}" ParallelWalk="True">
+																		<Image FileName="-1593395957" Left="368" Top="165" Right="1552" Bottom="935" />
+																		<TypeInfo Item0="{3AE54FC6-E58D-4712-ADFF-D202E2472391}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelModalHeaderRow" Key="{DBF4A0C8-87B1-4B48-AEF0-6DB75810BFBD}" ParallelWalk="True">
+																				<Image FileName="918050907" Left="368" Top="165" Right="1552" Bottom="273" />
+																				<TypeInfo Item0="{3AE54FC6-E58D-4712-ADFF-D202E2472391}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="0" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panelColSm10" Key="{F3B53390-36EA-49DD-B168-351F1DB0ABFF}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="474480257" Left="386" Top="184" Right="1342" Bottom="255" />
+																						<TypeInfo Item0="{3AE54FC6-E58D-4712-ADFF-D202E2472391}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="0" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="textnodeGmUnit95KinderSnapshotCo" Key="{8FFB1672-55FC-452B-BDFB-AFCA43B4EF30}" ParallelWalk="True">
+																								<Image FileName="1333120849" Left="401" Top="179" Right="934" Bottom="220" />
+																								<TypeInfo Item0="{F26C52F0-7144-4282-AEF8-296B44F9AC91}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="TextNode" Type="5" />
+																									</Property>
+																									<Property Name="tagName">
+																										<Value PropertyType="0" Value="SPAN" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="0" Type="0" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
 															</Child>
 														</Children>
 													</Child>
@@ -1012,8 +1142,25 @@
 								<Child Name="panelQuestionTag" Owner="{86B0945B-1061-4C63-B19E-9EF6B88B44B7}" />
 							</Child>
 							<Child Name="link" Owner="{56C2B2ED-5A27-48AB-B58F-BFCFF8EADCAC}" />
-							<Child Name="buttonSave" Owner="{E723D37A-D800-4577-A5A7-F113EAE241A7}" />
-							<Child Name="buttonYes" Owner="{2117A116-3BC6-4BFF-A9BC-E8749DFC1312}" />
+							<Child Name="AddNewSubjectDialog" Owner="{7386DE4E-5FAF-42B9-B318-702C3D560814}">
+								<Child Name="AddNewsubjectDialogPanel" Owner="{BBD818E1-097B-49E0-85CD-A6E3A74D7A49}">
+									<Child Name="buttonSave" Owner="{E723D37A-D800-4577-A5A7-F113EAE241A7}" />
+								</Child>
+							</Child>
+							<Child Name="NewTestViewNowDialogPanel" Owner="{3CF36702-92EB-419F-BF72-FDB23BF61D29}">
+								<Child Name="NewTestViewNowDialog" Owner="{FFBA9BBF-28DF-4B1D-91D3-39FADC96BD4E}">
+									<Child Name="buttonYes" Owner="{2117A116-3BC6-4BFF-A9BC-E8749DFC1312}" />
+								</Child>
+							</Child>
+							<Child Name="panelModalFormTd" Owner="{019BF24D-C8EF-46C0-9926-D00B132D8BD3}">
+								<Child Name="panelModalContent" Owner="{F1BE32F4-B5B7-4813-A879-AFD9573E50E0}">
+									<Child Name="panelModalHeaderRow" Owner="{DBF4A0C8-87B1-4B48-AEF0-6DB75810BFBD}">
+										<Child Name="panelColSm10" Owner="{F3B53390-36EA-49DD-B168-351F1DB0ABFF}">
+											<Child Name="textnodeGmUnit95KinderSnapshotCo" Owner="{8FFB1672-55FC-452B-BDFB-AFCA43B4EF30}" />
+										</Child>
+									</Child>
+								</Child>
+							</Child>
 						</Child>
 					</Child>
 				</Child>
@@ -2169,6 +2316,370 @@
 						<ReturnValue Param0="11" />
 					</Child>
 					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4S3U3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="105121796" Key="{3AE54FC6-E58D-4712-ADFF-D202E2472391}">
+			<Data Properties="ZZKFFFFFFFFFFFFFFFFN8L4K26ZZY">
+				<FunctionDescriptions>
+					<Child Name="_NewEnum" Doc="Returns an enumerator for the children collection." IsBasic="True" Data="ZI4L2L4SA8TDZN">
+						<ReturnValue Param0="13" />
+					</Child>
+					<Child Name="AddRef" IsBasic="True" Data="ZI4L1L4T8S13ZG1K">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Child" Doc="Returns a child object by its index." IsBasic="True" Param0="Index" Data="ZI4L1L4L1K6U9ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="ChildCount" Doc="The number of child objects." IsBasic="True" Data="ZI4L2L4S58T3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3K38S18ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3K48S18ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4S7UBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Exists" Doc="True if the object exists in the system; else, false." IsBasic="True" Data="ZI4L2L4S68TBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Find" Doc="Returns an object by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Data="ZI4L1L4L4K78T9ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="1" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="FindAll" Doc="Returns an array of objects by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Data="ZI4L1L4L4K8UCZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="1" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="FindAllChildren" Doc="Returns an array of objects by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Data="ZI4L1L4L4KCUCZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="1" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="FindChild" Doc="Returns an object by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Data="ZI4L1L4L4KB8T9ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="FindChildEx" Doc="Returns an object by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Param4="Timeout" Data="ZI4L1L4L5K4U9ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<Param4>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param4>
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="FindEx" Doc="Returns an object by the values of the specified properties." IsBasic="True" Param0="PropNames" Param1="PropValues" Param2="Depth" Param3="RefreshTree" Param4="Timeout" Data="ZI4L1L4L5K38T9ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="1" Type="0" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param3>
+						<Param4>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param4>
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="FindId" Doc="Returns an object by its ID." IsBasic="True" Param0="Id" Param1="RefreshTree" Data="ZI4L1L4L2K4U9ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="11" />
+							<ParamDesc Flags="49" Value="True" Type="6" />
+						</Param1>
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="FullName" Doc="Returns the full name of an object.&#32;&#32;Its full name uniquely identifies an object in the system." IsBasic="True" Data="ZI4L2L4SAU8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="GetIDsOfNames" IsBasic="True" Param0="riid" Param1="rgszNames" Param2="cNames" Param3="lcid" Param4="rgdispid" Data="ZI4L1L4L5K28S18ZG1K">
+						<Param0>
+							<TypeDesc Param0="26" Param1="29" Type1="GUID" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="26" Param1="26" Param2="16" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="23" />
+							<ParamDesc Flags="1" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="19" />
+							<ParamDesc Flags="1" />
+						</Param3>
+						<Param4>
+							<TypeDesc Param0="26" Param1="3" />
+							<ParamDesc Flags="2" />
+						</Param4>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="GetTypeInfo" IsBasic="True" Param0="itinfo" Param1="lcid" Param2="pptinfo" Data="ZI4L1L4L3K2T18ZG1K">
+						<Param0>
+							<TypeDesc Param0="23" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="19" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="26" Param1="26" Param2="24" />
+							<ParamDesc Flags="2" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="GetTypeInfoCount" IsBasic="True" Param0="pctinfo" Data="ZI4L1L4L1K18S18ZG1K">
+						<Param0>
+							<TypeDesc Param0="26" Param1="23" />
+							<ParamDesc Flags="2" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4S68T3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Id" Doc="Object ID. For processes, the process ID; for windows, the window handle, etc." IsBasic="True" Data="ZI4L2L4S38T3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="idStr" IsBasic="True" Data="ZI4L2L4S2U8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Invoke" IsBasic="True" Param0="dispidMember" Param1="riid" Param2="lcid" Param3="wFlags" Param4="pdispparams" Param5="pvarResult" Param6="pexcepinfo" Param7="puArgErr" Data="ZI4L1L4L8K3T18ZG1K">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="26" Param1="29" Type1="GUID" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="19" />
+							<ParamDesc Flags="1" />
+						</Param2>
+						<Param3>
+							<TypeDesc Param0="18" />
+							<ParamDesc Flags="1" />
+						</Param3>
+						<Param4>
+							<TypeDesc Param0="26" Param1="29" Type1="DISPPARAMS" />
+							<ParamDesc Flags="1" />
+						</Param4>
+						<Param5>
+							<TypeDesc Param0="26" Param1="12" />
+							<ParamDesc Flags="2" />
+						</Param5>
+						<Param6>
+							<TypeDesc Param0="26" Param1="29" Type1="EXCEPINFO" />
+							<ParamDesc Flags="2" />
+						</Param6>
+						<Param7>
+							<TypeDesc Param0="26" Param1="23" />
+							<ParamDesc Flags="2" />
+						</Param7>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1K8T18ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="MappedName" Doc="Specifies the mapped name of the object." IsBasic="True" Data="ZI4L2L4S9U8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Name" Doc="Object name." IsBasic="True" Data="ZI4L2L4S48T8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="namePropStr" IsBasic="True" Data="ZI4L2L4S18T8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4S18TCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4S38T8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Parent" Doc="Parent object." IsBasic="True" Data="ZI4L2L4S5U9ZN">
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="QueryInterface" IsBasic="True" Param0="riid" Param1="ppvObj" Data="ZI4L1L4L2Z018ZG1K">
+						<Param0>
+							<TypeDesc Param0="26" Param1="29" Type1="GUID" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="26" Param1="26" Param2="24" />
+							<ParamDesc Flags="2" />
+						</Param1>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Refresh" Doc="Updates the internal list of child objects." IsBasic="True" Data="ZI4L1L4S98S18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Release" IsBasic="True" Data="ZI4L1L4S1T13ZG1K">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Validate" Doc="Generates the OnValidate event." IsBasic="True" Param0="Params" Data="ZI4L1L4L1H1G7T18Z04L">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="17" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4S38TBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WaitChild" Doc="Delays script execution until the specified child object appears in the child list or the specified time limit is reached." IsBasic="True" Param0="ChildName" Param1="WaitTime" Data="ZI4L1L4L2K88T9ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param1>
+						<ReturnValue Param0="9" />
+					</Child>
+					<Child Name="WaitProperty" Doc="Delays the script execution until the specified property equals the specified value or until the specified time limit elapses." IsBasic="True" Param0="PropertyName" Param1="PropertyValue" Param2="WaitTime" Data="ZI4L1L4L3KBUBZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param2>
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4S6U3ZN">
 						<ReturnValue Param0="3" />
 					</Child>
 				</FunctionDescriptions>
