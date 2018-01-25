@@ -7,6 +7,9 @@
 		<child name="TS_EditTestNoLoadingPage" key="{1EC7344A-0C2C-4C99-BDF2-5BDA16174043}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="TS_EditTestNoLoadingPage.tcKDTest" />
 		</child>
+		<child name="TS_RunTest" key="{210F9025-FE45-4F94-B2BC-2DF7BEA947E5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="TS_RunTest.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
