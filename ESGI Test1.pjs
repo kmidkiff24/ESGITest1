@@ -13,9 +13,6 @@
 		<child name="New Users_Test1(Ignore)" key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="New Users_Test1\New Users_Test1(Ignore).mds" />
 		</child>
-		<child name="Groups_Test1" key="{611CBE5A-8EA0-4416-B520-63642CF3E760}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Groups_Test1\Groups_Test1.mds" />
-		</child>
 		<child name="Subjects_Test1" key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ESGI Test1_1\Subjects_Test1.mds" />
 		</child>
@@ -73,6 +70,9 @@
 		<child name="Profiles_New" key="{B82D0BAB-7C10-4A17-B861-E5A2DC62C263}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Profiles_New\Profiles_New.mds" />
 		</child>
+		<child name="Classes_New" key="{CA22C372-56E8-412B-9110-B9C54629C59F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Classes_New\Classes_New.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{60288EEA-C062-467A-8853-8E2C388B5007}">
@@ -81,7 +81,6 @@
 			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{611CBE5A-8EA0-4416-B520-63642CF3E760}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{BEBCC591-C04A-4312-B634-1263965C912A}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="True" timeout="0" stopOnError="False" description="" />
@@ -101,6 +100,7 @@
 			<testItem key="{2A33F95E-BFF0-4DD7-ACD4-71A3A13928BC}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{8B13797B-52A5-464D-81C6-15AE34D73D82}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{B82D0BAB-7C10-4A17-B861-E5A2DC62C263}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{CA22C372-56E8-412B-9110-B9C54629C59F}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{8B7AD38B-D40F-487C-81E7-B35BA128B4CB}">
