@@ -38,7 +38,7 @@
 		<data Version="3" />
 	</variables>
 	<settings key="{9D99D321-C68A-41C2-A370-DFCE92488934}">
-		<settingsVersion value="12.40" />
+		<settingsVersion value="12.42" />
 		<setting name="{42651A7C-4287-4C91-AE26-98CBD2EA9355}" type="1" value="False" />
 		<setting name="{A2568CC8-7E8E-42C5-A87D-B69684A1E616}" type="1" value="True" />
 		<setting name="{3EADAFE2-0CD4-4B1E-A2A9-B184E94FDCC7}" type="6" rowIndex="1" colIndex="0">
