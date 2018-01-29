@@ -281,6 +281,31 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="panel2" Key="{57A44726-E910-4BCF-A9BF-8DF0371225BF}" ParallelWalk="True">
+												<Image FileName="-2053204509" Left="675" Top="125" Right="1418" Bottom="151" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelProfile" Key="{066C5560-F0D4-48B2-97FC-A68CEDC193DF}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-2053204509" Left="675" Top="125" Right="818" Bottom="151" />
+														<TypeInfo Item0="{10006718-27CE-4B24-9A13-06F1F1704277}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="frameEsgiPublicZenboxcontactusAs" Key="{335183E1-2779-449D-8368-CD513CFF78AC}" ExtendedFind="True" ParallelWalk="True">
@@ -331,6 +356,31 @@
 														</Children>
 													</Child>
 												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelMain" Key="{0251FA4B-0945-4EF6-BD7A-EC07A8579471}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="330185156" Left="475" Top="158" Right="1425" Bottom="1047" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="main" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelMainTop" Key="{8001CFAD-4BD0-4313-9AB0-1096B2A3B296}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="330185156" Left="475" Top="158" Right="1425" Bottom="183" />
+												<TypeInfo Item0="{10006718-27CE-4B24-9A13-06F1F1704277}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
 											</Child>
 										</Children>
 									</Child>
@@ -481,6 +531,91 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageEsgi2" Key="{98B5C1D8-6FC4-4D62-B8D1-41B3EB5F2EF8}" ParallelWalk="True">
+								<Image FileName="-1878913072" Left="9" Top="85" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/jsprofile.aspx" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="formAddeditteacherform" Key="{3547D62D-F785-4AA1-ACE3-9795F767BEC9}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1359528842" Left="575" Top="313" Right="1356" Bottom="1128" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Form" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="AddEditTeacherForm" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelText" Key="{54767B0B-5912-41B1-8DD5-47012766659E}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1359528842" Left="575" Top="313" Right="1306" Bottom="1111" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="text" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="tableTblContaier" Key="{8DCB0F63-DD98-421E-82A2-6A0E48169D7A}" ParallelWalk="True">
+														<Image FileName="1359528842" Left="575" Top="313" Right="1175" Bottom="1111" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Table" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="textboxAddeditteacherformAddress" Key="{D0B4E088-9752-413C-A7BA-C54EE331C489}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1359528842" Left="1017" Top="388" Right="1168" Bottom="425" />
+																<TypeInfo Item0="{E4343C0F-EF96-4507-AC0C-CCC28A687901}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="AddEditTeacherForm.Address1" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="buttonSubmit" Key="{F498EEE9-6301-459C-9439-4A3FDB7CB54F}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="627203110" Left="786" Top="805" Right="857" Bottom="842" />
+																<TypeInfo Item0="{5793BDF1-7B0C-4E7C-88ED-AAB86FF9F464}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="SubmitButton" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="AddEditTeacherForm.Submit" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="buttonBackToPieCharts" Key="{7EFDD49B-F773-4E57-85F1-F4FC52CAF1B9}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1067092439" Left="878" Top="507" Right="1024" Bottom="544" />
+												<TypeInfo Item0="{66644AC1-7A57-449E-A0E4-7246AB1C52AF}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Link" Type="5" />
+													</Property>
+													<Property Name="href">
+														<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/jsindex.aspx" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -524,6 +659,9 @@
 					<Child Name="panel" Owner="{17D5FF01-1A9C-4940-BF64-0D5600E6E6DC}">
 						<Child Name="panelContactUs" Owner="{D3600890-BEFD-48C9-93F5-385622FE76F4}" />
 					</Child>
+					<Child Name="panel2" Owner="{57A44726-E910-4BCF-A9BF-8DF0371225BF}">
+						<Child Name="panelProfile" Owner="{066C5560-F0D4-48B2-97FC-A68CEDC193DF}" />
+					</Child>
 				</Child>
 				<Child Name="frameEsgiPublicZenboxcontactusAs" Owner="{335183E1-2779-449D-8368-CD513CFF78AC}">
 					<Child Name="textnodeHowCanWeHelpYou" Owner="{DDF13352-8B55-42B9-A125-CBDA8B642C01}" />
@@ -532,6 +670,9 @@
 							<Child Name="textboxRepcustomfieldsTxbfield3" Owner="{3EC15BEE-BAFC-4EA9-87A9-7B9BEF346B70}" />
 						</Child>
 					</Child>
+				</Child>
+				<Child Name="panelMain" Owner="{0251FA4B-0945-4EF6-BD7A-EC07A8579471}">
+					<Child Name="panelMainTop" Owner="{8001CFAD-4BD0-4313-9AB0-1096B2A3B296}" />
 				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{041E1CCD-A1D7-4234-A0DD-99BAF15722A7}" />
@@ -551,6 +692,17 @@
 					<Child Name="alertSuccess" Owner="{695D1166-BDEF-4D20-91CB-CB4C4A858B67}">
 						<Child Name="textnode" Owner="{9C34C0C7-0B09-4530-8745-2390A1A81BD4}" />
 					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageEsgi2" Owner="{98B5C1D8-6FC4-4D62-B8D1-41B3EB5F2EF8}">
+				<Child Name="formAddeditteacherform" Owner="{3547D62D-F785-4AA1-ACE3-9795F767BEC9}">
+					<Child Name="panelText" Owner="{54767B0B-5912-41B1-8DD5-47012766659E}">
+						<Child Name="tableTblContaier" Owner="{8DCB0F63-DD98-421E-82A2-6A0E48169D7A}">
+							<Child Name="textboxAddeditteacherformAddress" Owner="{D0B4E088-9752-413C-A7BA-C54EE331C489}" />
+							<Child Name="buttonSubmit" Owner="{F498EEE9-6301-459C-9439-4A3FDB7CB54F}" />
+						</Child>
+					</Child>
+					<Child Name="buttonBackToPieCharts" Owner="{7EFDD49B-F773-4E57-85F1-F4FC52CAF1B9}" />
 				</Child>
 			</Child>
 		</Child>
@@ -1956,6 +2108,73 @@
 					</Child>
 					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
 						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-1670354260" Key="{66644AC1-7A57-449E-A0E4-7246AB1C52AF}">
+			<Data Properties="F2431A547CC6B948B77F4G3F27FE987UFFFFFFFFFFFFFFFFV4LBZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ObjectLabel" Doc="Gets the label of the control." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
 					</Child>
 					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
 						<ReturnValue Param0="8" />

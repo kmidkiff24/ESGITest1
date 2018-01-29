@@ -10,6 +10,9 @@
 		<child name="PR_CMTLostPassword_New" key="{951F3DD5-A473-45C0-8817-DDD219A20339}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="PR_CMTLostPassword_New.tcKDTest" />
 		</child>
+		<child name="PR_EditAddress_New" key="{673C4536-6F16-4E98-B032-01557F56ADFD}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_EditAddress_New.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
