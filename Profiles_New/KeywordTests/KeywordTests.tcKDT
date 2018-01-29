@@ -13,6 +13,9 @@
 		<child name="PR_EditAddress_New" key="{673C4536-6F16-4E98-B032-01557F56ADFD}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="PR_EditAddress_New.tcKDTest" />
 		</child>
+		<child name="PR_RegisterNumberofMonths_New" key="{080A2B83-47E3-47BE-AE42-28C10EF36BDB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_RegisterNumberofMonths_New.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

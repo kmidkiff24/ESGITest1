@@ -598,6 +598,21 @@
 															</Child>
 														</Children>
 													</Child>
+													<Child Name="linkCreditCard" Key="{B99CF538-7E71-478B-A821-624CA7F5A6A6}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-1241077603" Left="1273" Top="475" Right="1342" Bottom="492" />
+														<TypeInfo Item0="{10006718-27CE-4B24-9A13-06F1F1704277}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Link" Type="5" />
+															</Property>
+															<Property Name="pathname">
+																<Value PropertyType="0" Value="/ESGI/Public/Renewal.aspx" Type="5" />
+															</Property>
+															<Property Name="contentText">
+																<Value PropertyType="0" Value="Credit Card" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
 												</Children>
 											</Child>
 											<Child Name="buttonBackToPieCharts" Key="{7EFDD49B-F773-4E57-85F1-F4FC52CAF1B9}" ExtendedFind="True" ParallelWalk="True">
@@ -615,6 +630,67 @@
 										</Children>
 									</Child>
 								</Children>
+							</Child>
+							<Child Name="pageEsgiOneOnOneAssessmentsMadeE2" Key="{8DCFB775-4EB6-4083-A45B-AEE42B2BE183}" ParallelWalk="True">
+								<Image FileName="-1817868337" Left="0" Top="-8" Right="1920" Bottom="1030" />
+								<TypeInfo Item0="{1D2C612D-4C98-4CBF-AF46-8B3FF71A3F7D}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="chrome://browser/content/browser.xul" Type="5" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageEsgiRegistration" Key="{956CF394-2A59-41F3-BEB0-883918697EF9}" ParallelWalk="True">
+								<Image FileName="119475634" Left="9" Top="85" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/Renewal.aspx*" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textboxRenewalprice" Key="{9955AE09-5600-42BB-ADA5-115AB6F6CF88}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1337508515" Left="698" Top="271" Right="925" Bottom="313" />
+										<TypeInfo Item0="{E4343C0F-EF96-4507-AC0C-CCC28A687901}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Textbox" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="RenewalPrice" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="selectNumberofmonthes" Key="{908C0FFC-490E-43F7-9CFF-01E3566E6AD7}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1256194187" Left="1385" Top="189" Right="1449" Bottom="226" />
+										<TypeInfo Item0="{65FCA072-89AE-45A6-BBEF-3BBA8DE42A71}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Select" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="NumberOfMonthes" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow2" Key="{ECBDA1A3-5B13-4F86-BB6B-E0E7AE9100B9}" ParallelWalk="True">
+								<Image FileName="1950627075" Left="0" Top="0" Right="1920" Bottom="1030" />
+								<TypeInfo Item0="{7D23B72C-B74F-422E-81C1-5F0A6CC253D6}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="BrowserWindow" Type="5" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value PropertyType="0" Value="1" Type="0" />
+									</Property>
+								</Properties>
 							</Child>
 						</Children>
 					</Child>
@@ -701,10 +777,17 @@
 							<Child Name="textboxAddeditteacherformAddress" Owner="{D0B4E088-9752-413C-A7BA-C54EE331C489}" />
 							<Child Name="buttonSubmit" Owner="{F498EEE9-6301-459C-9439-4A3FDB7CB54F}" />
 						</Child>
+						<Child Name="linkCreditCard" Owner="{B99CF538-7E71-478B-A821-624CA7F5A6A6}" />
 					</Child>
 					<Child Name="buttonBackToPieCharts" Owner="{7EFDD49B-F773-4E57-85F1-F4FC52CAF1B9}" />
 				</Child>
 			</Child>
+			<Child Name="pageEsgiOneOnOneAssessmentsMadeE2" Owner="{8DCFB775-4EB6-4083-A45B-AEE42B2BE183}" />
+			<Child Name="pageEsgiRegistration" Owner="{956CF394-2A59-41F3-BEB0-883918697EF9}">
+				<Child Name="textboxRenewalprice" Owner="{9955AE09-5600-42BB-ADA5-115AB6F6CF88}" />
+				<Child Name="selectNumberofmonthes" Owner="{908C0FFC-490E-43F7-9CFF-01E3566E6AD7}" />
+			</Child>
+			<Child Name="BrowserWindow2" Owner="{ECBDA1A3-5B13-4F86-BB6B-E0E7AE9100B9}" />
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">
@@ -2175,6 +2258,157 @@
 					</Child>
 					<Child Name="ObjectLabel" Doc="Gets the label of the control." IsBasic="True" Data="ZI4L2L4ZO8ZN">
 						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-1957056866" Key="{1D2C612D-4C98-4CBF-AF46-8B3FF71A3F7D}">
+			<Data Properties="C57F9AF2E368EE4CA6252654650210BFUFFFFFFFFFFFFFFFFV4LAZZY">
+				<FunctionDescriptions>
+					<Child Name="Close" Doc="Closes a page open in the browser." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ObjectGroupIndex" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-358727879" Key="{65FCA072-89AE-45A6-BBEF-3BBA8DE42A71}">
+			<Data Properties="D70EA5DC2633B84D9E3258A03A36BB05UFFFFFFFFFFFFFFFFV4LFZZY">
+				<FunctionDescriptions>
+					<Child Name="DropDown" Doc="Opens the control&apos;s drop-down window." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="wText" Doc="Returns the control text." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="ClickItem" Doc="Selects the item, specified as an index, from 0, or a name." IsBasic="True" Param0="Item" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="wItemCount" Doc="Returns the total number of items in the combo box." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="wItem" Doc="Returns the name of the item specified by its index." IsBasic="True" Param0="Index" Data="ZI4L2L4L1ZG8ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="wSelectedItem" Doc="Returns the index of the selected item." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
 					</Child>
 					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
 						<ReturnValue Param0="8" />
