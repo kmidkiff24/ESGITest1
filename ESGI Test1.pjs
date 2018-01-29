@@ -25,9 +25,6 @@
 		<child name="Pie Charts_Test1" key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Pie Charts\Pie Charts_Test1.mds" />
 		</child>
-		<child name="Profiles_Test1" key="{F2F67E0C-565F-48A1-840E-594171C820A2}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Profiles_Test1\Profiles_Test1.mds" />
-		</child>
 		<child name="Grade_Scales_Configuration_Test1_NM" key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Grade_Scales_Configuration_Test1_NM\Grade_Scales_Configuration_Test1_NM.mds" />
 		</child>
@@ -88,7 +85,6 @@
 			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{BEBCC591-C04A-4312-B634-1263965C912A}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{F2F67E0C-565F-48A1-840E-594171C820A2}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{8CCD6F68-8C7B-4824-A072-45890990B095}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{C2E20841-B67F-4E02-829E-21199F4794EE}" enabled="True" timeout="0" stopOnError="False" description="" />

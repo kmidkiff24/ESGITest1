@@ -4,6 +4,12 @@
 		<child name="PR_ContactUs_New" key="{A39405A7-00B8-44FD-AE49-A91A132F3D48}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="PR_ContactUs_New.tcKDTest" />
 		</child>
+		<child name="PR_ESGILostPassword_New" key="{9AE7CF15-7369-43E1-931E-D5976336E546}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_ESGILostPassword_New.tcKDTest" />
+		</child>
+		<child name="PR_CMTLostPassword_New" key="{951F3DD5-A473-45C0-8817-DDD219A20339}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_CMTLostPassword_New.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
