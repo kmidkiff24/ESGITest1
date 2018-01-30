@@ -73,6 +73,12 @@
 		<child name="SA_New" key="{BDC94939-1CEF-495E-B566-3100E34873CF}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="SA_New\SA_New.mds" />
 		</child>
+		<child name="SA_Profiles_New" key="{1EE9BA7F-B148-4BE1-BB49-CB766AC20D88}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="SA_Profiles_New\SA_Profiles_New.mds" />
+		</child>
+		<child name="Admin_New" key="{29FF5AED-98C0-4EE0-B817-12C1B8B25254}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Admin_New\Admin_New.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{60288EEA-C062-467A-8853-8E2C388B5007}">
@@ -101,6 +107,8 @@
 			<testItem key="{B82D0BAB-7C10-4A17-B861-E5A2DC62C263}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{CA22C372-56E8-412B-9110-B9C54629C59F}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{BDC94939-1CEF-495E-B566-3100E34873CF}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{1EE9BA7F-B148-4BE1-BB49-CB766AC20D88}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{29FF5AED-98C0-4EE0-B817-12C1B8B25254}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{8B7AD38B-D40F-487C-81E7-B35BA128B4CB}">
