@@ -70,6 +70,9 @@
 		<child name="Classes_New" key="{CA22C372-56E8-412B-9110-B9C54629C59F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Classes_New\Classes_New.mds" />
 		</child>
+		<child name="SA_New" key="{BDC94939-1CEF-495E-B566-3100E34873CF}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="SA_New\SA_New.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{60288EEA-C062-467A-8853-8E2C388B5007}">
@@ -97,6 +100,7 @@
 			<testItem key="{8B13797B-52A5-464D-81C6-15AE34D73D82}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{B82D0BAB-7C10-4A17-B861-E5A2DC62C263}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{CA22C372-56E8-412B-9110-B9C54629C59F}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{BDC94939-1CEF-495E-B566-3100E34873CF}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{8B7AD38B-D40F-487C-81E7-B35BA128B4CB}">
