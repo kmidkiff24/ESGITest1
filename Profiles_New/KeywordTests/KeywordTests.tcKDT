@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="PR_ContactUs_New" key="{A39405A7-00B8-44FD-AE49-A91A132F3D48}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_ContactUs_New.tcKDTest" />
+		</child>
+		<child name="PR_ESGILostPassword_New" key="{9AE7CF15-7369-43E1-931E-D5976336E546}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_ESGILostPassword_New.tcKDTest" />
+		</child>
+		<child name="PR_CMTLostPassword_New" key="{951F3DD5-A473-45C0-8817-DDD219A20339}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_CMTLostPassword_New.tcKDTest" />
+		</child>
+		<child name="PR_EditAddress_New" key="{673C4536-6F16-4E98-B032-01557F56ADFD}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_EditAddress_New.tcKDTest" />
+		</child>
+		<child name="PR_RegisterNumberofMonths_New" key="{080A2B83-47E3-47BE-AE42-28C10EF36BDB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_RegisterNumberofMonths_New.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

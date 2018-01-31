@@ -682,9 +682,33 @@
 																					</Child>
 																				</Children>
 																			</Child>
+																			<Child Name="buttonPreviewTest" Key="{6EF3AB0A-2DE3-4AC4-8496-C7BCB937BE09}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="-660405275" Left="1238" Top="277" Right="1382" Bottom="314" />
+																				<TypeInfo Item0="{459FAA94-1CDA-48C2-A77C-CB4FC12083C1}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Button" Type="5" />
+																					</Property>
+																					<Property Name="idStr">
+																						<Value PropertyType="0" Value="preview-test" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
 																		</Children>
 																	</Child>
 																</Children>
+															</Child>
+															<Child Name="linkDelete" Key="{E7F5EF49-6BDD-4245-92F6-68ADD32DBD7E}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1450877782" Left="1179" Top="439" Right="1337" Bottom="464" />
+																<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Link" Type="5" />
+																	</Property>
+																	<Property Name="contentText">
+																		<Value PropertyType="0" Value="Delete" Type="5" />
+																	</Property>
+																</Properties>
 															</Child>
 														</Children>
 													</Child>
@@ -810,6 +834,78 @@
 																						<Value PropertyType="0" Value="Link" Type="5" />
 																					</Property>
 																				</Properties>
+																				<Children>
+																					<Child Name="textnodeAbcdefghijlkmnopqrstuvwx" Key="{2A88BE98-51D3-4AD0-876E-12206C5D9F7B}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="1892612739" Left="936" Top="357" Right="1158" Bottom="374" />
+																						<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="TextNode" Type="5" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="panelHoverOverlay" Key="{8832EE1D-CF04-4C27-800B-97F2323613AC}" ParallelWalk="True">
+																				<Image FileName="1789369421" Left="1155" Top="353" Right="1185" Bottom="383" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panelTools" Key="{8E9880D6-180A-4A32-AE09-6A185690C39E}" ParallelWalk="True">
+																						<Image FileName="1789369421" Left="1155" Top="353" Right="1185" Bottom="383" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panel" Key="{BEB6C0AA-EC36-4D39-81E1-3621D1CBFB9E}" ParallelWalk="True">
+																								<Image FileName="1789369421" Left="1155" Top="353" Right="1185" Bottom="380" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Panel" Type="5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="panel" Key="{3FE2E1F7-D31F-4C5A-9D57-103FBCA69451}" ExtendedFind="True" ParallelWalk="True">
+																										<Image FileName="1789369421" Left="1155" Top="353" Right="1185" Bottom="380" />
+																										<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Panel" Type="5" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="panelDtcSubjectTabHoverContainer2" Key="{861C56C7-65A4-4153-BBE9-DDE49CB52FC0}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1520531790" Left="995" Top="353" Right="1185" Bottom="383" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="textnodeMathAlive" Key="{4F17C037-D81B-4941-B334-8920D29CB3F2}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="1520531790" Left="1065" Top="359" Right="1115" Bottom="376" />
+																				<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="TextNode" Type="5" />
+																					</Property>
+																				</Properties>
 																			</Child>
 																		</Children>
 																	</Child>
@@ -837,6 +933,15 @@
 																	</Property>
 																	<Property Name="ObjectIdentifier">
 																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="linkSubjectName" Key="{E0769F21-9C8B-46E3-90EE-C87AB17EB2A2}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="353939557" Left="1024" Top="319" Right="1185" Bottom="349" />
+																<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Link" Type="5" />
 																	</Property>
 																</Properties>
 															</Child>
@@ -902,6 +1007,31 @@
 																<Children>
 																	<Child Name="panelHoverOverlay" Key="{BB7AD6FD-B84C-47B1-9266-87B21DEC1134}" ExtendedFind="True" ParallelWalk="True">
 																		<Image FileName="-857961384" Left="9" Top="74" Right="9" Bottom="74" />
+																		<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="2" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="panelColSm6HoverContainerPieChar2" Key="{7F8F2D5B-9D63-4EA3-8188-E05D40AF18BB}" ParallelWalk="True">
+																<Image FileName="-331286328" Left="960" Top="385" Right="1185" Bottom="516" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelHoverOverlay" Key="{C7F8DE94-8B8F-4D2D-96F7-3A248B73DD72}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-331286328" Left="960" Top="385" Right="1185" Bottom="515" />
 																		<TypeInfo Item0="{B18CB940-0756-4512-898F-1DBF38E98B54}" />
 																		<Properties>
 																			<Property Name="ObjectType">
@@ -1357,8 +1487,10 @@
 											<Child Name="textnodeGmUnit95KinderSnapshotCo" Owner="{8FFB1672-55FC-452B-BDFB-AFCA43B4EF30}" />
 										</Child>
 									</Child>
+									<Child Name="buttonPreviewTest" Owner="{6EF3AB0A-2DE3-4AC4-8496-C7BCB937BE09}" />
 								</Child>
 							</Child>
+							<Child Name="linkDelete" Owner="{E7F5EF49-6BDD-4245-92F6-68ADD32DBD7E}" />
 						</Child>
 					</Child>
 				</Child>
@@ -1373,12 +1505,25 @@
 						<Child Name="panelPersonalSubjectTabs" Owner="{2C27EAA7-BE8C-4671-9115-B2152E12AA63}">
 							<Child Name="panelDt" Owner="{D87C00AF-562D-4A55-AB2A-84A9DE36FECB}">
 								<Child Name="panelDtcSubjectTabHoverContainer" Owner="{54C8FA6B-59AA-40F2-90CE-AD402D913826}">
-									<Child Name="linkSubjectName" Owner="{DF2D292E-E9A2-4B9E-AD31-C730E0C7D89B}" />
+									<Child Name="linkSubjectName" Owner="{DF2D292E-E9A2-4B9E-AD31-C730E0C7D89B}">
+										<Child Name="textnodeAbcdefghijlkmnopqrstuvwx" Owner="{2A88BE98-51D3-4AD0-876E-12206C5D9F7B}" />
+									</Child>
+									<Child Name="panelHoverOverlay" Owner="{8832EE1D-CF04-4C27-800B-97F2323613AC}">
+										<Child Name="panelTools" Owner="{8E9880D6-180A-4A32-AE09-6A185690C39E}">
+											<Child Name="panel" Owner="{BEB6C0AA-EC36-4D39-81E1-3621D1CBFB9E}">
+												<Child Name="panel" Owner="{3FE2E1F7-D31F-4C5A-9D57-103FBCA69451}" />
+											</Child>
+										</Child>
+									</Child>
+								</Child>
+								<Child Name="panelDtcSubjectTabHoverContainer2" Owner="{861C56C7-65A4-4153-BBE9-DDE49CB52FC0}">
+									<Child Name="textnodeMathAlive" Owner="{4F17C037-D81B-4941-B334-8920D29CB3F2}" />
 								</Child>
 							</Child>
 						</Child>
 						<Child Name="panelColSm6HoverContainerPieChar" Owner="{3B31DD39-7183-4978-8E46-B0C97E972A5A}">
 							<Child Name="panelHoverOverlay" Owner="{27783863-0565-436C-A041-42EA5EE9072F}" />
+							<Child Name="linkSubjectName" Owner="{E0769F21-9C8B-46E3-90EE-C87AB17EB2A2}" />
 						</Child>
 						<Child Name="panelColSm6HoverContainerPieChar2" Owner="{43A6CB26-2832-4591-8F7F-90CECE9C80D0}">
 							<Child Name="panelHoverOverlay" Owner="{ABE0B668-DB10-4AE9-85B9-E834450CB0A2}">
@@ -1388,6 +1533,9 @@
 						<Child Name="panelPieCharts" Owner="{C0EF4F2D-D143-482E-B9C7-E4AADE6FD908}">
 							<Child Name="panelColSm6HoverContainerPieChar" Owner="{2E7A3232-A052-4FB6-B1E3-C212B0A4065B}">
 								<Child Name="panelHoverOverlay" Owner="{BB7AD6FD-B84C-47B1-9266-87B21DEC1134}" />
+							</Child>
+							<Child Name="panelColSm6HoverContainerPieChar2" Owner="{7F8F2D5B-9D63-4EA3-8188-E05D40AF18BB}">
+								<Child Name="panelHoverOverlay" Owner="{C7F8DE94-8B8F-4D2D-96F7-3A248B73DD72}" />
 							</Child>
 						</Child>
 					</Child>

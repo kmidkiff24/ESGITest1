@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
 	<children>
-		<child name="SU_AddGreySubjectTab" key="{583744ED-D138-4C38-851B-3ECE7B3F2B87}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="SU_AddGreySubjectTab.tcKDTest" />
+		<child name="SU_AddGreySubjectTab_NP" key="{583744ED-D138-4C38-851B-3ECE7B3F2B87}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SU_AddGreySubjectTab_NP.tcKDTest" />
 		</child>
-		<child name="SU_HideSubjectTab" key="{87DF08F3-CF07-47B4-88E4-8DC2CEA1DFD4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="SU_HideSubjectTab.tcKDTest" />
+		<child name="SU_HideSubjectTab_NP" key="{87DF08F3-CF07-47B4-88E4-8DC2CEA1DFD4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SU_HideSubjectTab_NP.tcKDTest" />
 		</child>
-		<child name="SU_DeleteSubjectTab" key="{858A6531-9D04-4AE4-9F17-8B605C635179}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="SU_DeleteSubjectTab.tcKDTest" />
+		<child name="SU_DeleteSubjectTab_NP" key="{858A6531-9D04-4AE4-9F17-8B605C635179}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SU_DeleteSubjectTab_NP.tcKDTest" />
 		</child>
 	</children>
 	<folders />
