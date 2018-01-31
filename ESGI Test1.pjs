@@ -73,6 +73,9 @@
 		<child name="Grade_Scales_Edit_Test1_JG" key="{8B13797B-52A5-464D-81C6-15AE34D73D82}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Grade_Scales_Edit_Test1_JG\Grade_Scales_Edit_Test1_JG.mds" />
 		</child>
+		<child name="CMT_Test1_JG" key="{3DA0844C-ED9C-4481-8B1E-23D8F5523CE6}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="CMT_Test1_JG\CMT_Test1_JG.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{60288EEA-C062-467A-8853-8E2C388B5007}">
@@ -101,6 +104,7 @@
 			<testItem key="{884B65EC-94B5-4DBA-8AEE-4BA39A021DDD}" enabled="True" timeout="0" stopOnError="False" description="" />
 			<testItem key="{2A33F95E-BFF0-4DD7-ACD4-71A3A13928BC}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{8B13797B-52A5-464D-81C6-15AE34D73D82}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{3DA0844C-ED9C-4481-8B1E-23D8F5523CE6}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{8B7AD38B-D40F-487C-81E7-B35BA128B4CB}">
