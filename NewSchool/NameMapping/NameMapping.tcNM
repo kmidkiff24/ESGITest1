@@ -766,6 +766,57 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="panelHierarchyBox2" Key="{592CB42E-2250-436B-9F25-4A726D7436A7}" ParallelWalk="True">
+												<Image FileName="2017863277" Left="489" Top="253" Right="723" Bottom="451" />
+												<TypeInfo Item0="{51C3666D-0938-4D7B-BFBC-EC742DF8D473}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelHierarchyBody" Key="{E4C59580-203C-4278-893C-E13E2F3057C3}" ParallelWalk="True">
+														<Image FileName="2017863277" Left="489" Top="292" Right="723" Bottom="440" />
+														<TypeInfo Item0="{51C3666D-0938-4D7B-BFBC-EC742DF8D473}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelHierarchybox" Key="{2A874ED7-336B-4D79-A909-E8ED09D9788F}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="2017863277" Left="502" Top="350" Right="698" Bottom="369" />
+																<TypeInfo Item0="{51C3666D-0938-4D7B-BFBC-EC742DF8D473}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="textnodeTest75" Key="{C4BE39C6-75A3-455B-98FF-13B4DC3D0B76}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="2017863277" Left="518" Top="355" Right="565" Bottom="368" />
+																		<TypeInfo Item0="{94B3C8EF-7429-44E0-9E37-9B98981AF70C}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="TextNode" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="SchoolDetails" Key="{0A302F79-9142-4BDF-B86D-96F9AEDB6E63}" ExtendedFind="True" ParallelWalk="True">
@@ -1036,6 +1087,13 @@
 						<Child Name="panelHierarchyBody" Owner="{8D931C8C-E2D5-4F05-9DFC-89A3EBB4BF05}">
 							<Child Name="panelHierarchybox" Owner="{2D25B0B3-2363-4677-9ADD-275684AA7381}">
 								<Child Name="textnodeTest75" Owner="{828D0518-0CD4-4821-B231-C80535D38467}" />
+							</Child>
+						</Child>
+					</Child>
+					<Child Name="panelHierarchyBox2" Owner="{592CB42E-2250-436B-9F25-4A726D7436A7}">
+						<Child Name="panelHierarchyBody" Owner="{E4C59580-203C-4278-893C-E13E2F3057C3}">
+							<Child Name="panelHierarchybox" Owner="{2A874ED7-336B-4D79-A909-E8ED09D9788F}">
+								<Child Name="textnodeTest75" Owner="{C4BE39C6-75A3-455B-98FF-13B4DC3D0B76}" />
 							</Child>
 						</Child>
 					</Child>

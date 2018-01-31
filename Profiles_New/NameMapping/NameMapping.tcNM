@@ -429,6 +429,66 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="formRow" Key="{C2520A76-196A-4C46-A557-8F19F460DE0E}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1073942203" Left="1023" Top="106" Right="1645" Bottom="134" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Form" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelColMd5" Key="{1CAD56E8-7CC6-429F-97C5-A00EFCF30944}" ParallelWalk="True">
+														<Image FileName="1073942203" Left="1023" Top="106" Right="1282" Bottom="134" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="0" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="textboxUsername" Key="{D4D3FFE1-E79E-4A7A-A28A-77E82DB98959}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1073942203" Left="1122" Top="106" Right="1260" Bottom="131" />
+																<TypeInfo Item0="{E4343C0F-EF96-4507-AC0C-CCC28A687901}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="user-name" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+													<Child Name="panelColMd52" Key="{FB112300-49AA-4248-9B3D-2AAF17B126FD}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1155735978" Left="1282" Top="106" Right="1541" Bottom="134" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="passwordboxPassword" Key="{9DBCC025-98D8-4CF6-84FB-E1BA38332401}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1155735978" Left="1381" Top="106" Right="1518" Bottom="131" />
+																<TypeInfo Item0="{10006718-27CE-4B24-9A13-06F1F1704277}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="PasswordBox" Type="5" />
+																	</Property>
+																	<Property Name="idStr">
+																		<Value PropertyType="0" Value="password" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
 										</Children>
 									</Child>
 									<Child Name="formFormHorizontal" Key="{FE7C1F45-4557-4214-BD8A-D125BE8C56DB}" ExtendedFind="True" ParallelWalk="True">
@@ -692,6 +752,121 @@
 									</Property>
 								</Properties>
 							</Child>
+							<Child Name="pageClassManagementTool2" Key="{4F67B5C8-A4BD-48D2-87A1-8D24717985E1}" ParallelWalk="True">
+								<Image FileName="859526086" Left="9" Top="85" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://cmttest1.classmt.com/" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelHome" Key="{2262A16F-72CA-474B-ABFC-CA4877B3D7CD}" ParallelWalk="True">
+										<Image FileName="832098274" Left="9" Top="168" Right="1911" Bottom="1021" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="1" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelClearfixHeader" Key="{60B3C084-5530-4C71-94A0-B080996333CB}" ParallelWalk="True">
+												<Image FileName="832098274" Left="24" Top="168" Right="1896" Bottom="239" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelNavigation" Key="{80C4B60A-97E0-4F55-A1E6-507365514A1E}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="832098274" Left="1343" Top="178" Right="1896" Bottom="237" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="2" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelEsgi" Key="{B6CD22EB-5315-4D17-B32D-095316A8AAFB}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="832098274" Left="1758" Top="174" Right="1843" Bottom="232" />
+																<TypeInfo Item0="{10006718-27CE-4B24-9A13-06F1F1704277}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageEsgiRegistration2" Key="{24C22588-93BF-4EC8-93DB-45F8C1E9BFA4}" ParallelWalk="True">
+								<Image FileName="-1150765999" Left="9" Top="85" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="http://test1.esgisoftware.com/ESGI/Public/Renewal.aspx" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="tableStep1" Key="{7560F808-1079-4B4D-AC60-52969D3B8B1F}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="228084417" Left="429" Top="369" Right="1491" Bottom="730" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Table" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="step1" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="cellTitle" Key="{0A8F3483-6EEA-4436-9E2C-CFCE570FFBBC}" ParallelWalk="True">
+												<Image FileName="228084417" Left="431" Top="371" Right="1490" Bottom="440" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Cell" Type="5" />
+													</Property>
+													<Property Name="RowIndex">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+													<Property Name="ColumnIndex">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="textnodeEsgiAccountRenewal" Key="{E9A3B3E7-6611-4136-8D79-E96D1705893F}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="228084417" Left="864" Top="389" Right="1071" Bottom="410" />
+														<TypeInfo Item0="{10006718-27CE-4B24-9A13-06F1F1704277}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="TextNode" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -755,6 +930,14 @@
 			<Child Name="pageClassManagementTool" Owner="{4AA3E2B6-7B0F-4B13-A6C8-BFC9A70916F4}">
 				<Child Name="header" Owner="{61C069EE-B450-4641-8060-93A650865164}">
 					<Child Name="textnodeLostPassword" Owner="{9ACBDFA4-C546-4ED5-9A93-62A3E68C3239}" />
+					<Child Name="formRow" Owner="{C2520A76-196A-4C46-A557-8F19F460DE0E}">
+						<Child Name="panelColMd5" Owner="{1CAD56E8-7CC6-429F-97C5-A00EFCF30944}">
+							<Child Name="textboxUsername" Owner="{D4D3FFE1-E79E-4A7A-A28A-77E82DB98959}" />
+						</Child>
+						<Child Name="panelColMd52" Owner="{FB112300-49AA-4248-9B3D-2AAF17B126FD}">
+							<Child Name="passwordboxPassword" Owner="{9DBCC025-98D8-4CF6-84FB-E1BA38332401}" />
+						</Child>
+					</Child>
 				</Child>
 				<Child Name="formFormHorizontal" Owner="{FE7C1F45-4557-4214-BD8A-D125BE8C56DB}">
 					<Child Name="fieldset" Owner="{444CEC5B-FAD8-483F-AE49-E816C7375243}">
@@ -788,6 +971,22 @@
 				<Child Name="selectNumberofmonthes" Owner="{908C0FFC-490E-43F7-9CFF-01E3566E6AD7}" />
 			</Child>
 			<Child Name="BrowserWindow2" Owner="{ECBDA1A3-5B13-4F86-BB6B-E0E7AE9100B9}" />
+			<Child Name="pageClassManagementTool2" Owner="{4F67B5C8-A4BD-48D2-87A1-8D24717985E1}">
+				<Child Name="panelHome" Owner="{2262A16F-72CA-474B-ABFC-CA4877B3D7CD}">
+					<Child Name="panelClearfixHeader" Owner="{60B3C084-5530-4C71-94A0-B080996333CB}">
+						<Child Name="panelNavigation" Owner="{80C4B60A-97E0-4F55-A1E6-507365514A1E}">
+							<Child Name="panelEsgi" Owner="{B6CD22EB-5315-4D17-B32D-095316A8AAFB}" />
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="pageEsgiRegistration2" Owner="{24C22588-93BF-4EC8-93DB-45F8C1E9BFA4}">
+				<Child Name="tableStep1" Owner="{7560F808-1079-4B4D-AC60-52969D3B8B1F}">
+					<Child Name="cellTitle" Owner="{0A8F3483-6EEA-4436-9E2C-CFCE570FFBBC}">
+						<Child Name="textnodeEsgiAccountRenewal" Owner="{E9A3B3E7-6611-4136-8D79-E96D1705893F}" />
+					</Child>
+				</Child>
+			</Child>
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">
