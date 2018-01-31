@@ -19,8 +19,8 @@
 		<child name="Pie Charts_Test1" key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Pie Charts\Pie Charts_Test1.mds" />
 		</child>
-		<child name="Grade_Scales_Configuration_Test1_NM" key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Grade_Scales_Configuration_Test1_NM\Grade_Scales_Configuration_Test1_NM.mds" />
+		<child name="Grade_Scales_Configuration_Test1_JG" key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Grade_Scales_Configuration_Test1_NM\Grade_Scales_Configuration_Test1_JG.mds" />
 		</child>
 		<child name="Logins_Test1_New" key="{8CCD6F68-8C7B-4824-A072-45890990B095}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Logins_Test1_Copy\Logins_Test1_New.mds" />
@@ -34,8 +34,8 @@
 		<child name="Students_New" key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Students_New\Students_New.mds" />
 		</child>
-		<child name="Grade_Reports_Test1_NM" key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Grade_Reports_Test1_NM\Grade_Reports_Test1_NM.mds" />
+		<child name="Grade_Reports_Test1_JG" key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Grade_Reports_Test1_NM\Grade_Reports_Test1_JG.mds" />
 		</child>
 		<child name="ActivationCodes_New" key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ActivationCodes\ActivationCodes_New.mds" />
@@ -46,8 +46,8 @@
 		<child name="CMTLogin-New" key="{78B57015-837E-48B1-9BA9-0BFE7EFFC36F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="CMTLogin-New\CMTLogin-New.mds" />
 		</child>
-		<child name="Grade_Scales_Edit_Test1_NM" key="{3240BDBE-518C-41CA-8271-651278862948}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Grade_Scales_Edit_Test1_NM\Grade_Scales_Edit_Test1_NM.mds" />
+		<child name="Grade_Scales_Edit_Test1_ToBeDeleted" key="{3240BDBE-518C-41CA-8271-651278862948}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Grade_Scales_Edit_Test1_NM\Grade_Scales_Edit_Test1_ToBeDeleted.mds" />
 		</child>
 		<child name="Groups_New" key="{1D683F34-3CCD-4C07-AAB2-0FD2340441A1}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Groups_New\Groups_New.mds" />
@@ -64,57 +64,57 @@
 		<child name="Grade_Scales_Edit_Test1_JG" key="{8B13797B-52A5-464D-81C6-15AE34D73D82}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Grade_Scales_Edit_Test1_JG\Grade_Scales_Edit_Test1_JG.mds" />
 		</child>
-		<child name="Profiles_New" key="{B82D0BAB-7C10-4A17-B861-E5A2DC62C263}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Profiles_New\Profiles_New.mds" />
+		<child name="Admin_New" key="{60CA8466-ABF5-48BF-9E8E-0D2553DD3452}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Admin_New\Admin_New.mds" />
 		</child>
-		<child name="Classes_New" key="{CA22C372-56E8-412B-9110-B9C54629C59F}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+		<child name="Classes_New" key="{F1FA2D5E-A27F-41C4-8163-098B367B5F99}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Classes_New\Classes_New.mds" />
 		</child>
-		<child name="SA_New" key="{BDC94939-1CEF-495E-B566-3100E34873CF}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+		<child name="Profiles_New" key="{BBC07A6D-B94C-4440-B733-719BDC797EE3}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Profiles_New\Profiles_New.mds" />
+		</child>
+		<child name="SA_New" key="{33F739D8-793C-4191-A11E-01806BEB239C}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="SA_New\SA_New.mds" />
 		</child>
-		<child name="SA_Profiles_New" key="{1EE9BA7F-B148-4BE1-BB49-CB766AC20D88}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+		<child name="SA_Profiles_New" key="{E9B24684-7E14-4A58-B8C7-E1D601389AA4}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="SA_Profiles_New\SA_Profiles_New.mds" />
-		</child>
-		<child name="Admin_New" key="{29FF5AED-98C0-4EE0-B817-12C1B8B25254}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Admin_New\Admin_New.mds" />
 		</child>
 	</children>
 	<folders />
-	<testItems key="{60288EEA-C062-467A-8853-8E2C388B5007}">
+	<testItems key="{3E224CF5-E5FF-4BA9-9897-97DD9E7F2CEF}">
 		<children>
-			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{8CCD6F68-8C7B-4824-A072-45890990B095}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{C2E20841-B67F-4E02-829E-21199F4794EE}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{7A218640-550D-422A-BD05-333CC9661E50}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{E3650261-D870-4001-9BE6-9A2DB899F3AE}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{78B57015-837E-48B1-9BA9-0BFE7EFFC36F}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{3240BDBE-518C-41CA-8271-651278862948}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{1D683F34-3CCD-4C07-AAB2-0FD2340441A1}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{FEDDB1FE-5FF9-4142-ADA2-E08E0C152376}" enabled="True" timeout="0" stopOnError="False" description="" />
-			<testItem key="{884B65EC-94B5-4DBA-8AEE-4BA39A021DDD}" enabled="True" timeout="0" stopOnError="False" description="" />
+			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{F4504570-9B80-43B7-BB53-FFC9F0A551B7}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{645BD729-81CF-440A-958F-25F03B8CB3AC}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{8CCD6F68-8C7B-4824-A072-45890990B095}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{C2E20841-B67F-4E02-829E-21199F4794EE}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{7A218640-550D-422A-BD05-333CC9661E50}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{48E58200-5F5C-41BD-81D9-9BED404DF6C5}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{9667FDF1-26E5-44BA-B15A-B3D4181FA973}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{22D765A8-E0B0-4082-B3D1-B55FCD7B9D02}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{E3650261-D870-4001-9BE6-9A2DB899F3AE}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{78B57015-837E-48B1-9BA9-0BFE7EFFC36F}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{3240BDBE-518C-41CA-8271-651278862948}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{1D683F34-3CCD-4C07-AAB2-0FD2340441A1}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{FEDDB1FE-5FF9-4142-ADA2-E08E0C152376}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{884B65EC-94B5-4DBA-8AEE-4BA39A021DDD}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{2A33F95E-BFF0-4DD7-ACD4-71A3A13928BC}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{8B13797B-52A5-464D-81C6-15AE34D73D82}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{B82D0BAB-7C10-4A17-B861-E5A2DC62C263}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{CA22C372-56E8-412B-9110-B9C54629C59F}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{BDC94939-1CEF-495E-B566-3100E34873CF}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{1EE9BA7F-B148-4BE1-BB49-CB766AC20D88}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{29FF5AED-98C0-4EE0-B817-12C1B8B25254}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{60CA8466-ABF5-48BF-9E8E-0D2553DD3452}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{F1FA2D5E-A27F-41C4-8163-098B367B5F99}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{BBC07A6D-B94C-4440-B733-719BDC797EE3}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{33F739D8-793C-4191-A11E-01806BEB239C}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{E9B24684-7E14-4A58-B8C7-E1D601389AA4}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
-	<variables key="{8B7AD38B-D40F-487C-81E7-B35BA128B4CB}">
+	<variables key="{631DF7B9-961A-4353-8591-5F0B246C6DB6}">
 		<data Version="3" />
 	</variables>
-	<analysis key="{EFA9BEDE-A967-4785-ACED-9E6F46F7EA1D}" />
+	<analysis key="{E1D5BED6-6E84-40B7-BB4C-1CE074978B73}" />
 	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
 		<data />
 	</scc>
