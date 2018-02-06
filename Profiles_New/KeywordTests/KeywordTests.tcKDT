@@ -16,6 +16,9 @@
 		<child name="PR_RegisterNumberofMonths_New" key="{080A2B83-47E3-47BE-AE42-28C10EF36BDB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="PR_RegisterNumberofMonths_New.tcKDTest" />
 		</child>
+		<child name="PR_ExpESGIfromCMT" key="{E51F5D8C-DB01-4CA9-8744-EC6E23E0FDA7}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_ExpESGIfromCMT.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

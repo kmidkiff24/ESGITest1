@@ -10,6 +10,9 @@
 		<child name="RE_PieChartReport" key="{2739FB78-220C-4524-9322-A96B9CED7112}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="RE_PieChartReport.tcKDTest" />
 		</child>
+		<child name="RE_ShowforWholeGroup" key="{5978B5DA-3AEF-4B3F-B5D3-363028D3CEFF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RE_ShowforWholeGroup.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
