@@ -79,6 +79,9 @@
 		<child name="SA_Profiles_New" key="{E9B24684-7E14-4A58-B8C7-E1D601389AA4}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="SA_Profiles_New\SA_Profiles_New.mds" />
 		</child>
+		<child name="SupportPages_New" key="{F0656DBC-3F2E-46C8-8E8E-6B02A08F44B4}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="SupportPages_New\SupportPages_New.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{3E224CF5-E5FF-4BA9-9897-97DD9E7F2CEF}">
@@ -109,6 +112,7 @@
 			<testItem key="{BBC07A6D-B94C-4440-B733-719BDC797EE3}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{33F739D8-793C-4191-A11E-01806BEB239C}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{E9B24684-7E14-4A58-B8C7-E1D601389AA4}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{F0656DBC-3F2E-46C8-8E8E-6B02A08F44B4}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{631DF7B9-961A-4353-8591-5F0B246C6DB6}">
