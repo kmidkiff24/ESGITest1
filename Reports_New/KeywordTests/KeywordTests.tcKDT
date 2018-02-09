@@ -19,6 +19,12 @@
 		<child name="RE_ItemAnalysisReport" key="{2492875A-8800-4BA5-B25D-EABD85CA9A3B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="RE_ItemAnalysisReport.tcKDTest" />
 		</child>
+		<child name="RE_ParentLetter" key="{189D09AE-E5D0-45B7-9878-023FC3B96389}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RE_ParentLetter.tcKDTest" />
+		</child>
+		<child name="RE_UntestedStudents" key="{02FF8D69-D271-4F5F-B5FB-9FF7D145E834}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RE_UntestedStudents.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
