@@ -133,7 +133,7 @@
 						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgiRegistration.textboxRenewalprice" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Text" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="$398.00" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="$398" />
 						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
 					</Parameters>
 				</Data>
@@ -171,7 +171,7 @@
 						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgiRegistration.textboxRenewalprice" />
 						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Text" />
 						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
-						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="$497.50" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="$497.5" />
 						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
 					</Parameters>
 				</Data>
