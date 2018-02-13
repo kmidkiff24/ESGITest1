@@ -411,6 +411,18 @@
 											</Property>
 										</Properties>
 									</Child>
+									<Child Name="panel318000" Key="{D73DAF93-79D1-4AD9-9698-94548EC2270C}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="5967726" Left="1431" Top="762" Right="1511" Bottom="786" />
+										<TypeInfo Item0="{2E555D6E-E841-46B8-A91A-10EFD6C40EBE}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="47" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageEsgiOneOnOneAssessmentsMadeE2" Key="{4201C1D1-134B-4887-B2FA-45EBE3B54F83}" ParallelWalk="True">
@@ -608,6 +620,7 @@
 			</Child>
 			<Child Name="page90044820180212Pdf" Owner="{DB766D85-AC01-4220-B82A-ABE0476448E8}">
 				<Child Name="panel220800" Owner="{90C1F17F-BA32-4D1D-A5FB-2F3326746EC6}" />
+				<Child Name="panel318000" Owner="{D73DAF93-79D1-4AD9-9698-94548EC2270C}" />
 			</Child>
 			<Child Name="pageEsgiOneOnOneAssessmentsMadeE2" Owner="{4201C1D1-134B-4887-B2FA-45EBE3B54F83}">
 				<Child Name="panelMain" Owner="{4EE7CBD1-001E-4D0F-83D6-0424DD21B322}">
