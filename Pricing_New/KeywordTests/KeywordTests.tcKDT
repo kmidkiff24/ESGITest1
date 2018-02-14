@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="PG_AutoQuote_NoPromo" key="{0B719188-1583-445A-8923-93FCFB7C08A6}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PG_AutoQuote_NoPromo.tcKDTest" />
+		</child>
+		<child name="PG_AutoQuote_WithPromo" key="{A5FCD894-2DA0-4A45-93C8-163739F52E5C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PG_AutoQuote_WithPromo.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>
