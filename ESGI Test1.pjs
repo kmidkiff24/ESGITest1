@@ -88,6 +88,9 @@
 		<child name="Pricing_New" key="{C6D230B0-9434-47C4-9BF3-68AF1F98CC9D}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Pricing_New\Pricing_New.mds" />
 		</child>
+		<child name="ChromeTesting" key="{15515AC6-26E8-459B-8CC2-1EAB985BCACD}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="ChromeTesting\ChromeTesting.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{3E224CF5-E5FF-4BA9-9897-97DD9E7F2CEF}">
@@ -121,6 +124,7 @@
 			<testItem key="{F0656DBC-3F2E-46C8-8E8E-6B02A08F44B4}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{AFB8E4BA-C1E8-4810-B976-5A982DD64406}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{C6D230B0-9434-47C4-9BF3-68AF1F98CC9D}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{15515AC6-26E8-459B-8CC2-1EAB985BCACD}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{631DF7B9-961A-4353-8591-5F0B246C6DB6}">
