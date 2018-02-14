@@ -85,8 +85,8 @@
 		<child name="Pricing_New" key="{C6D230B0-9434-47C4-9BF3-68AF1F98CC9D}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Pricing_New\Pricing_New.mds" />
 		</child>
-		<child name="NewReg_TrackDates" key="{F6C0EBBD-00D9-4F8E-A567-C48AAF46128B}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="NewReg_TrackDates\NewReg_TrackDates.mds" />
+		<child name="NewReg_TrackDates_JG" key="{F6C0EBBD-00D9-4F8E-A567-C48AAF46128B}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="NewReg_TrackDates\NewReg_TrackDates_JG.mds" />
 		</child>
 	</children>
 	<folders />
