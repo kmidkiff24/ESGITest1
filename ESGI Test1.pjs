@@ -85,12 +85,12 @@
 		<child name="Pricing_New" key="{C6D230B0-9434-47C4-9BF3-68AF1F98CC9D}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Pricing_New\Pricing_New.mds" />
 		</child>
-		<child name="NewReg_TrackDates_JG" key="{F6C0EBBD-00D9-4F8E-A567-C48AAF46128B}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+		<child name="NewReg_TrackDates_JG" key="{D9A1CB8D-5AE0-44E4-A0DF-E4911676BBA9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="NewReg_TrackDates\NewReg_TrackDates_JG.mds" />
 		</child>
 	</children>
 	<folders />
-	<testItems key="{3E224CF5-E5FF-4BA9-9897-97DD9E7F2CEF}">
+	<testItems key="{EF41C1AD-33FB-4E88-AAB9-E1F9287E1D76}">
 		<children>
 			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="True" timeout="0" stopOnError="True" description="" />
@@ -120,13 +120,13 @@
 			<testItem key="{F0656DBC-3F2E-46C8-8E8E-6B02A08F44B4}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{AFB8E4BA-C1E8-4810-B976-5A982DD64406}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{C6D230B0-9434-47C4-9BF3-68AF1F98CC9D}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{F6C0EBBD-00D9-4F8E-A567-C48AAF46128B}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{D9A1CB8D-5AE0-44E4-A0DF-E4911676BBA9}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
-	<variables key="{631DF7B9-961A-4353-8591-5F0B246C6DB6}">
+	<variables key="{100135EA-D157-42BD-BCA5-BA33DC4D5BC4}">
 		<data Version="3" />
 	</variables>
-	<analysis key="{E1D5BED6-6E84-40B7-BB4C-1CE074978B73}" />
+	<analysis key="{FD47B87F-C8DE-443D-A24F-3E0F5EFA7BBB}" />
 	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
 		<data />
 	</scc>
