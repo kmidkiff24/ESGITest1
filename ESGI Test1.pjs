@@ -88,6 +88,9 @@
 		<child name="NewReg_TrackDates_JG" key="{D9A1CB8D-5AE0-44E4-A0DF-E4911676BBA9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="NewReg_TrackDates\NewReg_TrackDates_JG.mds" />
 		</child>
+		<child name="RefreshCheck" key="{C325810B-D392-4457-A0DC-2912110AD2E1}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="RefreshCheck\RefreshCheck.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{EF41C1AD-33FB-4E88-AAB9-E1F9287E1D76}">
@@ -121,6 +124,7 @@
 			<testItem key="{AFB8E4BA-C1E8-4810-B976-5A982DD64406}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{C6D230B0-9434-47C4-9BF3-68AF1F98CC9D}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{D9A1CB8D-5AE0-44E4-A0DF-E4911676BBA9}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{C325810B-D392-4457-A0DC-2912110AD2E1}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{100135EA-D157-42BD-BCA5-BA33DC4D5BC4}">
