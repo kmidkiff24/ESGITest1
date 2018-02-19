@@ -4,6 +4,9 @@
 		<child name="CMT_CMTLogin" key="{14A23078-97A9-450F-A919-6A5F33BBE3C7}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CMT_CMTLogin.tcKDTest" />
 		</child>
+		<child name="CMT_ImageCheck" key="{77088BB3-825D-449C-ABE2-DCB1EED2ECAE}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CMT_ImageCheck.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
