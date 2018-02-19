@@ -470,6 +470,62 @@
 											</Child>
 										</Children>
 									</Child>
+									<Child Name="linkDropdownToggle2" Key="{F5B876CA-0713-438E-82D8-5320159ED0C0}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-549327563" Left="9" Top="482" Right="246" Bottom="531" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="contentText">
+												<Value PropertyType="0" Value="Admin Toolbox" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textnodeAdminToolbox" Key="{FD1B17DB-45E4-414C-8B90-872B042A5A82}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-549327563" Left="58" Top="494" Right="172" Bottom="517" />
+												<TypeInfo Item0="{0ECBC747-9158-4EAA-AC5D-5D07C27A47C4}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="TextNode" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="linkPasswords" Key="{2F0FFBFA-AF17-499F-8E13-CC01BEA9A9AB}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="159651774" Left="9" Top="532" Right="246" Bottom="576" />
+										<TypeInfo Item0="{0ECBC747-9158-4EAA-AC5D-5D07C27A47C4}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="href">
+												<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/Admin/Passwords" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="linkAdddistrictAspx" Key="{5EEFFB5A-8E9F-4B8F-A3F8-9CE4F1486F8C}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="438484621" Left="9" Top="646" Right="246" Bottom="691" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Link" Type="5" />
+											</Property>
+											<Property Name="href">
+												<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/Admin/AddDistrict.aspx" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="textnodeAddDistrictSchool" Key="{61544D3D-C020-49F8-9D57-36523B309CF8}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="438484621" Left="55" Top="656" Right="200" Bottom="679" />
+												<TypeInfo Item0="{0ECBC747-9158-4EAA-AC5D-5D07C27A47C4}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="TextNode" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="pageEsgiOrderLogs" Key="{EF392198-D43F-46CD-B2AB-9CA6D406E27C}" ParallelWalk="True">
@@ -692,6 +748,81 @@
 									</Child>
 								</Children>
 							</Child>
+							<Child Name="pageRestoreSession" Key="{F711EA39-BB36-4F14-A7C1-6FAA894F9CFD}" ParallelWalk="True">
+								<Image FileName="-158490416" Left="7" Top="93" Right="1913" Bottom="1023" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="about:sessionrestore" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelButtonContainer" Key="{6C767E0D-2F1B-40C9-8490-B29C7ACD57D7}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-1357642207" Left="473" Top="634" Right="1448" Bottom="681" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="2" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="buttonErrortryagain" Key="{D4DA2E67-A64C-4B86-A542-CAF0D0B01D35}" ParallelWalk="True">
+												<Image FileName="-1357642207" Left="0" Top="0" Right="0" Bottom="0" />
+												<TypeInfo Item0="{0ECBC747-9158-4EAA-AC5D-5D07C27A47C4}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="button" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="errorTryAgain" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageEsgi2" Key="{9E5BA3A7-0562-4C98-BD84-8AE26D504975}" ParallelWalk="True">
+								<Image FileName="1274332286" Left="9" Top="84" Right="1911" Bottom="1021" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="https://test1.esgisoftware.com/ESGI/Public/Admin/AddDistrict.aspx" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelAdddistrictcontainer" Key="{C2D78DC6-D072-4D58-90C2-17AAF4D8CFC0}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1524930135" Left="257" Top="359" Right="1880" Bottom="1203" />
+										<TypeInfo Item0="{0ECBC747-9158-4EAA-AC5D-5D07C27A47C4}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="addDistrictContainer" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="navbarAddDistrictSchool" Key="{C5355A5A-8116-47B7-88D8-E958F1DFE7EB}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1524930135" Left="9" Top="84" Right="1890" Bottom="140" />
+										<TypeInfo Item0="{DB39834C-6EEC-4EBA-A1DE-814E06F0112D}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="navbar" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -760,6 +891,13 @@
 				<Child Name="linkOrderlogsAspx" Owner="{11968D03-7055-4B2C-B3A1-6049404A6E8D}">
 					<Child Name="textnodeManageOrderLogs" Owner="{53C034D3-9BB7-4D8A-AC32-FE5BA63238BB}" />
 				</Child>
+				<Child Name="linkDropdownToggle2" Owner="{F5B876CA-0713-438E-82D8-5320159ED0C0}">
+					<Child Name="textnodeAdminToolbox" Owner="{FD1B17DB-45E4-414C-8B90-872B042A5A82}" />
+				</Child>
+				<Child Name="linkPasswords" Owner="{2F0FFBFA-AF17-499F-8E13-CC01BEA9A9AB}" />
+				<Child Name="linkAdddistrictAspx" Owner="{5EEFFB5A-8E9F-4B8F-A3F8-9CE4F1486F8C}">
+					<Child Name="textnodeAddDistrictSchool" Owner="{61544D3D-C020-49F8-9D57-36523B309CF8}" />
+				</Child>
 			</Child>
 			<Child Name="pageEsgiOrderLogs" Owner="{EF392198-D43F-46CD-B2AB-9CA6D406E27C}">
 				<Child Name="panelContainer" Owner="{042DD873-6D64-4758-8FBC-61BF1FC0E376}">
@@ -791,6 +929,15 @@
 						</Child>
 					</Child>
 				</Child>
+			</Child>
+			<Child Name="pageRestoreSession" Owner="{F711EA39-BB36-4F14-A7C1-6FAA894F9CFD}">
+				<Child Name="panelButtonContainer" Owner="{6C767E0D-2F1B-40C9-8490-B29C7ACD57D7}">
+					<Child Name="buttonErrortryagain" Owner="{D4DA2E67-A64C-4B86-A542-CAF0D0B01D35}" />
+				</Child>
+			</Child>
+			<Child Name="pageEsgi2" Owner="{9E5BA3A7-0562-4C98-BD84-8AE26D504975}">
+				<Child Name="panelAdddistrictcontainer" Owner="{C2D78DC6-D072-4D58-90C2-17AAF4D8CFC0}" />
+				<Child Name="navbarAddDistrictSchool" Owner="{C5355A5A-8116-47B7-88D8-E958F1DFE7EB}" />
 			</Child>
 		</Child>
 	</LogicalNodes>
@@ -1607,6 +1754,91 @@
 					</Child>
 					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4S6U3ZN">
 						<ReturnValue Param0="3" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="-1385755471" Key="{DB39834C-6EEC-4EBA-A1DE-814E06F0112D}">
+			<Data Properties="AF74FC9AF6B56240AA405A29AA7D9679UFFFFFFFFFFFFFFFFV4LDZZY">
+				<FunctionDescriptions>
+					<Child Name="ClickItem" Doc="Simulates a click on Item specified by index from 0 or by name, with shift keys in the state specified by Shift." IsBasic="True" Param0="Item" Param1="Shift" Data="ZI4L1L4L2Z018ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param1>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="wButtonCount" Doc="Returns the total number of buttons in the toolbar control." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="wButtonText" Doc="Returns the name of the button specified by Item, which is the button position, from 0." IsBasic="True" Param0="Item" Data="ZI4L2L4L1ZG8ZN">
+						<Param0>
+							<TypeDesc Param0="12" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="ObjectLabel" Doc="Gets the label of the control." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
 					</Child>
 				</FunctionDescriptions>
 			</Data>
