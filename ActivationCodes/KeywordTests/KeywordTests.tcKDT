@@ -7,8 +7,11 @@
 		<child name="AC_TrialUserApplyFirstYearAC" key="{D33905AC-3995-488E-81FD-30374935CE13}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AC_TrialUserApplyFirstYearAC.tcKDTest" />
 		</child>
-		<child name="AC_ExistingUserApplyAC" key="{529DA467-87C7-4FAA-8515-B895A37CD149}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
-			<data path="AC_ExistingUserApplyAC.tcKDTest" />
+		<child name="AC_ExistingUserApplyFirstYearAC" key="{529DA467-87C7-4FAA-8515-B895A37CD149}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AC_ExistingUserApplyFirstYearAC.tcKDTest" />
+		</child>
+		<child name="AC_ExpiredUserApplyAC" key="{3B7C3EE7-E3BC-4A68-ADC2-25EBA7ABA9E6}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AC_ExpiredUserApplyAC.tcKDTest" />
 		</child>
 	</children>
 	<folders />
