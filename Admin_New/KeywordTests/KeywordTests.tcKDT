@@ -10,6 +10,12 @@
 		<child name="AD_AddDistrictPageAvailable" key="{D796D7D2-0702-44AA-9848-92F331F5BB7B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AD_AddDistrictPageAvailable.tcKDTest" />
 		</child>
+		<child name="AD_ChangeExpDateAvailable" key="{133E5ABF-3DEB-4392-8B60-6B879C780546}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AD_ChangeExpDateAvailable.tcKDTest" />
+		</child>
+		<child name="AD_MergeStudentsPageAvailable" key="{40D92DE5-9FD7-472C-AD1C-A19AFAD0DB79}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AD_MergeStudentsPageAvailable.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
