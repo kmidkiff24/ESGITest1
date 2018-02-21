@@ -4,6 +4,9 @@
 		<child name="SA_ChangeExpDate_New" key="{7DEC2AA6-9592-42F1-B702-EB5B106AA702}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="SA_ChangeExpDate_New.tcKDTest" />
 		</child>
+		<child name="SA_ChangeMaxStds" key="{2A097AA0-5F6C-4CC1-BB57-9AF357875042}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SA_ChangeMaxStds.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

@@ -305,6 +305,101 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="panelHierarchyBox" Key="{20953CB1-3358-4506-AC85-39EF2D3824A8}" ParallelWalk="True">
+												<Image FileName="-1800186361" Left="487" Top="256" Right="725" Bottom="401" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelHierarchyBody" Key="{89010FE2-0701-48BE-B6EA-E5CCE6DC9AB0}" ParallelWalk="True">
+														<Image FileName="-1800186361" Left="487" Top="295" Right="725" Bottom="390" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="panelHierarchybox" Key="{36E69072-05BD-415D-821E-68EB3D74710A}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-1800186361" Left="500" Top="354" Right="700" Bottom="376" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="2" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="textnodePm" Key="{221F7C7A-EC8A-4730-A2BC-F9A66809B702}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-1800186361" Left="516" Top="358" Right="534" Bottom="375" />
+																		<TypeInfo Item0="{75EAC337-D790-4DB7-B6E4-9B89CED6489A}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="TextNode" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="panelLpcenter" Key="{4E3D87BF-C9E7-4B89-A7C1-186A8E8DCE52}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="210270587" Left="750" Top="182" Right="1425" Bottom="991" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="lpCenter" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="panelGeneratebut" Key="{4D6639D9-A277-46DC-BEAD-9D12DE04A15F}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1557932926" Left="1247" Top="593" Right="1392" Bottom="661" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="generateBut" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="vgIcon" Key="{6FC10E97-D320-4176-9E2D-55CADFA2A42C}" ParallelWalk="True">
+														<Image FileName="-1557932926" Left="1253" Top="599" Right="1386" Bottom="652" />
+														<TypeInfo Item0="{75EAC337-D790-4DB7-B6E4-9B89CED6489A}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="SVG" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="buttonShowForWholeGroup" Key="{06FC8127-4A05-44E4-A326-EA05464956F0}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="723983479" Left="1253" Top="878" Right="1385" Bottom="938" />
+												<TypeInfo Item0="{EF708DEE-7DB0-4025-B217-08691BE6949F}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Button" Type="5" />
+													</Property>
+													<Property Name="ObjectLabel">
+														<Value PropertyType="0" Value="Show for whole group" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -330,6 +425,18 @@
 									</Property>
 									<Property Name="ObjectIdentifier">
 										<Value PropertyType="0" Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageMozillaFirefox" Key="{9ECF9919-CA99-4064-9632-6D5DDE6DBE84}" ParallelWalk="True">
+								<Image FileName="-169712315" Left="9" Top="38" Right="1911" Bottom="1020" />
+								<TypeInfo Item0="{864A2479-FA94-4D37-B344-5790071919EC}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="chrome://browser/content/browser.xul" Type="5" />
 									</Property>
 								</Properties>
 							</Child>
@@ -377,10 +484,24 @@
 							<Child Name="linkEdit" Owner="{F0A85A0F-6E83-4579-9CD2-5A9D0F2A39E3}" />
 						</Child>
 					</Child>
+					<Child Name="panelHierarchyBox" Owner="{20953CB1-3358-4506-AC85-39EF2D3824A8}">
+						<Child Name="panelHierarchyBody" Owner="{89010FE2-0701-48BE-B6EA-E5CCE6DC9AB0}">
+							<Child Name="panelHierarchybox" Owner="{36E69072-05BD-415D-821E-68EB3D74710A}">
+								<Child Name="textnodePm" Owner="{221F7C7A-EC8A-4730-A2BC-F9A66809B702}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="panelLpcenter" Owner="{4E3D87BF-C9E7-4B89-A7C1-186A8E8DCE52}">
+					<Child Name="panelGeneratebut" Owner="{4D6639D9-A277-46DC-BEAD-9D12DE04A15F}">
+						<Child Name="vgIcon" Owner="{6FC10E97-D320-4176-9E2D-55CADFA2A42C}" />
+					</Child>
+					<Child Name="buttonShowForWholeGroup" Owner="{06FC8127-4A05-44E4-A326-EA05464956F0}" />
 				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{0E13A6FB-0FE6-49C7-B253-36D04F7B96C8}" />
 			<Child Name="BrowserWindow2" Owner="{BA27D181-A17D-41D5-A3FB-9337456D9E80}" />
+			<Child Name="pageMozillaFirefox" Owner="{9ECF9919-CA99-4064-9632-6D5DDE6DBE84}" />
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">

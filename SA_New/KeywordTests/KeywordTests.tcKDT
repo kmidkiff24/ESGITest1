@@ -7,6 +7,9 @@
 		<child name="SA_CreateDistrict" key="{FF8E7F03-4D5C-4B6A-AC00-1FD50A638FAD}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="SA_CreateDistrict.tcKDTest" />
 		</child>
+		<child name="SA_CreateSchA" key="{F85136AD-7C20-48E7-B166-56A13ECF079D}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SA_CreateSchA.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

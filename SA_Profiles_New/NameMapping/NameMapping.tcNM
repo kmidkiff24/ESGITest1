@@ -278,6 +278,34 @@
 																	</Child>
 																</Children>
 															</Child>
+															<Child Name="cell2" Key="{24C94DAB-ABC6-4F4C-89F8-342B5DAFBB96}" ParallelWalk="True">
+																<Image FileName="1665103045" Left="513" Top="355" Right="1113" Bottom="1367" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Cell" Type="5" />
+																	</Property>
+																	<Property Name="RowIndex">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																	<Property Name="ColumnIndex">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="textboxAddeditteacherformStudent" Key="{D44097CB-E491-4ADA-90D0-2062E135121C}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1665103045" Left="670" Top="934" Right="770" Bottom="970" />
+																		<TypeInfo Item0="{347FC7A4-8344-43AB-B1DA-B76FD598F731}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Textbox" Type="5" />
+																			</Property>
+																			<Property Name="idStr">
+																				<Value PropertyType="0" Value="AddEditTeacherForm.StudentsMax" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
 														</Children>
 													</Child>
 												</Children>
@@ -309,6 +337,31 @@
 										<Value PropertyType="0" Value="chrome://browser/content/browser.xul" Type="5" />
 									</Property>
 								</Properties>
+							</Child>
+							<Child Name="pageAboutHome" Key="{E82C4F2B-4934-49EB-A9E0-6A742CCD885D}" ParallelWalk="True">
+								<Image FileName="-622597881" Left="7" Top="93" Right="1913" Bottom="1023" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="about:home" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelOuterWrapperFixedToTop" Key="{ECD5707D-7668-4778-9604-4E38D0572053}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-622597881" Left="7" Top="93" Right="1892" Bottom="1519" />
+										<TypeInfo Item0="{1BC68259-C753-42D4-9D6F-796CE25D8E1A}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="0" Type="0" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
 							</Child>
 						</Children>
 					</Child>
@@ -350,12 +403,18 @@
 							<Child Name="cell" Owner="{03D46964-D7E8-4FBC-909C-E14509BD11F5}">
 								<Child Name="textboxAddeditteacherformUserexp" Owner="{E7EA2ACA-ECA6-4C6C-9709-C78CAD94955B}" />
 							</Child>
+							<Child Name="cell2" Owner="{24C94DAB-ABC6-4F4C-89F8-342B5DAFBB96}">
+								<Child Name="textboxAddeditteacherformStudent" Owner="{D44097CB-E491-4ADA-90D0-2062E135121C}" />
+							</Child>
 						</Child>
 					</Child>
 					<Child Name="buttonProfile" Owner="{0369620E-8DAE-4210-9E8B-AACBEAE1D94B}" />
 				</Child>
 			</Child>
 			<Child Name="pageEsgiMozillaFirefox" Owner="{A6A88BEC-E1A5-4D9C-8FA4-76B2E4A5670C}" />
+			<Child Name="pageAboutHome" Owner="{E82C4F2B-4934-49EB-A9E0-6A742CCD885D}">
+				<Child Name="panelOuterWrapperFixedToTop" Owner="{ECD5707D-7668-4778-9604-4E38D0572053}" />
+			</Child>
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">

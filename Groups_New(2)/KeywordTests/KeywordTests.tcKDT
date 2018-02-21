@@ -4,6 +4,9 @@
 		<child name="GR_DeleteGroup_New" key="{9DA575B9-FAFB-4EB5-B966-8B367352F24E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="GR_DeleteGroup_New.tcKDTest" />
 		</child>
+		<child name="GR_ShowforWholeGroup" key="{DE712800-E413-4340-BC61-94A360CAAD11}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="GR_ShowforWholeGroup.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

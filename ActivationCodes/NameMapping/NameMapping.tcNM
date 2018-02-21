@@ -449,6 +449,30 @@
 											</Child>
 										</Children>
 									</Child>
+									<Child Name="buttonPurchaseEsgi" Key="{DA79C3E8-EE79-47D9-97AB-BA5BAF505FD1}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-95691192" Left="1095" Top="573" Right="1248" Bottom="616" />
+										<TypeInfo Item0="{39FA0E50-12B8-449D-B4CC-5E87014C0868}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Button" Type="5" />
+											</Property>
+											<Property Name="ObjectLabel">
+												<Value PropertyType="0" Value="Purchase ESGI" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="radiobuttonActivationCode" Key="{1F2C1E25-04F7-4A53-8506-AF6DFBADA053}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="-160068396" Left="1291" Top="531" Right="1307" Bottom="547" />
+										<TypeInfo Item0="{6343D121-48DA-438A-9EC7-F05823F79AFD}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="RadioButton" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="activationcode" Type="5" />
+											</Property>
+										</Properties>
+									</Child>
 								</Children>
 							</Child>
 							<Child Name="BrowserWindow" Key="{00D0BBF1-6495-4BC7-95BF-BE04933894CA}" ParallelWalk="True">
@@ -605,6 +629,8 @@
 					<Child Name="buttonOk" Owner="{3F7A1340-5059-41C3-AA8C-02BD8BBEF8C2}" />
 					<Child Name="buttonCancel" Owner="{75EEE15B-310A-4632-AA95-40BA86D0358A}" />
 				</Child>
+				<Child Name="buttonPurchaseEsgi" Owner="{DA79C3E8-EE79-47D9-97AB-BA5BAF505FD1}" />
+				<Child Name="radiobuttonActivationCode" Owner="{1F2C1E25-04F7-4A53-8506-AF6DFBADA053}" />
 			</Child>
 			<Child Name="BrowserWindow" Owner="{00D0BBF1-6495-4BC7-95BF-BE04933894CA}" />
 			<Child Name="pageHttpsTest1EsgisoftwareComEsg" Owner="{ED86ED45-F94C-491B-8D87-4134B6DC7299}" />
@@ -1410,6 +1436,73 @@
 					</Child>
 					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4S3U3ZN">
 						<ReturnValue Param0="3" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="364342427" Key="{6343D121-48DA-438A-9EC7-F05823F79AFD}">
+			<Data Properties="C2F42A6ECC63104284EA42D06CC4569AUFFFFFFFFFFFFFFFFV4LBZZY">
+				<FunctionDescriptions>
+					<Child Name="wChecked" Doc="Returns True if the radio button is selected, else False." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ClickButton" Doc="Performs a single click on the specified button." IsBasic="True" Data="ZI4L1L4ZN18ZN">
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ObjectType" IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+					<Child Name="Visible" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Height" IsBasic="True" Data="ZI4L2L4ZN13ZN">
+						<ReturnValue Param0="19" />
+					</Child>
+					<Child Name="Enabled" IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="ObjectIdentifier" IsBasic="True" Data="ZI4L2L4ZOCZN">
+						<ReturnValue Param0="12" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
 					</Child>
 				</FunctionDescriptions>
 			</Data>
