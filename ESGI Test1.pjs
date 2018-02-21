@@ -94,6 +94,9 @@
 		<child name="Move_Students" key="{ED0B3A89-F116-4818-A1CA-A13F42762CF3}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Students_New_1\Move_Students.mds" />
 		</child>
+		<child name="DistrictReports_New" key="{226FED6E-A0CF-419D-BA28-CA118BD7C368}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="DistrictReports_New\DistrictReports_New.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{EF41C1AD-33FB-4E88-AAB9-E1F9287E1D76}">
@@ -129,6 +132,7 @@
 			<testItem key="{D9A1CB8D-5AE0-44E4-A0DF-E4911676BBA9}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{C325810B-D392-4457-A0DC-2912110AD2E1}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{ED0B3A89-F116-4818-A1CA-A13F42762CF3}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{226FED6E-A0CF-419D-BA28-CA118BD7C368}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{100135EA-D157-42BD-BCA5-BA33DC4D5BC4}">
