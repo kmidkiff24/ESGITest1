@@ -7,6 +7,15 @@
 		<child name="TeacherProfile_TrackDateChange_Failure_JG" key="{229652D0-F348-4693-A898-691F5F94FA6E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="TeacherProfile_TrackDateChange_Failure_JG.tcKDTest" />
 		</child>
+		<child name="Registration_TrackDateChange_Pass_JG" key="{70F0082E-D4D2-4C4C-8A16-7F38397CCAAB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Registration_TrackDateChange_Pass_JG.tcKDTest" />
+		</child>
+		<child name="SA_District_TrackDateChange_Pass_JG" key="{EE75F560-670D-42FF-A3E3-17F6DA3164A3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SA_District_TrackDateChange_Pass_JG.tcKDTest" />
+		</child>
+		<child name="SA_District_TrackDateChange_Failure_JG" key="{E0CE3BC9-FB23-4202-962B-6ECA4D9FFBFB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="SA_District_TrackDateChange_Failure_JG.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
