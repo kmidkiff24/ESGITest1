@@ -16,6 +16,9 @@
 		<child name="AD_MergeStudentsPageAvailable" key="{40D92DE5-9FD7-472C-AD1C-A19AFAD0DB79}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="AD_MergeStudentsPageAvailable.tcKDTest" />
 		</child>
+		<child name="AD_AddOrdertoWOL" key="{DE383B29-2D6E-416E-B373-8350B6A193B5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="AD_AddOrdertoWOL.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
