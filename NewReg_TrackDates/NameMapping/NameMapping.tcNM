@@ -775,6 +775,69 @@
 																	</Property>
 																</Properties>
 															</Child>
+															<Child Name="panelSchoolTracksList" Key="{6A4FAA26-FCB7-4A66-AB2A-DACEA1315D14}" ParallelWalk="True">
+																<Image FileName="429365622" Left="811" Top="436" Right="1309" Bottom="485" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="1" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="panelRow" Key="{C0E778B9-B8C9-40F9-A848-5F373AD6401B}" ParallelWalk="True">
+																		<Image FileName="429365622" Left="811" Top="436" Right="1309" Bottom="458" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelColSm3AlignRight" Key="{EA77AEEE-D6C1-4C62-8235-106D1754699E}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="429365622" Left="1185" Top="436" Right="1309" Bottom="454" />
+																				<TypeInfo Item0="{BEC44A1E-48CB-4FA4-89DE-FE049F90BB5A}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="panelRow2" Key="{C5E8BDD4-4FF7-48B4-BE98-244885925648}" ParallelWalk="True">
+																		<Image FileName="484522075" Left="811" Top="463" Right="1309" Bottom="485" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="ObjectIdentifier">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelColSm3AlignRight" Key="{B9611F92-71C3-43DB-8B1B-61AADB1CD23C}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="484522075" Left="1185" Top="463" Right="1309" Bottom="481" />
+																				<TypeInfo Item0="{BEC44A1E-48CB-4FA4-89DE-FE049F90BB5A}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
 														</Children>
 													</Child>
 													<Child Name="panelLpcenterheaderlefttitles" Key="{968AF374-F2CB-4F83-9710-B5317792BFB9}" ExtendedFind="True" ParallelWalk="True">
@@ -873,6 +936,56 @@
 																				<Children>
 																					<Child Name="panelHierarchyboxbuttons" Key="{8C96C27B-C5EE-4BB9-A877-F4DE748D983E}" ExtendedFind="True" ParallelWalk="True">
 																						<Image FileName="1645130948" Left="722" Top="218" Right="752" Bottom="232" />
+																						<TypeInfo Item0="{BEC44A1E-48CB-4FA4-89DE-FE049F90BB5A}" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="1" Type="0" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																	<Child Name="linkEdit" Key="{1C15B286-A281-4F74-BF7E-84E57F785A1E}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-396095938" Left="736" Top="218" Right="754" Bottom="233" />
+																		<TypeInfo Item0="{BEC44A1E-48CB-4FA4-89DE-FE049F90BB5A}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Link" Type="5" />
+																			</Property>
+																			<Property Name="href">
+																				<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Schools&apos;,%201031951);void(0);" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="panelBoxschools" Key="{A630B1EB-A648-4787-90E2-E25EA7A1279B}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="-887516721" Left="600" Top="198" Right="780" Bottom="252" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Panel" Type="5" />
+																			</Property>
+																			<Property Name="idStr">
+																				<Value PropertyType="0" Value="BoxSchools" Type="5" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="panelHierarchybox" Key="{3943D9C5-6815-40D4-BEEF-1005B1BC4B5A}" ParallelWalk="True">
+																				<Image FileName="-887516721" Left="600" Top="216" Right="760" Bottom="234" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="Panel" Type="5" />
+																					</Property>
+																					<Property Name="ObjectIdentifier">
+																						<Value PropertyType="0" Value="1" Type="0" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="panelHierarchyboxbuttons" Key="{2CC23549-34E3-464F-B658-F76BF2CDD480}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="-887516721" Left="730" Top="218" Right="760" Bottom="232" />
 																						<TypeInfo Item0="{BEC44A1E-48CB-4FA4-89DE-FE049F90BB5A}" />
 																						<Properties>
 																							<Property Name="ObjectType">
@@ -1212,6 +1325,21 @@
 																	</Property>
 																	<Property Name="ColumnIndex">
 																		<Value PropertyType="0" Value="5" Type="0" />
+																	</Property>
+																</Properties>
+															</Child>
+															<Child Name="cell4" Key="{0AE815D6-9E40-46C7-9B12-85A3B6FD832B}" ParallelWalk="True">
+																<Image FileName="702096983" Left="1048" Top="386" Right="1080" Bottom="416" />
+																<TypeInfo Item0="{1E871174-B1BB-4E6D-BA4F-0251AB4CB0B2}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Cell" Type="5" />
+																	</Property>
+																	<Property Name="RowIndex">
+																		<Value PropertyType="0" Value="4" Type="0" />
+																	</Property>
+																	<Property Name="ColumnIndex">
+																		<Value PropertyType="0" Value="3" Type="0" />
 																	</Property>
 																</Properties>
 															</Child>
@@ -2115,6 +2243,14 @@
 					<Child Name="panelLpcenter" Owner="{F51183A6-2A81-4DB1-9387-1DFBF5F10730}">
 						<Child Name="panelTabContent" Owner="{D64919C4-360B-4222-BE0B-76C7E90B1077}">
 							<Child Name="buttonAdd" Owner="{3B4979E1-F91C-49B9-A944-F779E0D1A81A}" />
+							<Child Name="panelSchoolTracksList" Owner="{6A4FAA26-FCB7-4A66-AB2A-DACEA1315D14}">
+								<Child Name="panelRow" Owner="{C0E778B9-B8C9-40F9-A848-5F373AD6401B}">
+									<Child Name="panelColSm3AlignRight" Owner="{EA77AEEE-D6C1-4C62-8235-106D1754699E}" />
+								</Child>
+								<Child Name="panelRow2" Owner="{C5E8BDD4-4FF7-48B4-BE98-244885925648}">
+									<Child Name="panelColSm3AlignRight" Owner="{B9611F92-71C3-43DB-8B1B-61AADB1CD23C}" />
+								</Child>
+							</Child>
 						</Child>
 						<Child Name="panelLpcenterheaderlefttitles" Owner="{968AF374-F2CB-4F83-9710-B5317792BFB9}" />
 					</Child>
@@ -2127,6 +2263,12 @@
 								<Child Name="panelBoxdistricts" Owner="{A3B72100-E04D-46D2-8E47-DE903A434EB6}">
 									<Child Name="panelHierarchybox" Owner="{5B6D9C28-A9EA-4F0A-BCDA-FF6CE3DF5177}">
 										<Child Name="panelHierarchyboxbuttons" Owner="{8C96C27B-C5EE-4BB9-A877-F4DE748D983E}" />
+									</Child>
+								</Child>
+								<Child Name="linkEdit" Owner="{1C15B286-A281-4F74-BF7E-84E57F785A1E}" />
+								<Child Name="panelBoxschools" Owner="{A630B1EB-A648-4787-90E2-E25EA7A1279B}">
+									<Child Name="panelHierarchybox" Owner="{3943D9C5-6815-40D4-BEEF-1005B1BC4B5A}">
+										<Child Name="panelHierarchyboxbuttons" Owner="{2CC23549-34E3-464F-B658-F76BF2CDD480}" />
 									</Child>
 								</Child>
 							</Child>
@@ -2172,6 +2314,7 @@
 							<Child Name="cell31" Owner="{484A127C-21B0-4FDA-81EE-64BE10B442CC}" />
 							<Child Name="cellPrev" Owner="{139BBAC6-860D-4756-BCEF-0C14974D0F01}" />
 							<Child Name="cell1" Owner="{CE744FCD-F435-4975-B77D-1185D3B3FD6D}" />
+							<Child Name="cell4" Owner="{0AE815D6-9E40-46C7-9B12-85A3B6FD832B}" />
 						</Child>
 					</Child>
 				</Child>

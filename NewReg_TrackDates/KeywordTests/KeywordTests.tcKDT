@@ -16,6 +16,9 @@
 		<child name="SA_District_TrackDateChange_Failure_JG" key="{E0CE3BC9-FB23-4202-962B-6ECA4D9FFBFB}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="SA_District_TrackDateChange_Failure_JG.tcKDTest" />
 		</child>
+		<child name="DA_District_TrackDateChange_Failure_JG" key="{AF0865D9-C532-49A9-8113-A453E612C539}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="DA_District_TrackDateChange_Failure_JG.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
