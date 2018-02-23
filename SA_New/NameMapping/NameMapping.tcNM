@@ -369,6 +369,18 @@
 																					</Property>
 																				</Properties>
 																			</Child>
+																			<Child Name="passwordboxDistrictadministrator" Key="{69E085C6-77E8-4DCA-A490-84532182B23D}" ExtendedFind="True" ParallelWalk="True">
+																				<Image FileName="-1016261411" Left="926" Top="729" Right="1160" Bottom="766" />
+																				<TypeInfo Item0="{318A9622-0956-411C-AE65-36FAF4E20B4D}" />
+																				<Properties>
+																					<Property Name="ObjectType">
+																						<Value PropertyType="0" Value="PasswordBox" Type="5" />
+																					</Property>
+																					<Property Name="idStr">
+																						<Value PropertyType="0" Value="DistrictAdministratorForm.Password" Type="5" />
+																					</Property>
+																				</Properties>
+																			</Child>
 																		</Children>
 																	</Child>
 																</Children>
@@ -874,6 +886,7 @@
 									<Child Name="textboxDistrictadministratorform" Owner="{6E08F1B5-8918-4FC5-BAC0-AF212DCA1CDC}" />
 									<Child Name="textboxSchooladministratorformAc" Owner="{B7CFBB70-3D44-4746-BE68-6AE53F5EA809}" />
 									<Child Name="selectSchooladministratorformSta" Owner="{6A5EC4A6-B682-4D95-9988-F949F9CEEA13}" />
+									<Child Name="passwordboxDistrictadministrator" Owner="{69E085C6-77E8-4DCA-A490-84532182B23D}" />
 								</Child>
 							</Child>
 							<Child Name="cell3" Owner="{F0F8E46A-B960-45A6-B6DB-AAC729156C0C}" />
