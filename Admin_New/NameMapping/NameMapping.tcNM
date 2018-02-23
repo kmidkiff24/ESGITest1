@@ -1142,7 +1142,106 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="panelAcChoiceModule" Key="{6AB7DACE-3A33-484B-AD33-CB54D14DF825}" ParallelWalk="True">
+														<Image FileName="-2118220098" Left="616" Top="208" Right="1304" Bottom="895" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="tableTableTableBorderedTableStri" Key="{3A6B5FE4-3E77-4BEF-9BA9-B9FD9B40DE91}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="-2118220098" Left="616" Top="262" Right="1304" Bottom="750" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Table" Type="5" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="cellHa975a65" Key="{D2870E63-1979-412B-9EC5-36FC7D01F75F}" ParallelWalk="True">
+																		<Image FileName="1700968533" Left="617" Top="628" Right="768" Bottom="672" />
+																		<TypeInfo Item0="{009CF24C-5242-4408-8F59-4C6C2A8CEC31}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Cell" Type="5" />
+																			</Property>
+																			<Property Name="RowIndex">
+																				<Value PropertyType="0" Value="4" Type="0" />
+																			</Property>
+																			<Property Name="ColumnIndex">
+																				<Value PropertyType="0" Value="0" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="cell12" Key="{C3348C23-4517-4DC0-A82F-A3D8BC518A9E}" ParallelWalk="True">
+																		<Image FileName="-2118220098" Left="773" Top="573" Right="963" Bottom="618" />
+																		<TypeInfo Item0="{009CF24C-5242-4408-8F59-4C6C2A8CEC31}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Cell" Type="5" />
+																			</Property>
+																			<Property Name="RowIndex">
+																				<Value PropertyType="0" Value="7" Type="0" />
+																			</Property>
+																			<Property Name="ColumnIndex">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																	<Child Name="cell122" Key="{DF48A4B8-9988-404F-89BD-925160E2D85D}" ParallelWalk="True">
+																		<Image FileName="44896306" Left="723" Top="539" Right="798" Bottom="583" />
+																		<TypeInfo Item0="{009CF24C-5242-4408-8F59-4C6C2A8CEC31}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Cell" Type="5" />
+																			</Property>
+																			<Property Name="RowIndex">
+																				<Value PropertyType="0" Value="2" Type="0" />
+																			</Property>
+																			<Property Name="ColumnIndex">
+																				<Value PropertyType="0" Value="1" Type="0" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+															<Child Name="panelRowContainer" Key="{9E4C15DE-28E1-4325-81D5-293A42DDA047}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1047526447" Left="616" Top="208" Right="1304" Bottom="250" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="Panel" Type="5" />
+																	</Property>
+																	<Property Name="ObjectIdentifier">
+																		<Value PropertyType="0" Value="0" Type="0" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="textbox" Key="{6DD1A7F9-56B2-47ED-A7D5-FED2DCA88FF0}" ExtendedFind="True" ParallelWalk="True">
+																		<Image FileName="1047526447" Left="616" Top="208" Right="1304" Bottom="250" />
+																		<TypeInfo Item0="{C6A74EB4-20EF-4F22-A6F6-8A0EC644C2F1}" />
+																		<Properties>
+																			<Property Name="ObjectType">
+																				<Value PropertyType="0" Value="Textbox" Type="5" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
 												</Children>
+											</Child>
+											<Child Name="buttonCreate" Key="{ABFE2BA1-02C9-417D-B53D-B71A4687B87B}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1190148566" Left="1224" Top="899" Right="1293" Bottom="932" />
+												<TypeInfo Item0="{9A0AEFAB-28A8-4A6E-A508-9735D6E3A4D9}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Button" Type="5" />
+													</Property>
+													<Property Name="ObjectLabel">
+														<Value PropertyType="0" Value="Create" Type="5" />
+													</Property>
+												</Properties>
 											</Child>
 										</Children>
 									</Child>
@@ -1491,7 +1590,18 @@
 				<Child Name="modalAddActivationCode" Owner="{14185DAB-AA35-4C59-B1BC-A786E86BC782}">
 					<Child Name="panelModalInnerControl" Owner="{C0E7C0E3-E380-4269-994E-1BB0AD24B952}">
 						<Child Name="panelRowContainer" Owner="{D2F8A1DE-42EA-4AAE-B18F-0A25FFCA144E}" />
+						<Child Name="panelAcChoiceModule" Owner="{6AB7DACE-3A33-484B-AD33-CB54D14DF825}">
+							<Child Name="tableTableTableBorderedTableStri" Owner="{3A6B5FE4-3E77-4BEF-9BA9-B9FD9B40DE91}">
+								<Child Name="cellHa975a65" Owner="{D2870E63-1979-412B-9EC5-36FC7D01F75F}" />
+								<Child Name="cell12" Owner="{C3348C23-4517-4DC0-A82F-A3D8BC518A9E}" />
+								<Child Name="cell122" Owner="{DF48A4B8-9988-404F-89BD-925160E2D85D}" />
+							</Child>
+							<Child Name="panelRowContainer" Owner="{9E4C15DE-28E1-4325-81D5-293A42DDA047}">
+								<Child Name="textbox" Owner="{6DD1A7F9-56B2-47ED-A7D5-FED2DCA88FF0}" />
+							</Child>
+						</Child>
 					</Child>
+					<Child Name="buttonCreate" Owner="{ABFE2BA1-02C9-417D-B53D-B71A4687B87B}" />
 				</Child>
 			</Child>
 			<Child Name="pageRestoreSession" Owner="{F711EA39-BB36-4F14-A7C1-6FAA894F9CFD}">
