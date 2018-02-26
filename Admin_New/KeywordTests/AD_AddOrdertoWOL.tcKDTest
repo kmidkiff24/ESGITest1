@@ -366,52 +366,39 @@
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the %p1 button of the &apos;%n&apos; modal dialog." Action="ClickButton">
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Button" DefVarType="12" VarType="8" ValueType="6" ValueValue="Choose Existing Code" />
-					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOrderLogs.modalAddActivationCode;" />
+				<Data Description="Performs a single click on the specified button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOrderLogs.modalAddActivationCode.buttonChooseExistingCode;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Moves the mouse pointer over the &apos;%n&apos; control." Action="HoverMouse" InvokeKind="-1" Initialized="True">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="51" />
-						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="22" />
-					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOrderLogs.modalAddActivationCode.panelModalInnerControl.panelAcChoiceModule.tableTableTableBorderedTableStri.cell12;" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText" InvokeKind="-1" Initialized="True">
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="automation" />
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="automation" />
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOrderLogs.modalAddActivationCode.panelModalInnerControl.panelAcChoiceModule.panelRowContainer.textbox;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Moves the mouse pointer over the &apos;%n&apos; control." Action="HoverMouse" InvokeKind="-1" Initialized="True">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="65" />
-						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="32" />
-					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOrderLogs.modalAddActivationCode.panelModalInnerControl.panelAcChoiceModule.tableTableTableBorderedTableStri.cell122;" />
-				</Data>
-			</Operation>
-			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click" InvokeKind="-1" Initialized="True">
-					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="3" ValueType="1" ValueValue="66" />
-						<Parameter Name="Param2" DefVarType="0" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="66" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOrderLogs.modalAddActivationCode.panelModalInnerControl.panelAcChoiceModule.tableTableTableBorderedTableStri.cellHa975a65;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
-				<Data Description="Clicks the %p1 button of the &apos;%n&apos; modal dialog." Action="ClickButton" InvokeKind="-1" Initialized="True">
+				<Data Description="Clicks the %p1 button of the &apos;%n&apos; modal dialog." Action="ClickButton">
 					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
-						<Parameter Name="Param1" DefVarType="0" VarType="8" ValueType="6" ValueValue="Select" />
+						<Parameter Name="Button" DefVarType="12" VarType="8" ValueType="6" ValueValue="Select" />
 					</Parameters>
 					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOrderLogs.modalAddActivationCode;" />
 				</Data>
