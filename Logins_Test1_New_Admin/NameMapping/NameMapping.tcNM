@@ -161,6 +161,18 @@
 													</Child>
 												</Children>
 											</Child>
+											<Child Name="panelContainer" Key="{83138BC6-B708-46A6-9C9D-99A4B1B6E548}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1588637699" Left="222" Top="109" Right="1677" Bottom="185" />
+												<TypeInfo Item0="{3174BDB7-94F7-4CED-BE40-ABB01D7D4D62}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="0" Type="0" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -368,7 +380,6 @@
 										</Children>
 									</Child>
 									<Child Name="panelLptopmenudiv" Key="{586AE018-CB99-49EA-9677-B7FE8F6B5211}" ExtendedFind="True" ParallelWalk="True">
-										<Image FileName="2068507243" Left="668" Top="85" Right="1425" Bottom="164" />
 										<Properties>
 											<Property Name="ObjectType">
 												<Value PropertyType="0" Value="Panel" Type="5" />
@@ -379,7 +390,6 @@
 										</Properties>
 										<Children>
 											<Child Name="table" Key="{98BBA7CC-56D5-48D0-9B3B-281E0C8CF054}" ParallelWalk="True">
-												<Image FileName="2068507243" Left="668" Top="85" Right="1425" Bottom="164" />
 												<Properties>
 													<Property Name="ObjectType">
 														<Value PropertyType="0" Value="Table" Type="5" />
@@ -387,7 +397,6 @@
 												</Properties>
 												<Children>
 													<Child Name="table" Key="{02997B4D-0AC0-4672-9BE1-8AABC28AA1D2}" ExtendedFind="True" ParallelWalk="True">
-														<Image FileName="2068507243" Left="668" Top="85" Right="1425" Bottom="164" />
 														<Properties>
 															<Property Name="ObjectType">
 																<Value PropertyType="0" Value="Table" Type="5" />
@@ -395,7 +404,6 @@
 														</Properties>
 														<Children>
 															<Child Name="cellTabmenu" Key="{35232BA3-7425-4EDF-9896-291496D389EC}" ParallelWalk="True">
-																<Image FileName="2068507243" Left="825" Top="91" Right="968" Bottom="121" />
 																<Properties>
 																	<Property Name="ObjectType">
 																		<Value PropertyType="0" Value="Cell" Type="5" />
@@ -409,7 +417,6 @@
 																</Properties>
 																<Children>
 																	<Child Name="panelLogout" Key="{BBB6382D-1680-40C1-9C50-42EA2A7B57AD}" ExtendedFind="True" ParallelWalk="True">
-																		<Image FileName="2068507243" Left="825" Top="91" Right="968" Bottom="121" />
 																		<TypeInfo Item0="{3174BDB7-94F7-4CED-BE40-ABB01D7D4D62}" />
 																		<Properties>
 																			<Property Name="ObjectType">
@@ -464,6 +471,56 @@
 									</Property>
 								</Properties>
 							</Child>
+							<Child Name="pageRestoreSession" Key="{8F92B635-9574-4217-AC22-8ED459D321A4}" ParallelWalk="True">
+								<Image FileName="2094050077" Left="7" Top="93" Right="1913" Bottom="1023" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="about:sessionrestore" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelButtonContainer" Key="{C376FC8C-1080-499E-8226-E9027D6B034B}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="1365225394" Left="473" Top="634" Right="1448" Bottom="681" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="ObjectIdentifier">
+												<Value PropertyType="0" Value="2" Type="0" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="buttonErrortryagain" Key="{DB40FD2D-EE0D-4816-9A1F-5390CC289FC0}" ParallelWalk="True">
+												<Image FileName="1365225394" Left="0" Top="0" Right="0" Bottom="0" />
+												<TypeInfo Item0="{3174BDB7-94F7-4CED-BE40-ABB01D7D4D62}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="button" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="errorTryAgain" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageEsgiOneOnOneAssessmentsMadeE" Key="{EF7173F7-FCE7-4944-8EC6-4F8046F13F82}" ParallelWalk="True">
+								<Image FileName="-488659686" Left="7" Top="0" Right="1913" Bottom="1022" />
+								<TypeInfo Item0="{53C3E899-B0FA-448A-BFCE-4D3828BF1B69}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value PropertyType="0" Value="Page" Type="5" />
+									</Property>
+									<Property Name="URL">
+										<Value PropertyType="0" Value="chrome://browser/content/browser.xul" Type="5" />
+									</Property>
+								</Properties>
+							</Child>
 						</Children>
 					</Child>
 				</Children>
@@ -486,6 +543,7 @@
 							</Child>
 						</Child>
 					</Child>
+					<Child Name="panelContainer" Owner="{83138BC6-B708-46A6-9C9D-99A4B1B6E548}" />
 				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{F5650731-7275-4824-BCAB-57CD61A2C531}" />
@@ -524,6 +582,12 @@
 				<Child Name="navbarSchoolYears" Owner="{ADBCF2D1-C0B8-4094-AFA4-6BF7E8C2AE2B}" />
 			</Child>
 			<Child Name="pageHttpsTest1EsgisoftwareComEsg2" Owner="{5E22C961-5655-4224-883B-EC4CCB2DBA3F}" />
+			<Child Name="pageRestoreSession" Owner="{8F92B635-9574-4217-AC22-8ED459D321A4}">
+				<Child Name="panelButtonContainer" Owner="{C376FC8C-1080-499E-8226-E9027D6B034B}">
+					<Child Name="buttonErrortryagain" Owner="{DB40FD2D-EE0D-4816-9A1F-5390CC289FC0}" />
+				</Child>
+			</Child>
+			<Child Name="pageEsgiOneOnOneAssessmentsMadeE" Owner="{EF7173F7-FCE7-4944-8EC6-4F8046F13F82}" />
 		</Child>
 	</LogicalNodes>
 	<TypeInfo StoreCodeCompletion="1">

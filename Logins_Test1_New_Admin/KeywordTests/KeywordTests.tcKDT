@@ -7,6 +7,12 @@
 		<child name="LO_AdminLogin" key="{0FF0092B-F73B-4246-9300-2B9CF8DA7243}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="LO_AdminLogin.tcKDTest" />
 		</child>
+		<child name="LO_DALogin" key="{BB4AB5DF-ADB6-4FC0-BD20-662832721AB5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="LO_DALogin.tcKDTest" />
+		</child>
+		<child name="LO_SchAdminLogin" key="{34B15478-7EE7-48E5-8E1B-21CEDA2DACE5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="LO_SchAdminLogin.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

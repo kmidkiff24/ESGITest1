@@ -16,6 +16,9 @@
 		<child name="BP_GotoESGIfromCMT" key="{257D5053-3CF3-45FA-B04A-EE5108E3827B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="BP_GotoESGIfromCMT.tcKDTest" />
 		</child>
+		<child name="BP_GotoCMTfromESGI" key="{6C257C49-E657-4EB3-9275-EBBEDC76D185}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="BP_GotoCMTfromESGI.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
