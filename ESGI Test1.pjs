@@ -100,6 +100,9 @@
 		<child name="CMT_Misc_JG" key="{B7661F8C-7A99-4C05-A05B-8A71F4C391F8}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="CMT_Misc_JG\CMT_Misc_JG.mds" />
 		</child>
+		<child name="PhotoCapture_JG" key="{ED87C09D-2498-43EC-9AC0-0C29DE629920}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="PhotoCapture_JG\PhotoCapture_JG.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{EF41C1AD-33FB-4E88-AAB9-E1F9287E1D76}">
@@ -137,6 +140,7 @@
 			<testItem key="{ED0B3A89-F116-4818-A1CA-A13F42762CF3}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{226FED6E-A0CF-419D-BA28-CA118BD7C368}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{B7661F8C-7A99-4C05-A05B-8A71F4C391F8}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{ED87C09D-2498-43EC-9AC0-0C29DE629920}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{100135EA-D157-42BD-BCA5-BA33DC4D5BC4}">
