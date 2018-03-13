@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="RG_FreeTrialRegistration" key="{4BC74CCA-C011-40AA-B272-C95F8F8C76F4}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RG_FreeTrialRegistration.tcKDTest" />
+		</child>
+		<child name="RG_PayCCwithPromo" key="{6864D1C3-35EB-4E28-8502-8601BA550EAF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RG_PayCCwithPromo.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>
