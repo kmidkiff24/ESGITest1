@@ -1351,6 +1351,41 @@
 																													</Child>
 																												</Children>
 																											</Child>
+																											<Child Name="panelColXs3" Key="{0161C4B2-AD5D-43ED-A9F2-278A101B6A66}" ExtendedFind="True" ParallelWalk="True">
+																												<Image FileName="1023749709" Left="950" Top="945" Right="1106" Bottom="1000" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Panel" Type="5" />
+																													</Property>
+																													<Property Name="ObjectIdentifier">
+																														<Value PropertyType="0" Value="1" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panelFormGroup" Key="{750F33F6-1C5A-4198-92E8-A1EE43D64BB8}" ParallelWalk="True">
+																														<Image FileName="1023749709" Left="965" Top="945" Right="1091" Bottom="988" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Panel" Type="5" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textboxBillingAddress2" Key="{0818B3E5-CFE9-4F80-8300-FF2C42FB7D61}" ExtendedFind="True" ParallelWalk="True">
+																																<Image FileName="1023749709" Left="965" Top="945" Right="1091" Bottom="988" />
+																																<TypeInfo Item0="{C83F1917-D7D9-423C-A511-DAAF9B24AA2A}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																																	</Property>
+																																	<Property Name="idStr">
+																																		<Value PropertyType="0" Value="billing-address2" Type="5" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
 																										</Children>
 																									</Child>
 																									<Child Name="panelRow2" Key="{AC617900-6408-4FB2-AC70-1150AF592952}" ExtendedFind="True" ParallelWalk="True">
@@ -1468,6 +1503,82 @@
 																													</Child>
 																												</Children>
 																											</Child>
+																											<Child Name="panelBillingStateChosen" Key="{2E25C26B-913E-4BBD-92F9-393C5048D10B}" ExtendedFind="True" ParallelWalk="True">
+																												<Image FileName="-414828798" Left="652" Top="944" Right="935" Bottom="987" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Panel" Type="5" />
+																													</Property>
+																													<Property Name="idStr">
+																														<Value PropertyType="0" Value="billing_state_chosen" Type="5" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="panelChosenDrop" Key="{E5CC0F24-0C2F-405E-978A-5BD9B560EAC9}" ParallelWalk="True">
+																														<Image FileName="-414828798" Left="652" Top="986" Right="935" Bottom="1033" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Panel" Type="5" />
+																															</Property>
+																															<Property Name="ObjectIdentifier">
+																																<Value PropertyType="0" Value="0" Type="0" />
+																															</Property>
+																														</Properties>
+																														<Children>
+																															<Child Name="textbox" Key="{CA3E0093-A95B-4649-BBA7-D8D37481C112}" ExtendedFind="True" ParallelWalk="True">
+																																<Image FileName="-414828798" Left="657" Top="991" Right="930" Bottom="1023" />
+																																<TypeInfo Item0="{C83F1917-D7D9-423C-A511-DAAF9B24AA2A}" />
+																																<Properties>
+																																	<Property Name="ObjectType">
+																																		<Value PropertyType="0" Value="Textbox" Type="5" />
+																																	</Property>
+																																	<Property Name="placeholder">
+																																		<Value PropertyType="0" Value="" Type="5" />
+																																	</Property>
+																																</Properties>
+																															</Child>
+																														</Children>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="panelBillingCountryChosen" Key="{127962C5-DBAF-48A0-9394-EEE98C27630C}" ExtendedFind="True" ParallelWalk="True">
+																										<Image FileName="727968579" Left="652" Top="944" Right="1091" Bottom="987" />
+																										<Properties>
+																											<Property Name="ObjectType">
+																												<Value PropertyType="0" Value="Panel" Type="5" />
+																											</Property>
+																											<Property Name="idStr">
+																												<Value PropertyType="0" Value="billing_country_chosen" Type="5" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="panelChosenDrop" Key="{56277239-5EFD-45C5-BDE4-A565F4CF61A9}" ParallelWalk="True">
+																												<Image FileName="727968579" Left="652" Top="986" Right="1091" Bottom="1033" />
+																												<Properties>
+																													<Property Name="ObjectType">
+																														<Value PropertyType="0" Value="Panel" Type="5" />
+																													</Property>
+																													<Property Name="ObjectIdentifier">
+																														<Value PropertyType="0" Value="0" Type="0" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="textbox" Key="{5883E3B1-2BF3-41C5-9648-26C4B233E4CE}" ExtendedFind="True" ParallelWalk="True">
+																														<Image FileName="727968579" Left="657" Top="991" Right="1086" Bottom="1023" />
+																														<TypeInfo Item0="{C83F1917-D7D9-423C-A511-DAAF9B24AA2A}" />
+																														<Properties>
+																															<Property Name="ObjectType">
+																																<Value PropertyType="0" Value="Textbox" Type="5" />
+																															</Property>
+																															<Property Name="placeholder">
+																																<Value PropertyType="0" Value="" Type="5" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
 																										</Children>
 																									</Child>
 																								</Children>
@@ -1542,6 +1653,31 @@
 																									</Property>
 																									<Property Name="idStr">
 																										<Value PropertyType="0" Value="school" Type="5" />
+																									</Property>
+																								</Properties>
+																							</Child>
+																						</Children>
+																					</Child>
+																					<Child Name="panelFormGroup2" Key="{F10076AA-B2A5-42B7-882A-756F55CC3CC8}" ExtendedFind="True" ParallelWalk="True">
+																						<Image FileName="2030196530" Left="652" Top="683" Right="1247" Bottom="876" />
+																						<Properties>
+																							<Property Name="ObjectType">
+																								<Value PropertyType="0" Value="Panel" Type="5" />
+																							</Property>
+																							<Property Name="ObjectIdentifier">
+																								<Value PropertyType="0" Value="4" Type="0" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="panel" Key="{CE3B0F9E-94D1-4E64-9CED-05346DDB3808}" ExtendedFind="True" ParallelWalk="True">
+																								<Image FileName="2030196530" Left="652" Top="766" Right="1247" Bottom="863" />
+																								<TypeInfo Item0="{94A61818-93F6-4D3F-BBF8-5331B234D965}" />
+																								<Properties>
+																									<Property Name="ObjectType">
+																										<Value PropertyType="0" Value="Panel" Type="5" />
+																									</Property>
+																									<Property Name="ObjectIdentifier">
+																										<Value PropertyType="0" Value="1" Type="0" />
 																									</Property>
 																								</Properties>
 																							</Child>
@@ -1812,6 +1948,11 @@
 															<Child Name="textboxBillingAddress1" Owner="{748A0E5A-48CC-4478-A94C-37F7219F9EED}" />
 														</Child>
 													</Child>
+													<Child Name="panelColXs3" Owner="{0161C4B2-AD5D-43ED-A9F2-278A101B6A66}">
+														<Child Name="panelFormGroup" Owner="{750F33F6-1C5A-4198-92E8-A1EE43D64BB8}">
+															<Child Name="textboxBillingAddress2" Owner="{0818B3E5-CFE9-4F80-8300-FF2C42FB7D61}" />
+														</Child>
+													</Child>
 												</Child>
 												<Child Name="panelRow2" Owner="{AC617900-6408-4FB2-AC70-1150AF592952}">
 													<Child Name="panelColXs9" Owner="{24DAF241-24A9-4F91-AEBF-3E1B14EC4792}">
@@ -1828,6 +1969,16 @@
 															<Child Name="textboxBillingZip" Owner="{C00D1393-C5DC-43D3-A92E-D8D08B1B5871}" />
 														</Child>
 													</Child>
+													<Child Name="panelBillingStateChosen" Owner="{2E25C26B-913E-4BBD-92F9-393C5048D10B}">
+														<Child Name="panelChosenDrop" Owner="{E5CC0F24-0C2F-405E-978A-5BD9B560EAC9}">
+															<Child Name="textbox" Owner="{CA3E0093-A95B-4649-BBA7-D8D37481C112}" />
+														</Child>
+													</Child>
+												</Child>
+												<Child Name="panelBillingCountryChosen" Owner="{127962C5-DBAF-48A0-9394-EEE98C27630C}">
+													<Child Name="panelChosenDrop" Owner="{56277239-5EFD-45C5-BDE4-A565F4CF61A9}">
+														<Child Name="textbox" Owner="{5883E3B1-2BF3-41C5-9648-26C4B233E4CE}" />
+													</Child>
 												</Child>
 											</Child>
 										</Child>
@@ -1840,6 +1991,9 @@
 									<Child Name="panelSchool" Owner="{36587297-F0E7-4D3E-88EB-6056E755A831}">
 										<Child Name="panelFormGroup" Owner="{DC66A399-ABF9-4EBC-999C-577DB369B686}">
 											<Child Name="textboxSchoolDistrict" Owner="{C72C596E-6B0D-41FF-899D-EE28A7BFBD9B}" />
+										</Child>
+										<Child Name="panelFormGroup2" Owner="{F10076AA-B2A5-42B7-882A-756F55CC3CC8}">
+											<Child Name="panel" Owner="{CE3B0F9E-94D1-4E64-9CED-05346DDB3808}" />
 										</Child>
 									</Child>
 									<Child Name="buttonComplete" Owner="{52C0D4E1-8D87-40F7-9292-637404EC3A1D}" />

@@ -7,6 +7,9 @@
 		<child name="RG_PayCCwithPromo" key="{6864D1C3-35EB-4E28-8502-8601BA550EAF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="RG_PayCCwithPromo.tcKDTest" />
 		</child>
+		<child name="RG_PayCC" key="{9EF7F3F5-92D9-44D0-A606-ADB20080DD74}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="RG_PayCC.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
