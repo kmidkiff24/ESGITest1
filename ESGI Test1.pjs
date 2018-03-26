@@ -103,6 +103,9 @@
 		<child name="Registration_New" key="{25F29BA6-6C41-4438-A1BF-512367D39F53}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Registration_New\Registration_New.mds" />
 		</child>
+		<child name="ER_ExportReports" key="{1A641582-D785-45D4-B892-C1F2B4B44C8C}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Z:\TestComplete 12 Projects\ESGI\ESGI Test1\ER_ExportReports\ER_ExportReports.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{EF41C1AD-33FB-4E88-AAB9-E1F9287E1D76}">
@@ -141,6 +144,7 @@
 			<testItem key="{B7661F8C-7A99-4C05-A05B-8A71F4C391F8}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{ED87C09D-2498-43EC-9AC0-0C29DE629920}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{25F29BA6-6C41-4438-A1BF-512367D39F53}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{1A641582-D785-45D4-B892-C1F2B4B44C8C}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{100135EA-D157-42BD-BCA5-BA33DC4D5BC4}">

@@ -4,6 +4,9 @@
 		<child name="DA_DATotalsReport" key="{68525E83-D376-4E22-B484-D86574CA8045}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="DA_DATotalsReport.tcKDTest" />
 		</child>
+		<child name="DA_DAStudentTotalsReport" key="{E0DCED56-A770-4C85-9B4F-2520A3009620}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="DA_DAStudentTotalsReport.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
