@@ -24,7 +24,16 @@
 	</folders>
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{82C8E76B-7735-43E5-971C-E7BA55BC6306}">
-		<children />
+		<children>
+			<testItem name="ProjectTestItem1" key="{C84E3739-DF3D-4CE7-81C1-41FA58C2708E}" group="False" enabled="False" testMoniker="KDT\{BBE0DC07-91ED-49B2-AB23-C6FB43ED6E6E}" count="1" timeout="1" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+			<testItem name="ProjectTestItem2" key="{89C2F816-9819-4743-9B48-347032635B83}" group="False" enabled="True" testMoniker="KDT\{341FC437-C93E-432A-9956-EFBAEF1CCEE8}" count="1" timeout="1" stopOnError="2" stopOnException="2" description="">
+				<testParameters />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{FEFCE1C9-3063-4455-B484-779A410DC7AE}">
 		<data Version="3" />
