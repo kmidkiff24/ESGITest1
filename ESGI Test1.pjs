@@ -4,9 +4,6 @@
 		<child name="HomepageVideos_Test1" key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="HomepageVideos_Test1.mds" />
 		</child>
-		<child name="CMTTest1(Ignore)" key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="CMTTest1_\CMTTest1(Ignore).mds" />
-		</child>
 		<child name="SA_Test1" key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="SA_Test1\SA_Test1.mds" />
 		</child>
@@ -103,12 +100,17 @@
 		<child name="PhotoCapture_JG" key="{ED87C09D-2498-43EC-9AC0-0C29DE629920}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="PhotoCapture_JG\PhotoCapture_JG.mds" />
 		</child>
+		<child name="Registration_New" key="{25F29BA6-6C41-4438-A1BF-512367D39F53}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Registration_New\Registration_New.mds" />
+		</child>
+		<child name="ER_ExportReports" key="{1A641582-D785-45D4-B892-C1F2B4B44C8C}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Z:\TestComplete 12 Projects\ESGI\ESGI Test1\ER_ExportReports\ER_ExportReports.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{EF41C1AD-33FB-4E88-AAB9-E1F9287E1D76}">
 		<children>
 			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{924DACF4-80BA-4854-BDBC-9801CBFDE5A2}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{A00B1384-D505-4B09-B2F8-1267FD6D6F7F}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{20275BFF-79A1-4FB3-84A6-AF6FD7EC5A19}" enabled="True" timeout="0" stopOnError="True" description="" />
@@ -141,6 +143,8 @@
 			<testItem key="{226FED6E-A0CF-419D-BA28-CA118BD7C368}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{B7661F8C-7A99-4C05-A05B-8A71F4C391F8}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{ED87C09D-2498-43EC-9AC0-0C29DE629920}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{25F29BA6-6C41-4438-A1BF-512367D39F53}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{1A641582-D785-45D4-B892-C1F2B4B44C8C}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{100135EA-D157-42BD-BCA5-BA33DC4D5BC4}">

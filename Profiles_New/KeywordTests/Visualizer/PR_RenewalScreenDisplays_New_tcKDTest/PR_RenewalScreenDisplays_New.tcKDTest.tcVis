@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{DC900519-B844-4C63-BE0C-617B4807A13E}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="43158.7908680556" objectName="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE.header.formRow.panelColMd5.textboxUsername" objectLeft="1122" objectTop="109" objectRight="1260" objectBottom="134" clickPointX="-1" clickPointY="-1" imageFileName="tcvi89141843318525.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="43158.7908912037" objectName="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE.header.formRow.panelColMd5.textboxUsername" objectLeft="1122" objectTop="109" objectRight="1260" objectBottom="134" clickPointX="-1" clickPointY="-1" imageFileName="tcvi89143843318526.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="4" kind="0" dateTime="43158.7909027778" objectName="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE.header.formRow.panelColMd52.passwordboxPassword" objectLeft="1381" objectTop="109" objectRight="1518" objectBottom="134" clickPointX="-1" clickPointY="-1" imageFileName="tcvi89144468318528.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="43158.7909259259" objectName="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE.header.formRow.panelColMd52.passwordboxPassword" objectLeft="1381" objectTop="109" objectRight="1518" objectBottom="134" clickPointX="-1" clickPointY="-1" imageFileName="tcvi891459533185210.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

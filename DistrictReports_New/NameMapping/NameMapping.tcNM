@@ -137,9 +137,24 @@
 													<Property Name="ObjectIdentifier">
 														<Value PropertyType="0" Value="3" Type="0" />
 													</Property>
+													<Property Name="innerHTML">
+														<Value PropertyType="0" Value="&lt;use xlink:href=&quot;/esgi/images/button-panel.svg#district-total-report&quot;&gt;&lt;/use&gt;" Type="5" />
+													</Property>
 												</Properties>
 											</Child>
 										</Children>
+									</Child>
+									<Child Name="panelStudentsrepbut" Key="{680D0061-59A0-4365-A411-FAB626CE18B6}" ExtendedFind="True" ParallelWalk="True">
+										<Image FileName="209727464" Left="1247" Top="668" Right="1392" Bottom="736" />
+										<TypeInfo Item0="{2C848A25-7DFE-48ED-8D95-66C9EAE19975}" />
+										<Properties>
+											<Property Name="ObjectType">
+												<Value PropertyType="0" Value="Panel" Type="5" />
+											</Property>
+											<Property Name="idStr">
+												<Value PropertyType="0" Value="studentsRepBut" Type="5" />
+											</Property>
+										</Properties>
 									</Child>
 								</Children>
 							</Child>
@@ -213,6 +228,21 @@
 					</Child>
 				</Children>
 			</Child>
+			<Child Name="cellDistrictStudentsTotalsReport" Key="{070407F6-978A-41B8-BF97-97353BB4187E}" ParallelWalk="True">
+				<Image FileName="1172448987" Left="682" Top="180" Right="1844" Bottom="230" />
+				<TypeInfo Item0="{26181BDE-8837-4D48-8C58-8A23E98C3075}" />
+				<Properties>
+					<Property Name="ObjectType">
+						<Value PropertyType="0" Value="Cell" Type="5" />
+					</Property>
+					<Property Name="RowIndex">
+						<Value PropertyType="0" Value="0" Type="0" />
+					</Property>
+					<Property Name="ColumnIndex">
+						<Value PropertyType="0" Value="2" Type="0" />
+					</Property>
+				</Properties>
+			</Child>
 		</Children>
 	</Nodes>
 	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
@@ -233,6 +263,7 @@
 				<Child Name="panelClassrepbut" Owner="{89670EAC-A2E1-43DB-9331-82DD7A6568C8}">
 					<Child Name="vgIconDistrictSelected" Owner="{C16B8460-C449-4B9B-9245-6F2C0626F26F}" />
 				</Child>
+				<Child Name="panelStudentsrepbut" Owner="{680D0061-59A0-4365-A411-FAB626CE18B6}" />
 			</Child>
 			<Child Name="pageDistrictTotalsReport" Owner="{2800E49C-9266-4E83-8AE4-15039CF689D5}">
 				<Child Name="tableTableTotalReport" Owner="{5DC9303A-ADB5-49EA-8D1B-DFA9336AB569}">

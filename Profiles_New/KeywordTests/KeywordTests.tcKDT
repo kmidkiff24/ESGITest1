@@ -19,6 +19,12 @@
 		<child name="PR_ExpESGIfromCMT" key="{E51F5D8C-DB01-4CA9-8744-EC6E23E0FDA7}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="PR_ExpESGIfromCMT.tcKDTest" />
 		</child>
+		<child name="PR_RenewalScreenDisplays_New" key="{DC900519-B844-4C63-BE0C-617B4807A13E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_RenewalScreenDisplays_New.tcKDTest" />
+		</child>
+		<child name="PR_InvalidUsername" key="{A3307733-C4B0-4EBB-BB43-881204C2BD7B}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="PR_InvalidUsername.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

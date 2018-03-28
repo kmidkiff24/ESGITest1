@@ -7,6 +7,9 @@
 		<child name="CL_DeleteClass_New" key="{D71FDAC1-D0C9-4127-8ED4-8736819AC15A}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="CL_DeleteClass_New.tcKDTest" />
 		</child>
+		<child name="CL_DeleteEmptyClass" key="{D69FFCFC-03D3-4499-B858-31251947AD05}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="CL_DeleteEmptyClass.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>

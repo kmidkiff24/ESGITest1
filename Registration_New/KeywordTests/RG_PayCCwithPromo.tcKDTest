@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="12.0">
+	<TestData Description="" Key="{9CDEB30F-EA47-4223-B8B8-DC8DE5DC2333}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.panelBody" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+					<Bitmap Name="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel" Data="61717A697000000001000000360400007801CD935F48935118C67FD96CB0749F5337BD089C905484906456E49FADD852A88DA68ED9160A6B9222B9968D2E2208528A6241D308648A34C8CA30096D4917FD61AE1422B0282846E6B28B4A4244BB89F599DBD5747457EFCBF3BEE770F83DE71C3867EFC112097FA244AC9B4565C4B406B5381223B6BE3C59AE51FECF148AAE222FEE8AA9F3AF4FA9D4F859BBCD8744FB9054438875A620D2EA20A915FDA834BEA43ECAAA41910B90E67887E264844CD714196D11642D33A4B57E426A1F27D71258D54352114070865176CC92E3FC48FABEFB6CD075915FDB8BBC7D16C5E5EF480F3F59914F290F906E7B45E6851F088E0FAC374DC281D764EDEAA3667B3986238DE4DC5E4476364C4AD5488287DCF818C59988A819D8FA88C21D6DB88CBBC9370F6335DAB8A28172CF0079A3BF101A9E26F08ABA31723BE790DB5E22940D91ADBF8755ABE356A39A1E7B01D70F65616F3D4AE9FB28AAE660022F5842E479C57B777C65D3A52FD4DE5960A3E901D3FD7A26AF9531704C4DCB090795133F119AC612F8A557B8E4A1F67C4375FA3305AE6964FA17584C76E69F99B97BAA10E70D1F7B6E4EADC8C6F9EC8B0B28DA1791D484D8B2D34BBDD9CADC78337E7729D5C36F283E3F9194AFACF7B2DFDE0DBAB73C1FED263ADF4378E438BD4D4534B83DABB2F1FDE3BFC95D67A1CF6D60F09C01BF4B9B948B33FFA2FF0680E9AFF9" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{98EACF50-FA7B-4595-8EDC-4C0B21157A52}">
+				<Data Description="Launches the specified browser and opens the specified URL in it." BrowserName="parametrized">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="about:home" />
+						<Parameter Name="PageLoadWaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<BrowserParameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Browser" DefVarType="12" VarType="3" ValueType="1" ValueValue="-2" />
+						<Parameter Name="Version" DefVarType="8" DefValueType="6" DefValueValue="" VarType="8" ValueType="6" ValueValue="" />
+						<Parameter Name="Platform" DefVarType="12" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="1">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="pX86" />
+								<Value Type="1" Value="1" Text="pX64" />
+								<Value Type="1" Value="-1" Text="pAny" />
+							</Values>
+						</Parameter>
+					</BrowserParameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Navigates to the &apos;%p1&apos; address." Action="ToUrl">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="https://test1.esgisoftware.com/" />
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE2.panelBody.header.panelNavbarCollapseNavMainCollap.panelContainer.navNavMainMegaMenu.linkRegister;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Moves the mouse pointer over the &apos;%n&apos; control." Action="HoverMouse">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="31" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="6" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.panelPath.aside.linkClickHere;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.panelPath.aside.linkClickHere;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.buttonSignUp;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="164" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="25" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelRow.panelColXs6.panelFormGroup.textboxFirstName;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="K" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelRow.panelColXs6.panelFormGroup.textboxFirstName;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelRow.panelColXs6.panelFormGroup.textboxFirstName;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="M" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelRow.panelColXs62.panelFormGroup.textboxLastName;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelRow.panelColXs62.panelFormGroup.textboxLastName;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="test@esgisoftware.com" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroup.textboxEmail;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroup.textboxEmail;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="automation10" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroup2.textboxUsername;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroup2.textboxUsername;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Zoey1424" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroup3.passwordboxPassword;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroup3.passwordboxPassword;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="Zoey1424" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroup4.passwordboxConfirmPassword;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroup4.passwordboxConfirmPassword;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 item of the &apos;%n&apos; select control." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Conference" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.selectHowDidYouHearAboutUs;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.selectHowDidYouHearAboutUs;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="kinderlit" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.panelAccount.panel.panelFormGroupPromoHasFeedback.textboxHaveAPromoCodeOptional;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form.fieldset.buttonNext;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.buttonCreate;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock.panelColXs3Price.panelFormGroup.textbox" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="Text" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="$159" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="170" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock2.panelFormGroup.textboxNameOnCard;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="K M" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock2.panelFormGroup.textboxNameOnCard;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters %p1 in the &apos;%n&apos; object." Action="Keys">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Keys" DefVarType="8" VarType="8" ValueType="6" ValueValue="[Tab]" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock2.panelFormGroup.textboxNameOnCard;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="4111111111111111" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock2.panelFormGroup3.textboxCardNumber;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 item of the &apos;%n&apos; select control." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="12" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock2.panelFormGroup2.selectCardExpirationMonth;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 item of the &apos;%n&apos; select control." Action="ClickItem">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="2025" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock2.panelFormGroup2.selectCardExpirationYear;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="61" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="23" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock2.panelFormGroup2.panelColXs4Row.panelFormGroup.textboxCvvs;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="987" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock2.panelFormGroup2.panelColXs4Row.panelFormGroup.textboxCvvs;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags from point (%p1, %p2) of the &apos;%n&apos; object to offset (%p3, %p4)." Action="Drag">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="1515" />
+						<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="360" />
+						<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-7" />
+						<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="159" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="90" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="21" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock3.panelRow.panelColXs6.panelFormGroup.textboxBillingAddress1;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="123 test st" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock3.panelRow.panelColXs6.panelFormGroup.textboxBillingAddress1;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="75" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="11" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock3.panelRow2.panelColXs9.panelFormGroup.textboxBillingCity;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="jsdngfsdg" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock3.panelRow2.panelColXs9.panelFormGroup.textboxBillingCity;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="79" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="17" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock3.panelRow3.textnodeSelectStateRegion;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="70" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="6" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock3.panelRow3.textnodeAlaska;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks at point (%p1, %p2) of the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="33" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock3.panelRow3.panelColXs3.panelFormGroup.textboxBillingZip;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="98375" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.panelPurchase.panel.panelFormBlock3.panelRow3.panelColXs3.panelFormGroup.textboxBillingZip;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form2.fieldset.buttonNext;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Moves the mouse pointer over the &apos;%n&apos; control." Action="HoverMouse">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="1883" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="468" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Drags from point (%p1, %p2) of the &apos;%n&apos; object to offset (%p3, %p4)." Action="Drag">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" VarType="3" ValueType="1" ValueValue="1512" />
+						<Parameter Name="ClientY" DefVarType="3" VarType="3" ValueType="1" ValueValue="399" />
+						<Parameter Name="toX" DefVarType="3" VarType="3" ValueType="1" ValueValue="-7" />
+						<Parameter Name="toY" DefVarType="3" VarType="3" ValueType="1" ValueValue="-98" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form3.fieldset.panelSchool.panelFormGroup.textboxSchoolDistrict" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="ObjectLabel" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="School (District)" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.browser.pageEsgiOneOnOneAssessmentsMadeE3.panelMain.panelFadeContainer.panel.form3.fieldset.buttonComplete" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="contentText" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Complete" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Close">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTimeout" DefVarType="3" DefValueType="1" DefValueValue="2000" VarType="3" ValueType="1" ValueValue="2000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="3" Key="{E79E4E59-3925-4919-A64F-9F8CDDD4A931}" />
+	<Parameters Key="{DA3A79EE-4DC9-4BE3-9097-FA7D49FFB240}" />
+</Root>
