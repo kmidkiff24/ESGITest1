@@ -1767,6 +1767,60 @@
 							</Child>
 						</Children>
 					</Child>
+					<Child Name="explorer" Key="{CAAD8F88-70C2-4025-BC16-B8B613707767}" ParallelWalk="True">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value PropertyType="0" Value="explorer" Type="5" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_TrayWnd" Key="{E9AF764D-76B6-41D3-ABCE-B94A04922DAF}" ParallelWalk="True">
+								<Image FileName="-365235519" Left="0" Top="0" Right="1920" Bottom="50" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value PropertyType="0" Value="Shell_TrayWnd" Type="5" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="ReBarWindow32" Key="{AE483A45-E0D2-4E9C-AB88-152100F9EE1F}" ParallelWalk="True">
+										<Image FileName="-365235519" Left="118" Top="0" Right="1620" Bottom="50" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value PropertyType="0" Value="ReBarWindow32" Type="5" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="MSTaskSwWClass" Key="{339BF734-D9BC-462F-8978-3B477B286DC1}" ParallelWalk="True">
+												<Image FileName="-365235519" Left="120" Top="0" Right="1554" Bottom="50" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value PropertyType="0" Value="MSTaskSwWClass" Type="5" />
+													</Property>
+													<Property Name="WndCaption">
+														<Value PropertyType="0" Value="Running applications" Type="5" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="MSTaskListWClass" Key="{90550DD5-7352-4061-BC71-778093D0E80B}" ParallelWalk="True">
+														<Image FileName="-365235519" Left="120" Top="0" Right="1554" Bottom="50" />
+														<TypeInfo Item0="{58944B4B-3749-4EE0-BC24-BDDBC2EC8519}" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value PropertyType="0" Value="MSTaskListWClass" Type="5" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value PropertyType="0" Value="Running applications" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
 				</Children>
 			</Child>
 		</Children>
@@ -2009,6 +2063,15 @@
 				</Child>
 				<Child Name="buttonSignUp" Owner="{7A066E54-978B-4AE5-82A9-C8326BA66604}" />
 				<Child Name="buttonCreate" Owner="{4425EA14-FE5D-48A9-8BFF-7363A7A232D0}" />
+			</Child>
+		</Child>
+		<Child Name="explorer" Owner="{CAAD8F88-70C2-4025-BC16-B8B613707767}">
+			<Child Name="wndShell_TrayWnd" Owner="{E9AF764D-76B6-41D3-ABCE-B94A04922DAF}">
+				<Child Name="ReBarWindow32" Owner="{AE483A45-E0D2-4E9C-AB88-152100F9EE1F}">
+					<Child Name="MSTaskSwWClass" Owner="{339BF734-D9BC-462F-8978-3B477B286DC1}">
+						<Child Name="MSTaskListWClass" Owner="{90550DD5-7352-4061-BC71-778093D0E80B}" />
+					</Child>
+				</Child>
 			</Child>
 		</Child>
 	</LogicalNodes>
@@ -2412,6 +2475,67 @@
 							<TypeDesc Param0="3" />
 							<ParamDesc Flags="1" />
 						</Param3>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="ClickR" Doc="Simulates a right-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
+						<Param0>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param0>
+						<Param1>
+							<TypeDesc Param0="3" />
+							<ParamDesc Flags="49" Value="-1" Type="0" />
+						</Param1>
+						<Param2>
+							<TypeDesc Param0="29" Type0="TShiftKey" />
+							<ParamDesc Flags="49" Value="0" Type="0" />
+						</Param2>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Keys" Doc="Simulates one or several keypresses." IsBasic="True" Param0="Keys" Data="ZI4L1L4L1Z018ZN">
+						<Param0>
+							<TypeDesc Param0="8" />
+							<ParamDesc Flags="1" />
+						</Param0>
+						<ReturnValue Param0="24" />
+					</Child>
+					<Child Name="Visible" Doc="Specifies whether an onscreen object is visible to users." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="Width" Doc="The object&apos;s width in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Height" Doc="The object&apos;s height in pixels." IsBasic="True" Data="ZI4L2L4ZO3ZN">
+						<ReturnValue Param0="3" />
+					</Child>
+					<Child Name="Enabled" Doc="Specifies whether the object is enabled or disabled." IsBasic="True" Data="ZI4L2L4ZOBZN">
+						<ReturnValue Param0="11" />
+					</Child>
+					<Child Name="WndCaption" Doc="Returns the window&apos;s caption." IsBasic="True" Data="ZI4L2L4ZO8ZN">
+						<ReturnValue Param0="8" />
+					</Child>
+				</FunctionDescriptions>
+			</Data>
+		</Child>
+		<Child Hash="268948303" Key="{58944B4B-3749-4EE0-BC24-BDDBC2EC8519}">
+			<Data Properties="6E6878438CDEE145950A736228987CBFUFFFFFFFFFFFFFFFFV4L9ZZY">
+				<FunctionDescriptions>
+					<Child Name="SetFocus" Doc="Sets focus to the specified Window object." IsBasic="True" Data="ZI4L1L4ZN18ZN">
 						<ReturnValue Param0="24" />
 					</Child>
 					<Child Name="Click" Doc="Simulates a left-button single click in a window or control as specified (relative position, shift keys)." IsBasic="True" Param0="ClientX" Param1="ClientY" Param2="Shift" Data="ZI4L1L4L3Z018ZN">
