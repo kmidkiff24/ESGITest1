@@ -4,6 +4,12 @@
 		<child name="ST_MoveStudentsInGroup" key="{C5D21AE6-88FF-4242-AE02-8C850D7B37E5}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="ST_MoveStudentsInGroup.tcKDTest" />
 		</child>
+		<child name="ST_MoveStudentsInClass" key="{945A1AFD-6B1D-4D82-A29D-1C4256AE542E}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ST_MoveStudentsInClass.tcKDTest" />
+		</child>
+		<child name="ST_RemoveStudentsFromClass" key="{BCDA0631-A089-419D-AD30-1CB6A2DC62E1}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ST_RemoveStudentsFromClass.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
