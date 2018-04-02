@@ -601,6 +601,15 @@
 															</Property>
 														</Properties>
 													</Child>
+													<Child Name="textnodeMsMSClass" Key="{513F6865-E1F8-4C09-AC07-6BE9C99CC323}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="-205467923" Left="516" Top="352" Right="593" Bottom="369" />
+														<TypeInfo Item0="{04D9C85A-634B-404E-A439-C9F6B6DF92AC}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="TextNode" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
 												</Children>
 											</Child>
 											<Child Name="linkEdit" Key="{924B2024-CDDC-4870-9661-6CD5CF9A5751}" ExtendedFind="True" ParallelWalk="True">
@@ -690,6 +699,77 @@
 													</Property>
 												</Properties>
 											</Child>
+											<Child Name="panelHierarchyBox2" Key="{5DEE9AD6-E2F2-4131-9CEA-99A3F3A02EFB}" ParallelWalk="True">
+												<Image FileName="1402038494" Left="487" Top="430" Right="725" Bottom="552" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="ObjectIdentifier">
+														<Value PropertyType="0" Value="1" Type="0" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="panelHierarchyBody" Key="{5FA5151F-79D1-416C-93F5-0637E497BF52}" ParallelWalk="True">
+														<Image FileName="1402038494" Left="487" Top="468" Right="725" Bottom="541" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="textnodeRemove" Key="{9DBC2E70-0818-47BE-8FC1-61998B2326C9}" ExtendedFind="True" ParallelWalk="True">
+																<Image FileName="1402038494" Left="516" Top="509" Right="567" Bottom="526" />
+																<TypeInfo Item0="{04D9C85A-634B-404E-A439-C9F6B6DF92AC}" />
+																<Properties>
+																	<Property Name="ObjectType">
+																		<Value PropertyType="0" Value="TextNode" Type="5" />
+																	</Property>
+																</Properties>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+											<Child Name="panelBoxstudents" Key="{46D3229C-052C-43E5-9758-6D30291C3B79}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="1079352435" Left="510" Top="617" Right="735" Bottom="684" />
+												<TypeInfo Item0="{04D9C85A-634B-404E-A439-C9F6B6DF92AC}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Panel" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="BoxStudents" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="linkAdd" Key="{E72C24A2-4795-48B4-9B16-574C2B2BD47D}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-815341857" Left="645" Top="439" Right="688" Bottom="459" />
+												<TypeInfo Item0="{04D9C85A-634B-404E-A439-C9F6B6DF92AC}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Link" Type="5" />
+													</Property>
+													<Property Name="href">
+														<Value PropertyType="0" Value="javascript:Hierarchy_Create(&apos;Groups&apos;);void(0);" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="linkEdit2" Key="{3BE6421E-C94A-4F3F-B1D1-F9FBEDA634CD}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="2021756791" Left="670" Top="507" Right="692" Bottom="524" />
+												<TypeInfo Item0="{04D9C85A-634B-404E-A439-C9F6B6DF92AC}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="Link" Type="5" />
+													</Property>
+													<Property Name="href">
+														<Value PropertyType="0" Value="javascript:Hierarchy_Edit(&apos;Groups&apos;,%201036697);void(0);" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
 										</Children>
 									</Child>
 								</Children>
@@ -762,6 +842,20 @@
 														<Value PropertyType="0" Value="lpStudentsListboxesGListRight" Type="5" />
 													</Property>
 												</Properties>
+												<Children>
+													<Child Name="panelLpstudentslistboxesgrightit" Key="{260A4FED-D8FD-4157-9161-8C7BE963D629}" ExtendedFind="True" ParallelWalk="True">
+														<Image FileName="1360137458" Left="1118" Top="427" Right="1332" Bottom="449" />
+														<TypeInfo Item0="{04D9C85A-634B-404E-A439-C9F6B6DF92AC}" />
+														<Properties>
+															<Property Name="ObjectType">
+																<Value PropertyType="0" Value="Panel" Type="5" />
+															</Property>
+															<Property Name="ObjectIdentifier">
+																<Value PropertyType="0" Value="lpStudentsListboxesGRightItem" Type="5" />
+															</Property>
+														</Properties>
+													</Child>
+												</Children>
 											</Child>
 											<Child Name="textnodeGroupSuccessfullyModifie" Key="{B78BDD72-9F6D-4515-9B66-BF374EED292B}" ExtendedFind="True" ParallelWalk="True">
 												<Image FileName="-1683605510" Left="773" Top="270" Right="1398" Bottom="287" />
@@ -781,6 +875,18 @@
 													</Property>
 													<Property Name="idStr">
 														<Value PropertyType="0" Value="AddEditClassForm.Submit" Type="5" />
+													</Property>
+												</Properties>
+											</Child>
+											<Child Name="buttonSave2" Key="{1CF23997-D7C3-4D23-A58C-1099199E91A5}" ExtendedFind="True" ParallelWalk="True">
+												<Image FileName="-1678947738" Left="900" Top="719" Right="959" Bottom="756" />
+												<TypeInfo Item0="{621B2CE3-AD05-401D-A80E-E366387FE575}" />
+												<Properties>
+													<Property Name="ObjectType">
+														<Value PropertyType="0" Value="SubmitButton" Type="5" />
+													</Property>
+													<Property Name="idStr">
+														<Value PropertyType="0" Value="AddEditGroupForm.Submit" Type="5" />
 													</Property>
 												</Properties>
 											</Child>
@@ -875,6 +981,7 @@
 					</Child>
 					<Child Name="panelHierarchybox2" Owner="{BAA809A1-DC65-477C-BFAC-9DE150644EBC}">
 						<Child Name="panelHierarchyboxbuttons" Owner="{C0C1FED3-F0D0-4079-895C-30C48CA69461}" />
+						<Child Name="textnodeMsMSClass" Owner="{513F6865-E1F8-4C09-AC07-6BE9C99CC323}" />
 					</Child>
 					<Child Name="linkEdit" Owner="{924B2024-CDDC-4870-9661-6CD5CF9A5751}" />
 				</Child>
@@ -886,6 +993,14 @@
 						<Child Name="panelHierarchyBody" Owner="{64A67861-AEED-4662-B968-AE0C4F99B998}" />
 					</Child>
 					<Child Name="linkEdit" Owner="{7FD1717F-0DE6-4AF9-BB84-835F675D5CFF}" />
+					<Child Name="panelHierarchyBox2" Owner="{5DEE9AD6-E2F2-4131-9CEA-99A3F3A02EFB}">
+						<Child Name="panelHierarchyBody" Owner="{5FA5151F-79D1-416C-93F5-0637E497BF52}">
+							<Child Name="textnodeRemove" Owner="{9DBC2E70-0818-47BE-8FC1-61998B2326C9}" />
+						</Child>
+					</Child>
+					<Child Name="panelBoxstudents" Owner="{46D3229C-052C-43E5-9758-6D30291C3B79}" />
+					<Child Name="linkAdd" Owner="{E72C24A2-4795-48B4-9B16-574C2B2BD47D}" />
+					<Child Name="linkEdit2" Owner="{3BE6421E-C94A-4F3F-B1D1-F9FBEDA634CD}" />
 				</Child>
 			</Child>
 			<Child Name="BrowserWindow" Owner="{33ADF90A-8B21-45CA-A298-0BDDAA753798}" />
@@ -893,9 +1008,12 @@
 			<Child Name="pageHttpsTest1EsgisoftwareComEsg" Owner="{9DA87E4A-E8B1-4306-B830-ADC736DD8A1E}" />
 			<Child Name="pageEsgi" Owner="{E06DD01E-D46A-47EC-A82A-A15412BED602}">
 				<Child Name="formAddeditgroupform" Owner="{CE94E512-147A-4EDD-8F1E-BEF12B45AB47}">
-					<Child Name="panelLpstudentslistboxesglistrig" Owner="{169EC2D9-C91D-45FC-85F1-F983D64F60CA}" />
+					<Child Name="panelLpstudentslistboxesglistrig" Owner="{169EC2D9-C91D-45FC-85F1-F983D64F60CA}">
+						<Child Name="panelLpstudentslistboxesgrightit" Owner="{260A4FED-D8FD-4157-9161-8C7BE963D629}" />
+					</Child>
 					<Child Name="textnodeGroupSuccessfullyModifie" Owner="{B78BDD72-9F6D-4515-9B66-BF374EED292B}" />
 					<Child Name="buttonSave" Owner="{5980D868-2961-4491-BC0B-0330A394DE94}" />
+					<Child Name="buttonSave2" Owner="{1CF23997-D7C3-4D23-A58C-1099199E91A5}" />
 				</Child>
 			</Child>
 		</Child>
