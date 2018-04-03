@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="ATC_Button_Exists_JG" key="{3CB465E4-18A4-4E81-A148-BB0FCC9F7433}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ATC_Button_Exists_JG.tcKDTest" />
+		</child>
+		<child name="ATC_HasCorrectLayout_JG" key="{6C6B642E-8911-489F-BD90-3A473BF02C7F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ATC_HasCorrectLayout_JG.tcKDTest" />
+		</child>
+		<child name="ATC_CreateATest_JG" key="{4A70D4A4-4FF5-4E7F-AD29-6CB974B9A39F}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="ATC_CreateATest_JG.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

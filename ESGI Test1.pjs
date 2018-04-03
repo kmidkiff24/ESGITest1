@@ -106,6 +106,12 @@
 		<child name="ER_ExportReports" key="{1A641582-D785-45D4-B892-C1F2B4B44C8C}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Z:\TestComplete 12 Projects\ESGI\ESGI Test1\ER_ExportReports\ER_ExportReports.mds" />
 		</child>
+		<child name="Untested_Students_JG" key="{C6ABD8BF-E484-49D4-B427-BACE2F29314E}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Untested_Students_JG\Untested_Students_JG.mds" />
+		</child>
+		<child name="ATC_JG" key="{B4A887E0-5283-434E-AD28-EED6535F1BAE}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="ATC_JG\ATC_JG.mds" />
+		</child>
 	</children>
 	<folders />
 	<testItems key="{EF41C1AD-33FB-4E88-AAB9-E1F9287E1D76}">
@@ -145,6 +151,8 @@
 			<testItem key="{ED87C09D-2498-43EC-9AC0-0C29DE629920}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{25F29BA6-6C41-4438-A1BF-512367D39F53}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{1A641582-D785-45D4-B892-C1F2B4B44C8C}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{C6ABD8BF-E484-49D4-B427-BACE2F29314E}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{B4A887E0-5283-434E-AD28-EED6535F1BAE}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
 	<variables key="{100135EA-D157-42BD-BCA5-BA33DC4D5BC4}">
