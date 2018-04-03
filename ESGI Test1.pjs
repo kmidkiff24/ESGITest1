@@ -106,15 +106,15 @@
 		<child name="ER_ExportReports" key="{1A641582-D785-45D4-B892-C1F2B4B44C8C}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="Z:\TestComplete 12 Projects\ESGI\ESGI Test1\ER_ExportReports\ER_ExportReports.mds" />
 		</child>
-		<child name="Untested_Students_JG" key="{C6ABD8BF-E484-49D4-B427-BACE2F29314E}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
-			<data path="Untested_Students_JG\Untested_Students_JG.mds" />
-		</child>
-		<child name="ATC_JG" key="{B4A887E0-5283-434E-AD28-EED6535F1BAE}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+		<child name="ATC_JG" key="{CF28AEAD-FBB6-422A-87C8-B6BA143216E3}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
 			<data path="ATC_JG\ATC_JG.mds" />
+		</child>
+		<child name="Untested_Students_JG" key="{1B3F6570-BD6F-4925-A30C-564D35C700CF}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="Untested_Students_JG\Untested_Students_JG.mds" />
 		</child>
 	</children>
 	<folders />
-	<testItems key="{EF41C1AD-33FB-4E88-AAB9-E1F9287E1D76}">
+	<testItems key="{FAF5273E-97BF-4EC9-84D2-E2813284985D}">
 		<children>
 			<testItem key="{893B6275-C45E-4B38-B507-9C7F651A2FE9}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{250A0BB7-47D4-4051-B9E9-47EC4A9C1594}" enabled="True" timeout="0" stopOnError="True" description="" />
@@ -151,14 +151,14 @@
 			<testItem key="{ED87C09D-2498-43EC-9AC0-0C29DE629920}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{25F29BA6-6C41-4438-A1BF-512367D39F53}" enabled="True" timeout="0" stopOnError="True" description="" />
 			<testItem key="{1A641582-D785-45D4-B892-C1F2B4B44C8C}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{C6ABD8BF-E484-49D4-B427-BACE2F29314E}" enabled="True" timeout="0" stopOnError="True" description="" />
-			<testItem key="{B4A887E0-5283-434E-AD28-EED6535F1BAE}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{CF28AEAD-FBB6-422A-87C8-B6BA143216E3}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{1B3F6570-BD6F-4925-A30C-564D35C700CF}" enabled="True" timeout="0" stopOnError="True" description="" />
 		</children>
 	</testItems>
-	<variables key="{100135EA-D157-42BD-BCA5-BA33DC4D5BC4}">
+	<variables key="{38EC13A4-F208-426D-B9CE-6FE8B084AD3C}">
 		<data Version="3" />
 	</variables>
-	<analysis key="{FD47B87F-C8DE-443D-A24F-3E0F5EFA7BBB}" />
+	<analysis key="{C43CCECC-4FC5-43D8-9B26-C5FEF974ACD1}" />
 	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
 		<data />
 	</scc>
