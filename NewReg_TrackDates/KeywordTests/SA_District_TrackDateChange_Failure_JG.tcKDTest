@@ -129,7 +129,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi2.panelDatepickerDatepickerDropdow.panelDatepickerDays.tableTableCondensed.cellPrev;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi2.panelDatepickerDatepickerDropdow2.panelDatepickerDays.tableTableCondensed.cellPrev;" />
 				</Data>
 			</Operation>
 			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
@@ -146,7 +146,7 @@
 							</Values>
 						</Parameter>
 					</Parameters>
-					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi2.panelDatepickerDatepickerDropdow.panelDatepickerDays.tableTableCondensed.cell1;" />
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageEsgi2.panelDatepickerDatepickerDropdow2.panelDatepickerDays.tableTableCondensed.cell1;" />
 				</Data>
 			</Operation>
 			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
